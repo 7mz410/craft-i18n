@@ -10,6 +10,8 @@
     clippy::unreachable
 )]
 
+pub mod catalog;
+
 /// The repository root (where `locales/` lives).
 pub fn repo_root() -> std::path::PathBuf {
     std::path::Path::new(env!("CARGO_MANIFEST_DIR")).join("../..")
