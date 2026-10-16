@@ -49,6 +49,17 @@ fn parse_row(line: usize, text: &str, forms: usize) -> Result<Row, String> {
     let [context, source, translation] = columns.as_slice() else {
         return Err(format!("{} columns; expected 3", columns.len()));
     };
+    if let Some(c) = text
+        .chars()
+        .find(|&c| c != '\t' && (c.is_control() || c == '\u{feff}'))
+    {
+        return Err(format!(
+            "invisible character {c:?} in the row; write \\n or \\t, or delete it"
+        ));
+    }
+    if source.is_empty() {
+        return Err("empty source text".into());
+    }
     let row = Row {
         line,
         context: unescape(context)?,
@@ -172,6 +183,10 @@ mod tests {
             ("@plural\t{n} page|pages\tx|y\n", 1),
             ("@plural\t{n} a|{n} b\t{n} x\n", 1),
             ("@plural\t{n} a|{n} b\t{n} x|y\n", 1),
+            ("\tSave\tEnregistrer\r\r\n", 1),
+            ("\tSave\tEn\rreg\n", 1),
+            ("\tA\tB\n\u{feff}\tC\tD\n", 2),
+            ("\t\tVide\n", 1),
         ] {
             let problems = read_catalog(text, 2).1;
             assert_eq!(problems.len(), 1, "{text:?}: {problems:?}");

@@ -66,6 +66,7 @@ mod tests {
             ("sl", 4),
             ("ar", 6),
             ("pt-br", 2),
+            ("tr", 2),
         ] {
             assert_eq!(plural_forms(locale), Ok(n), "{locale}");
         }

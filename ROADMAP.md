@@ -23,6 +23,10 @@ names, origin recorded in `ATTRIBUTION.md`), add the `build.rs` recipe from
 [`docs/integration.md`](docs/integration.md), switch to the runtime crate, delete the app's copied
 i18n module, and add the app-side stale/missing string report.
 
+Known migration fixes: PdfCraft's Turkish catalog lists one plural form, CLDR (and CI) need two;
+add the second form to its `@plural` rows. The runtime crate must pin the same `intl_pluralrules`
+version as the checker, or their plural form counts can disagree.
+
 ## Apps
 
 As surveyed on 2026-10-16. Locale counts exclude English.
