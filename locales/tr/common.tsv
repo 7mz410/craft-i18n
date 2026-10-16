@@ -1,0 +1,241 @@
+# Türkçe (tr) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	Commit payı (%)
+	(none)	(yok)
+	About	Hakkında
+	Accessibility	Erişilebilirlik
+	Add	Ekle
+	Add a comment	Yorum ekle
+	Advanced	Gelişmiş
+	Align	Hizala
+	Alignment:	Hizalama:
+	All	Tümü
+	All pages	Tüm sayfalar
+	Apply	Uygula
+	Area	Alan
+	Arrow	Ok
+	Author	Yazar
+	Auto	Otomatik
+	Auto ({percent}%)	Otomatik (%{percent})
+	Binary assets added	Eklenen ikili varlıklar
+	Binary assets removed	Kaldırılan ikili varlıklar
+	Bold	Kalın
+	Bottom	Alt
+	Bottom:	Alt:
+	Box	Kutu
+	Browse…	Gözat…
+	Cancel	İptal
+	Center	Ortala
+	Character spacing	Karakter aralığı
+	Characters	Karakterler
+	Check	İşaret
+	Circle	Daire
+	Clear	Temizle
+	Clear All	Tümünü Temizle
+	Clipboard	Pano
+	Close	Kapat
+	Collapse	Daralt
+	Color	Renk
+	Color:	Renk:
+	Combine	Birleştir
+	Comment	Yorum
+	Comments	Yorumlar
+	Commits	Commit'ler
+	Company	Şirket
+	Compare	Karşılaştır
+	Contributors	Katkıda Bulunanlar
+	Convert	Dönüştür
+	Copy	Kopyala
+	Create	Oluştur
+	Create Link	Bağlantı Oluştur
+	Current page	Geçerli sayfa
+	Custom	Özel
+	Cut	Kes
+	Dark	Koyu
+	Dashed	Kesikli
+	Date format	Tarih biçimi
+	Default	Varsayılan
+	Delete	Sil
+	Deleted	Silindi
+	Description:	Açıklama:
+	Diamond	Eşkenar Dörtgen
+	Direction:	Yön:
+	Display name	Görünen ad
+	Document	Belge
+	Document Title	Belge Başlığı
+	Dot	Nokta
+	Draw	Çiz
+	Editing	Düzenleme
+	Edit…	Düzenle…
+	Eraser	Silgi
+	Even pages only	Yalnızca çift sayfalar
+	Example: {sample}	Örnek: {sample}
+	Expand	Genişlet
+	Export	Dışa Aktar
+	Field	Alan
+	Field properties	Alan özellikleri
+	Fields	Alanlar
+	File	Dosya
+	Fill	Dolgu
+	First	İlk
+	First commit	İlk commit
+	Fit	Sığdır
+	Flip Horizontal	Yatay Çevir
+	Flip Vertical	Dikey Çevir
+	Font	Yazı Tipi
+	Font:	Yazı tipi:
+	Fonts	Yazı Tipleri
+	Format	Biçim
+	Format:	Biçim:
+	Full Screen	Tam ekran
+	General	Genel
+	Grab bag	Çeşitli
+	Graphic	Grafik
+	Headings	Başlıklar
+	Height:	Yükseklik:
+	Help	Yardım
+	Hidden text	Gizli metin
+	Highlight	Vurgu
+	Home	Giriş
+	Horizontal	Yatay
+	Indent	Girinti
+	Index	Dizin
+	Insert	Ekle
+	Interface language	Arayüz dili
+	Intersection	Kesişim
+	Italic	İtalik
+	Justify	İki Yana Yasla
+	Keywords	Anahtar Sözcükler
+	Labels	Etiketler
+	Landscape	Yatay
+	Language	Dil
+@id	language.name	Türkçe
+	Last	Son
+	Last commit	Son commit
+	Left	Sol
+	Left:	Sol:
+	Light	Açık
+	Line	Satır
+	Line delta	Satır farkı
+	Line spacing	Satır aralığı
+	Lines +/−	Satır +/−
+	Lines added	Eklenen satırlar
+	Lines deleted	Silinen satırlar
+	Link	Bağlantı
+	List	Liste
+	Location	Konum
+	Margins	Kenar Boşlukları
+	Maximum	Maksimum
+	Medium	Orta
+	Merged PRs	Birleştirilen PR'lar
+	Minimum	Minimum
+	Model	Model
+	Models	Modeller
+	Name	Ad
+	Name (A–Z)	Ad (A–Z)
+	Name:	Ad:
+	Next	Sonraki
+	No	Hayır
+	No contributor data was built into this copy.	Bu kopyaya katkıda bulunan verisi eklenmemiş.
+	No limit	Sınır yok
+	No model credits were built into this copy.	Bu kopyaya model katkıları eklenmemiş.
+	None	Yok
+	Number	Numara
+	Odd pages only	Yalnızca tek sayfalar
+	Off	Kapalı
+	OK	Tamam
+	On	Açık
+	Open	Aç
+	Options	Seçenekler
+	Options…	Seçenekler…
+	Outline	Ana Hat
+	Oval	Oval
+	Page	Sayfa
+	Page display	Sayfa görünümü
+	Pages	Sayfalar
+	Password	Parola
+	Paste	Yapıştır
+	Portrait	Dikey
+	Position	Konum
+	Preview	Önizleme
+	Previous	Önceki
+	Print	Yazdır
+	Printing	Yazdırma
+	Protect	Koru
+	PRs	PR'lar
+	Real name	Gerçek ad
+	Recent	Son Kullanılanlar
+	Recover	Kurtar
+	Rectangle	Dikdörtgen
+	Redo	Yinele
+	Refresh	Yenile
+	Remove	Kaldır
+	Rename	Yeniden adlandır
+	Replace	Değiştir
+	Reply	Yanıtla
+	Report	Rapor
+	Reverse the order	Sırayı ters çevir
+	Review	İncele
+	Right	Sağ
+	Rotate	Döndür
+	Rotation	Döndürme
+	Rotation:	Döndürme:
+	Save	Kaydet
+	Scripts	İndisler
+	Search	Ara
+	Select All	Tümünü Seç
+	Selected pages	Seçili sayfalar
+	Selection	Seçim
+	Show	Göster
+	Size	Boyut
+	Sort	Sırala
+	Sort by	Sıralama ölçütü
+	Special	Özel
+	Split	Böl
+	Square	Kare
+	Standard	Standart
+	Star	Yıldız
+	Strikethrough	Üstü Çizili
+	Strong	Kalın Vurgu
+	Style	Stil
+	Subject	Konu
+	System	Sistem
+	Table	Tablo
+	Tables	Tablolar
+	Text	Metin
+	The passwords don't match.	Parolalar eşleşmiyor.
+	Thick	Kalın
+	Thickness	Kalınlık
+	This document has no bookmarks.	Bu belgede yer işareti yok.
+	Title	Başlık
+	Tools	Araçlar
+	Top	Üst
+	Total	Toplam
+	Translate	Çevir
+	Type	Tür
+	Underline	Altı Çizili
+	Undo	Geri Al
+	Undo {action}	Geri Al: {action}
+	Up	Yukarı
+	Use system setting	Sistem ayarını kullan
+	Username	Kullanıcı adı
+	Version	Sürüm
+	Vertical	Dikey
+	View	Görünüm
+	Watermark	Filigran
+	Width:	Genişlik:
+	Words	Sözcükler
+	Yes	Evet
+	Your changes will be lost if you don't save them.	Kaydetmezseniz değişiklikleriniz kaybolur.
+	Zoom	Yakınlaştırma

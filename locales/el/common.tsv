@@ -1,0 +1,232 @@
+# Ελληνικά (el) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	% όλων των καταχωρίσεων
+	(none)	(κανένα)
+	About	Πληροφορίες
+	Accessibility	Προσβασιμότητα
+	Add	Προσθήκη
+	Add a comment	Προσθήκη σχολίου
+	Advanced	Για προχωρημένους
+	Align	Στοίχιση
+	Alignment:	Στοίχιση:
+	All	Όλες
+	All pages	Όλες οι σελίδες
+	Apply	Εφαρμογή
+	Area	Εμβαδόν
+	Arrow	Βέλος
+	Author	Συντάκτης
+	Auto	Αυτόματα
+	Auto ({percent}%)	Αυτόματο ({percent}%)
+	Binary assets added	Δυαδικά στοιχεία που προστέθηκαν
+	Binary assets removed	Δυαδικά στοιχεία που αφαιρέθηκαν
+	Bold	Έντονα
+	Bottom	Κάτω
+	Bottom:	Κάτω:
+	Box	Πλαίσιο
+	Browse…	Περιήγηση…
+	Cancel	Ακύρωση
+	Center	Κέντρο
+	Character spacing	Απόσταση χαρακτήρων
+	Characters	Χαρακτήρες
+	Check	Σημάδι επιλογής
+	Circle	Κύκλος
+	Clear	Εκκαθάριση
+	Clear All	Εκκαθάριση όλων
+	Clipboard	Πρόχειρο
+	Close	Κλείσιμο
+	Collapse	Σύμπτυξη
+	Color:	Χρώμα:
+	Combine	Συνένωση
+	Comments	Σχόλια
+	Commits	Καταχωρίσεις
+	Company	Εταιρεία
+	Compare	Σύγκριση
+	Contributors	Συντελεστές
+	Convert	Μετατροπή
+	Copy	Αντιγραφή
+	Create	Δημιουργία
+	Create Link	Δημιουργία συνδέσμου
+	Current page	Τρέχουσα σελίδα
+	Custom	Προσαρμοσμένο
+	Cut	Αποκοπή
+	Dark	Σκούρο
+	Dashed	Διακεκομμένη
+	Date format	Μορφή ημερομηνίας
+	Default	Προεπιλογή
+	Delete	Διαγραφή
+	Deleted	Διαγράφηκε
+	Description:	Περιγραφή:
+	Diamond	Ρόμβος
+	Direction:	Κατεύθυνση:
+	Display name	Εμφανιζόμενο όνομα
+	Document	Έγγραφο
+	Document Title	Τίτλος εγγράφου
+	Dot	Τελεία
+	Draw	Σχεδίαση
+	Editing	Επεξεργασία
+	Edit…	Επεξεργασία…
+	Eraser	Γόμα
+	Even pages only	Μόνο ζυγές σελίδες
+	Example: {sample}	Παράδειγμα: {sample}
+	Expand	Ανάπτυξη
+	Export	Εξαγωγή
+	Field	Πεδίο
+	Field properties	Ιδιότητες πεδίου
+	Fields	Πεδία
+	File	Αρχείο
+	Fill	Συμπλήρωση
+	First	Πρώτο
+	First commit	Πρώτη καταχώριση
+	Fit	Προσαρμογή
+	Flip Horizontal	Οριζόντια αναστροφή
+	Flip Vertical	Κατακόρυφη αναστροφή
+	Font:	Γραμματοσειρά:
+	Fonts	Γραμματοσειρές
+	Format	Μορφή
+	Format:	Μορφή:
+	Full Screen	Πλήρης οθόνη
+	General	Γενικά
+	Grab bag	Διάφορα
+	Graphic	Γραφικό
+	Headings	Επικεφαλίδες
+	Height:	Ύψος:
+	Help	Βοήθεια
+	Hidden text	Κρυφό κείμενο
+	Highlight	Επισήμανση
+	Home	Αρχική
+	Horizontal	Οριζόντια
+	Indent	Αύξηση εσοχής
+	Index	Ευρετήριο
+	Insert	Εισαγωγή
+	Interface language	Γλώσσα περιβάλλοντος
+	Intersection	Σημείο τομής
+	Italic	Πλάγια
+	Justify	Πλήρης στοίχιση
+	Keywords	Λέξεις-κλειδιά
+	Labels	Ετικέτες
+	Landscape	Οριζόντιος
+	Language	Γλώσσα
+@id	language.name	Ελληνικά
+	Last	Τελευταίο
+	Last commit	Τελευταία καταχώριση
+	Left	Αριστερά
+	Left:	Αριστερά:
+	Light	Ανοιχτό
+	Line	Γραμμή
+	Line delta	Μεταβολή γραμμών
+	Line spacing	Διάστιχο
+	Lines +/−	Γραμμές +/−
+	Lines added	Γραμμές που προστέθηκαν
+	Lines deleted	Γραμμές που διαγράφηκαν
+	Link	Σύνδεσμος
+	List	Λίστα
+	Location	Τοποθεσία
+	Margins	Περιθώρια
+	Maximum	Μέγιστη
+	Medium	Μέτριος
+	Merged PRs	Συγχωνευμένα αιτήματα αλλαγών
+	Minimum	Ελάχιστη
+	Model	Μοντέλο
+	Models	Μοντέλα
+	Name	Όνομα
+	Name (A–Z)	Όνομα (Α–Ω)
+	Name:	Όνομα:
+	No	Όχι
+	No contributor data was built into this copy.	Αυτή η έκδοση δεν περιλαμβάνει δεδομένα συντελεστών.
+	No limit	Χωρίς όριο
+	No model credits were built into this copy.	Αυτή η έκδοση δεν περιλαμβάνει πληροφορίες αναγνώρισης συνεισφορών μοντέλων.
+	None	Κανένα
+	Number	Αριθμός
+	Odd pages only	Μόνο μονές σελίδες
+	Off	Ανενεργό
+	OK	Εντάξει
+	Open	Άνοιγμα
+	Options	Επιλογές
+	Options…	Επιλογές…
+	Outline	Περίγραμμα
+	Oval	Έλλειψη
+	Page	Σελίδα
+	Page display	Εμφάνιση σελίδων
+	Pages	Σελίδες
+	Password	Κωδικός πρόσβασης
+	Portrait	Κατακόρυφος
+	Position	Θέση
+	Preview	Προεπισκόπηση
+	Print	Εκτύπωση
+	Printing	Εκτύπωση
+	Protect	Προστασία
+	PRs	Αιτήματα αλλαγών
+	Real name	Πραγματικό όνομα
+	Recent	Πρόσφατα
+	Recover	Ανάκτηση
+	Rectangle	Ορθογώνιο
+	Redo	Επανάληψη
+	Remove	Αφαίρεση
+	Rename	Μετονομασία
+	Replace	Αντικατάσταση
+	Reply	Απάντηση
+	Report	Αναφορά
+	Reverse the order	Αντιστροφή σειράς
+	Review	Ανασκόπηση
+	Right	Δεξιά
+	Rotate	Περιστροφή
+	Rotation	Περιστροφή
+	Rotation:	Περιστροφή:
+	Save	Αποθήκευση
+	Scripts	Σενάρια εντολών
+	Search	Αναζήτηση
+	Select All	Επιλογή όλων
+	Selected pages	Επιλεγμένες σελίδες
+	Selection	Επιλογή
+	Show	Εμφάνιση
+	Size	Μέγεθος
+	Sort	Ταξινόμηση
+	Sort by	Ταξινόμηση κατά
+	Special	Ειδικό
+	Split	Διαχωρισμός
+	Square	Τετράγωνο
+	Standard	Τυπικές
+	Star	Αστέρι
+	Strikethrough	Διακριτή διαγραφή
+	Strong	Ισχυρός
+	Style	Στυλ
+	Subject	Θέμα
+	Table	Πίνακας
+	Tables	Πίνακες
+	Text	Κείμενο
+	The passwords don't match.	Οι κωδικοί πρόσβασης δεν ταιριάζουν.
+	Thick	Παχύ
+	Thickness	Πάχος
+	This document has no bookmarks.	Αυτό το έγγραφο δεν έχει σελιδοδείκτες.
+	Title	Τίτλος
+	Tools	Εργαλεία
+	Top	Πάνω
+	Total	Σύνολο
+	Translate	Μετάφραση
+	Type	Τύπος
+	Underline	Υπογράμμιση
+	Undo	Αναίρεση
+	Undo {action}	Αναίρεση ενέργειας: {action}
+	Up	Πάνω
+	Use system setting	Χρήση ρύθμισης συστήματος
+	Username	Όνομα χρήστη
+	Version	Έκδοση
+	Vertical	Κατακόρυφα
+	View	Προβολή
+	Watermark	Υδατογράφημα
+	Width:	Πλάτος:
+	Words	Λέξεις
+	Yes	Ναι
+	Your changes will be lost if you don't save them.	Οι αλλαγές σας θα χαθούν εάν δεν τις αποθηκεύσετε.
+	Zoom	Μεγέθυνση

@@ -1,0 +1,241 @@
+# Magyar (hu) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	Az összes commit %-a
+	(none)	(nincs)
+	About	Névjegy
+	Accessibility	Akadálymentesség
+	Add	Hozzáadás
+	Add a comment	Megjegyzés hozzáadása
+	Advanced	Speciális
+	Align	Igazítás
+	Alignment:	Igazítás:
+	All	Mind
+	All pages	Minden oldal
+	Apply	Alkalmaz
+	Area	Terület
+	Arrow	Nyíl
+	Author	Szerző
+	Auto	Automatikus
+	Auto ({percent}%)	Automatikus ({percent}%)
+	Binary assets added	Hozzáadott bináris elemek
+	Binary assets removed	Eltávolított bináris elemek
+	Bold	Félkövér
+	Bottom	Lent
+	Bottom:	Alul:
+	Box	Keret
+	Browse…	Tallózás…
+	Cancel	Mégse
+	Center	Középre igazítás
+	Character spacing	Betűköz
+	Characters	Karakterek
+	Check	Pipa
+	Circle	Kör
+	Clear	Törlés
+	Clear All	Összes törlése
+	Clipboard	Vágólap
+	Close	Bezárás
+	Collapse	Összecsukás
+	Color	Szín
+	Color:	Szín:
+	Combine	Kombinálás
+	Comment	Megjegyzés
+	Comments	Megjegyzések
+	Commits	Commitok
+	Company	Cég
+	Compare	Összehasonlítás
+	Contributors	Közreműködők
+	Convert	Átalakítás
+	Copy	Másolás
+	Create	Létrehozás
+	Create Link	Csatolás létrehozása
+	Current page	Aktuális oldal
+	Custom	Egyéni
+	Cut	Kivágás
+	Dark	Sötét
+	Dashed	Szaggatott
+	Date format	Dátumformátum
+	Default	Alapértelmezett
+	Delete	Törlés
+	Deleted	Törölve
+	Description:	Leírás:
+	Diamond	Rombusz
+	Direction:	Irány:
+	Display name	Megjelenített név
+	Document	Dokumentum
+	Document Title	Dokumentum címe
+	Dot	Pont
+	Draw	Rajzolás
+	Editing	Szerkesztés
+	Edit…	Szerkesztés…
+	Eraser	Radír
+	Even pages only	Csak a páros oldalak
+	Example: {sample}	Példa: {sample}
+	Expand	Kibővítés
+	Export	Exportálás
+	Field	Mező
+	Field properties	Mező tulajdonságai
+	Fields	Mezők
+	File	Fájl
+	Fill	Kitöltés
+	First	Első
+	First commit	Első commit
+	Fit	Illesztés
+	Flip Horizontal	Vízszintes tükrözés
+	Flip Vertical	Függőleges tükrözés
+	Font	Betűtípus
+	Font:	Betűtípus:
+	Fonts	Betűtípusok
+	Format	Formátum
+	Format:	Formátum:
+	Full Screen	Teljes képernyő
+	General	Általános
+	Grab bag	Vegyes
+	Graphic	Grafika
+	Headings	Címsorok
+	Height:	Magasság:
+	Help	Súgó
+	Hidden text	Rejtett szöveg
+	Highlight	Kiemelés
+	Home	Kezdőlap
+	Horizontal	Vízszintes
+	Indent	Behúzás
+	Index	Tárgymutató
+	Insert	Beszúrás
+	Interface language	Felület nyelve
+	Intersection	Metszet
+	Italic	Dőlt
+	Justify	Sorkizárás
+	Keywords	Kulcsszavak
+	Labels	Címkék
+	Landscape	Fekvő
+	Language	Nyelv
+@id	language.name	Magyar
+	Last	Utolsó
+	Last commit	Utolsó commit
+	Left	Bal
+	Left:	Bal:
+	Light	Világos
+	Line	Vonal
+	Line delta	Sorok változása
+	Line spacing	Sorköz
+	Lines +/−	Sorok +/−
+	Lines added	Hozzáadott sorok
+	Lines deleted	Törölt sorok
+	Link	Link
+	List	Lista
+	Location	Hely
+	Margins	Margók
+	Maximum	Maximum
+	Medium	Közepes
+	Merged PRs	Beolvasztott PR-ek
+	Minimum	Minimum
+	Model	Modell
+	Models	Modellek
+	Name	Név
+	Name (A–Z)	Név (A–Z)
+	Name:	Név:
+	Next	Következő
+	No	Nem
+	No contributor data was built into this copy.	Ebbe a példányba nem kerültek közreműködői adatok.
+	No limit	Nincs korlát
+	No model credits were built into this copy.	Ebbe a példányba nem kerültek modell-közreműködői adatok.
+	None	Nincs
+	Number	Szám
+	Odd pages only	Csak a páratlan oldalak
+	Off	Ki
+	OK	OK
+	On	Be
+	Open	Megnyitás
+	Options	Beállítások
+	Options…	Beállítások…
+	Outline	Vázlat
+	Oval	Ovális
+	Page	Oldal
+	Page display	Oldalmegjelenítés
+	Pages	Oldalak
+	Password	Jelszó
+	Paste	Beillesztés
+	Portrait	Álló
+	Position	Pozíció
+	Preview	Előnézet
+	Previous	Előző
+	Print	Nyomtatás
+	Printing	Nyomtatás
+	Protect	Védelem
+	PRs	PR-ek
+	Real name	Valódi név
+	Recent	Legutóbbiak
+	Recover	Helyreállítás
+	Rectangle	Téglalap
+	Redo	Újra
+	Refresh	Frissítés
+	Remove	Eltávolítás
+	Rename	Átnevezés
+	Replace	Csere
+	Reply	Válasz
+	Report	Jelentés
+	Reverse the order	Fordított sorrend
+	Review	Véleményezés
+	Right	Jobb
+	Rotate	Forgatás
+	Rotation	Elforgatás
+	Rotation:	Elforgatás:
+	Save	Mentés
+	Scripts	Indexek
+	Search	Keresés
+	Select All	Az összes kijelölése
+	Selected pages	Kijelölt oldalak
+	Selection	Kijelölés
+	Show	Megjelenítés
+	Size	Méret
+	Sort	Rendezés
+	Sort by	Rendezés alapja
+	Special	Különleges
+	Split	Felosztás
+	Square	Négyzetes
+	Standard	Alapszínek
+	Star	Csillag
+	Strikethrough	Áthúzott
+	Strong	Félkövér kiemelés
+	Style	Stílus
+	Subject	Tárgy
+	System	Rendszer
+	Table	Táblázat
+	Tables	Táblázatok
+	Text	Szöveg
+	The passwords don't match.	A két jelszó nem egyezik.
+	Thick	Vastag
+	Thickness	Vastagság
+	This document has no bookmarks.	Ebben a dokumentumban nincs könyvjelző.
+	Title	Cím
+	Tools	Eszközök
+	Top	Fent
+	Total	Összesen
+	Translate	Fordítás
+	Type	Típus
+	Underline	Aláhúzott
+	Undo	Visszavonás
+	Undo {action}	Visszavonás: {action}
+	Up	Fel
+	Use system setting	A rendszerbeállítás követése
+	Username	Felhasználónév
+	Version	Verzió
+	Vertical	Függőleges
+	View	Nézet
+	Watermark	Vízjel
+	Width:	Szélesség:
+	Words	Szavak
+	Yes	Igen
+	Your changes will be lost if you don't save them.	Ha nem mented, a módosítások elvesznek.
+	Zoom	Nagyítás

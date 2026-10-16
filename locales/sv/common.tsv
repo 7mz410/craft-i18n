@@ -1,0 +1,241 @@
+# Svenska (sv) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	% av alla commits
+	(none)	(ingen)
+	About	Om
+	Accessibility	Tillgänglighet
+	Add	Lägg till
+	Add a comment	Lägg till en kommentar
+	Advanced	Avancerat
+	Align	Justera
+	Alignment:	Justering:
+	All	Alla
+	All pages	Alla sidor
+	Apply	Använd
+	Area	Ytdiagram
+	Arrow	Pil
+	Author	Författare
+	Auto	Auto
+	Auto ({percent}%)	Automatisk ({percent} %)
+	Binary assets added	Tillagda binärfiler
+	Binary assets removed	Borttagna binärfiler
+	Bold	Fet
+	Bottom	Nedtill
+	Bottom:	Nederkant:
+	Box	Ram
+	Browse…	Bläddra…
+	Cancel	Avbryt
+	Center	Centrera
+	Character spacing	Teckenavstånd
+	Characters	Tecken
+	Check	Hake
+	Circle	Cirkel
+	Clear	Rensa
+	Clear All	Rensa allt
+	Clipboard	Urklipp
+	Close	Stäng
+	Collapse	Komprimera
+	Color	Färg
+	Color:	Färg:
+	Combine	Kombinera
+	Comment	Kommentar
+	Comments	Kommentarer
+	Commits	Commits
+	Company	Företag
+	Compare	Jämför
+	Contributors	Bidragsgivare
+	Convert	Konvertera
+	Copy	Kopiera
+	Create	Skapa
+	Create Link	Skapa länk
+	Current page	Aktuell sida
+	Custom	Anpassad
+	Cut	Klipp ut
+	Dark	Mörkt
+	Dashed	Streckad
+	Date format	Datumformat
+	Default	Standard
+	Delete	Ta bort
+	Deleted	Borttaget
+	Description:	Beskrivning:
+	Diamond	Romb
+	Direction:	Riktning:
+	Display name	Visningsnamn
+	Document	Dokument
+	Document Title	Dokumenttitel
+	Dot	Punkt
+	Draw	Rita
+	Editing	Redigering
+	Edit…	Redigera…
+	Eraser	Suddgummi
+	Even pages only	Bara jämna sidor
+	Example: {sample}	Exempel: {sample}
+	Expand	Expandera
+	Export	Exportera
+	Field	Fält
+	Field properties	Fältegenskaper
+	Fields	Fält
+	File	Arkiv
+	Fill	Fyllning
+	First	Första
+	First commit	Första commit
+	Fit	Anpassa
+	Flip Horizontal	Vänd vågrätt
+	Flip Vertical	Vänd lodrätt
+	Font	Typsnitt
+	Font:	Typsnitt:
+	Fonts	Typsnitt
+	Format	Format
+	Format:	Format:
+	Full Screen	Helskärm
+	General	Allmänt
+	Grab bag	Blandat
+	Graphic	Grafik
+	Headings	Rubriker
+	Height:	Höjd:
+	Help	Hjälp
+	Hidden text	Dold text
+	Highlight	Överstrykning
+	Home	Start
+	Horizontal	Vågrät
+	Indent	Indrag
+	Index	Register
+	Insert	Infoga
+	Interface language	Gränssnittsspråk
+	Intersection	Snitt
+	Italic	Kursiv
+	Justify	Marginaljustera
+	Keywords	Nyckelord
+	Labels	Etiketter
+	Landscape	Liggande
+	Language	Språk
+@id	language.name	Svenska
+	Last	Senaste
+	Last commit	Senaste commit
+	Left	Vänster
+	Left:	Vänster:
+	Light	Ljust
+	Line	Linje
+	Line delta	Radskillnad
+	Line spacing	Radavstånd
+	Lines +/−	Rader +/−
+	Lines added	Tillagda rader
+	Lines deleted	Borttagna rader
+	Link	Länk
+	List	Lista
+	Location	Placering
+	Margins	Marginaler
+	Maximum	Maximum
+	Medium	Medel
+	Merged PRs	Sammanslagna PR:er
+	Minimum	Minimum
+	Model	Modell
+	Models	Modeller
+	Name	Namn
+	Name (A–Z)	Namn (A–Ö)
+	Name:	Namn:
+	Next	Nästa
+	No	Nej
+	No contributor data was built into this copy.	Den här kopian innehåller inga uppgifter om bidragsgivare.
+	No limit	Ingen gräns
+	No model credits were built into this copy.	Den här kopian innehåller inga uppgifter om medverkande AI-modeller.
+	None	Ingen
+	Number	Nummer
+	Odd pages only	Bara udda sidor
+	Off	Av
+	OK	OK
+	On	På
+	Open	Öppna
+	Options	Alternativ
+	Options…	Alternativ…
+	Outline	Disposition
+	Oval	Oval
+	Page	Sida
+	Page display	Sidvisning
+	Pages	Sidor
+	Password	Lösenord
+	Paste	Klistra in
+	Portrait	Stående
+	Position	Position
+	Preview	Förhandsvisning
+	Previous	Föregående
+	Print	Skriv ut
+	Printing	Utskrift
+	Protect	Skydda
+	PRs	PR:er
+	Real name	Riktigt namn
+	Recent	Senaste
+	Recover	Återställ
+	Rectangle	Rektangel
+	Redo	Gör om
+	Refresh	Uppdatera
+	Remove	Ta bort
+	Rename	Byt namn
+	Replace	Ersätt
+	Reply	Svara
+	Report	Rapport
+	Reverse the order	Vänd på ordningen
+	Review	Granska
+	Right	Höger
+	Rotate	Rotera
+	Rotation	Rotation
+	Rotation:	Rotation:
+	Save	Spara
+	Scripts	Index och exponenter
+	Search	Sök
+	Select All	Markera allt
+	Selected pages	Valda sidor
+	Selection	Markering
+	Show	Visa
+	Size	Storlek
+	Sort	Sortera
+	Sort by	Sortera efter
+	Special	Special
+	Split	Dela
+	Square	Fyrkant
+	Standard	Standard
+	Star	Stjärna
+	Strikethrough	Genomstruken
+	Strong	Stark
+	Style	Stil
+	Subject	Ämne
+	System	Enligt systemet
+	Table	Tabell
+	Tables	Tabeller
+	Text	Text
+	The passwords don't match.	Lösenorden stämmer inte överens.
+	Thick	Tjock
+	Thickness	Tjocklek
+	This document has no bookmarks.	Det här dokumentet har inga bokmärken.
+	Title	Titel
+	Tools	Verktyg
+	Top	Upptill
+	Total	Totalt
+	Translate	Översätt
+	Type	Typ
+	Underline	Understruken
+	Undo	Ångra
+	Undo {action}	Ångra {action}
+	Up	Uppåt
+	Use system setting	Använd systeminställningen
+	Username	Användarnamn
+	Version	Version
+	Vertical	Lodrät
+	View	Visa
+	Watermark	Vattenstämpel
+	Width:	Bredd:
+	Words	Ord
+	Yes	Ja
+	Your changes will be lost if you don't save them.	Dina ändringar går förlorade om du inte sparar dem.
+	Zoom	Zoom

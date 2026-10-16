@@ -1,0 +1,241 @@
+# Polski (pl) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	% wszystkich commitów
+	(none)	(brak)
+	About	Informacje
+	Accessibility	Ułatwienia dostępu
+	Add	Dodaj
+	Add a comment	Dodaj komentarz
+	Advanced	Zaawansowane
+	Align	Wyrównaj
+	Alignment:	Wyrównanie:
+	All	Wszystkie
+	All pages	Wszystkie strony
+	Apply	Zastosuj
+	Area	Warstwowy
+	Arrow	Strzałka
+	Author	Autor
+	Auto	Automatycznie
+	Auto ({percent}%)	Automatycznie ({percent}%)
+	Binary assets added	Dodane zasoby binarne
+	Binary assets removed	Usunięte zasoby binarne
+	Bold	Pogrubienie
+	Bottom	Do dołu
+	Bottom:	Dolny:
+	Box	Ramka
+	Browse…	Przeglądaj…
+	Cancel	Anuluj
+	Center	Wyśrodkuj
+	Character spacing	Odstępy między znakami
+	Characters	Znaki
+	Check	Daszek odwrócony
+	Circle	Okrąg
+	Clear	Wyczyść
+	Clear All	Wyczyść wszystko
+	Clipboard	Schowek
+	Close	Zamknij
+	Collapse	Zwiń
+	Color	Kolor
+	Color:	Kolor:
+	Combine	Połącz
+	Comment	Komentarz
+	Comments	Komentarze
+	Commits	Commity
+	Company	Firma
+	Compare	Porównaj
+	Contributors	Współtwórcy
+	Convert	Konwertuj
+	Copy	Kopiuj
+	Create	Utwórz
+	Create Link	Utwórz łącze
+	Current page	Bieżąca strona
+	Custom	Niestandardowe
+	Cut	Wytnij
+	Dark	Ciemny
+	Dashed	Kreskowane
+	Date format	Format daty
+	Default	Domyślne
+	Delete	Usuń
+	Deleted	Usunięto
+	Description:	Opis:
+	Diamond	Romb
+	Direction:	Kierunek:
+	Display name	Nazwa wyświetlana
+	Document	Dokument
+	Document Title	Tytuł dokumentu
+	Dot	Kropka nad znakiem
+	Draw	Rysowanie
+	Editing	Edytowanie
+	Edit…	Edytuj…
+	Eraser	Gumka
+	Even pages only	Tylko strony parzyste
+	Example: {sample}	Przykład: {sample}
+	Expand	Rozwiń
+	Export	Eksportuj
+	Field	Pole
+	Field properties	Właściwości pola
+	Fields	Pola
+	File	Plik
+	Fill	Wypełnienie
+	First	Pierwszy
+	First commit	Pierwszy commit
+	Fit	Dopasuj
+	Flip Horizontal	Przerzuć w poziomie
+	Flip Vertical	Przerzuć w pionie
+	Font	Czcionka
+	Font:	Czcionka:
+	Fonts	Czcionki
+	Format	Format
+	Format:	Format:
+	Full Screen	Pełny ekran
+	General	Ogólne
+	Grab bag	Mieszanka
+	Graphic	Grafika
+	Headings	Nagłówki
+	Height:	Wysokość:
+	Help	Pomoc
+	Hidden text	Tekst ukryty
+	Highlight	Wyróżnienie
+	Home	Start
+	Horizontal	Poziomo
+	Indent	Wcięcie
+	Index	Indeks
+	Insert	Wstaw
+	Interface language	Język interfejsu
+	Intersection	Iloczyn zbiorów
+	Italic	Kursywa
+	Justify	Wyjustuj
+	Keywords	Słowa kluczowe
+	Labels	Etykiety
+	Landscape	Pozioma
+	Language	Język
+@id	language.name	Polski
+	Last	Ostatni
+	Last commit	Ostatni commit
+	Left	Do lewej
+	Left:	Lewe:
+	Light	Jasny
+	Line	Linia
+	Line delta	Bilans wierszy
+	Line spacing	Interlinia
+	Lines +/−	Wiersze +/−
+	Lines added	Dodane wiersze
+	Lines deleted	Usunięte wiersze
+	Link	Link
+	List	Lista
+	Location	Położenie
+	Margins	Marginesy
+	Maximum	Maksimum
+	Medium	Średnia
+	Merged PRs	Scalone PR-y
+	Minimum	Minimum
+	Model	Model
+	Models	Modele
+	Name	Nazwa
+	Name (A–Z)	Nazwa (A–Z)
+	Name:	Nazwa:
+	Next	Następny
+	No	Nie
+	No contributor data was built into this copy.	Ta kopia programu nie zawiera danych o współtwórcach.
+	No limit	Bez limitu
+	No model credits were built into this copy.	Ta kopia programu nie zawiera informacji o modelach.
+	None	Brak
+	Number	Numer
+	Odd pages only	Tylko strony nieparzyste
+	Off	Wyłączone
+	OK	OK
+	On	Włączone
+	Open	Otwórz
+	Options	Opcje
+	Options…	Opcje…
+	Outline	Konspekt
+	Oval	Owal
+	Page	Strona
+	Page display	Wyświetlanie strony
+	Pages	Strony
+	Password	Hasło
+	Paste	Wklej
+	Portrait	Pionowa
+	Position	Położenie
+	Preview	Podgląd
+	Previous	Poprzedni
+	Print	Drukuj
+	Printing	Drukowanie
+	Protect	Ochrona
+	PRs	PR-y
+	Real name	Imię i nazwisko
+	Recent	Ostatnie
+	Recover	Odzyskaj
+	Rectangle	Prostokąt
+	Redo	Ponów
+	Refresh	Odśwież
+	Remove	Usuń
+	Rename	Zmień nazwę
+	Replace	Zamień
+	Reply	Odpowiedz
+	Report	Raport
+	Reverse the order	Odwróć kolejność
+	Review	Recenzja
+	Right	Do prawej
+	Rotate	Obróć
+	Rotation	Obrót
+	Rotation:	Obrót:
+	Save	Zapisz
+	Scripts	Indeksy
+	Search	Wyszukaj
+	Select All	Zaznacz wszystko
+	Selected pages	Wybrane strony
+	Selection	Zaznaczenie
+	Show	Pokaż
+	Size	Rozmiar
+	Sort	Sortuj
+	Sort by	Sortuj według
+	Special	Specjalne
+	Split	Podziel
+	Square	Kwadrat
+	Standard	Standardowe
+	Star	Gwiazda
+	Strikethrough	Przekreślenie
+	Strong	Pogrubienie
+	Style	Styl
+	Subject	Temat
+	System	Systemowe
+	Table	Tabela
+	Tables	Tabele
+	Text	Tekst
+	The passwords don't match.	Hasła nie są zgodne.
+	Thick	Grube
+	Thickness	Grubość linii
+	This document has no bookmarks.	Ten dokument nie zawiera zakładek.
+	Title	Tytuł
+	Tools	Narzędzia
+	Top	Do góry
+	Total	Razem
+	Translate	Przetłumacz
+	Type	Typ
+	Underline	Podkreślenie
+	Undo	Cofnij
+	Undo {action}	Cofnij: {action}
+	Up	W górę
+	Use system setting	Użyj ustawienia systemowego
+	Username	Nazwa użytkownika
+	Version	Wersja
+	Vertical	Pionowo
+	View	Widok
+	Watermark	Znak wodny
+	Width:	Szerokość:
+	Words	Słowa
+	Yes	Tak
+	Your changes will be lost if you don't save them.	Jeśli nie zapiszesz zmian, zostaną utracone.
+	Zoom	Powiększenie

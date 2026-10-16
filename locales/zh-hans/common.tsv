@@ -1,0 +1,241 @@
+# 简体中文 (zh-hans) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	占全部提交的比例
+	(none)	（无）
+	About	关于
+	Accessibility	无障碍
+	Add	添加
+	Add a comment	添加注释
+	Advanced	高级
+	Align	对齐
+	Alignment:	对齐：
+	All	全部
+	All pages	所有页面
+	Apply	应用
+	Area	面积
+	Arrow	箭头
+	Author	作者
+	Auto	自动
+	Auto ({percent}%)	自动 ({percent}%)
+	Binary assets added	新增二进制资源
+	Binary assets removed	删除二进制资源
+	Bold	粗体
+	Bottom	下
+	Bottom:	下：
+	Box	框
+	Browse…	浏览…
+	Cancel	取消
+	Center	居中
+	Character spacing	字符间距
+	Characters	字符数
+	Check	勾选
+	Circle	圆形
+	Clear	清除
+	Clear All	全部清除
+	Clipboard	剪贴板
+	Close	关闭
+	Collapse	折叠
+	Color	颜色
+	Color:	颜色：
+	Combine	合并
+	Comment	批注
+	Comments	注释
+	Commits	提交数
+	Company	公司
+	Compare	比较
+	Contributors	贡献者
+	Convert	转换
+	Copy	复制
+	Create	创建
+	Create Link	创建链接
+	Current page	当前页
+	Custom	自定义
+	Cut	剪切
+	Dark	深色
+	Dashed	虚线
+	Date format	日期格式
+	Default	默认
+	Delete	删除
+	Deleted	删除
+	Description:	描述：
+	Diamond	菱形
+	Direction:	方向：
+	Display name	显示名称
+	Document	文档
+	Document Title	文档标题
+	Dot	圆点
+	Draw	绘制
+	Editing	编辑
+	Edit…	编辑…
+	Eraser	橡皮擦
+	Even pages only	仅偶数页
+	Example: {sample}	示例：{sample}
+	Expand	展开
+	Export	导出
+	Field	字段
+	Field properties	字段属性
+	Fields	字段
+	File	文件
+	Fill	填写
+	First	首次提交
+	First commit	首次提交
+	Fit	适合
+	Flip Horizontal	水平翻转
+	Flip Vertical	垂直翻转
+	Font	字体
+	Font:	字体：
+	Fonts	字体
+	Format	格式
+	Format:	格式：
+	Full Screen	全屏
+	General	常规
+	Grab bag	名称列表
+	Graphic	图形
+	Headings	标题
+	Height:	高：
+	Help	帮助
+	Hidden text	隐藏文本
+	Highlight	突出显示
+	Home	主页
+	Horizontal	水平
+	Indent	缩进
+	Index	索引
+	Insert	插入
+	Interface language	界面语言
+	Intersection	交点
+	Italic	斜体
+	Justify	两端对齐
+	Keywords	关键字
+	Labels	标签
+	Landscape	横向
+	Language	语言
+@id	language.name	简体中文
+	Last	最近提交
+	Last commit	最近提交
+	Left	左
+	Left:	左：
+	Light	浅色
+	Line	直线
+	Line delta	净增行数
+	Line spacing	行距
+	Lines +/−	新增 / 删除行数
+	Lines added	新增行数
+	Lines deleted	删除行数
+	Link	链接
+	List	列表
+	Location	位置
+	Margins	边距
+	Maximum	最高
+	Medium	中等
+	Merged PRs	已合并的 PR
+	Minimum	最低
+	Model	模型
+	Models	模型
+	Name	名称
+	Name (A–Z)	名称（A–Z）
+	Name:	名称：
+	Next	下一条
+	No	否
+	No contributor data was built into this copy.	此版本未包含贡献者数据。
+	No limit	无限制
+	No model credits were built into this copy.	此版本未包含模型贡献记录。
+	None	无
+	Number	数字
+	Odd pages only	仅奇数页
+	Off	关
+	OK	确定
+	On	开
+	Open	打开
+	Options	选项
+	Options…	选项…
+	Outline	轮廓
+	Oval	椭圆
+	Page	页面
+	Page display	页面显示
+	Pages	页面
+	Password	密码
+	Paste	粘贴
+	Portrait	纵向
+	Position	位置
+	Preview	预览
+	Previous	上一条
+	Print	打印
+	Printing	打印
+	Protect	保护
+	PRs	PR 数
+	Real name	真实姓名
+	Recent	最近
+	Recover	恢复
+	Rectangle	矩形
+	Redo	重做
+	Refresh	刷新
+	Remove	删除
+	Rename	重命名
+	Replace	替换
+	Reply	回复
+	Report	报告
+	Reverse the order	反转排序
+	Review	审阅
+	Right	右
+	Rotate	旋转
+	Rotation	旋转
+	Rotation:	旋转：
+	Save	保存
+	Scripts	脚本
+	Search	搜索
+	Select All	全选
+	Selected pages	选定的页面
+	Selection	所选内容
+	Show	显示
+	Size	尺寸
+	Sort	排序
+	Sort by	排序方式
+	Special	特殊
+	Split	拆分
+	Square	正方形
+	Standard	标准
+	Star	星形
+	Strikethrough	删除线
+	Strong	强
+	Style	样式
+	Subject	主题
+	System	系统
+	Table	表格
+	Tables	表格
+	Text	文本
+	The passwords don't match.	两次输入的密码不一致。
+	Thick	粗
+	Thickness	粗细
+	This document has no bookmarks.	本文档没有书签。
+	Title	标题
+	Tools	工具
+	Top	上
+	Total	总计
+	Translate	翻译
+	Type	类型
+	Underline	下划线
+	Undo	撤销
+	Undo {action}	撤消{action}
+	Up	上移
+	Use system setting	跟随系统设置
+	Username	用户名
+	Version	版本
+	Vertical	垂直
+	View	视图
+	Watermark	水印
+	Width:	宽：
+	Words	词数
+	Yes	是
+	Your changes will be lost if you don't save them.	如果不保存，更改将会丢失。
+	Zoom	缩放

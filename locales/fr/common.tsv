@@ -1,0 +1,241 @@
+# Français (fr) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	% de tous les commits
+	(none)	(aucun)
+	About	À propos
+	Accessibility	Accessibilité
+	Add	Ajouter
+	Add a comment	Ajouter un commentaire
+	Advanced	Avancé
+	Align	Aligner
+	Alignment:	Alignement :
+	All	Toutes
+	All pages	Toutes les pages
+	Apply	Appliquer
+	Area	Aire
+	Arrow	Flèche
+	Author	Auteur
+	Auto	Automatique
+	Auto ({percent}%)	Automatique ({percent} %)
+	Binary assets added	Fichiers binaires ajoutés
+	Binary assets removed	Fichiers binaires retirés
+	Bold	Gras
+	Bottom	Bas
+	Bottom:	Bas :
+	Box	Zone
+	Browse…	Parcourir…
+	Cancel	Annuler
+	Center	Centre
+	Character spacing	Approche
+	Characters	Caractères
+	Check	Coche
+	Circle	Cercle
+	Clear	Effacer
+	Clear All	Tout effacer
+	Clipboard	Presse-papiers
+	Close	Fermer
+	Collapse	Réduire
+	Color	Couleur
+	Color:	Couleur :
+	Combine	Combiner
+	Comment	Commentaire
+	Comments	Commentaires
+	Commits	Commits
+	Company	Société
+	Compare	Comparer
+	Contributors	Contributeurs
+	Convert	Convertir
+	Copy	Copier
+	Create	Créer
+	Create Link	Créer un lien
+	Current page	Page actuelle
+	Custom	Personnalisé
+	Cut	Couper
+	Dark	Sombre
+	Dashed	Tirets
+	Date format	Format de date
+	Default	Par défaut
+	Delete	Supprimer
+	Deleted	Supprimé
+	Description:	Description :
+	Diamond	Losange
+	Direction:	Direction :
+	Display name	Nom affiché
+	Document	Document
+	Document Title	Titre du document
+	Dot	Point
+	Draw	Dessiner
+	Editing	Modification
+	Edit…	Modifier…
+	Eraser	Gomme
+	Even pages only	Pages paires seulement
+	Example: {sample}	Exemple : {sample}
+	Expand	Développer
+	Export	Exporter
+	Field	Champ
+	Field properties	Propriétés du champ
+	Fields	Champs
+	File	Fichier
+	Fill	Remplir
+	First	Premier
+	First commit	Premier commit
+	Fit	Ajuster
+	Flip Horizontal	Retourner horizontalement
+	Flip Vertical	Retourner verticalement
+	Font	Police
+	Font:	Police :
+	Fonts	Polices
+	Format	Format
+	Format:	Format :
+	Full Screen	Plein écran
+	General	Général
+	Grab bag	En vrac
+	Graphic	Graphique
+	Headings	Titres
+	Height:	Hauteur :
+	Help	Aide
+	Hidden text	Texte masqué
+	Highlight	Surligner
+	Home	Accueil
+	Horizontal	Horizontal
+	Indent	Augmenter le retrait
+	Index	Index
+	Insert	Insérer
+	Interface language	Langue de l'interface
+	Intersection	Intersection
+	Italic	Italique
+	Justify	Justifier
+	Keywords	Mots-clés
+	Labels	Étiquettes
+	Landscape	Paysage
+	Language	Langue
+@id	language.name	Français
+	Last	Dernier
+	Last commit	Dernier commit
+	Left	Gauche
+	Left:	Gauche :
+	Light	Clair
+	Line	Ligne
+	Line delta	Écart de lignes
+	Line spacing	Interligne
+	Lines +/−	Lignes +/−
+	Lines added	Lignes ajoutées
+	Lines deleted	Lignes supprimées
+	Link	Lien
+	List	Liste
+	Location	Emplacement
+	Margins	Marges
+	Maximum	Maximum
+	Medium	Moyen
+	Merged PRs	PR fusionnées
+	Minimum	Minimum
+	Model	Modèle
+	Models	Modèles
+	Name	Nom
+	Name (A–Z)	Nom (A–Z)
+	Name:	Nom :
+	Next	Suivant
+	No	Non
+	No contributor data was built into this copy.	Cette copie ne contient aucune donnée sur les contributeurs.
+	No limit	Aucune limite
+	No model credits were built into this copy.	Cette copie ne contient aucun crédit de modèle.
+	None	Aucun
+	Number	Nombre
+	Odd pages only	Pages impaires seulement
+	Off	Désactivé
+	OK	OK
+	On	Activés
+	Open	Ouvrir
+	Options	Options
+	Options…	Options…
+	Outline	Contour
+	Oval	Ellipse
+	Page	Page
+	Page display	Affichage des pages
+	Pages	Pages
+	Password	Mot de passe
+	Paste	Coller
+	Portrait	Portrait
+	Position	Position
+	Preview	Aperçu
+	Previous	Précédent
+	Print	Imprimer
+	Printing	Impression
+	Protect	Protéger
+	PRs	PR
+	Real name	Nom réel
+	Recent	Récents
+	Recover	Récupérer
+	Rectangle	Rectangle
+	Redo	Rétablir
+	Refresh	Actualiser
+	Remove	Retirer
+	Rename	Renommer
+	Replace	Remplacer
+	Reply	Répondre
+	Report	Rapport
+	Reverse the order	Inverser l'ordre
+	Review	Révision
+	Right	Droite
+	Rotate	Pivoter
+	Rotation	Rotation
+	Rotation:	Rotation :
+	Save	Enregistrer
+	Scripts	Scripts
+	Search	Rechercher
+	Select All	Tout sélectionner
+	Selected pages	Pages sélectionnées
+	Selection	Sélection
+	Show	Afficher
+	Size	Taille
+	Sort	Trier
+	Sort by	Trier par
+	Special	Spécial
+	Split	Fractionner
+	Square	Carré
+	Standard	Standard
+	Star	Étoile
+	Strikethrough	Barré
+	Strong	Fort
+	Style	Style
+	Subject	Sujet
+	System	Système
+	Table	Tableau
+	Tables	Tableaux
+	Text	Texte
+	The passwords don't match.	Les mots de passe ne correspondent pas.
+	Thick	Épais
+	Thickness	Épaisseur
+	This document has no bookmarks.	Ce document ne contient aucun signet.
+	Title	Titre
+	Tools	Outils
+	Top	Haut
+	Total	Total
+	Translate	Traduire
+	Type	Type
+	Underline	Soulignement
+	Undo	Annuler
+	Undo {action}	Annuler {action}
+	Up	Monter
+	Use system setting	Utiliser le réglage du système
+	Username	Nom d'utilisateur
+	Version	Version
+	Vertical	Vertical
+	View	Affichage
+	Watermark	Filigrane
+	Width:	Largeur :
+	Words	Mots
+	Yes	Oui
+	Your changes will be lost if you don't save them.	Vos modifications seront perdues si vous ne les enregistrez pas.
+	Zoom	Zoom

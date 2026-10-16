@@ -1,0 +1,241 @@
+# Čeština (cs) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	Podíl na commitech (%)
+	(none)	(žádné)
+	About	O aplikaci
+	Accessibility	Přístupnost
+	Add	Přidat
+	Add a comment	Přidat komentář
+	Advanced	Pokročilé
+	Align	Zarovnat
+	Alignment:	Zarovnání:
+	All	Vše
+	All pages	Všechny stránky
+	Apply	Použít
+	Area	Plošný
+	Arrow	Šipka
+	Author	Autor
+	Auto	Automaticky
+	Auto ({percent}%)	Automaticky ({percent}%)
+	Binary assets added	Přidané binární soubory
+	Binary assets removed	Odebrané binární soubory
+	Bold	Tučné
+	Bottom	Dole
+	Bottom:	Dole:
+	Box	Rámeček
+	Browse…	Procházet…
+	Cancel	Zrušit
+	Center	Na střed
+	Character spacing	Proložení znaků
+	Characters	Znaky
+	Check	Háček
+	Circle	Kruh
+	Clear	Vymazat
+	Clear All	Vymazat vše
+	Clipboard	Schránka
+	Close	Zavřít
+	Collapse	Sbalit
+	Color	Barva
+	Color:	Barva:
+	Combine	Zkombinovat
+	Comment	Komentář
+	Comments	Komentáře
+	Commits	Commity
+	Company	Společnost
+	Compare	Porovnat
+	Contributors	Přispěvatelé
+	Convert	Převést
+	Copy	Kopírovat
+	Create	Vytvořit
+	Create Link	Vytvořit propojení
+	Current page	Aktuální stránka
+	Custom	Vlastní
+	Cut	Vyjmout
+	Dark	Tmavý
+	Dashed	Čárkované
+	Date format	Formát data
+	Default	Výchozí
+	Delete	Odstranit
+	Deleted	Odstraněno
+	Description:	Popis:
+	Diamond	Kosočtverec
+	Direction:	Směr:
+	Display name	Zobrazované jméno
+	Document	Dokument
+	Document Title	Název dokumentu
+	Dot	Tečka
+	Draw	Kreslení
+	Editing	Úpravy
+	Edit…	Upravit…
+	Eraser	Guma
+	Even pages only	Pouze sudé stránky
+	Example: {sample}	Příklad: {sample}
+	Expand	Rozšířit
+	Export	Exportovat
+	Field	Pole
+	Field properties	Vlastnosti pole
+	Fields	Pole
+	File	Soubor
+	Fill	Výplň
+	First	První
+	First commit	První commit
+	Fit	Přizpůsobit
+	Flip Horizontal	Převrátit vodorovně
+	Flip Vertical	Převrátit svisle
+	Font	Písmo
+	Font:	Písmo:
+	Fonts	Písma
+	Format	Formát
+	Format:	Formát:
+	Full Screen	Celá obrazovka
+	General	Obecné
+	Grab bag	Různé
+	Graphic	Obrázek
+	Headings	Nadpisy
+	Height:	Výška:
+	Help	Nápověda
+	Hidden text	Skrytý text
+	Highlight	Zvýraznění
+	Home	Domů
+	Horizontal	Vodorovně
+	Indent	Odsazení
+	Index	Rejstřík
+	Insert	Vložení
+	Interface language	Jazyk rozhraní
+	Intersection	Průnik
+	Italic	Kurzíva
+	Justify	Do bloku
+	Keywords	Klíčová slova
+	Labels	Štítky
+	Landscape	Na šířku
+	Language	Jazyk
+@id	language.name	Čeština
+	Last	Poslední
+	Last commit	Poslední commit
+	Left	Vlevo
+	Left:	Vlevo:
+	Light	Světlý
+	Line	Čára
+	Line delta	Změna počtu řádků
+	Line spacing	Řádkování
+	Lines +/−	Řádky +/−
+	Lines added	Přidané řádky
+	Lines deleted	Odstraněné řádky
+	Link	Odkaz
+	List	Seznam
+	Location	Umístění
+	Margins	Okraje
+	Maximum	Maximum
+	Medium	Střední
+	Merged PRs	Sloučené PR
+	Minimum	Minimum
+	Model	Model
+	Models	Modely
+	Name	Jméno
+	Name (A–Z)	Jméno (A–Z)
+	Name:	Název:
+	Next	Další
+	No	Ne
+	No contributor data was built into this copy.	Tato kopie neobsahuje údaje o přispěvatelích.
+	No limit	Bez omezení
+	No model credits were built into this copy.	Tato kopie neobsahuje uvedení modelů.
+	None	Žádné
+	Number	Číslo
+	Odd pages only	Pouze liché stránky
+	Off	Vypnuto
+	OK	OK
+	On	Zapnuto
+	Open	Otevřít
+	Options	Možnosti
+	Options…	Možnosti…
+	Outline	Osnova
+	Oval	Ovál
+	Page	Stránka
+	Page display	Zobrazení stránky
+	Pages	Stránky
+	Password	Heslo
+	Paste	Vložit
+	Portrait	Na výšku
+	Position	Pozice
+	Preview	Náhled
+	Previous	Předchozí
+	Print	Tisk
+	Printing	Tisk
+	Protect	Zabezpečení
+	PRs	PR
+	Real name	Skutečné jméno
+	Recent	Nedávné
+	Recover	Obnovit
+	Rectangle	Obdélník
+	Redo	Znovu
+	Refresh	Obnovit
+	Remove	Odebrat
+	Rename	Přejmenovat
+	Replace	Nahradit
+	Reply	Odpovědět
+	Report	Zpráva
+	Reverse the order	Obrátit pořadí
+	Review	Revize
+	Right	Vpravo
+	Rotate	Otočit
+	Rotation	Otočení
+	Rotation:	Otočení:
+	Save	Uložit
+	Scripts	Indexy
+	Search	Hledat
+	Select All	Vybrat vše
+	Selected pages	Vybrané stránky
+	Selection	Výběr
+	Show	Zobrazit
+	Size	Velikost
+	Sort	Seřadit
+	Sort by	Seřadit podle
+	Special	Speciální
+	Split	Rozdělit
+	Square	Čtverec
+	Standard	Standardní
+	Star	Hvězda
+	Strikethrough	Přeškrtnuté
+	Strong	Silné
+	Style	Styl
+	Subject	Předmět
+	System	Systémové
+	Table	Tabulka
+	Tables	Tabulky
+	Text	Text
+	The passwords don't match.	Hesla se neshodují.
+	Thick	Silné
+	Thickness	Tloušťka
+	This document has no bookmarks.	Tento dokument nemá žádné záložky.
+	Title	Název
+	Tools	Nástroje
+	Top	Nahoře
+	Total	Celkem
+	Translate	Přeložit
+	Type	Typ
+	Underline	Podtržené
+	Undo	Zpět
+	Undo {action}	Zpět: {action}
+	Up	Nahoru
+	Use system setting	Podle nastavení systému
+	Username	Uživatelské jméno
+	Version	Verze
+	Vertical	Svisle
+	View	Zobrazení
+	Watermark	Vodoznak
+	Width:	Šířka:
+	Words	Slova
+	Yes	Ano
+	Your changes will be lost if you don't save them.	Pokud změny neuložíte, budou ztraceny.
+	Zoom	Lupa

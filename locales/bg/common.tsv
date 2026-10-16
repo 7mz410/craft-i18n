@@ -1,0 +1,241 @@
+# Български (bg) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	% от всички къмити
+	(none)	(няма)
+	About	Относно
+	Accessibility	Достъпност
+	Add	Добавяне
+	Add a comment	Добавяне на коментар
+	Advanced	Разширени
+	Align	Подравняване
+	Alignment:	Подравняване:
+	All	Всички
+	All pages	Всички страници
+	Apply	Прилагане
+	Area	Площна
+	Arrow	Стрелка
+	Author	Автор
+	Auto	Автоматично
+	Auto ({percent}%)	Автоматично ({percent}%)
+	Binary assets added	Добавени двоични ресурси
+	Binary assets removed	Премахнати двоични ресурси
+	Bold	Получер
+	Bottom	Долу
+	Bottom:	Долу:
+	Box	Каре
+	Browse…	Преглед…
+	Cancel	Отказ
+	Center	Центриране
+	Character spacing	Разстояние между знаците
+	Characters	Знаци
+	Check	Хачек
+	Circle	Кръг
+	Clear	Изчистване
+	Clear All	Изчистване на всичко
+	Clipboard	Клипборд
+	Close	Затваряне
+	Collapse	Свиване
+	Color	Цвят
+	Color:	Цвят:
+	Combine	Комбиниране
+	Comment	Коментар
+	Comments	Коментари
+	Commits	Къмити
+	Company	Фирма
+	Compare	Сравняване
+	Contributors	Сътрудници
+	Convert	Преобразуване
+	Copy	Копиране
+	Create	Създаване
+	Create Link	Създаване на връзка
+	Current page	Текущата страница
+	Custom	Потребителски
+	Cut	Изрязване
+	Dark	Тъмна
+	Dashed	Пунктирана
+	Date format	Формат на датата
+	Default	По подразбиране
+	Delete	Изтриване
+	Deleted	Изтрито
+	Description:	Описание:
+	Diamond	Ромб
+	Direction:	Посока:
+	Display name	Показвано име
+	Document	Документ
+	Document Title	Заглавие на документа
+	Dot	Точка
+	Draw	Рисуване
+	Editing	Редактиране
+	Edit…	Редактиране…
+	Eraser	Гума
+	Even pages only	Само четните страници
+	Example: {sample}	Пример: {sample}
+	Expand	Разширяване
+	Export	Експортиране
+	Field	Поле
+	Field properties	Свойства на полето
+	Fields	Полета
+	File	Файл
+	Fill	Запълване
+	First	Първи
+	First commit	Първо подаване
+	Fit	Побиране
+	Flip Horizontal	Обръщане хоризонтално
+	Flip Vertical	Обръщане вертикално
+	Font	Шрифт
+	Font:	Шрифт:
+	Fonts	Шрифтове
+	Format	Формат
+	Format:	Формат:
+	Full Screen	Цял екран
+	General	Общи
+	Grab bag	Смесица
+	Graphic	Графика
+	Headings	Заглавия
+	Height:	Височина:
+	Help	Помощ
+	Hidden text	Скрит текст
+	Highlight	Осветяване
+	Home	Начало
+	Horizontal	Хоризонтално
+	Indent	Отстъп
+	Index	Индекс
+	Insert	Вмъкване
+	Interface language	Език на интерфейса
+	Intersection	Сечение
+	Italic	Курсив
+	Justify	Двустранно подравняване
+	Keywords	Ключови думи
+	Labels	Етикети
+	Landscape	Пейзаж
+	Language	Език
+@id	language.name	Български
+	Last	Последен
+	Last commit	Последно подаване
+	Left	Ляво
+	Left:	Ляво:
+	Light	Светла
+	Line	Линия
+	Line delta	Разлика в редовете
+	Line spacing	Междуредие
+	Lines +/−	Редове +/−
+	Lines added	Добавени редове
+	Lines deleted	Изтрити редове
+	Link	Връзка
+	List	Списък
+	Location	Местоположение
+	Margins	Полета
+	Maximum	Максимум
+	Medium	Средна
+	Merged PRs	Обединени PR
+	Minimum	Минимум
+	Model	Модел
+	Models	Модели
+	Name	Име
+	Name (A–Z)	Име (А–Я)
+	Name:	Име:
+	Next	Следваща
+	No	Не
+	No contributor data was built into this copy.	В това копие няма вградени данни за сътрудниците.
+	No limit	Без ограничение
+	No model credits were built into this copy.	В това копие няма вградени сведения за моделите.
+	None	Няма
+	Number	Номер
+	Odd pages only	Само нечетните страници
+	Off	Изключено
+	OK	OK
+	On	Включено
+	Open	Отваряне
+	Options	Опции
+	Options…	Опции…
+	Outline	Структура
+	Oval	Овал
+	Page	Страница
+	Page display	Показване на страницата
+	Pages	Страници
+	Password	Парола
+	Paste	Поставяне
+	Portrait	Портрет
+	Position	Позиция
+	Preview	Визуализация
+	Previous	Предишна
+	Print	Печат
+	Printing	Печат
+	Protect	Защита
+	PRs	PR-и
+	Real name	Истинско име
+	Recent	Последни
+	Recover	Възстановяване
+	Rectangle	Правоъгълник
+	Redo	Повторение
+	Refresh	Опресняване
+	Remove	Премахване
+	Rename	Преименуване
+	Replace	Замяна
+	Reply	Отговор
+	Report	Отчет
+	Reverse the order	Обръщане на реда
+	Review	Преглед
+	Right	Дясно
+	Rotate	Завъртане
+	Rotation	Завъртане
+	Rotation:	Завъртане:
+	Save	Запазване
+	Scripts	Индекси
+	Search	Търсене
+	Select All	Избиране на всичко
+	Selected pages	Избраните страници
+	Selection	Избрано
+	Show	Показване
+	Size	Размер
+	Sort	Сортиране
+	Sort by	Сортиране по
+	Special	Специални
+	Split	Разделяне
+	Square	Квадрат
+	Standard	Стандартни
+	Star	Звезда
+	Strikethrough	Зачертаване
+	Strong	Удебелен
+	Style	Стил
+	Subject	Тема
+	System	Според системата
+	Table	Таблица
+	Tables	Таблици
+	Text	Текст
+	The passwords don't match.	Паролите не съвпадат.
+	Thick	Дебело
+	Thickness	Дебелина
+	This document has no bookmarks.	Този документ няма отметки.
+	Title	Заглавие
+	Tools	Инструменти
+	Top	Горе
+	Total	Общо
+	Translate	Превод
+	Type	Тип
+	Underline	Подчертаване
+	Undo	Отмяна
+	Undo {action}	Отмяна: {action}
+	Up	Нагоре
+	Use system setting	Според системната настройка
+	Username	Потребителско име
+	Version	Версия
+	Vertical	Вертикално
+	View	Изглед
+	Watermark	Воден знак
+	Width:	Ширина:
+	Words	Думи
+	Yes	Да
+	Your changes will be lost if you don't save them.	Промените ще бъдат загубени, ако не ги запазите.
+	Zoom	Мащаб

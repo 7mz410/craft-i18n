@@ -1,0 +1,232 @@
+# Slovenščina (sl) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	% vseh commitov
+	(none)	(brez)
+	About	O programu
+	Accessibility	Dostopnost
+	Add	Dodaj
+	Add a comment	Dodaj komentar
+	Advanced	Napredno
+	Align	Poravnaj
+	Alignment:	Poravnava:
+	All	Vse
+	All pages	Vse strani
+	Apply	Uporabi
+	Area	Ploščina
+	Arrow	Puščica
+	Author	Avtor
+	Auto	Samodejno
+	Auto ({percent}%)	Samodejno ({percent} %)
+	Binary assets added	Dodani binarni viri
+	Binary assets removed	Odstranjeni binarni viri
+	Bold	Krepko
+	Bottom	Spodaj
+	Bottom:	Spodaj:
+	Box	Okvir
+	Browse…	Prebrskaj…
+	Cancel	Prekliči
+	Center	Sredinsko
+	Character spacing	Razmik med znaki
+	Characters	Znaki
+	Check	Preveri
+	Circle	Krog
+	Clear	Počisti
+	Clear All	Počisti vse
+	Clipboard	Odložišče
+	Close	Zapri
+	Collapse	Strni
+	Color:	Barva:
+	Combine	Združi
+	Comments	Komentarji
+	Commits	Commiti
+	Company	Podjetje
+	Compare	Primerjaj
+	Contributors	Sodelavci
+	Convert	Pretvori
+	Copy	Kopiraj
+	Create	Ustvari
+	Create Link	Ustvari povezavo
+	Current page	Trenutna stran
+	Custom	Po meri
+	Cut	Izreži
+	Dark	Temno
+	Dashed	Črtkano
+	Date format	Oblika datuma
+	Default	Privzeto
+	Delete	Izbriši
+	Deleted	Izbrisano
+	Description:	Opis:
+	Diamond	Romb
+	Direction:	Smer:
+	Display name	Prikazno ime
+	Document	Dokument
+	Document Title	Naslov dokumenta
+	Dot	Pika
+	Draw	Riši
+	Editing	Urejanje
+	Edit…	Uredi…
+	Eraser	Radirka
+	Even pages only	Samo sode strani
+	Example: {sample}	Primer: {sample}
+	Expand	Razširi
+	Export	Izvozi
+	Field	Polje
+	Field properties	Lastnosti polja
+	Fields	Polja
+	File	Datoteka
+	Fill	Izpolni
+	First	Prva
+	First commit	Prvi commit
+	Fit	Prilagodi
+	Flip Horizontal	Prezrcali vodoravno
+	Flip Vertical	Prezrcali navpično
+	Font:	Pisava:
+	Fonts	Pisave
+	Format	Oblika
+	Format:	Oblika:
+	Full Screen	Celoten zaslon
+	General	Splošno
+	Grab bag	Razno
+	Graphic	Grafika
+	Headings	Naslovi
+	Height:	Višina:
+	Help	Pomoč
+	Hidden text	Skrito besedilo
+	Highlight	Označi
+	Home	Domov
+	Horizontal	Vodoravno
+	Indent	Zamik
+	Index	Kazalo
+	Insert	Vstavi
+	Interface language	Jezik vmesnika
+	Intersection	Presek
+	Italic	Ležeče
+	Justify	Obojestransko poravnano
+	Keywords	Ključne besede
+	Labels	Oznake
+	Landscape	Ležeče
+	Language	Jezik
+@id	language.name	Slovenščina
+	Last	Zadnja
+	Last commit	Zadnji commit
+	Left	Levo
+	Left:	Levo:
+	Light	Svetlo
+	Line	Črta
+	Line delta	Sprememba vrstic
+	Line spacing	Razmik med vrsticami
+	Lines +/−	Vrstice +/−
+	Lines added	Dodane vrstice
+	Lines deleted	Izbrisane vrstice
+	Link	Povezava
+	List	Seznam
+	Location	Lokacija
+	Margins	Robovi
+	Maximum	Največ
+	Medium	Srednja
+	Merged PRs	Združeni PR-ji
+	Minimum	Najmanj
+	Model	Model
+	Models	Modeli
+	Name	Ime
+	Name (A–Z)	Ime (A–Ž)
+	Name:	Ime:
+	No	Ne
+	No contributor data was built into this copy.	V to kopijo ni vgrajenih podatkov o sodelujočih.
+	No limit	Brez omejitve
+	No model credits were built into this copy.	V to kopijo ni vgrajenih zahval modelom.
+	None	Brez
+	Number	Številka
+	Odd pages only	Samo lihe strani
+	Off	Izklopljeno
+	OK	V redu
+	Open	Odpri
+	Options	Možnosti
+	Options…	Možnosti…
+	Outline	Oris
+	Oval	Elipsa
+	Page	Stran
+	Page display	Prikaz strani
+	Pages	Strani
+	Password	Geslo
+	Portrait	Pokončno
+	Position	Položaj
+	Preview	Predogled
+	Print	Natisni
+	Printing	Tiskanje
+	Protect	Zaščiti
+	PRs	PR-ji
+	Real name	Pravo ime
+	Recent	Nedavno
+	Recover	Obnovi
+	Rectangle	Pravokotnik
+	Redo	Ponovi
+	Remove	Odstrani
+	Rename	Preimenuj
+	Replace	Zamenjaj
+	Reply	Odgovori
+	Report	Poročilo
+	Reverse the order	Obrni vrstni red
+	Review	Pregled
+	Right	Desno
+	Rotate	Zavrti
+	Rotation	Rotacija
+	Rotation:	Rotacija:
+	Save	Shrani
+	Scripts	Skripti
+	Search	Iskanje
+	Select All	Izberi vse
+	Selected pages	Izbrane strani
+	Selection	Izbor
+	Show	Pokaži
+	Size	Velikost
+	Sort	Razvrsti
+	Sort by	Razvrsti po
+	Special	Posebno
+	Split	Razdeli
+	Square	Kvadrat
+	Standard	Standardno
+	Star	Zvezda
+	Strikethrough	Prečrtanje
+	Strong	Močno
+	Style	Slog
+	Subject	Zadeva
+	Table	Tabela
+	Tables	Tabele
+	Text	Besedilo
+	The passwords don't match.	Gesli se ne ujemata.
+	Thick	Debelo
+	Thickness	Debelina
+	This document has no bookmarks.	Ta dokument nima zaznamkov.
+	Title	Naslov
+	Tools	Orodja
+	Top	Zgoraj
+	Total	Skupaj
+	Translate	Prevedi
+	Type	Vrsta
+	Underline	Podčrtaj
+	Undo	Razveljavi
+	Undo {action}	Razveljavi: {action}
+	Up	Navzgor
+	Use system setting	Uporabi sistemsko nastavitev
+	Username	Uporabniško ime
+	Version	Različica
+	Vertical	Navpično
+	View	Pogled
+	Watermark	Vodni žig
+	Width:	Širina:
+	Words	Besede
+	Yes	Da
+	Your changes will be lost if you don't save them.	Vaše spremembe bodo izgubljene, če jih ne shranite.
+	Zoom	Povečava
