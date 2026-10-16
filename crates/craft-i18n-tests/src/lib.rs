@@ -11,6 +11,7 @@
 )]
 
 pub mod catalog;
+pub mod locale;
 
 /// The repository root (where `locales/` lives).
 pub fn repo_root() -> std::path::PathBuf {

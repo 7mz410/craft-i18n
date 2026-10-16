@@ -10,6 +10,8 @@ publish = false
 
 [dependencies]
 craft-i18n = { path = "../craft-i18n" }
+intl_pluralrules = "7"
+unic-langid = "0.9"
 
 [dev-dependencies]
 fluent-syntax = "0.12"
