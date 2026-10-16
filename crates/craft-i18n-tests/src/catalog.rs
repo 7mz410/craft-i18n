@@ -4,7 +4,7 @@
 use std::collections::HashSet;
 
 /// A catalog row that passed every check, with its columns unescaped.
-#[derive(Debug, Clone, PartialEq, Eq)]
+#[derive(Debug, Clone, PartialEq, Eq, Hash)]
 pub struct Row {
     /// 1-based line number in the file.
     pub line: usize,

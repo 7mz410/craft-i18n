@@ -1,6 +1,6 @@
 [package]
 name = "craft-i18n-tests"
-description = "Assertions on the translation files themselves: they parse, ids are unique, and translations only use ids the source locale defines."
+description = "Checks on the translation catalogs themselves: rows are well formed, placeholders and plural forms match the English source text, locale and file names follow the layout."
 version.workspace = true
 edition.workspace = true
 license.workspace = true
@@ -9,12 +9,8 @@ rust-version.workspace = true
 publish = false
 
 [dependencies]
-craft-i18n = { path = "../craft-i18n" }
 intl_pluralrules = "7"
 unic-langid = "0.9"
-
-[dev-dependencies]
-fluent-syntax = "0.12"
 
 [lints]
 workspace = true

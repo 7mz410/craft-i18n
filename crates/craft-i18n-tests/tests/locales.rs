@@ -1,76 +1,154 @@
-//! Assertions on the translation files themselves.
+//! The checker run over this repository's `locales/`, and over small fixture trees.
 
-use std::collections::BTreeSet;
 use std::path::{Path, PathBuf};
 
-use craft_i18n::{SOURCE_LOCALE, locales};
-use fluent_syntax::ast::Entry;
+use craft_i18n_tests::tree::{check_tree, coverage};
 
-/// Every `.ftl` file of a locale.
-fn ftl_files(locale: &str) -> Vec<PathBuf> {
-    let dir = craft_i18n_tests::repo_root().join("locales").join(locale);
-    let mut out: Vec<PathBuf> = std::fs::read_dir(&dir)
-        .unwrap_or_else(|e| panic!("{}: {e}", dir.display()))
-        .map(|e| e.unwrap().path())
-        .filter(|p| p.extension().is_some_and(|x| x == "ftl"))
-        .collect();
-    out.sort();
-    out
-}
-
-/// The message and term ids a file defines, failing on parse errors and duplicates.
-fn ids(path: &Path) -> BTreeSet<String> {
-    let text = std::fs::read_to_string(path).unwrap_or_else(|e| panic!("{}: {e}", path.display()));
-    let resource = fluent_syntax::parser::parse(text.as_str())
-        .unwrap_or_else(|(_, errors)| panic!("{}: {errors:?}", path.display()));
-    let mut ids = BTreeSet::new();
-    for entry in resource.body {
-        let id = match entry {
-            Entry::Message(m) => m.id.name.to_owned(),
-            Entry::Term(t) => format!("-{}", t.id.name),
-            _ => continue,
-        };
-        assert!(
-            ids.insert(id.clone()),
-            "{}: `{id}` defined twice",
-            path.display()
-        );
-    }
-    ids
-}
+const H: &str = "# Clean room: written from the plain meaning.\n";
 
 #[test]
-fn every_file_parses_without_duplicate_ids() {
-    for locale in locales(&craft_i18n_tests::repo_root()).unwrap() {
-        for f in ftl_files(&locale) {
-            ids(&f);
-        }
+fn repository_catalogs_pass() {
+    assert_eq!(
+        check_tree(&craft_i18n_tests::repo_root()),
+        Vec::<String>::new()
+    );
+}
+
+/// Prints the coverage report (`cargo test coverage_report -- --nocapture`); never fails.
+#[test]
+fn coverage_report() {
+    for line in coverage(&craft_i18n_tests::repo_root()) {
+        println!("{line}");
+    }
+}
+
+/// A fresh tree under the test target directory holding `files` (path relative to the root).
+fn fixture(name: &str, files: &[(&str, &str)]) -> PathBuf {
+    let root = Path::new(env!("CARGO_TARGET_TMPDIR")).join(name);
+    let _ = std::fs::remove_dir_all(&root);
+    std::fs::create_dir_all(&root).unwrap();
+    for (path, text) in files {
+        let path = root.join(path);
+        std::fs::create_dir_all(path.parent().unwrap()).unwrap();
+        std::fs::write(path, text).unwrap();
+    }
+    root
+}
+
+fn assert_problems(name: &str, files: &[(&str, &str)], expected: &[&str]) {
+    let problems = check_tree(&fixture(name, files));
+    assert_eq!(problems.len(), expected.len(), "{problems:?}");
+    for (problem, prefix) in problems.iter().zip(expected) {
+        assert!(problem.starts_with(prefix), "{problem:?} vs {prefix:?}");
     }
 }
 
 #[test]
-fn translations_only_use_ids_the_source_locale_defines() {
-    let root = craft_i18n_tests::repo_root();
-    for locale in locales(&root).unwrap() {
-        if locale == SOURCE_LOCALE {
-            continue;
-        }
-        for f in ftl_files(&locale) {
-            let source = root
-                .join("locales")
-                .join(SOURCE_LOCALE)
-                .join(f.file_name().unwrap());
-            assert!(
-                source.is_file(),
-                "{}: no {SOURCE_LOCALE} file to translate",
-                f.display()
-            );
-            let extra: Vec<_> = ids(&f).difference(&ids(&source)).cloned().collect();
-            assert!(
-                extra.is_empty(),
-                "{}: ids not in {SOURCE_LOCALE}: {extra:?}",
-                f.display()
-            );
-        }
-    }
+fn clean_tree_passes() {
+    let common = format!("{H}\tSave\tEnregistrer\n");
+    let app = format!("{H}\tSave\tSauvegarder\n");
+    assert_problems(
+        "clean",
+        &[
+            ("locales/fr/common.tsv", &common),
+            ("locales/fr/wordcraft.tsv", &app),
+            ("locales/fr/.DS_Store", ""),
+        ],
+        &[],
+    );
+}
+
+#[test]
+fn bad_row_names_file_and_line() {
+    let common = format!("{H}\tSave\n");
+    assert_problems(
+        "bad-row",
+        &[("locales/fr/common.tsv", &common)],
+        &["locales/fr/common.tsv: line 2:"],
+    );
+}
+
+#[test]
+fn bad_locale_name() {
+    assert_problems(
+        "bad-locale",
+        &[("locales/pt_BR/common.tsv", H)],
+        &["locales/pt_BR:"],
+    );
+}
+
+#[test]
+fn stray_file() {
+    assert_problems(
+        "stray",
+        &[("locales/fr/common.ftl", "")],
+        &["locales/fr/common.ftl:"],
+    );
+}
+
+#[test]
+fn bad_app_file_name() {
+    assert_problems(
+        "bad-app",
+        &[("locales/fr/Word_Craft.tsv", H)],
+        &["locales/fr/Word_Craft.tsv:"],
+    );
+}
+
+#[test]
+fn missing_clean_room_rule() {
+    assert_problems(
+        "no-clean-room",
+        &[("locales/fr/common.tsv", "\tSave\tEnregistrer\n")],
+        &["locales/fr/common.tsv:"],
+    );
+}
+
+#[test]
+fn redundant_override() {
+    let same = format!("{H}\tSave\tEnregistrer\n");
+    assert_problems(
+        "redundant",
+        &[
+            ("locales/fr/common.tsv", &same),
+            ("locales/fr/wordcraft.tsv", &same),
+        ],
+        &["locales/fr/wordcraft.tsv: line 2:"],
+    );
+}
+
+#[test]
+fn plural_count_by_locale() {
+    let common = format!("{H}@plural\t{{n}} a|{{n}} b\t{{n}} x|{{n}} y\n");
+    assert_problems(
+        "plural-ja",
+        &[("locales/ja/common.tsv", &common)],
+        &["locales/ja/common.tsv: line 2:"],
+    );
+}
+
+#[test]
+fn no_locales_dir() {
+    assert_problems("empty", &[], &[]);
+}
+
+#[test]
+fn coverage_counts_rows_against_largest_locale() {
+    let fr = format!("{H}\tSave\tEnregistrer\n\tUndo\tAnnuler\n");
+    let de = format!("{H}\tSave\tSpeichern\n");
+    let report = coverage(&fixture(
+        "coverage",
+        &[
+            ("locales/fr/common.tsv", &fr),
+            ("locales/de/common.tsv", &de),
+        ],
+    ));
+    assert!(
+        report.contains(&"de/common.tsv: 1/2".to_owned()),
+        "{report:?}"
+    );
+    assert!(
+        report.contains(&"fr/common.tsv: 2/2".to_owned()),
+        "{report:?}"
+    );
 }
