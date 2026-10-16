@@ -1,0 +1,12 @@
+[package]
+name = "craft-i18n"
+description = "The Crafting Apps' shared translations: finding a craft-i18n checkout and the Fluent files to load, shared strings first, app overrides after."
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+rust-version.workspace = true
+publish = false
+
+[lints]
+workspace = true

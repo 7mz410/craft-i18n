@@ -1,0 +1,18 @@
+[package]
+name = "craft-i18n-tests"
+description = "Assertions on the translation files themselves: they parse, ids are unique, and translations only use ids the source locale defines."
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+rust-version.workspace = true
+publish = false
+
+[dependencies]
+craft-i18n = { path = "../craft-i18n" }
+
+[dev-dependencies]
+fluent-syntax = "0.12"
+
+[lints]
+workspace = true
