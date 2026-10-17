@@ -29,14 +29,16 @@ pub static CRAFT_I18N: &[(&str, &str, &str)] = &[
 ```
 
 - **Unset** (the default): the static is empty. The app is English-only.
-- **Set to a checkout** (it has a `locales/` directory): one entry per locale directory, embedded
-  with `include_str!` on absolute paths.
+- **Set to a checkout** (it has a `locales/` directory): one entry per locale that has this app's
+  own catalog (`locales/<locale>/<app>.tsv`), embedded with `include_str!` on absolute paths. A
+  locale with only shared strings is left out, so an app never offers a language it has barely
+  been translated into.
 - **Set but not a checkout:** `cargo::warning`, and the static is empty.
 - **`CRAFT_I18N_REQUIRED=1`** with a missing or invalid checkout: `cargo::error`. Releases set it,
   so a release never ships English-only by accident.
 - `cargo::rerun-if-env-changed` for both variables, and `cargo::rerun-if-changed` for every
   embedded file and the `locales/` directory.
-- Web (wasm) builds embed every locale too.
+- Web (wasm) builds embed the same locales as desktop.
 
 Use an **absolute** path: Cargo runs build scripts in the crate's own directory.
 

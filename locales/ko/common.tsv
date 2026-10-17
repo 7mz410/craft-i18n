@@ -1,0 +1,205 @@
+# 한국어 (ko) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	전체 커밋 중 %
+	(none)	(없음)
+	About	정보
+	Accessibility	접근성
+	Add	추가
+	Add a comment	댓글 추가
+	Advanced	고급
+	Align	맞춤
+	Alignment:	맞춤:
+	All	모두
+	All pages	모든 페이지
+	Apply	적용
+	Arrow	화살표
+	Author	작성자
+	Auto	자동
+	Binary assets added	추가된 바이너리 에셋
+	Bold	굵게
+	Bottom	아래쪽
+	Bottom:	아래쪽:
+	Browse…	찾아보기…
+	Cancel	취소
+	Characters	문자
+	Circle	원
+	Clear	지우기
+	Clear All	모두 지우기
+	Clipboard	클립보드
+	Close	닫기
+	Collapse	축소
+	Color	색
+	Color:	색:
+	Combine	결합
+	Comments	댓글
+	Commits	커밋
+	Company	회사
+	Compare	비교
+	Contributors	기여자
+	Convert	변환
+	Copy	복사
+	Create	만들기
+	Current page	현재 페이지
+	Custom	사용자 지정
+	Cut	잘라내기
+	Dark	어둡게
+	Dashed	파선
+	Date format	날짜 형식
+	Default	기본값
+	Delete	삭제
+	Deleted	삭제됨
+	Description:	설명:
+	Diamond	마름모
+	Direction:	방향:
+	Display name	표시 이름
+	Document	문서
+	Document Title	문서 제목
+	Dot	점
+	Draw	그리기
+	Editing	편집
+	Edit…	편집…
+	Eraser	지우개
+	Even pages only	짝수 페이지에만
+	Example: {sample}	예: {sample}
+	Export	내보내기
+	Field	필드
+	Field properties	필드 속성
+	Fields	필드
+	File	파일
+	First	첫 번째
+	First commit	첫 번째 커밋
+	Flip Horizontal	가로로 뒤집기
+	Flip Vertical	세로로 뒤집기
+	Font	글꼴
+	Font:	글꼴:
+	Fonts	글꼴
+	Format	서식
+	Format:	서식:
+	Full Screen	전체 화면
+	General	일반
+	Graphic	그래픽
+	Headings	제목
+	Height:	높이:
+	Help	도움말
+	Hidden text	숨겨진 텍스트
+	Home	홈
+	Horizontal	가로
+	Index	색인
+	Insert	삽입
+	Interface language	인터페이스 언어
+	Italic	기울임꼴
+	Justify	양쪽 맞춤
+	Keywords	키워드
+	Labels	레이블
+	Landscape	가로
+	Language	언어
+@id	language.name	한국어
+	Last	마지막
+	Last commit	최근 커밋
+	Left	왼쪽
+	Left:	왼쪽:
+	Light	밝게
+	Line	줄
+	Line spacing	줄 간격
+	Lines +/−	줄 +/−
+	Lines added	추가된 줄
+	Lines deleted	삭제된 줄
+	Link	링크
+	List	목록
+	Location	위치
+	Margins	여백
+	Medium	보통
+	Merged PRs	병합된 PR
+	Model	모델
+	Models	모델
+	Name	이름
+	Name (A–Z)	이름순(A–Z)
+	Name:	이름:
+	Next	다음
+	No	아니요
+	No limit	제한 없음
+	None	없음
+	Odd pages only	홀수 페이지에만
+	Off	끄기
+	OK	확인
+	On	켜기
+	Open	열기
+	Options	옵션
+	Options…	옵션…
+	Oval	타원
+	Page	페이지
+	Pages	페이지
+	Password	암호
+	Paste	붙여넣기
+	Portrait	세로
+	Position	위치
+	Preview	미리 보기
+	Print	인쇄
+	Printing	인쇄
+	Protect	보호
+	PRs	PR
+	Real name	실명
+	Recent	최근 항목
+	Rectangle	직사각형
+	Redo	다시 실행
+	Refresh	새로 고침
+	Remove	제거
+	Replace	바꾸기
+	Reply	답글
+	Report	보고서
+	Review	검토
+	Right	오른쪽
+	Rotate	회전
+	Rotation	회전
+	Rotation:	회전:
+	Save	저장
+	Search	검색
+	Select All	모두 선택
+	Selected pages	선택한 페이지
+	Selection	선택 영역
+	Show	표시
+	Size	크기
+	Sort	정렬
+	Split	나누기
+	Square	정사각형
+	Standard	표준
+	Star	별
+	Strikethrough	취소선
+	Style	스타일
+	Subject	주제
+	System	시스템
+	Table	표
+	Tables	표
+	Text	텍스트
+	The passwords don't match.	암호가 일치하지 않습니다.
+	Thickness	두께
+	Title	제목
+	Tools	도구
+	Top	위쪽
+	Total	합계
+	Translate	번역
+	Type	종류
+	Underline	밑줄
+	Undo	실행 취소
+	Undo {action}	{action} 실행 취소
+	Up	위쪽
+	Username	사용자 이름
+	Version	버전
+	Vertical	세로
+	View	보기
+	Watermark	워터마크
+	Width:	너비:
+	Words	단어
+	Yes	예
+	Zoom	확대/축소

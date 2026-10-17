@@ -28,6 +28,16 @@ context <TAB> English source text <TAB> translation
 - Lines starting with `#` and blank lines are ignored. Windows line endings and a byte-order mark
   are fine.
 
+## Language name
+
+Each `common.tsv` names its language in that language, for the apps' language pickers:
+
+```
+@id	language.name	Français
+```
+
+Without it, a picker shows the locale code.
+
 ## Plurals
 
 An `@plural` row's source text is `one|other` English forms, both with the same placeholders. Its

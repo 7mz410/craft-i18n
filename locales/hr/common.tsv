@@ -1,0 +1,210 @@
+# Hrvatski (hr) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	% svih commitova
+	(none)	(ništa)
+	About	O programu
+	Accessibility	Pristupačnost
+	Add	Dodaj
+	Add a comment	Dodaj komentar
+	Advanced	Napredno
+	Align	Poravnaj
+	Alignment:	Poravnanje:
+	All	Sve
+	All pages	Sve stranice
+	Apply	Primijeni
+	Arrow	Strelica
+	Author	Autor
+	Auto	Automatski
+	Auto ({percent}%)	Automatski ({percent} %)
+	Binary assets added	Dodani binarni resursi
+	Bold	Podebljano
+	Bottom	Dolje
+	Bottom:	Dolje:
+	Browse…	Pregledaj…
+	Cancel	Odustani
+	Characters	Znakovi
+	Circle	Krug
+	Clear	Očisti
+	Clear All	Očisti sve
+	Clipboard	Međuspremnik
+	Close	Zatvori
+	Collapse	Sažmi
+	Color	Boja
+	Color:	Boja:
+	Combine	Kombiniraj
+	Comments	Komentari
+	Commits	Commitovi
+	Company	Tvrtka
+	Compare	Usporedi
+	Contributors	Doprinositelji
+	Convert	Pretvori
+	Copy	Kopiraj
+	Create	Izradi
+	Current page	Trenutačna stranica
+	Custom	Prilagođeno
+	Cut	Izreži
+	Dark	Tamno
+	Dashed	Crtkano
+	Date format	Format datuma
+	Default	Zadano
+	Delete	Izbriši
+	Deleted	Izbrisano
+	Description:	Opis:
+	Diamond	Romb
+	Direction:	Smjer:
+	Display name	Prikazno ime
+	Document	Dokument
+	Document Title	Naslov dokumenta
+	Dot	Točka
+	Draw	Crtanje
+	Editing	Uređivanje
+	Edit…	Uredi…
+	Eraser	Gumica
+	Even pages only	Samo parne stranice
+	Example: {sample}	Primjer: {sample}
+	Export	Izvoz
+	Field	Polje
+	Field properties	Svojstva polja
+	Fields	Polja
+	File	Datoteka
+	First	Prvi
+	First commit	Prvi commit
+	Flip Horizontal	Okreni vodoravno
+	Flip Vertical	Okreni okomito
+	Font	Font
+	Font:	Font:
+	Fonts	Fontovi
+	Format	Oblikovanje
+	Format:	Oblikovanje:
+	Full Screen	Cijeli zaslon
+	General	Općenito
+	Graphic	Grafika
+	Headings	Naslovi
+	Height:	Visina:
+	Help	Pomoć
+	Hidden text	Skriveni tekst
+	Home	Početna
+	Horizontal	Vodoravno
+	Index	Kazalo
+	Insert	Umetni
+	Interface language	Jezik sučelja
+	Italic	Kurziv
+	Justify	Obostrano poravnaj
+	Keywords	Ključne riječi
+	Labels	Naljepnice
+	Landscape	Položeno
+	Language	Jezik
+@id	language.name	Hrvatski
+	Last	Zadnji
+	Last commit	Zadnji commit
+	Left	Lijevo
+	Left:	Lijevo:
+	Light	Svijetlo
+	Line	Crta
+	Line spacing	Razmak redaka
+	Lines +/−	Retci +/−
+	Lines added	Dodani retci
+	Lines deleted	Izbrisani retci
+	Link	Poveznica
+	List	Popis
+	Location	Lokacija
+	Margins	Margine
+	Medium	Srednje
+	Merged PRs	Spojeni PR-ovi
+	Model	Model
+	Models	Modeli
+	Name	Naziv
+	Name (A–Z)	Naziv (A–Ž)
+	Name:	Naziv:
+	Next	Sljedeće
+	No	Ne
+	No limit	Bez ograničenja
+	None	Nema
+	Odd pages only	Samo neparne stranice
+	Off	Isključeno
+	OK	U redu
+	On	Uključeno
+	Open	Otvori
+	Options	Mogućnosti
+	Options…	Mogućnosti…
+	Oval	Ovalno
+	Page	Stranica
+	Pages	Stranice
+	Password	Lozinka
+	Paste	Zalijepi
+	Portrait	Uspravno
+	Position	Položaj
+	Preview	Pretpregled
+	Print	Ispis
+	Printing	Ispis
+	Protect	Zaštiti
+	PRs	PR-ovi
+	Real name	Pravo ime
+	Recent	Nedavno
+	Recover	Oporavi
+	Rectangle	Pravokutnik
+	Redo	Ponovi
+	Refresh	Osvježi
+	Remove	Ukloni
+	Rename	Preimenuj
+	Replace	Zamijeni
+	Reply	Odgovori
+	Report	Izvješće
+	Review	Pregled
+	Right	Desno
+	Rotate	Zakreni
+	Rotation	Rotacija
+	Rotation:	Rotacija:
+	Save	Spremi
+	Search	Traži
+	Select All	Odaberi sve
+	Selected pages	Odabrane stranice
+	Selection	Odabir
+	Show	Prikaži
+	Size	Veličina
+	Sort	Sortiraj
+	Sort by	Sortiraj po
+	Split	Podijeli
+	Square	Kvadrat
+	Standard	Standardno
+	Star	Zvijezda
+	Strikethrough	Precrtano
+	Style	Stil
+	Subject	Predmet
+	System	Sustav
+	Table	Tablica
+	Tables	Tablice
+	Text	Tekst
+	The passwords don't match.	Lozinke se ne podudaraju.
+	Thickness	Debljina
+	This document has no bookmarks.	Ovaj dokument nema knjižnih oznaka.
+	Title	Naslov
+	Tools	Alati
+	Top	Gore
+	Total	Ukupno
+	Translate	Prevedi
+	Type	Vrsta
+	Underline	Podcrtano
+	Undo	Poništi
+	Undo {action}	Poništi: {action}
+	Up	Gore
+	Username	Korisničko ime
+	Version	Verzija
+	Vertical	Okomito
+	View	Prikaz
+	Watermark	Vodeni žig
+	Width:	Širina:
+	Words	Riječi
+	Yes	Da
+	Zoom	Zumiranje

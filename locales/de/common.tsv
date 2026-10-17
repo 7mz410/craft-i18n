@@ -1,0 +1,210 @@
+# Deutsch (de) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	% aller Commits
+	(none)	(keine)
+	About	Über
+	Accessibility	Barrierefreiheit
+	Add	Hinzufügen
+	Add a comment	Kommentar hinzufügen
+	Advanced	Erweitert
+	Align	Ausrichten
+	Alignment:	Ausrichtung:
+	All	Alle
+	All pages	Alle Seiten
+	Apply	Anwenden
+	Arrow	Pfeil
+	Author	Verfasser
+	Auto	Automatisch
+	Auto ({percent}%)	Automatisch ({percent} %)
+	Binary assets added	Hinzugefügte Binärdateien
+	Bold	Fett
+	Bottom	Unten
+	Bottom:	Unten:
+	Browse…	Durchsuchen…
+	Cancel	Abbrechen
+	Characters	Zeichen
+	Circle	Kreis
+	Clear	Leeren
+	Clear All	Alle abwählen
+	Clipboard	Zwischenablage
+	Close	Schließen
+	Collapse	Einklappen
+	Color	Farbe
+	Color:	Farbe:
+	Combine	Zusammenführen
+	Comments	Kommentare
+	Commits	Commits
+	Company	Unternehmen
+	Compare	Vergleichen
+	Contributors	Mitwirkende
+	Convert	Konvertieren
+	Copy	Kopieren
+	Create	Erstellen
+	Current page	Aktuelle Seite
+	Custom	Benutzerdefiniert
+	Cut	Ausschneiden
+	Dark	Dunkel
+	Dashed	Gestrichelt
+	Date format	Datumsformat
+	Default	Standard
+	Delete	Löschen
+	Deleted	Gelöscht
+	Description:	Beschreibung:
+	Diamond	Raute
+	Direction:	Richtung:
+	Display name	Anzeigename
+	Document	Dokument
+	Document Title	Dokumenttitel
+	Dot	Punkt
+	Draw	Zeichnen
+	Editing	Bearbeiten
+	Edit…	Bearbeiten…
+	Eraser	Radierer
+	Even pages only	Nur gerade Seiten
+	Example: {sample}	Beispiel: {sample}
+	Export	Exportieren
+	Field	Feld
+	Field properties	Feldeigenschaften
+	Fields	Felder
+	File	Datei
+	First	Erster
+	First commit	Erster Commit
+	Flip Horizontal	Horizontal spiegeln
+	Flip Vertical	Vertikal spiegeln
+	Font	Schriftart
+	Font:	Schrift:
+	Fonts	Schriften
+	Format	Format
+	Format:	Format:
+	Full Screen	Vollbild
+	General	Allgemein
+	Graphic	Grafik
+	Headings	Überschriften
+	Height:	Höhe:
+	Help	Hilfe
+	Hidden text	Ausgeblendeter Text
+	Home	Start
+	Horizontal	Horizontal
+	Index	Index
+	Insert	Einfügen
+	Interface language	Sprache der Oberfläche
+	Italic	Kursiv
+	Justify	Blocksatz
+	Keywords	Stichwörter
+	Labels	Beschriftungen
+	Landscape	Querformat
+	Language	Sprache
+@id	language.name	Deutsch
+	Last	Letzter
+	Last commit	Letzter Commit
+	Left	Links
+	Left:	Links:
+	Light	Hell
+	Line	Linie
+	Line spacing	Zeilenabstand
+	Lines +/−	Zeilen +/−
+	Lines added	Hinzugefügte Zeilen
+	Lines deleted	Gelöschte Zeilen
+	Link	Link
+	List	Listenfeld
+	Location	Ort
+	Margins	Ränder
+	Medium	Mittel
+	Merged PRs	Gemergte PRs
+	Model	Modell
+	Models	Modelle
+	Name	Name
+	Name (A–Z)	Name (A–Z)
+	Name:	Name:
+	Next	Weiter
+	No	Nein
+	No limit	Keine Grenze
+	None	Keine
+	Odd pages only	Nur ungerade Seiten
+	Off	Aus
+	OK	OK
+	On	Ein
+	Open	Öffnen
+	Options	Optionen
+	Options…	Optionen…
+	Oval	Ellipse
+	Page	Seite
+	Pages	Seiten
+	Password	Passwort
+	Paste	Einfügen
+	Portrait	Hochformat
+	Position	Position
+	Preview	Vorschau
+	Print	Drucken
+	Printing	Drucken
+	Protect	Schützen
+	PRs	PRs
+	Real name	Echter Name
+	Recent	Zuletzt geöffnet
+	Recover	Wiederherstellen
+	Rectangle	Rechteck
+	Redo	Wiederholen
+	Refresh	Aktualisieren
+	Remove	Entfernen
+	Rename	Umbenennen
+	Replace	Ersetzen
+	Reply	Antworten
+	Report	Bericht
+	Review	Überprüfen
+	Right	Rechts
+	Rotate	Drehen
+	Rotation	Drehung
+	Rotation:	Drehung:
+	Save	Speichern
+	Search	Suchen
+	Select All	Alles auswählen
+	Selected pages	Ausgewählte Seiten
+	Selection	Auswahl
+	Show	Anzeigen
+	Size	Größe
+	Sort	Sortieren
+	Sort by	Sortieren nach
+	Split	Teilen
+	Square	Quadrat
+	Standard	Standard
+	Star	Stern
+	Strikethrough	Durchstreichen
+	Style	Stil
+	Subject	Thema
+	System	System
+	Table	Tabelle
+	Tables	Tabellen
+	Text	Text
+	The passwords don't match.	Die Passwörter stimmen nicht überein.
+	Thickness	Stärke
+	This document has no bookmarks.	Dieses Dokument hat keine Lesezeichen.
+	Title	Titel
+	Tools	Werkzeuge
+	Top	Oben
+	Total	Gesamt
+	Translate	Übersetzen
+	Type	Typ
+	Underline	Unterstreichen
+	Undo	Rückgängig
+	Undo {action}	{action} rückgängig machen
+	Up	Nach oben
+	Username	Benutzername
+	Version	Version
+	Vertical	Vertikal
+	View	Ansicht
+	Watermark	Wasserzeichen
+	Width:	Breite:
+	Words	Wörter
+	Yes	Ja
+	Zoom	Zoom

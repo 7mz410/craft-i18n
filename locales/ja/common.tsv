@@ -1,0 +1,210 @@
+# 日本語 (ja) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	全コミットに占める割合（%）
+	(none)	（なし）
+	About	概要
+	Accessibility	アクセシビリティ
+	Add	追加
+	Add a comment	注釈を追加
+	Advanced	詳細設定
+	Align	整列
+	Alignment:	配置:
+	All	すべて
+	All pages	すべてのページ
+	Apply	適用
+	Arrow	矢印
+	Author	作成者
+	Auto	自動
+	Auto ({percent}%)	自動 ({percent}%)
+	Binary assets added	追加したバイナリファイル数
+	Bold	太字
+	Bottom	下
+	Bottom:	下:
+	Browse…	参照…
+	Cancel	キャンセル
+	Characters	文字数
+	Circle	円形
+	Clear	クリア
+	Clear All	すべてクリア
+	Clipboard	クリップボード
+	Close	閉じる
+	Collapse	折りたたむ
+	Color	色
+	Color:	色:
+	Combine	結合
+	Comments	コメント
+	Commits	コミット
+	Company	企業
+	Compare	比較
+	Contributors	貢献者
+	Convert	変換
+	Copy	コピー
+	Create	作成
+	Current page	現在のページ
+	Custom	カスタム
+	Cut	切り取り
+	Dark	ダーク
+	Dashed	破線
+	Date format	日付の形式
+	Default	既定
+	Delete	削除
+	Deleted	削除
+	Description:	説明:
+	Diamond	ひし形
+	Direction:	方向:
+	Display name	表示名
+	Document	文書
+	Document Title	文書タイトル
+	Dot	点
+	Draw	描画
+	Editing	編集
+	Edit…	編集…
+	Eraser	消しゴム
+	Even pages only	偶数ページのみ
+	Example: {sample}	例: {sample}
+	Export	書き出し
+	Field	フィールド
+	Field properties	フィールドのプロパティ
+	Fields	フィールド
+	File	ファイル
+	First	最初
+	First commit	最初のコミット
+	Flip Horizontal	左右反転
+	Flip Vertical	上下反転
+	Font	フォント
+	Font:	フォント:
+	Fonts	フォント
+	Format	形式
+	Format:	書式:
+	Full Screen	フルスクリーン
+	General	一般
+	Graphic	グラフィック
+	Headings	見出し
+	Height:	高さ:
+	Help	ヘルプ
+	Hidden text	非表示テキスト
+	Home	ホーム
+	Horizontal	横
+	Index	インデックス
+	Insert	挿入
+	Interface language	表示言語
+	Italic	斜体
+	Justify	両端揃え
+	Keywords	キーワード
+	Labels	ラベル
+	Landscape	横
+	Language	言語
+@id	language.name	日本語
+	Last	最後
+	Last commit	最後のコミット
+	Left	左
+	Left:	左:
+	Light	ライト
+	Line	直線
+	Line spacing	行間
+	Lines +/−	行数 +/−
+	Lines added	追加した行数
+	Lines deleted	削除した行数
+	Link	リンク
+	List	リスト
+	Location	場所
+	Margins	余白
+	Medium	中
+	Merged PRs	マージ済みの PR
+	Model	モデル
+	Models	モデル
+	Name	名前
+	Name (A–Z)	名前（A–Z）
+	Name:	名前:
+	Next	次へ
+	No	いいえ
+	No limit	制限なし
+	None	なし
+	Odd pages only	奇数ページのみ
+	Off	オフ
+	OK	OK
+	On	オン
+	Open	開く
+	Options	オプション
+	Options…	オプション…
+	Oval	楕円
+	Page	ページ
+	Pages	ページ
+	Password	パスワード
+	Paste	貼り付け
+	Portrait	縦
+	Position	位置
+	Preview	プレビュー
+	Print	印刷
+	Printing	印刷
+	Protect	保護
+	PRs	PRs
+	Real name	本名
+	Recent	最近使ったファイル
+	Recover	復元
+	Rectangle	長方形
+	Redo	やり直し
+	Refresh	更新
+	Remove	削除
+	Rename	名前を変更
+	Replace	置換
+	Reply	返信
+	Report	レポート
+	Review	レビュー
+	Right	右
+	Rotate	回転
+	Rotation	回転
+	Rotation:	回転:
+	Save	保存
+	Search	検索
+	Select All	すべて選択
+	Selected pages	選択したページ
+	Selection	選択範囲
+	Show	表示
+	Size	サイズ
+	Sort	並べ替え
+	Sort by	並べ替え
+	Split	分割
+	Square	四角形
+	Standard	標準
+	Star	星形
+	Strikethrough	取り消し線
+	Style	スタイル
+	Subject	件名
+	System	システム
+	Table	表
+	Tables	表
+	Text	テキスト
+	The passwords don't match.	パスワードが一致しません。
+	Thickness	太さ
+	This document has no bookmarks.	この文書にしおりはありません。
+	Title	タイトル
+	Tools	ツール
+	Top	上
+	Total	合計
+	Translate	翻訳
+	Type	種類
+	Underline	下線
+	Undo	取り消し
+	Undo {action}	元に戻す: {action}
+	Up	上へ
+	Username	ユーザー名
+	Version	バージョン
+	Vertical	縦
+	View	表示
+	Watermark	透かし
+	Width:	幅:
+	Words	単語数
+	Yes	はい
+	Zoom	ズーム

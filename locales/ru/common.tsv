@@ -1,0 +1,210 @@
+# Русский (ru) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	% всех коммитов
+	(none)	(нет)
+	About	О программе
+	Accessibility	Специальные возможности
+	Add	Добавить
+	Add a comment	Добавить комментарий
+	Advanced	Дополнительно
+	Align	Выровнять
+	Alignment:	Выравнивание:
+	All	Все
+	All pages	Все страницы
+	Apply	Применить
+	Arrow	Стрелка
+	Author	Автор
+	Auto	Авто
+	Auto ({percent}%)	Авто ({percent}%)
+	Binary assets added	Добавлены двоичные ресурсы
+	Bold	Полужирный
+	Bottom	Снизу
+	Bottom:	Снизу:
+	Browse…	Обзор…
+	Cancel	Отмена
+	Characters	Знаки
+	Circle	Круг
+	Clear	Очистить
+	Clear All	Очистить всё
+	Clipboard	Буфер обмена
+	Close	Закрыть
+	Collapse	Свернуть
+	Color	Цвет
+	Color:	Цвет:
+	Combine	Объединить
+	Comments	Комментарии
+	Commits	Коммиты
+	Company	Организация
+	Compare	Сравнить
+	Contributors	Участники
+	Convert	Преобразовать
+	Copy	Копировать
+	Create	Создать
+	Current page	Текущая страница
+	Custom	Другая
+	Cut	Вырезать
+	Dark	Тёмная
+	Dashed	Штриховой
+	Date format	Формат даты
+	Default	По умолчанию
+	Delete	Удалить
+	Deleted	Удалено
+	Description:	Описание:
+	Diamond	Ромб
+	Direction:	Направление:
+	Display name	Отображаемое имя
+	Document	Документ
+	Document Title	Название документа
+	Dot	Точка
+	Draw	Рисование
+	Editing	Редактирование
+	Edit…	Изменить…
+	Eraser	Ластик
+	Even pages only	Только чётные страницы
+	Example: {sample}	Пример: {sample}
+	Export	Экспорт
+	Field	Поле
+	Field properties	Свойства поля
+	Fields	Поля
+	File	Файл
+	First	Первый
+	First commit	Первый коммит
+	Flip Horizontal	Отразить слева направо
+	Flip Vertical	Отразить сверху вниз
+	Font	Шрифт
+	Font:	Шрифт:
+	Fonts	Шрифты
+	Format	Формат
+	Format:	Формат:
+	Full Screen	Во весь экран
+	General	Общие
+	Graphic	Графический объект
+	Headings	Заголовки
+	Height:	Высота:
+	Help	Справка
+	Hidden text	Скрытый текст
+	Home	Главная
+	Horizontal	Горизонтально
+	Index	Предметный указатель
+	Insert	Вставка
+	Interface language	Язык интерфейса
+	Italic	Курсив
+	Justify	По ширине
+	Keywords	Ключевые слова
+	Labels	Наклейки
+	Landscape	Альбомная
+	Language	Язык
+@id	language.name	Русский
+	Last	Последний
+	Last commit	Последний коммит
+	Left	Слева
+	Left:	Слева:
+	Light	Светлая
+	Line	Линия
+	Line spacing	Межстрочный интервал
+	Lines +/−	Строки +/−
+	Lines added	Добавлено строк
+	Lines deleted	Удалено строк
+	Link	Ссылка
+	List	Список
+	Location	Расположение
+	Margins	Поля
+	Medium	Средняя
+	Merged PRs	Принятые PR
+	Model	Модель
+	Models	Модели
+	Name	Имя
+	Name (A–Z)	Имя (А–Я)
+	Name:	Имя:
+	Next	Далее
+	No	Нет
+	No limit	Без ограничения
+	None	Нет
+	Odd pages only	Только нечётные страницы
+	Off	Выключено
+	OK	ОК
+	On	Включено
+	Open	Открыть
+	Options	Параметры
+	Options…	Параметры…
+	Oval	Овал
+	Page	Страница
+	Pages	Страницы
+	Password	Пароль
+	Paste	Вставить
+	Portrait	Книжная
+	Position	Положение
+	Preview	Предварительный просмотр
+	Print	Печать
+	Printing	Печать
+	Protect	Защита
+	PRs	PR
+	Real name	Настоящее имя
+	Recent	Последние
+	Recover	Восстановить
+	Rectangle	Прямоугольник
+	Redo	Вернуть
+	Refresh	Обновить
+	Remove	Удалить
+	Rename	Переименовать
+	Replace	Заменить
+	Reply	Ответить
+	Report	Отчёт
+	Review	Рецензирование
+	Right	Справа
+	Rotate	Повернуть
+	Rotation	Поворот
+	Rotation:	Поворот:
+	Save	Сохранить
+	Search	Поиск
+	Select All	Выделить всё
+	Selected pages	Выбранные страницы
+	Selection	Выделение
+	Show	Показать
+	Size	Размер
+	Sort	Сортировка
+	Sort by	Сортировать по
+	Split	Разделить
+	Square	Квадрат
+	Standard	Обычные
+	Star	Звезда
+	Strikethrough	Зачёркнутый
+	Style	Стиль
+	Subject	Тема
+	System	Системные
+	Table	Таблица
+	Tables	Таблицы
+	Text	Текст
+	The passwords don't match.	Пароли не совпадают.
+	Thickness	Толщина
+	This document has no bookmarks.	В этом документе нет закладки.
+	Title	Заголовок
+	Tools	Инструменты
+	Top	Сверху
+	Total	Всего
+	Translate	Перевести
+	Type	Тип
+	Underline	Подчёркнутый
+	Undo	Отменить
+	Undo {action}	Отменить: {action}
+	Up	Вверх
+	Username	Имя пользователя
+	Version	Версия
+	Vertical	Вертикально
+	View	Вид
+	Watermark	Подложка
+	Width:	Ширина:
+	Words	Слова
+	Yes	Да
+	Zoom	Масштаб

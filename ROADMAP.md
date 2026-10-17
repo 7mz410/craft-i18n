@@ -1,7 +1,7 @@
 # craft-i18n roadmap
 
-> **Last updated:** 2026-10-16 · **Change:** major (first roadmap, from the design session that
-> chose TSV catalogs and a craft-libs runtime; see ADRs 0001 and 0002)
+> **Last updated:** 2026-10-17 · **Change:** minor (milestones 1 and 2 done; WordCraft and PdfCraft
+> catalogs migrated)
 
 Shared translations for the storytold Crafting Apps: one catalog per locale for shared strings,
 one per app, checked in CI and embedded by each app at build time. Vocabulary is in
@@ -11,9 +11,9 @@ one per app, checked in CI and embedded by each app at build time. Vocabulary is
 
 | # | Milestone | Where | Status |
 |---|---|---|---|
-| 1 | TSV catalog format and strict checker; Fluent and the unusable library crate removed; translator and integration docs | this repo | in progress |
-| 2 | `craft-i18n` runtime crate: parser, lookup, fallback, plurals (`intl_pluralrules`), locale matching, pseudo locale | craft-libs | not started |
-| 3a | Migrate WordCraft and PdfCraft (proves the runtime on the largest catalogs; seeds the shared catalog) | apps | not started |
+| 1 | TSV catalog format and strict checker; Fluent and the unusable library crate removed; translator and integration docs | this repo | done (PR #1) |
+| 2 | `craft-i18n` runtime crate: parser, lookup, fallback, plurals (`intl_pluralrules`), locale matching, pseudo locale | craft-libs | done on a fork; upstream PR pending |
+| 3a | Migrate WordCraft and PdfCraft (proves the runtime on the largest catalogs; seeds the shared catalog) | apps | catalogs moved here; app wiring waits on craft-libs |
 | 3b | Migrate the other TSV apps: PhotoCraft, VectorCraft, FilmCraft, CADCraft, craft-launcher | apps | not started |
 | 3c | Convert and migrate FigCraft (TOML), LightCraft (JSON), DesignCraft, GridCraft, EffectCraft (Rust tables) | apps | not started |
 | 3d | Add translation to DeckCraft and SoundCraft | apps | not started |
@@ -23,9 +23,9 @@ names, origin recorded in `ATTRIBUTION.md`), add the `build.rs` recipe from
 [`docs/integration.md`](docs/integration.md), switch to the runtime crate, delete the app's copied
 i18n module, and add the app-side stale/missing string report.
 
-Known migration fixes: PdfCraft's Turkish catalog lists one plural form, CLDR (and CI) need two;
-add the second form to its `@plural` rows. The runtime crate must pin the same `intl_pluralrules`
-version as the checker, or their plural form counts can disagree.
+Known migration fixes: PdfCraft's Turkish `@plural` rows listed one form, CLDR (and CI) need two;
+done in 3a by repeating the form (Turkish nouns stay singular after numerals). The runtime crate
+must pin the same `intl_pluralrules` version as the checker, or their plural form counts can disagree.
 
 ## Apps
 
@@ -33,8 +33,8 @@ As surveyed on 2026-10-16. Locale counts exclude English.
 
 | App | Format today | Locales | Plurals | Migrated |
 |---|---|---|---|---|
-| WordCraft | TSV | 22 | none | no |
-| PdfCraft | TSV | 22 | `@plural` | no |
+| WordCraft | TSV | 22 | none | catalogs |
+| PdfCraft | TSV | 22 | `@plural` | catalogs |
 | PhotoCraft | TSV | 20 | `@plural` | no |
 | VectorCraft | TSV | 19 | `@plural` | no |
 | FilmCraft | TSV | 11 | none | no |
@@ -62,3 +62,4 @@ As surveyed on 2026-10-16. Locale counts exclude English.
 | Date | Change | Summary |
 |---|---|---|
 | 2026-10-16 | major | First roadmap: milestones 1–3d, per-app survey, open decisions |
+| 2026-10-17 | minor | Milestones 1 and 2 done; WordCraft and PdfCraft catalogs migrated (196 shared strings, 28 locales) |

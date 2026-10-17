@@ -1,0 +1,203 @@
+# తెలుగు (te) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	మొత్తం కమిట్‌లలో %
+	(none)	(ఏదీ లేదు)
+	About	పరిచయం
+	Accessibility	యాక్సెసిబిలిటీ
+	Add	జోడించు
+	Add a comment	వ్యాఖ్యను జోడించండి
+	Advanced	అధునాతనం
+	Align	అమరిక
+	Alignment:	అమరిక:
+	All	అన్నీ
+	All pages	అన్ని పేజీలు
+	Apply	వర్తింపజేయి
+	Arrow	బాణం
+	Author	రచయిత
+	Auto	ఆటో
+	Auto ({percent}%)	ఆటో ({percent}%)
+	Binary assets added	జోడించిన బైనరీ ఫైల్‌లు
+	Bold	బోల్డ్
+	Bottom	కింద
+	Bottom:	కింద:
+	Browse…	బ్రౌజ్ చేయి…
+	Cancel	రద్దు చేయి
+	Characters	అక్షరాలు
+	Circle	వృత్తం
+	Clear	క్లియర్ చేయి
+	Clear All	అన్నీ క్లియర్ చేయి
+	Clipboard	క్లిప్‌బోర్డ్
+	Close	మూసివేయి
+	Collapse	ముడుచు
+	Color:	రంగు:
+	Combine	కలుపు
+	Comments	వ్యాఖ్యలు
+	Commits	కమిట్‌లు
+	Company	సంస్థ
+	Compare	పోల్చు
+	Contributors	సహకారులు
+	Convert	మార్పిడి
+	Copy	కాపీ చేయి
+	Create	సృష్టించు
+	Current page	ప్రస్తుత పేజీ
+	Custom	అనుకూల
+	Cut	కత్తిరించు
+	Dark	డార్క్
+	Dashed	డ్యాష్డ్
+	Date format	తేదీ ఫార్మాట్
+	Default	డిఫాల్ట్
+	Delete	తొలగించు
+	Deleted	తొలగింపు
+	Description:	వివరణ:
+	Diamond	వజ్రాకారం
+	Direction:	దిశ:
+	Display name	ప్రదర్శించే పేరు
+	Document	పత్రం
+	Document Title	పత్రం శీర్షిక
+	Dot	చుక్క
+	Draw	గీయి
+	Editing	సవరించడం
+	Edit…	సవరించు…
+	Eraser	ఎరేజర్
+	Even pages only	సరి పేజీలు మాత్రమే
+	Example: {sample}	ఉదాహరణ: {sample}
+	Export	ఎగుమతి చేయి
+	Field	ఫీల్డ్
+	Field properties	ఫీల్డ్ లక్షణాలు
+	Fields	ఫీల్డ్‌లు
+	File	ఫైల్
+	First	మొదటి
+	First commit	మొదటి కమిట్
+	Flip Horizontal	అడ్డంగా తిరగేయి
+	Flip Vertical	నిలువుగా తిరగేయి
+	Font:	ఫాంట్:
+	Fonts	ఫాంట్‌లు
+	Format	ఫార్మాట్
+	Format:	ఫార్మాట్:
+	Full Screen	పూర్తి తెర
+	General	సాధారణం
+	Graphic	గ్రాఫిక్
+	Headings	హెడింగ్‌లు
+	Height:	ఎత్తు:
+	Help	సహాయం
+	Hidden text	దాచిన టెక్స్ట్
+	Home	హోమ్
+	Horizontal	అడ్డంగా
+	Index	ఇండెక్స్
+	Insert	చొప్పించు
+	Interface language	ఇంటర్‌ఫేస్ భాష
+	Italic	ఇటాలిక్
+	Justify	రెండు వైపులా అమర్చు
+	Keywords	కీలక పదాలు
+	Labels	లేబుల్‌లు
+	Landscape	అడ్డం
+	Language	భాష
+@id	language.name	తెలుగు
+	Last	చివరి
+	Last commit	చివరి కమిట్
+	Left	ఎడమ
+	Left:	ఎడమ:
+	Light	లైట్
+	Line	గీత
+	Line spacing	పంక్తి అంతరం
+	Lines +/−	పంక్తులు +/−
+	Lines added	జోడించిన పంక్తులు
+	Lines deleted	తొలగించిన పంక్తులు
+	Link	లింక్
+	List	లిస్ట్ బాక్స్
+	Location	స్థానం
+	Margins	మార్జిన్‌లు
+	Medium	మధ్యస్థం
+	Merged PRs	విలీనం చేసిన PRలు
+	Model	మోడల్
+	Models	మోడల్‌లు
+	Name	పేరు
+	Name (A–Z)	పేరు (A–Z)
+	Name:	పేరు:
+	No	కాదు
+	No limit	పరిమితి లేదు
+	None	ఏదీ లేదు
+	Odd pages only	బేసి పేజీలు మాత్రమే
+	Off	ఆఫ్
+	OK	సరే
+	Open	తెరువు
+	Options	ఎంపికలు
+	Options…	ఎంపికలు…
+	Oval	అండాకారం
+	Page	పేజీ
+	Pages	పేజీలు
+	Password	పాస్‌వర్డ్
+	Portrait	నిలువు
+	Position	స్థానం
+	Preview	ప్రివ్యూ
+	Print	ముద్రించు
+	Printing	ముద్రణ
+	Protect	రక్షణ
+	PRs	PRలు
+	Real name	అసలు పేరు
+	Recent	ఇటీవలి
+	Recover	పునరుద్ధరించు
+	Rectangle	దీర్ఘచతురస్రం
+	Redo	మళ్లీ చేయి
+	Remove	తీసివేయి
+	Rename	పేరు మార్చు
+	Replace	భర్తీ చేయి
+	Reply	ప్రత్యుత్తరం ఇవ్వు
+	Report	నివేదిక
+	Review	సమీక్ష
+	Right	కుడి
+	Rotate	తిప్పు
+	Rotation	భ్రమణం
+	Rotation:	భ్రమణం:
+	Save	సేవ్ చేయి
+	Search	శోధన
+	Select All	అన్నీ ఎంచుకో
+	Selected pages	ఎంచుకున్న పేజీలు
+	Selection	ఎంచుకున్నవి
+	Show	చూపించు
+	Size	పరిమాణం
+	Sort	క్రమపరిచే విధానం
+	Sort by	క్రమపరిచే విధానం
+	Split	విభజించు
+	Square	చతురస్రం
+	Standard	ప్రామాణికం
+	Star	నక్షత్రం
+	Strikethrough	కొట్టివేత
+	Style	శైలి
+	Subject	విషయం
+	Table	పట్టిక
+	Tables	పట్టికలు
+	Text	టెక్స్ట్
+	The passwords don't match.	పాస్‌వర్డ్‌లు సరిపోలడం లేదు.
+	Thickness	మందం
+	This document has no bookmarks.	ఈ పత్రంలో బుక్‌మార్క్‌లు లేవు.
+	Title	శీర్షిక
+	Tools	సాధనాలు
+	Top	పైన
+	Total	మొత్తం
+	Translate	అనువదించు
+	Type	రకం
+	Underline	అండర్‌లైన్
+	Undo	రద్దు చేయి
+	Undo {action}	రద్దు చేయి: {action}
+	Up	పైకి
+	Username	వినియోగదారు పేరు
+	Version	వెర్షన్
+	Vertical	నిలువుగా
+	View	వీక్షణ
+	Watermark	వాటర్‌మార్క్
+	Width:	వెడల్పు:
+	Words	పదాలు
+	Yes	అవును
+	Zoom	జూమ్

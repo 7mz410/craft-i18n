@@ -1,0 +1,210 @@
+# 繁體中文 (zh-hant) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	佔全部提交的百分比
+	(none)	（無）
+	About	關於
+	Accessibility	無障礙支援
+	Add	新增
+	Add a comment	新增註解
+	Advanced	進階
+	Align	對齊
+	Alignment:	對齊：
+	All	全部
+	All pages	所有頁面
+	Apply	套用
+	Arrow	箭頭
+	Author	作者
+	Auto	自動
+	Auto ({percent}%)	自動 ({percent}%)
+	Binary assets added	新增的二進位資產
+	Bold	粗體
+	Bottom	下
+	Bottom:	下：
+	Browse…	瀏覽…
+	Cancel	取消
+	Characters	字元數
+	Circle	圓形
+	Clear	清除
+	Clear All	全部清除
+	Clipboard	剪貼簿
+	Close	關閉
+	Collapse	摺疊
+	Color	色彩
+	Color:	顏色：
+	Combine	合併
+	Comments	註解
+	Commits	提交次數
+	Company	公司
+	Compare	比較
+	Contributors	貢獻者
+	Convert	轉換
+	Copy	複製
+	Create	建立
+	Current page	目前頁
+	Custom	自訂
+	Cut	剪下
+	Dark	深色
+	Dashed	虛線
+	Date format	日期格式
+	Default	預設
+	Delete	刪除
+	Deleted	刪除
+	Description:	描述：
+	Diamond	菱形
+	Direction:	方向：
+	Display name	顯示名稱
+	Document	文件
+	Document Title	文件標題
+	Dot	圓點
+	Draw	繪製
+	Editing	編輯
+	Edit…	編輯…
+	Eraser	橡皮擦
+	Even pages only	僅偶數頁
+	Example: {sample}	範例：{sample}
+	Export	匯出
+	Field	欄位
+	Field properties	欄位內容
+	Fields	欄位
+	File	檔案
+	First	首次提交
+	First commit	首次提交
+	Flip Horizontal	水平翻轉
+	Flip Vertical	垂直翻轉
+	Font	字型
+	Font:	字型：
+	Fonts	字型
+	Format	格式
+	Format:	格式：
+	Full Screen	全螢幕
+	General	一般
+	Graphic	圖形
+	Headings	標題
+	Height:	高：
+	Help	說明
+	Hidden text	隱藏文字
+	Home	首頁
+	Horizontal	水平
+	Index	索引
+	Insert	插入
+	Interface language	介面語言
+	Italic	斜體
+	Justify	兩端對齊
+	Keywords	關鍵字
+	Labels	標籤
+	Landscape	橫向
+	Language	語言
+@id	language.name	繁體中文
+	Last	最近提交
+	Last commit	最近提交
+	Left	左
+	Left:	左：
+	Light	淺色
+	Line	直線
+	Line spacing	行距
+	Lines +/−	行數 +/−
+	Lines added	新增行數
+	Lines deleted	刪除行數
+	Link	連結
+	List	清單
+	Location	位置
+	Margins	邊距
+	Medium	中等
+	Merged PRs	已合併的 PR
+	Model	模型
+	Models	模型
+	Name	名稱
+	Name (A–Z)	名稱（A–Z）
+	Name:	名稱：
+	Next	下一個
+	No	否
+	No limit	無限制
+	None	無
+	Odd pages only	僅奇數頁
+	Off	關
+	OK	確定
+	On	開
+	Open	開啟
+	Options	選項
+	Options…	選項…
+	Oval	橢圓
+	Page	頁面
+	Pages	頁面
+	Password	密碼
+	Paste	貼上
+	Portrait	縱向
+	Position	位置
+	Preview	預覽
+	Print	列印
+	Printing	列印
+	Protect	保護
+	PRs	PR
+	Real name	真實姓名
+	Recent	最近使用
+	Recover	恢復
+	Rectangle	矩形
+	Redo	重做
+	Refresh	重新整理
+	Remove	刪除
+	Rename	重新命名
+	Replace	取代
+	Reply	回覆
+	Report	報告
+	Review	審閱
+	Right	右
+	Rotate	旋轉
+	Rotation	旋轉
+	Rotation:	旋轉：
+	Save	儲存
+	Search	搜尋
+	Select All	全選
+	Selected pages	選取的頁面
+	Selection	所選內容
+	Show	顯示
+	Size	尺寸
+	Sort	排序
+	Sort by	排序方式
+	Split	分割
+	Square	正方形
+	Standard	標準
+	Star	星形
+	Strikethrough	刪除線
+	Style	樣式
+	Subject	主題
+	System	系統
+	Table	表格
+	Tables	表格
+	Text	文字
+	The passwords don't match.	兩次輸入的密碼不一致。
+	Thickness	粗細
+	This document has no bookmarks.	本文件沒有書籤。
+	Title	標題
+	Tools	工具
+	Top	上
+	Total	總計
+	Translate	翻譯
+	Type	型別
+	Underline	底線
+	Undo	復原
+	Undo {action}	復原{action}
+	Up	上移
+	Username	使用者名稱
+	Version	版本
+	Vertical	垂直
+	View	檢視
+	Watermark	浮水印
+	Width:	寬：
+	Words	詞數
+	Yes	是
+	Zoom	縮放

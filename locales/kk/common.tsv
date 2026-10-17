@@ -1,0 +1,203 @@
+# Қазақша (kk) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	Барлық коммиттердің пайызы
+	(none)	(жоқ)
+	About	Туралы
+	Accessibility	Қолжетімділік
+	Add	Қосу
+	Add a comment	Түсініктеме қосу
+	Advanced	Қосымша
+	Align	Туралау
+	Alignment:	Туралау:
+	All	Барлығы
+	All pages	Барлық беттер
+	Apply	Қолдану
+	Arrow	Жебе
+	Author	Автор
+	Auto	Авто
+	Auto ({percent}%)	Авто ({percent}%)
+	Binary assets added	Қосылған бинарлы ресурстар
+	Bold	Жуан
+	Bottom	Төмен
+	Bottom:	Төмен:
+	Browse…	Шолу…
+	Cancel	Бас тарту
+	Characters	Таңбалар
+	Circle	Шеңбер
+	Clear	Тазарту
+	Clear All	Барлығын тазалау
+	Clipboard	Алмасу буфері
+	Close	Жабу
+	Collapse	Жинау
+	Color:	Түс:
+	Combine	Біріктіру
+	Comments	Түсініктемелер
+	Commits	Коммиттер
+	Company	Компания
+	Compare	Салыстыру
+	Contributors	Үлес қосушылар
+	Convert	Түрлендіру
+	Copy	Көшіру
+	Create	Жасау
+	Current page	Ағымдағы бет
+	Custom	Өзіндік
+	Cut	Кесу
+	Dark	Күңгірт
+	Dashed	Үзік
+	Date format	Күн пішімі
+	Default	Әдепкі
+	Delete	Жою
+	Deleted	Жойылған
+	Description:	Сипаттама:
+	Diamond	Ромб
+	Direction:	Бағыт:
+	Display name	Көрсетілетін аты
+	Document	Құжат
+	Document Title	Құжат атауы
+	Dot	Нүкте
+	Draw	Салу
+	Editing	Түзету
+	Edit…	Түзету…
+	Eraser	Өшіргіш
+	Even pages only	Тек жұп беттер
+	Example: {sample}	Мысал: {sample}
+	Export	Экспорттау
+	Field	Өріс
+	Field properties	Өріс сипаттары
+	Fields	Өрістер
+	File	Файл
+	First	Алғашқы
+	First commit	Алғашқы коммит
+	Flip Horizontal	Жатыққа аудару
+	Flip Vertical	Тікке аудару
+	Font:	Қаріп:
+	Fonts	Қаріптер
+	Format	Пішім
+	Format:	Пішім:
+	Full Screen	Толық экран
+	General	Жалпы
+	Graphic	Графика
+	Headings	Тақырыптар
+	Height:	Биіктігі:
+	Help	Көмек
+	Hidden text	Жасырын мәтін
+	Home	Басты бет
+	Horizontal	Көлденең
+	Index	Индекс
+	Insert	Енгізу
+	Interface language	Интерфейс тілі
+	Italic	Көлбеу
+	Justify	Екі жаққа туралау
+	Keywords	Кілт сөздер
+	Labels	Белгілер
+	Landscape	Жатық
+	Language	Тіл
+@id	language.name	Қазақша
+	Last	Соңғы
+	Last commit	Соңғы коммит
+	Left	Сол жақ
+	Left:	Сол жақ:
+	Light	Ашық
+	Line	Сызық
+	Line spacing	Жол аралығы
+	Lines +/−	Жолдар +/−
+	Lines added	Қосылған жолдар
+	Lines deleted	Жойылған жолдар
+	Link	Сілтеме
+	List	Тізім
+	Location	Орналасқан жері
+	Margins	Шеттер
+	Medium	Орташа
+	Merged PRs	Біріктірілген PR-лер
+	Model	Модель
+	Models	Модельдер
+	Name	Аты-жөні
+	Name (A–Z)	Аты (А–Я)
+	Name:	Атауы:
+	No	Жоқ
+	No limit	Шектеу жоқ
+	None	Жоқ
+	Odd pages only	Тек тақ беттер
+	Off	Өшірулі
+	OK	ОК
+	Open	Ашу
+	Options	Параметрлер
+	Options…	Параметрлер…
+	Oval	Сопақ
+	Page	Бет
+	Pages	Беттер
+	Password	Құпиясөз
+	Portrait	Тік
+	Position	Орналасу
+	Preview	Алдын ала көру
+	Print	Басып шығару
+	Printing	Басып шығару
+	Protect	Қорғау
+	PRs	PR-лер
+	Real name	Шын аты
+	Recent	Соңғы
+	Recover	Қалпына келтіру
+	Rectangle	Тіктөртбұрыш
+	Redo	Қайталау
+	Remove	Алып тастау
+	Rename	Атын өзгерту
+	Replace	Ауыстыру
+	Reply	Жауап беру
+	Report	Есеп
+	Review	Пікір алмасу
+	Right	Оң жақ
+	Rotate	Бұру
+	Rotation	Бұрылу
+	Rotation:	Бұру:
+	Save	Сақтау
+	Search	Іздеу
+	Select All	Барлығын таңдау
+	Selected pages	Таңдалған беттер
+	Selection	Таңдалғандар
+	Show	Көрсету
+	Size	Өлшем
+	Sort	Сұрыптау
+	Sort by	Бойынша сұрыптау
+	Split	Бөлу
+	Square	Шаршы
+	Standard	Стандартты
+	Star	Жұлдыз
+	Strikethrough	Сызып тастау
+	Style	Стиль
+	Subject	Тақырыбы
+	Table	Кесте
+	Tables	Кестелер
+	Text	Мәтін
+	The passwords don't match.	Құпиясөздер сәйкес емес.
+	Thickness	Жуандық
+	This document has no bookmarks.	Бұл құжатта бетбелгілер жоқ.
+	Title	Атауы
+	Tools	Құралдар
+	Top	Жоғары
+	Total	Барлығы
+	Translate	Аудару
+	Type	Түрі
+	Underline	Астын сызу
+	Undo	Болдырмау
+	Undo {action}	Болдырмау: {action}
+	Up	Жоғары
+	Username	Пайдаланушы аты
+	Version	Нұсқа
+	Vertical	Тік
+	View	Көрініс
+	Watermark	Су белгісі
+	Width:	Ені:
+	Words	Сөздер
+	Yes	Иә
+	Zoom	Масштаб

@@ -1,0 +1,210 @@
+# العربية (ar) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	% من كل الإيداعات
+	(none)	(لا شيء)
+	About	حول
+	Accessibility	إمكانية الوصول
+	Add	إضافة
+	Add a comment	إضافة تعليق
+	Advanced	متقدم
+	Align	محاذاة
+	Alignment:	المحاذاة:
+	All	الكل
+	All pages	كل الصفحات
+	Apply	تطبيق
+	Arrow	سهم
+	Author	المؤلف
+	Auto	تلقائي
+	Auto ({percent}%)	تلقائي ({percent}%)
+	Binary assets added	الأصول الثنائية المضافة
+	Bold	غامق
+	Bottom	أسفل
+	Bottom:	الأسفل:
+	Browse…	استعراض…
+	Cancel	إلغاء
+	Characters	الأحرف
+	Circle	دائرة
+	Clear	مسح
+	Clear All	مسح الكل
+	Clipboard	الحافظة
+	Close	إغلاق
+	Collapse	طي
+	Color	اللون
+	Color:	اللون:
+	Combine	دمج
+	Comments	التعليقات
+	Commits	الإيداعات
+	Company	الشركة
+	Compare	مقارنة
+	Contributors	المساهمون
+	Convert	تحويل
+	Copy	نسخ
+	Create	إنشاء
+	Current page	الصفحة الحالية
+	Custom	مخصص
+	Cut	قص
+	Dark	داكن
+	Dashed	متقطع
+	Date format	تنسيق التاريخ
+	Default	افتراضي
+	Delete	حذف
+	Deleted	محذوف
+	Description:	الوصف:
+	Diamond	معيّن
+	Direction:	الاتجاه:
+	Display name	الاسم المعروض
+	Document	المستند
+	Document Title	عنوان المستند
+	Dot	نقطة
+	Draw	رسم
+	Editing	التحرير
+	Edit…	تحرير…
+	Eraser	ممحاة
+	Even pages only	الصفحات الزوجية فقط
+	Example: {sample}	مثال: {sample}
+	Export	تصدير
+	Field	الحقل
+	Field properties	خصائص الحقل
+	Fields	الحقول
+	File	ملف
+	First	الأول
+	First commit	أول إيداع
+	Flip Horizontal	قلب أفقي
+	Flip Vertical	قلب عمودي
+	Font	الخط
+	Font:	الخط:
+	Fonts	الخطوط
+	Format	الصيغة
+	Format:	التنسيق:
+	Full Screen	ملء الشاشة
+	General	عام
+	Graphic	رسم
+	Headings	العناوين
+	Height:	الارتفاع:
+	Help	مساعدة
+	Hidden text	النص المخفي
+	Home	الرئيسية
+	Horizontal	أفقي
+	Index	فهرس
+	Insert	إدراج
+	Interface language	لغة الواجهة
+	Italic	مائل
+	Justify	ضبط
+	Keywords	الكلمات المفتاحية
+	Labels	التسميات
+	Landscape	أفقي
+	Language	اللغة
+@id	language.name	العربية
+	Last	الأخير
+	Last commit	آخر إيداع
+	Left	يسار
+	Left:	اليسار:
+	Light	فاتح
+	Line	خط
+	Line spacing	تباعد الأسطر
+	Lines +/−	الأسطر +/−
+	Lines added	الأسطر المضافة
+	Lines deleted	الأسطر المحذوفة
+	Link	رابط
+	List	قائمة
+	Location	الموقع
+	Margins	الهوامش
+	Medium	متوسطة
+	Merged PRs	طلبات السحب المدموجة
+	Model	النموذج
+	Models	النماذج
+	Name	الاسم
+	Name (A–Z)	الاسم (أ–ي)
+	Name:	الاسم:
+	Next	التالي
+	No	لا
+	No limit	بلا حد
+	None	لا شيء
+	Odd pages only	الصفحات الفردية فقط
+	Off	متوقف
+	OK	موافق
+	On	تشغيل
+	Open	فتح
+	Options	الخيارات
+	Options…	خيارات…
+	Oval	شكل بيضاوي
+	Page	صفحة
+	Pages	الصفحات
+	Password	كلمة المرور
+	Paste	لصق
+	Portrait	عمودي
+	Position	الموضع
+	Preview	معاينة
+	Print	طباعة
+	Printing	الطباعة
+	Protect	حماية
+	PRs	طلبات السحب
+	Real name	الاسم الحقيقي
+	Recent	الأخيرة
+	Recover	استعادة
+	Rectangle	مستطيل
+	Redo	إعادة
+	Refresh	تحديث
+	Remove	إزالة
+	Rename	إعادة تسمية
+	Replace	استبدال
+	Reply	رد
+	Report	تقرير
+	Review	مراجعة
+	Right	يمين
+	Rotate	تدوير
+	Rotation	التدوير
+	Rotation:	التدوير:
+	Save	حفظ
+	Search	بحث
+	Select All	تحديد الكل
+	Selected pages	الصفحات المحددة
+	Selection	التحديد
+	Show	إظهار
+	Size	الحجم
+	Sort	فرز
+	Sort by	فرز حسب
+	Split	تقسيم
+	Square	مربع
+	Standard	قياسي
+	Star	نجمة
+	Strikethrough	شطب
+	Style	النمط
+	Subject	الموضوع
+	System	النظام
+	Table	جدول
+	Tables	الجداول
+	Text	نص
+	The passwords don't match.	كلمتا المرور غير متطابقتين.
+	Thickness	السماكة
+	This document has no bookmarks.	هذا المستند لا يحتوي على إشارات مرجعية.
+	Title	العنوان
+	Tools	الأدوات
+	Top	أعلى
+	Total	الإجمالي
+	Translate	ترجمة
+	Type	النوع
+	Underline	تسطير
+	Undo	تراجع
+	Undo {action}	التراجع عن {action}
+	Up	أعلى
+	Username	اسم المستخدم
+	Version	الإصدار
+	Vertical	عمودي
+	View	عرض
+	Watermark	علامة مائية
+	Width:	العرض:
+	Words	الكلمات
+	Yes	نعم
+	Zoom	التكبير

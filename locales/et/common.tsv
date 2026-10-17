@@ -1,0 +1,208 @@
+# Eesti (et) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	% kõigist commitidest
+	(none)	(puudub)
+	About	Teave
+	Accessibility	Ligipääsetavus
+	Add	Lisa
+	Add a comment	Lisa kommentaar
+	Advanced	Täpsem
+	Align	Joonda
+	Alignment:	Joondus:
+	All	Kõik
+	All pages	Kõik leheküljed
+	Apply	Rakenda
+	Arrow	Nool
+	Author	Autor
+	Auto	Automaatne
+	Auto ({percent}%)	Automaatne ({percent}%)
+	Binary assets added	Lisatud binaarvarad
+	Bold	Paks
+	Bottom	All
+	Bottom:	All:
+	Browse…	Sirvi…
+	Cancel	Loobu
+	Characters	Märgid
+	Circle	Ring
+	Clear	Tühjenda
+	Clear All	Tühjenda kõik
+	Clipboard	Lõikelaud
+	Close	Sulge
+	Collapse	Ahenda
+	Color	Värv
+	Color:	Värv:
+	Combine	Ühenda
+	Comments	Kommentaarid
+	Commits	Commitid
+	Company	Ettevõte
+	Compare	Võrdle
+	Contributors	Panustajad
+	Convert	Teisenda
+	Copy	Kopeeri
+	Create	Loo
+	Current page	Praegune lehekülg
+	Custom	Kohandatud
+	Cut	Lõika
+	Dark	Tume
+	Dashed	Katkendjoon
+	Date format	Kuupäeva vorming
+	Default	Vaikimisi
+	Delete	Kustuta
+	Deleted	Kustutatud
+	Description:	Kirjeldus:
+	Diamond	Romb
+	Direction:	Suund:
+	Display name	Kuvatav nimi
+	Document	Dokument
+	Document Title	Dokumendi pealkiri
+	Draw	Joonista
+	Editing	Redigeerimine
+	Edit…	Muuda…
+	Eraser	Kustutuskumm
+	Even pages only	Ainult paarisleheküljed
+	Example: {sample}	Näide: {sample}
+	Export	Ekspordi
+	Field	Väli
+	Field properties	Välja atribuudid
+	Fields	Väljad
+	File	Fail
+	First	Esimene
+	First commit	Esimene commit
+	Flip Horizontal	Peegelda horisontaalselt
+	Flip Vertical	Peegelda vertikaalselt
+	Font	Font
+	Font:	Font:
+	Fonts	Fondid
+	Format	Vorming
+	Format:	Vorming:
+	Full Screen	Täisekraan
+	General	Üldine
+	Graphic	Pilt
+	Headings	Pealkirjad
+	Height:	Kõrgus:
+	Help	Abi
+	Hidden text	Peidetud tekst
+	Home	Avaleht
+	Horizontal	Rõhtne
+	Index	Register
+	Insert	Lisa
+	Interface language	Kasutajaliidese keel
+	Italic	Kaldkiri
+	Justify	Rööpjoonda
+	Keywords	Märksõnad
+	Labels	Sildid
+	Landscape	Rõhtpaigutus
+	Language	Keel
+@id	language.name	Eesti
+	Last	Viimane
+	Last commit	Viimane commit
+	Left	Vasak
+	Left:	Vasakul:
+	Light	Hele
+	Line	Joon
+	Line spacing	Reavahe
+	Lines +/−	Read +/−
+	Lines added	Lisatud read
+	Lines deleted	Kustutatud read
+	Link	Link
+	List	Loend
+	Location	Asukoht
+	Margins	Veerised
+	Medium	Keskmine
+	Merged PRs	Ühendatud PR-id
+	Model	Mudel
+	Models	Mudelid
+	Name	Nimi
+	Name (A–Z)	Nimi (A–Z)
+	Name:	Nimi:
+	Next	Järgmine
+	No	Ei
+	No limit	Piiranguta
+	None	Puudub
+	Odd pages only	Ainult paaritud leheküljed
+	Off	Väljas
+	OK	OK
+	On	Sees
+	Open	Ava
+	Options	Valikud
+	Options…	Suvandid…
+	Oval	Ovaal
+	Page	Leht
+	Pages	Lehed
+	Password	Parool
+	Paste	Kleebi
+	Portrait	Püstpaigutus
+	Position	Asukoht
+	Preview	Eelvaade
+	Print	Prindi
+	Printing	Printimine
+	Protect	Kaitse
+	PRs	PR-id
+	Real name	Pärisnimi
+	Recent	Hiljutised
+	Recover	Taasta
+	Rectangle	Ristkülik
+	Redo	Tee uuesti
+	Refresh	Värskenda
+	Remove	Eemalda
+	Rename	Nimeta ümber
+	Replace	Asenda
+	Reply	Vasta
+	Report	Aruanne
+	Review	Läbivaatus
+	Right	Parem
+	Rotate	Pööra
+	Rotation	Pööramine
+	Rotation:	Pööre:
+	Save	Salvesta
+	Search	Otsi
+	Select All	Vali kõik
+	Selected pages	Valitud leheküljed
+	Selection	Valik
+	Show	Kuva
+	Size	Suurus
+	Sort	Sordi
+	Sort by	Sordi välja järgi
+	Split	Tükelda
+	Square	Ruudukujuline
+	Standard	Standard
+	Star	Täht
+	Strikethrough	Läbikriipsutus
+	Style	Stiil
+	Subject	Teema
+	System	Süsteem
+	Table	Tabel
+	Tables	Tabelid
+	Text	Tekst
+	The passwords don't match.	Paroolid ei ühti.
+	Thickness	Paksus
+	Title	Pealkiri
+	Tools	Tööriistad
+	Top	Ülal
+	Total	Kokku
+	Translate	Tõlgi
+	Type	Tüüp
+	Underline	Allajoon
+	Undo	Võta tagasi
+	Undo {action}	Võta tagasi: {action}
+	Up	Üles
+	Username	Kasutajanimi
+	Version	Versioon
+	Vertical	Püstine
+	View	Vaade
+	Watermark	Vesimärk
+	Width:	Laius:
+	Words	Sõnad
+	Yes	Jah
+	Zoom	Suum

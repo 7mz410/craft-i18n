@@ -1,0 +1,204 @@
+# Српски (sr) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	% свих commit-ова
+	(none)	(нема)
+	About	О програму
+	Accessibility	Приступачност
+	Add	Додај
+	Add a comment	Додај коментар
+	Advanced	Напредно
+	Align	Поравнање
+	Alignment:	Поравнање:
+	All	Сви
+	All pages	Све странице
+	Apply	Примени
+	Arrow	Стрелица
+	Author	Аутор
+	Auto	Аутоматски
+	Auto ({percent}%)	Аутоматски ({percent}%)
+	Binary assets added	Додати бинарни ресурси
+	Bold	Подебљано
+	Bottom	Доле
+	Bottom:	Доле:
+	Browse…	Потражи…
+	Cancel	Откажи
+	Characters	Знакови
+	Circle	Круг
+	Clear	Обриши
+	Clear All	Обриши све
+	Clipboard	Остава
+	Close	Затвори
+	Collapse	Скупи
+	Color	Боја
+	Color:	Боја:
+	Combine	Споји
+	Comments	Коментари
+	Commits	Commit-ови
+	Company	Предузеће
+	Compare	Упоређивање
+	Convert	Претвори
+	Copy	Копирај
+	Create	Направи
+	Current page	Тренутна страница
+	Custom	Прилагођено
+	Cut	Исеци
+	Dark	Тамна
+	Dashed	Испрекидано
+	Date format	Формат датума
+	Default	Подразумевано
+	Delete	Обриши
+	Deleted	Избрисано
+	Description:	Опис:
+	Diamond	Дијамант
+	Direction:	Смер:
+	Display name	Име за приказ
+	Document	Документ
+	Document Title	Наслов документа
+	Draw	Цртање
+	Editing	Уређивање
+	Edit…	Уреди…
+	Eraser	Гумица
+	Even pages only	Само парне странице
+	Example: {sample}	Пример: {sample}
+	Export	Извоз
+	Field	Поље
+	Field properties	Својства поља
+	Fields	Поља
+	File	Фајл
+	First	Први
+	First commit	Први commit
+	Flip Horizontal	Окрени хоризонтално
+	Flip Vertical	Окрени вертикално
+	Font	Фонт
+	Font:	Фонт:
+	Fonts	Фонтови
+	Format	Формат
+	Format:	Формат:
+	Full Screen	Цео екран
+	General	Опште
+	Graphic	Графика
+	Headings	Наслови
+	Height:	Висина:
+	Help	Помоћ
+	Hidden text	Скривени текст
+	Home	Почетак
+	Horizontal	Хоризонтално
+	Index	Индекс
+	Insert	Уметање
+	Interface language	Језик интерфејса
+	Italic	Курзив
+	Justify	Обострано поравнање
+	Labels	Налепнице
+	Landscape	Положено
+	Language	Језик
+@id	language.name	Српски
+	Last	Задњи
+	Last commit	Задњи commit
+	Left	Лево
+	Left:	Лево:
+	Light	Светла
+	Line	Линија
+	Line spacing	Проређеност
+	Lines +/−	Редови +/−
+	Lines added	Додати редови
+	Lines deleted	Обрисани редови
+	Link	Веза
+	List	Листа
+	Location	Локација
+	Margins	Маргине
+	Medium	Средња
+	Merged PRs	Спојени PR-ови
+	Model	Модел
+	Name	Име
+	Name (A–Z)	Назив (А–Ш)
+	Name:	Назив:
+	Next	Следеће
+	No	Не
+	No limit	Без ограничења
+	None	Ниједно
+	Odd pages only	Само непарне странице
+	Off	Искључено
+	OK	У реду
+	On	Укључено
+	Open	Отвори
+	Options	Опције
+	Options…	Опције…
+	Oval	Овално
+	Page	Страна
+	Pages	Стране
+	Password	Лозинка
+	Paste	Налепи
+	Portrait	Усправно
+	Position	Положај
+	Preview	Преглед
+	Print	Штампај
+	Printing	Штампање
+	Protect	Заштити
+	PRs	PR-ови
+	Real name	Право име
+	Recent	Недавно
+	Recover	Опорави
+	Rectangle	Правоугаоник
+	Redo	Понови
+	Refresh	Освежи
+	Remove	Уклони
+	Rename	Преименуј
+	Replace	Замени
+	Reply	Одговори
+	Report	Извештај
+	Review	Преглед
+	Right	Десно
+	Rotate	Ротирај
+	Rotation	Ротација
+	Rotation:	Ротација:
+	Save	Сачувај
+	Search	Претрага
+	Select All	Изабери све
+	Selected pages	Изабране странице
+	Selection	Избор
+	Show	Прикажи
+	Size	Величина папира
+	Sort	Сортирај
+	Sort by	Сортирај по
+	Split	Подели
+	Square	Квадратно
+	Standard	Стандардне
+	Star	Звезда
+	Strikethrough	Прецртано
+	Style	Стил
+	System	Систем
+	Table	Табела
+	Tables	Табеле
+	Text	Текст
+	The passwords don't match.	Лозинке се не подударају.
+	Thickness	Дебљина
+	Title	Наслов
+	Tools	Алати
+	Top	Горе
+	Total	Укупно
+	Translate	Преведи
+	Type	Тип
+	Underline	Подвучено
+	Undo	Опозови
+	Undo {action}	Опозови {action}
+	Up	Горе
+	Username	Корисничко име
+	Version	Верзија
+	Vertical	Усправно
+	View	Приказ
+	Watermark	Водени жиг
+	Width:	Ширина:
+	Words	Речи
+	Yes	Да
+	Zoom	Зумирање

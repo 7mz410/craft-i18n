@@ -1,0 +1,210 @@
+# Polski (pl) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	% wszystkich commitów
+	(none)	(brak)
+	About	Informacje
+	Accessibility	Ułatwienia dostępu
+	Add	Dodaj
+	Add a comment	Dodaj komentarz
+	Advanced	Zaawansowane
+	Align	Wyrównaj
+	Alignment:	Wyrównanie:
+	All	Wszystkie
+	All pages	Wszystkie strony
+	Apply	Zastosuj
+	Arrow	Strzałka
+	Author	Autor
+	Auto	Automatycznie
+	Auto ({percent}%)	Automatycznie ({percent}%)
+	Binary assets added	Dodane zasoby binarne
+	Bold	Pogrubienie
+	Bottom	Do dołu
+	Bottom:	Dolny:
+	Browse…	Przeglądaj…
+	Cancel	Anuluj
+	Characters	Znaki
+	Circle	Okrąg
+	Clear	Wyczyść
+	Clear All	Wyczyść wszystko
+	Clipboard	Schowek
+	Close	Zamknij
+	Collapse	Zwiń
+	Color	Kolor
+	Color:	Kolor:
+	Combine	Połącz
+	Comments	Komentarze
+	Commits	Commity
+	Company	Firma
+	Compare	Porównaj
+	Contributors	Współtwórcy
+	Convert	Konwertuj
+	Copy	Kopiuj
+	Create	Utwórz
+	Current page	Bieżąca strona
+	Custom	Niestandardowe
+	Cut	Wytnij
+	Dark	Ciemny
+	Dashed	Kreskowane
+	Date format	Format daty
+	Default	Domyślne
+	Delete	Usuń
+	Deleted	Usunięto
+	Description:	Opis:
+	Diamond	Romb
+	Direction:	Kierunek:
+	Display name	Nazwa wyświetlana
+	Document	Dokument
+	Document Title	Tytuł dokumentu
+	Dot	Kropka nad znakiem
+	Draw	Rysowanie
+	Editing	Edytowanie
+	Edit…	Edytuj…
+	Eraser	Gumka
+	Even pages only	Tylko strony parzyste
+	Example: {sample}	Przykład: {sample}
+	Export	Eksportuj
+	Field	Pole
+	Field properties	Właściwości pola
+	Fields	Pola
+	File	Plik
+	First	Pierwszy
+	First commit	Pierwszy commit
+	Flip Horizontal	Przerzuć w poziomie
+	Flip Vertical	Przerzuć w pionie
+	Font	Czcionka
+	Font:	Czcionka:
+	Fonts	Czcionki
+	Format	Format
+	Format:	Format:
+	Full Screen	Pełny ekran
+	General	Ogólne
+	Graphic	Grafika
+	Headings	Nagłówki
+	Height:	Wysokość:
+	Help	Pomoc
+	Hidden text	Tekst ukryty
+	Home	Start
+	Horizontal	Poziomo
+	Index	Indeks
+	Insert	Wstaw
+	Interface language	Język interfejsu
+	Italic	Kursywa
+	Justify	Wyjustuj
+	Keywords	Słowa kluczowe
+	Labels	Etykiety
+	Landscape	Pozioma
+	Language	Język
+@id	language.name	Polski
+	Last	Ostatni
+	Last commit	Ostatni commit
+	Left	Do lewej
+	Left:	Lewe:
+	Light	Jasny
+	Line	Linia
+	Line spacing	Interlinia
+	Lines +/−	Wiersze +/−
+	Lines added	Dodane wiersze
+	Lines deleted	Usunięte wiersze
+	Link	Link
+	List	Lista
+	Location	Położenie
+	Margins	Marginesy
+	Medium	Średnia
+	Merged PRs	Scalone PR-y
+	Model	Model
+	Models	Modele
+	Name	Nazwa
+	Name (A–Z)	Nazwa (A–Z)
+	Name:	Nazwa:
+	Next	Następny
+	No	Nie
+	No limit	Bez limitu
+	None	Brak
+	Odd pages only	Tylko strony nieparzyste
+	Off	Wyłączone
+	OK	OK
+	On	Włączone
+	Open	Otwórz
+	Options	Opcje
+	Options…	Opcje…
+	Oval	Owal
+	Page	Strona
+	Pages	Strony
+	Password	Hasło
+	Paste	Wklej
+	Portrait	Pionowa
+	Position	Położenie
+	Preview	Podgląd
+	Print	Drukuj
+	Printing	Drukowanie
+	Protect	Ochrona
+	PRs	PR-y
+	Real name	Imię i nazwisko
+	Recent	Ostatnie
+	Recover	Odzyskaj
+	Rectangle	Prostokąt
+	Redo	Ponów
+	Refresh	Odśwież
+	Remove	Usuń
+	Rename	Zmień nazwę
+	Replace	Zamień
+	Reply	Odpowiedz
+	Report	Raport
+	Review	Recenzja
+	Right	Do prawej
+	Rotate	Obróć
+	Rotation	Obrót
+	Rotation:	Obrót:
+	Save	Zapisz
+	Search	Wyszukaj
+	Select All	Zaznacz wszystko
+	Selected pages	Wybrane strony
+	Selection	Zaznaczenie
+	Show	Pokaż
+	Size	Rozmiar
+	Sort	Sortuj
+	Sort by	Sortuj według
+	Split	Podziel
+	Square	Kwadrat
+	Standard	Standardowe
+	Star	Gwiazda
+	Strikethrough	Przekreślenie
+	Style	Styl
+	Subject	Temat
+	System	Systemowe
+	Table	Tabela
+	Tables	Tabele
+	Text	Tekst
+	The passwords don't match.	Hasła nie są zgodne.
+	Thickness	Grubość linii
+	This document has no bookmarks.	Ten dokument nie zawiera zakładek.
+	Title	Tytuł
+	Tools	Narzędzia
+	Top	Do góry
+	Total	Razem
+	Translate	Przetłumacz
+	Type	Typ
+	Underline	Podkreślenie
+	Undo	Cofnij
+	Undo {action}	Cofnij: {action}
+	Up	W górę
+	Username	Nazwa użytkownika
+	Version	Wersja
+	Vertical	Pionowo
+	View	Widok
+	Watermark	Znak wodny
+	Width:	Szerokość:
+	Words	Słowa
+	Yes	Tak
+	Zoom	Powiększenie

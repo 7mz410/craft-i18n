@@ -1,0 +1,210 @@
+# Tiếng Việt (vi) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	% tổng số commit
+	(none)	(không có)
+	About	Giới thiệu
+	Accessibility	Trợ năng
+	Add	Thêm
+	Add a comment	Thêm bình luận
+	Advanced	Nâng cao
+	Align	Căn chỉnh
+	Alignment:	Căn lề:
+	All	Tất cả
+	All pages	Tất cả các trang
+	Apply	Áp dụng
+	Arrow	Mũi tên
+	Author	Tác giả
+	Auto	Tự động
+	Auto ({percent}%)	Tự động ({percent}%)
+	Binary assets added	Tài nguyên nhị phân đã thêm
+	Bold	Đậm
+	Bottom	Dưới cùng
+	Bottom:	Dưới:
+	Browse…	Duyệt…
+	Cancel	Hủy
+	Characters	Ký tự
+	Circle	Hình tròn
+	Clear	Xóa
+	Clear All	Xóa tất cả
+	Clipboard	Bảng tạm
+	Close	Đóng
+	Collapse	Thu gọn
+	Color	Màu
+	Color:	Màu:
+	Combine	Kết hợp
+	Comments	Bình luận
+	Commits	Commit
+	Company	Công ty
+	Compare	So sánh
+	Contributors	Người đóng góp
+	Convert	Chuyển đổi
+	Copy	Sao chép
+	Create	Tạo
+	Current page	Trang hiện tại
+	Custom	Tùy chỉnh
+	Cut	Cắt
+	Dark	Tối
+	Dashed	Nét đứt
+	Date format	Định dạng ngày
+	Default	Mặc định
+	Delete	Xóa
+	Deleted	Đã xóa
+	Description:	Mô tả:
+	Diamond	Hình thoi
+	Direction:	Hướng:
+	Display name	Tên hiển thị
+	Document	Tài liệu
+	Document Title	Tiêu đề tài liệu
+	Dot	Dấu chấm
+	Draw	Vẽ
+	Editing	Chỉnh sửa
+	Edit…	Chỉnh sửa…
+	Eraser	Cục tẩy
+	Even pages only	Chỉ các trang chẵn
+	Example: {sample}	Ví dụ: {sample}
+	Export	Xuất
+	Field	Trường
+	Field properties	Thuộc tính trường
+	Fields	Các trường
+	File	Tệp
+	First	Đầu tiên
+	First commit	Commit đầu tiên
+	Flip Horizontal	Lật ngang
+	Flip Vertical	Lật dọc
+	Font	Phông chữ
+	Font:	Phông chữ:
+	Fonts	Phông chữ
+	Format	Định dạng
+	Format:	Định dạng:
+	Full Screen	Toàn màn hình
+	General	Chung
+	Graphic	Đồ họa
+	Headings	Đề mục
+	Height:	Chiều cao:
+	Help	Trợ giúp
+	Hidden text	Văn bản ẩn
+	Home	Trang chủ
+	Horizontal	Ngang
+	Index	Chỉ mục
+	Insert	Chèn
+	Interface language	Ngôn ngữ giao diện
+	Italic	Nghiêng
+	Justify	Căn đều
+	Keywords	Từ khóa
+	Labels	Nhãn
+	Landscape	Ngang
+	Language	Ngôn ngữ
+@id	language.name	Tiếng Việt
+	Last	Cuối cùng
+	Last commit	Commit cuối cùng
+	Left	Trái
+	Left:	Trái:
+	Light	Sáng
+	Line	Đường thẳng
+	Line spacing	Giãn dòng
+	Lines +/−	Dòng +/−
+	Lines added	Dòng thêm
+	Lines deleted	Dòng xóa
+	Link	Liên kết
+	List	Danh sách
+	Location	Vị trí
+	Margins	Lề
+	Medium	Vừa
+	Merged PRs	PR đã gộp
+	Model	Mô hình
+	Models	Mô hình
+	Name	Tên
+	Name (A–Z)	Tên (A–Z)
+	Name:	Tên:
+	Next	Tiếp theo
+	No	Không
+	No limit	Không giới hạn
+	None	Không có
+	Odd pages only	Chỉ các trang lẻ
+	Off	Tắt
+	OK	OK
+	On	Bật
+	Open	Mở
+	Options	Tùy chọn
+	Options…	Tùy chọn…
+	Oval	Hình bầu dục
+	Page	Trang
+	Pages	Trang
+	Password	Mật khẩu
+	Paste	Dán
+	Portrait	Dọc
+	Position	Vị trí
+	Preview	Xem trước
+	Print	In
+	Printing	In ấn
+	Protect	Bảo vệ
+	PRs	PR
+	Real name	Tên thật
+	Recent	Gần đây
+	Recover	Khôi phục
+	Rectangle	Hình chữ nhật
+	Redo	Làm lại
+	Refresh	Làm mới
+	Remove	Gỡ bỏ
+	Rename	Đổi tên
+	Replace	Thay thế
+	Reply	Trả lời
+	Report	Báo cáo
+	Review	Duyệt
+	Right	Phải
+	Rotate	Xoay
+	Rotation	Xoay
+	Rotation:	Xoay:
+	Save	Lưu
+	Search	Tìm
+	Select All	Chọn tất cả
+	Selected pages	Các trang đã chọn
+	Selection	Vùng chọn
+	Show	Hiện
+	Size	Kích thước
+	Sort	Sắp xếp
+	Sort by	Sắp xếp theo
+	Split	Tách
+	Square	Hình vuông
+	Standard	Tiêu chuẩn
+	Star	Ngôi sao
+	Strikethrough	Gạch ngang
+	Style	Kiểu
+	Subject	Chủ đề
+	System	Hệ thống
+	Table	Bảng
+	Tables	Bảng
+	Text	Văn bản
+	The passwords don't match.	Các mật khẩu không khớp.
+	Thickness	Độ dày
+	This document has no bookmarks.	Tài liệu này không có dấu trang.
+	Title	Tiêu đề
+	Tools	Công cụ
+	Top	Trên
+	Total	Tổng
+	Translate	Dịch
+	Type	Loại
+	Underline	Gạch chân
+	Undo	Hoàn tác
+	Undo {action}	Hoàn tác {action}
+	Up	Lên
+	Username	Tên người dùng
+	Version	Phiên bản
+	Vertical	Dọc
+	View	Xem
+	Watermark	Hình mờ
+	Width:	Chiều rộng:
+	Words	Từ
+	Yes	Có
+	Zoom	Thu phóng

@@ -1,0 +1,210 @@
+# Українська (uk) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	% of all commits	% усіх комітів
+	(none)	(немає)
+	About	Про застосунок
+	Accessibility	Доступність
+	Add	Додати
+	Add a comment	Додати коментар
+	Advanced	Додаткові
+	Align	Вирівняти
+	Alignment:	Вирівнювання:
+	All	Усі
+	All pages	Усі сторінки
+	Apply	Застосувати
+	Arrow	Стрілка
+	Author	Автор
+	Auto	Автоматично
+	Auto ({percent}%)	Автоматично ({percent}%)
+	Binary assets added	Додано бінарних ресурсів
+	Bold	Напівжирний
+	Bottom	Знизу
+	Bottom:	Знизу:
+	Browse…	Огляд…
+	Cancel	Скасувати
+	Characters	Символи
+	Circle	Коло
+	Clear	Очистити
+	Clear All	Очистити все
+	Clipboard	Буфер обміну
+	Close	Закрити
+	Collapse	Згорнути
+	Color	Колір
+	Color:	Колір:
+	Combine	Об’єднати
+	Comments	Коментарі
+	Commits	Коміти
+	Company	Компанія
+	Compare	Порівняння
+	Contributors	Учасники
+	Convert	Перетворення
+	Copy	Копіювати
+	Create	Створити
+	Current page	Поточна сторінка
+	Custom	Власний
+	Cut	Вирізати
+	Dark	Темний
+	Dashed	Штрихова
+	Date format	Формат дати
+	Default	Типово
+	Delete	Видалити
+	Deleted	Видалено
+	Description:	Опис:
+	Diamond	Ромб
+	Direction:	Напрямок:
+	Display name	Відображуване ім’я
+	Document	Документ
+	Document Title	Заголовок документа
+	Dot	Крапка
+	Draw	Малювати
+	Editing	Редагування
+	Edit…	Редагувати…
+	Eraser	Гумка
+	Even pages only	Лише парні сторінки
+	Example: {sample}	Приклад: {sample}
+	Export	Експортувати
+	Field	Поле
+	Field properties	Властивості поля
+	Fields	Поля
+	File	Файл
+	First	Перший
+	First commit	Перший коміт
+	Flip Horizontal	Віддзеркалити горизонтально
+	Flip Vertical	Віддзеркалити вертикально
+	Font	Шрифт
+	Font:	Шрифт:
+	Fonts	Шрифти
+	Format	Формат
+	Format:	Формат:
+	Full Screen	Повний екран
+	General	Загальні
+	Graphic	Графіка
+	Headings	Заголовки
+	Height:	Висота:
+	Help	Довідка
+	Hidden text	Прихований текст
+	Home	Головна
+	Horizontal	Горизонтально
+	Index	Індекс
+	Insert	Вставити
+	Interface language	Мова інтерфейсу
+	Italic	Курсив
+	Justify	За шириною
+	Keywords	Ключові слова
+	Labels	Позначки
+	Landscape	Альбомна
+	Language	Мова
+@id	language.name	Українська
+	Last	Останній
+	Last commit	Останній коміт
+	Left	Ліворуч
+	Left:	Зліва:
+	Light	Світлий
+	Line	Лінія
+	Line spacing	Міжрядковий інтервал
+	Lines +/−	Рядків +/−
+	Lines added	Додано рядків
+	Lines deleted	Видалено рядків
+	Link	Посилання
+	List	Список
+	Location	Розташування
+	Margins	Поля
+	Medium	Середній
+	Merged PRs	Злиті PR
+	Model	Модель
+	Models	Моделі
+	Name	Ім’я
+	Name (A–Z)	Ім’я (А–Я)
+	Name:	Назва:
+	Next	Далі
+	No	Ні
+	No limit	Без обмежень
+	None	Немає
+	Odd pages only	Лише непарні сторінки
+	Off	Вимкнено
+	OK	OK
+	On	Увімкнено
+	Open	Відкрити
+	Options	Параметри
+	Options…	Параметри…
+	Oval	Овал
+	Page	Сторінка
+	Pages	Сторінки
+	Password	Пароль
+	Paste	Вставити
+	Portrait	Книжкова
+	Position	Положення
+	Preview	Попередній перегляд
+	Print	Друк
+	Printing	Друк
+	Protect	Захистити
+	PRs	PR
+	Real name	Справжнє ім’я
+	Recent	Нещодавні
+	Recover	Відновити
+	Rectangle	Прямокутник
+	Redo	Повторити
+	Refresh	Оновити
+	Remove	Видалити
+	Rename	Перейменувати
+	Replace	Замінити
+	Reply	Відповісти
+	Report	Звіт
+	Review	Рецензування
+	Right	Праворуч
+	Rotate	Повернути
+	Rotation	Поворот
+	Rotation:	Поворот:
+	Save	Зберегти
+	Search	Пошук
+	Select All	Вибрати все
+	Selected pages	Вибрані сторінки
+	Selection	Вибрані
+	Show	Показувати
+	Size	Розмір
+	Sort	Сортувати
+	Sort by	Сортувати за
+	Split	Розділити
+	Square	Квадрат
+	Standard	Стандартні
+	Star	Зірка
+	Strikethrough	Закреслення
+	Style	Стиль
+	Subject	Тема
+	System	Системні
+	Table	Таблиця
+	Tables	Таблиці
+	Text	Текст
+	The passwords don't match.	Паролі не збігаються.
+	Thickness	Товщина
+	This document has no bookmarks.	Цей документ не має закладок.
+	Title	Заголовок
+	Tools	Знаряддя
+	Top	Зверху
+	Total	Усього
+	Translate	Перекласти
+	Type	Тип
+	Underline	Підкреслення
+	Undo	Скасувати
+	Undo {action}	Скасувати: {action}
+	Up	Угору
+	Username	Ім’я користувача
+	Version	Версія
+	Vertical	Вертикально
+	View	Перегляд
+	Watermark	Водяний знак
+	Width:	Ширина:
+	Words	Слова
+	Yes	Так
+	Zoom	Масштаб
