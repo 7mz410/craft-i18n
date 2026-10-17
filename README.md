@@ -1,40 +1,52 @@
 craft-i18n
 ==========
 
-Shared translations for the Crafting Apps.
+Shared translations for the storytold Crafting Apps.
 
 The apps share a lot of strings. Keeping them here means each one is translated once, and every
-app picks it up. An app can still override a shared string, or add its own, in its own file.
+app picks it up. An app can still override a shared string, or add its own, in its own catalog.
 
 ## What's here
 
 | Path | What |
 |---|---|
-| `locales/<locale>/common.ftl` | Strings shared by every app, in [Fluent](https://projectfluent.org) syntax. |
-| `locales/<locale>/<app>.ftl` | Strings for one app, and its overrides of shared ones. |
-| `locales/en/` | The source locale: every other locale translates these files. |
-| `ATTRIBUTION.md` | Translators and licences. |
-| `crates/craft-i18n` | Rust: finding a checkout (`CRAFT_I18N_DIR`), listing locales, and the files an app loads, in order. |
-| `crates/craft-i18n-tests` | Tests asserted on the files: they parse, ids are unique, translations only use ids the source defines. |
-| `docs/integration.md` | How an app uses craft-i18n as a fully optional build input. |
+| `locales/<locale>/common.tsv` | Shared strings: those two or more apps use. |
+| `locales/<locale>/<app>.tsv` | One app's strings, and its overrides of shared ones. |
+| `docs/catalog-format.md` | The catalog format, the rules CI checks, and the header every catalog starts with. |
+| `docs/integration.md` | How an app embeds the catalogs as a fully optional build input. |
+| `docs/adr/` | Why TSV keyed by English, and why the lookup code lives in craft-libs. |
+| `GLOSSARY.md` | The words this project uses: source text, context, catalog, override… |
+| `ROADMAP.md` | Milestones and which apps have moved here. |
+| `ATTRIBUTION.md` | Translators, and where migrated catalogs came from. |
+| `crates/craft-i18n-tests` | The catalog checker CI runs. |
 
 ## How the apps use it
 
 **Fully optional, never required.** Same rule as craft-fonts: the apps don't list craft-i18n in
-`Cargo.toml`. Building with `CRAFT_I18N_DIR=<path to this checkout>` makes an app use these
-strings; without it, the app builds and runs as before. See
+`Cargo.toml`. Building with `CRAFT_I18N_DIR=<absolute path to this checkout>` embeds these
+catalogs; without it, the app builds and runs in English. The lookup code (parsing, fallback,
+plurals, the system locale) is the `craft-i18n` crate in craft-libs. See
 [`docs/integration.md`](docs/integration.md).
 
 ## Translate
 
-Fluent files are plain text, one `id = text` per line. To add or fix a translation, edit
-`locales/<locale>/<file>.ftl` (GitHub's web editor is fine) and open a pull request. Copy the
-ids from the matching file in `locales/en/`; CI rejects ids `en` doesn't have.
+Catalogs are plain text, one string per line: `context<TAB>English<TAB>translation`. To add or
+fix a translation, edit `locales/<locale>/<file>.tsv` (GitHub's web editor is fine) and open a pull
+request. The English is exactly what the app shows; copy it from another locale's catalog of the
+same name. Partial catalogs are welcome: anything missing shows in English.
+
+**Clean room:** write every entry from the plain meaning of the English text. Don't consult or copy
+any other product's localisation, string table or translated interface.
+
+The full rules (contexts, placeholders, plurals) are in
+[`docs/catalog-format.md`](docs/catalog-format.md); CI explains any row it rejects, by file and
+line.
 
 ## Develop
 
 ```sh
-cargo test --workspace   # all translation assertions
+cargo test --workspace                          # check every catalog
+cargo test coverage_report -- --nocapture       # rows per catalog against the largest locale
 ```
 
 Code and translations are MIT OR Apache-2.0 (`LICENSE-MIT`, `LICENSE-APACHE`).
