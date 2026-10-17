@@ -174,6 +174,7 @@
 	Arabic	Arabiska
 	Arch Down	Båge nedåt
 	Arch Up	Båge uppåt
+	Area	Ytdiagram
 	Arrange	Ordna
 	Arrange\nAll	Ordna\nalla
 	Arrows	Pilar
@@ -241,6 +242,7 @@
 	Below the item	Under objektet
 	Between	Mellan
 	Bibliography	Källförteckning
+	Binary assets removed	Borttagna binärfiler
 	Binomial Coefficient	Binomialkoefficient
 	Binomial Coefficient (angle)	Binomialkoefficient (vinkel)
 	Binomial Coefficient with Angle Brackets	Binomialkoefficient med vinkelparenteser
@@ -270,6 +272,7 @@
 	Bottom Margin	Nedre marginal
 	Bottom of Page	Längst ned på sidan
 	Bottom Right Cell	Nedre högra cellen
+	Box	Ram
 	Boxed Formula	Formel i ram
 	Boxed Formula (example)	Formel i ram (exempel)
 	Boxed Formulas	Formler i ram
@@ -319,6 +322,7 @@
 	Cell Margins	Cellmarginaler
 	Cell Size	Cellstorlek
 	Cell\nMargins	Cell-\nmarginaler
+	Center	Centrera
 	Centered	Centrerad
 	Centered as Group	Centrerad som grupp
 	Centimeters	Centimeter
@@ -360,6 +364,7 @@
 	Character Scale	Teckenskala
 	Character Shading	Teckenskuggning
 	Character Spacing	Teckenavstånd
+	Character spacing	Teckenavstånd
 	Character style	Teckenstil
 	Characters (no spaces)	Tecken (utan blanksteg)
 	Characters (with spaces)	Tecken (med blanksteg)
@@ -368,6 +373,7 @@
 	Chart Design	Diagramdesign
 	Chart Layouts	Diagramlayouter
 	Chart Title	Diagramrubrik
+	Check	Hake
 	Check Accessibility	Kontrollera tillgänglighet
 	Check Box Content Control	Innehållskontroll för kryssruta
 	Check Compatibility	Kontrollera kompatibilitet
@@ -436,6 +442,7 @@
 	Combo Box Content Control	Innehållskontroll för kombinationsruta
 	Commands	Kommandon
 	Commands:	Kommandon:
+	Comment	Kommentar
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Kommentarer bredvid varje sida och spårade ändringar i PDF-filer, utskrifter och bilder; en kommentarslista i slutet av webbsidor, Markdown och text.
 	Comments Pane	Kommentarspanel
 	Common Accent Objects	Vanliga accentobjekt
@@ -513,6 +520,7 @@
 	Create a Style	Skapa en stil
 	Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document.	Skapa en interaktiv disposition av dokumentet.\n\nDet är ett bra sätt att hålla reda på var du är, eller att snabbt flytta runt innehållet.\n\nKom igång genom att gå till fliken Start och använda rubrikstilar på rubrikerna i dokumentet.
 	Create Graphic	Skapa grafik
+	Create Link	Skapa länk
 	Create New Style	Skapa ny stil
 	Create Source	Skapa källa
 	Croatian	Kroatiska
@@ -771,6 +779,7 @@
 	Exceptions (optional)	Undantag (valfritt)
 	Exceptions…	Undantag…
 	Existing File or Web Page	Befintlig fil eller webbsida
+	Expand	Expandera
 	Expand or Collapse Heading	Expandera eller komprimera rubrik
 	Exponential	Exponentiell
 	Exponential series	Exponentialserie
@@ -794,6 +803,7 @@
 	Field…	Fält…
 	Figure	Figur
 	File name:	Filnamn:
+	Fill	Fyllning
 	Fill color:	Fyllningsfärg:
 	Filling in forms	Ifyllning av formulär
 	Film	Film
@@ -821,6 +831,7 @@
 	First line:	Första raden:
 	First Name	Förnamn
 	First row of data contains column headers	Första dataraden innehåller kolumnrubriker
+	Fit	Anpassa
 	Fix Position on Page	Fast position på sidan
 	Fixed Column Width	Fast kolumnbredd
 	Floor	Golvfunktion
@@ -881,6 +892,7 @@
 	Good morning	God morgon
 	GOST (name sort)	GOST (sortering på namn)
 	GOST (title sort)	GOST (sortering på titel)
+	Grab bag	Blandat
 	Grave	Grav accent
 	Grayscale	Gråskala
 	Greater than	Större än
@@ -928,6 +940,7 @@
 	Hide White Space	Dölj tomrum
 	Hide\nInk	Dölj\nbläck
 	Hierarchy	Hierarki
+	Highlight	Överstrykning
 	Highlight Merge Fields	Framhäv kopplingsfält
 	Highlight\nMerge Fields	Framhäv\nfält
 	Highlighter	Överstrykningspenna
@@ -984,6 +997,7 @@
 	Include page numbers	Ta med sidnummer
 	Increase Font Size	Öka teckenstorleken
 	Increase Indent	Öka indraget
+	Indent	Indrag
 	Indent from left:	Indrag från vänster:
 	Indentation	Indrag
 	Indented	Indragen
@@ -1065,6 +1079,7 @@
 	Interface theme:	Gränssnittstema:
 	Interface\nTheme	Gränssnitts-\ntema
 	Internet addresses as links	Internetadresser som länkar
+	Intersection	Snitt
 	Intersection with Limits	Snitt med gränser
 	Intersection with Lower Limit	Snitt med undre gräns
 	Intersection with Subscript-Superscript Limits	Snitt med gränser som index och exponent
@@ -1174,6 +1189,7 @@
 	Line between	Linje mellan
 	Line Break	Radbrytning
 	Line breaking	Radbrytning
+	Line delta	Radskillnad
 	Line End	Radslut
 	Line Number	Radnummer
 	Line Numbering Options…	Alternativ för radnumrering…
@@ -1254,6 +1270,7 @@
 	Math AutoCorrect	Autokorrigering för matematik
 	Matrices with Brackets	Matriser med parenteser
 	Matrix	Matris
+	Maximum	Maximum
 	Maximum Example	Exempel på maximum
 	Measured By	Mäts med
 	Measurement units:	Måttenheter:
@@ -1265,6 +1282,7 @@
 	Middle	I mitten
 	Midline Dots	Punkter på mittlinjen
 	Millimeters	Millimeter
+	Minimum	Minimum
 	Minus Equal	Minus lika med
 	Mirror indents	Spegelvända indrag
 	Mirror margins	Spegelvända marginaler
@@ -1346,6 +1364,7 @@
 	No Border	Ingen kantlinje
 	No changes (read only)	Inga ändringar (skrivskyddat)
 	No Color	Ingen färg
+	No contributor data was built into this copy.	Den här kopian innehåller inga uppgifter om bidragsgivare.
 	No document is open. Create a document or open one first.	Inget dokument är öppet. Skapa eller öppna ett dokument först.
 	No errors found: every merge field is in the recipient list.	Inga fel hittades: alla kopplingsfält finns i mottagarlistan.
 	No Fill	Ingen fyllning
@@ -1354,6 +1373,7 @@
 	No header row	Ingen rubrikrad
 	No icons match your search.	Inga ikoner matchar sökningen.
 	No Markup	Ingen märkning
+	No model credits were built into this copy.	Den här kopian innehåller inga uppgifter om medverkande AI-modeller.
 	No Outline	Ingen kontur
 	No Paragraph Space	Inget styckeavstånd
 	No printers found. Configure a system printer or export a PDF.	Inga skrivare hittades. Lägg till en skrivare i systemet eller exportera en PDF.
@@ -1395,6 +1415,7 @@
 	Now used by {command}	Används nu av {command}
 	Nudge	Knuffa
 	Num Occurrences	Antal förekomster
+	Number	Nummer
 	Number alignment:	Justering av nummer:
 	Number format	Nummerformat
 	Number of columns:	Antal kolumner:
@@ -1462,6 +1483,7 @@
 	Other Large Operators	Andra stora operatorer
 	Other styles and their TOC level:	Andra stilar och deras nivå i innehållsförteckningen:
 	Otherwise insert:	Infoga annars:
+	Outline	Disposition
 	Outline Level	Dispositionsnivå
 	Outline level	Dispositionsnivå
 	Outline levels	Dispositionsnivåer
@@ -1485,6 +1507,7 @@
 	Page break before	Sidbrytning före
 	Page Breaks	Sidbrytningar
 	Page Color	Sidfärg
+	Page display	Sidvisning
 	Page Down	Sida nedåt
 	Page image (*.png)	Sidbild (*.png)
 	Page Movement	Sidbläddring
@@ -1577,6 +1600,7 @@
 	Press a key combination	Tryck på en tangentkombination
 	Preview Results	Förhandsgranska resultat
 	Preview\nResults	Förhandsgranska\nresultat
+	Previous	Föregående
 	Previous 1 or More	Föregående 1 eller fler
 	Previous Change	Föregående ändring
 	Previous Comment	Föregående kommentar
@@ -1733,6 +1757,7 @@
 	Results	Resultat
 	Return address labels	Returadressetiketter
 	Return address:	Returadress:
+	Reverse the order	Vänd på ordningen
 	Reviewing	Granskning
 	Reviewing Pane	Granskningspanel
 	Reviewing — edits become suggestions	Granskning – ändringar blir förslag
@@ -1790,6 +1815,7 @@
 	Scale Drawing	Skala ritningen
 	Scatter	Punktdiagram
 	Script	Index
+	Scripts	Index och exponenter
 	Scroll ribbon left	Rulla verktygspanelen åt vänster
 	Scroll ribbon right	Rulla verktygspanelen åt höger
 	Search Commands	Sök kommandon
@@ -1983,6 +2009,7 @@
 	Spanish (Mexico)	Spanska (Mexiko)
 	Spanish (Spain)	Spanska (Spanien)
 	Sparse Matrices	Glesa matriser
+	Special	Special
 	Special Characters	Specialtecken
 	Specify height:	Ange höjd:
 	Speech	Tal
@@ -2021,6 +2048,7 @@
 	Straight Arrow Connector	Rak pilkoppling
 	Straight Connector	Rak koppling
 	Stroke {n} of {total}	Penndrag {n} av {total}
+	Strong	Stark
 	Structure Actions	Strukturåtgärder
 	Structures	Strukturer
 	Studio	Studio
@@ -2154,6 +2182,7 @@
 	These marks show even when Show/Hide ¶ is off.	De här tecknen visas även när Visa/dölj ¶ är avstängt.
 	These merge fields aren't in the recipient list:	De här kopplingsfälten finns inte i mottagarlistan:
 	These settings will be used for new documents.	De här inställningarna används för nya dokument.
+	Thick	Tjock
 	This document	Det här dokumentet
 	This field has no options.	Det här fältet har inga alternativ.
 	This folder can't be read: {error}	Den här mappen kan inte läsas: {error}
@@ -2276,6 +2305,7 @@ preview	Title	Titel
 	Use "a" before a consonant sound	Använd ”a” före ett konsonantljud
 	Use "an" before a vowel sound	Använd ”an” före ett vokalljud
 	Use an Existing List…	Använd en befintlig lista…
+	Use system setting	Använd systeminställningen
 	Use the browser's full screen (F11)	Använd webbläsarens helskärmsläge (F11)
 	Use the Insert key to switch overtype on and off	Använd Insert-tangenten för att slå på och av överskrivning
 	Use wildcards	Använd jokertecken
@@ -2353,6 +2383,7 @@ preview	Title	Titel
 	x bar	x streck
 	Year	År
 	Yields	Ger
+	Your changes will be lost if you don't save them.	Dina ändringar går förlorade om du inte sparar dem.
 	Your system doesn't report an animation setting, so animation effects stay on.	Systemet anger ingen inställning för animering, så animeringseffekterna är fortsatt på.
 	Your system has animation effects turned off.	Animeringseffekter är avstängda i systemet.
 	Your system has animation effects turned on.	Animeringseffekter är påslagna i systemet.

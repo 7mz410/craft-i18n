@@ -23,23 +23,17 @@
 	All	全部
 	All pages	所有頁面
 	Apply	套用
-	Area	面積
 	Arrow	箭頭
 	Author	作者
 	Auto	自動
 	Auto ({percent}%)	自動 ({percent}%)
 	Binary assets added	新增的二進位資產
-	Binary assets removed	移除的二進位資產
 	Bold	粗體
 	Bottom	下
 	Bottom:	下：
-	Box	框
 	Browse…	瀏覽…
 	Cancel	取消
-	Center	置中
-	Character spacing	字元間距
 	Characters	字元數
-	Check	勾選記號
 	Circle	圓形
 	Clear	清除
 	Clear All	全部清除
@@ -49,7 +43,6 @@
 	Color	色彩
 	Color:	顏色：
 	Combine	合併
-	Comment	註解
 	Comments	註解
 	Commits	提交次數
 	Company	公司
@@ -58,7 +51,6 @@
 	Convert	轉換
 	Copy	複製
 	Create	建立
-	Create Link	建立連結
 	Current page	目前頁
 	Custom	自訂
 	Cut	剪下
@@ -81,16 +73,13 @@
 	Eraser	橡皮擦
 	Even pages only	僅偶數頁
 	Example: {sample}	範例：{sample}
-	Expand	展開
 	Export	匯出
 	Field	欄位
 	Field properties	欄位內容
 	Fields	欄位
 	File	檔案
-	Fill	填寫
 	First	首次提交
 	First commit	首次提交
-	Fit	適合
 	Flip Horizontal	水平翻轉
 	Flip Vertical	垂直翻轉
 	Font	字型
@@ -100,20 +89,16 @@
 	Format:	格式：
 	Full Screen	全螢幕
 	General	一般
-	Grab bag	精簡
 	Graphic	圖形
 	Headings	標題
 	Height:	高：
 	Help	說明
 	Hidden text	隱藏文字
-	Highlight	突出顯示
 	Home	首頁
 	Horizontal	水平
-	Indent	縮排
 	Index	索引
 	Insert	插入
 	Interface language	介面語言
-	Intersection	交點
 	Italic	斜體
 	Justify	兩端對齊
 	Keywords	關鍵字
@@ -127,7 +112,6 @@
 	Left:	左：
 	Light	淺色
 	Line	直線
-	Line delta	行數增減
 	Line spacing	行距
 	Lines +/−	行數 +/−
 	Lines added	新增行數
@@ -136,10 +120,8 @@
 	List	清單
 	Location	位置
 	Margins	邊距
-	Maximum	最高
 	Medium	中等
 	Merged PRs	已合併的 PR
-	Minimum	最低
 	Model	模型
 	Models	模型
 	Name	名稱
@@ -147,11 +129,8 @@
 	Name:	名稱：
 	Next	下一個
 	No	否
-	No contributor data was built into this copy.	此版本未內建貢獻者資料。
 	No limit	無限制
-	No model credits were built into this copy.	此版本未內建模型致謝資料。
 	None	無
-	Number	數字
 	Odd pages only	僅奇數頁
 	Off	關
 	OK	確定
@@ -159,17 +138,14 @@
 	Open	開啟
 	Options	選項
 	Options…	選項…
-	Outline	輪廓
 	Oval	橢圓
 	Page	頁面
-	Page display	頁面顯示
 	Pages	頁面
 	Password	密碼
 	Paste	貼上
 	Portrait	縱向
 	Position	位置
 	Preview	預覽
-	Previous	上一個
 	Print	列印
 	Printing	列印
 	Protect	保護
@@ -185,14 +161,12 @@
 	Replace	取代
 	Reply	回覆
 	Report	報告
-	Reverse the order	反轉順序
 	Review	審閱
 	Right	右
 	Rotate	旋轉
 	Rotation	旋轉
 	Rotation:	旋轉：
 	Save	儲存
-	Scripts	指令碼
 	Search	搜尋
 	Select All	全選
 	Selected pages	選取的頁面
@@ -201,13 +175,11 @@
 	Size	尺寸
 	Sort	排序
 	Sort by	排序方式
-	Special	特殊
 	Split	分割
 	Square	正方形
 	Standard	標準
 	Star	星形
 	Strikethrough	刪除線
-	Strong	強
 	Style	樣式
 	Subject	主題
 	System	系統
@@ -215,7 +187,6 @@
 	Tables	表格
 	Text	文字
 	The passwords don't match.	兩次輸入的密碼不一致。
-	Thick	粗
 	Thickness	粗細
 	This document has no bookmarks.	本文件沒有書籤。
 	Title	標題
@@ -228,7 +199,6 @@
 	Undo	復原
 	Undo {action}	復原{action}
 	Up	上移
-	Use system setting	使用系統設定
 	Username	使用者名稱
 	Version	版本
 	Vertical	垂直
@@ -237,5 +207,4 @@
 	Width:	寬：
 	Words	詞數
 	Yes	是
-	Your changes will be lost if you don't save them.	如果不儲存，更改將會丟失。
 	Zoom	縮放

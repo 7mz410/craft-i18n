@@ -274,6 +274,7 @@
 	Cell Margins	Поля клітинки
 	Cell Size	Розмір клітинки
 	Cell\nMargins	Поля\nклітинки
+	Center	По центру
 	Centered	По центру
 	Centimeters	Сантиметри
 	Change	Змінити
@@ -376,6 +377,7 @@
 	Combo Box Content Control	Елемент керування вмістом «Поле зі списком»
 	Commands	Команди
 	Commands:	Команди:
+	Comment	Коментар
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Коментарі біля кожної сторінки й відстежені зміни в PDF, друку та зображеннях; список коментарів наприкінці вебсторінок, Markdown і тексту.
 	Comments Pane	Панель коментарів
 	Communication	Спілкування
@@ -793,6 +795,7 @@
 	Hide White Space	Приховати порожній простір
 	Hide\nInk	Сховати\nчорнило
 	Hierarchy	Ієрархія
+	Highlight	Виділення кольором
 	Highlight Merge Fields	Виділити поля злиття
 	Highlight\nMerge Fields	Виділити\nполя злиття
 	Highlighter	Маркер виділення
@@ -1353,6 +1356,7 @@
 	Press a key combination	Натисніть сполучення клавіш
 	Preview Results	Переглянути результати
 	Preview\nResults	Переглянути\nрезультати
+	Previous	Назад
 	Previous 1 or More	Попередній 1 або більше разів
 	Previous Change	Попередня зміна
 	Previous Comment	Попередній коментар
@@ -1501,6 +1505,7 @@
 	Results	Результати
 	Return address labels	Етикетки зі зворотною адресою
 	Return address:	Зворотна адреса:
+	Reverse the order	Зворотний порядок
 	Reviewing	Рецензування
 	Reviewing Pane	Панель рецензування
 	Reviewing — edits become suggestions	Рецензування — зміни стають пропозиціями
@@ -1867,6 +1872,7 @@
 	These marks show even when Show/Hide ¶ is off.	Ці знаки відображаються, навіть коли «Показати/приховати ¶» вимкнено.
 	These merge fields aren't in the recipient list:	Цих полів злиття немає в списку одержувачів:
 	These settings will be used for new documents.	Ці параметри використовуватимуться для нових документів.
+	Thick	Товста
 	This document	Цей документ
 	This field has no options.	Це поле не має параметрів.
 	This folder can't be read: {error}	Не вдається прочитати цю теку: {error}
@@ -2031,6 +2037,7 @@
 	Write & Insert Fields	Написання й вставлення полів
 	Write a reply	Напишіть відповідь
 	Year	Рік
+	Your changes will be lost if you don't save them.	Якщо не зберегти зміни, їх буде втрачено.
 	Your system doesn't report an animation setting, so animation effects stay on.	Система не повідомляє про налаштування анімації, тому ефекти анімації залишаються ввімкненими.
 	Your system has animation effects turned off.	У вашій системі ефекти анімації вимкнено.
 	Your system has animation effects turned on.	У вашій системі ефекти анімації ввімкнено.

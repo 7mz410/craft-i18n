@@ -213,6 +213,7 @@
 	Below the item	项目下方
 	Between	段落之间
 	Bibliography	参考文献
+	Binary assets removed	删除二进制资源
 	Blank	空白
 	Blank (Three Columns)	空白（三栏）
 	Blank document	空白文档
@@ -274,6 +275,7 @@
 	Cell Margins	单元格边距
 	Cell Size	单元格大小
 	Cell\nMargins	单元格边距
+	Center	居中
 	Centered	居中
 	Centimeters	厘米
 	Change	更改
@@ -304,6 +306,7 @@
 	Character Scale	字符缩放
 	Character Shading	字符底纹
 	Character Spacing	字符间距
+	Character spacing	字符间距
 	Character style	字符样式
 	Characters	字符
 	Characters (no spaces)	字符数（不计空格）
@@ -375,6 +378,7 @@
 	Combo Box Content Control	组合框内容控件
 	Commands	命令
 	Commands:	命令：
+	Comment	批注
 	Comments	批注
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	在 PDF、打印和图像中于每页旁显示批注和修订；在网页、Markdown 和文本末尾附上批注列表。
 	Comments Pane	批注窗格
@@ -431,6 +435,7 @@
 	Create a Style	创建样式
 	Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document.	为文档创建交互式大纲。\n\n用它可以随时知道自己在文档中的位置，或快速移动内容。\n\n要开始使用，请转到“开始”选项卡，为文档中的标题应用标题样式。
 	Create Graphic	创建图形
+	Create Link	创建链接
 	Create New Style	创建新样式
 	Create Source	创建源
 	Croatian	克罗地亚语
@@ -790,6 +795,7 @@
 	Hide White Space	隐藏空白
 	Hide\nInk	隐藏\n墨迹
 	Hierarchy	层次结构
+	Highlight	突出显示
 	Highlight Merge Fields	突出显示合并域
 	Highlight\nMerge Fields	突出显示合并域
 	Highlighter	荧光笔
@@ -836,6 +842,7 @@
 	Include page numbers	包含页码
 	Increase Font Size	增大字号
 	Increase Indent	增加缩进量
+	Indent	缩进
 	Indent from left:	左缩进：
 	Indentation	缩进
 	Indented	缩进式
@@ -1255,6 +1262,7 @@
 	Page break before	段前分页
 	Page Breaks	分页符
 	Page Color	页面颜色
+	Page display	页面显示
 	Page Down	下一屏
 	Page image (*.png)	页面图像 (*.png)
 	Page Movement	翻页方式
@@ -1339,6 +1347,7 @@
 	Press a key combination	请按组合键
 	Preview Results	预览结果
 	Preview\nResults	预览结果
+	Previous	上一条
 	Previous 1 or More	前一项 1 次或多次
 	Previous Change	上一处修订
 	Previous Comment	上一条批注

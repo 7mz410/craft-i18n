@@ -174,6 +174,7 @@
 	Arabic	Arapski
 	Arch Down	Luk prema dolje
 	Arch Up	Luk prema gore
+	Area	Površina
 	Arrange	Rasporedi
 	Arrange\nAll	Rasporedi\nsve
 	Arrows	Strelice
@@ -243,6 +244,7 @@
 	Below the item	Ispod stavke
 	Between	Između
 	Bibliography	Bibliografija
+	Binary assets removed	Uklonjeni binarni resursi
 	Binomial Coefficient	Binomni koeficijent
 	Binomial Coefficient (angle)	Binomni koeficijent (lomljene zagrade)
 	Binomial Coefficient with Angle Brackets	Binomni koeficijent s lomljenim zagradama
@@ -272,6 +274,7 @@
 	Bottom Margin	Donja margina
 	Bottom of Page	Dno stranice
 	Bottom Right Cell	Donja desna ćelija
+	Box	Okvir
 	Boxed Formula	Formula u okviru
 	Boxed Formula (example)	Formula u okviru (primjer)
 	Boxed Formulas	Formule u okviru
@@ -321,6 +324,7 @@
 	Cell Margins	Margine ćelije
 	Cell Size	Veličina ćelije
 	Cell\nMargins	Margine\nćelije
+	Center	Sredina
 	Centered	Centrirano
 	Centered as Group	Centrirano kao grupa
 	Centimeters	Centimetri
@@ -362,6 +366,7 @@
 	Character Scale	Mjerilo znaka
 	Character Shading	Sjenčanje znaka
 	Character Spacing	Razmak znakova
+	Character spacing	Razmak znakova
 	Character style	Stil znaka
 	Characters (no spaces)	Znakovi (bez razmaka)
 	Characters (with spaces)	Znakovi (s razmacima)
@@ -370,6 +375,7 @@
 	Chart Design	Dizajn grafikona
 	Chart Layouts	Rasporedi grafikona
 	Chart Title	Naslov grafikona
+	Check	Kvačica
 	Check Accessibility	Provjeri pristupačnost
 	Check Box Content Control	Kontrola sadržaja s potvrdnim okvirom
 	Check Compatibility	Provjeri kompatibilnost
@@ -438,6 +444,7 @@
 	Combo Box Content Control	Kontrola sadržaja s kombiniranim okvirom
 	Commands	Naredbe
 	Commands:	Naredbe:
+	Comment	Komentar
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Komentari pokraj svake stranice i praćene promjene u PDF-ovima, ispisima i slikama; popis komentara na kraju web-stranica, Markdown dokumenata i teksta.
 	Comments Pane	Okno komentara
 	Common Accent Objects	Uobičajeni objekti s akcentima
@@ -515,6 +522,7 @@
 	Create a Style	Izradi stil
 	Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document.	Izradite interaktivni pregled strukture dokumenta.\n\nTo je odličan način da pratite gdje se nalazite ili da brzo premještate sadržaj.\n\nZa početak idite na karticu Početna i primijenite stilove naslova na naslove u dokumentu.
 	Create Graphic	Izradi grafiku
+	Create Link	Izradi poveznicu
 	Create New Style	Izradi novi stil
 	Create Source	Izradi izvor
 	Croatian	Hrvatski
@@ -776,6 +784,7 @@
 	Exceptions…	Iznimke…
 	Executive   7.25" × 10.50"	Executive   7.25" × 10.50"
 	Existing File or Web Page	Postojeća datoteka ili web-stranica
+	Expand	Proširi
 	Expand or Collapse Heading	Proširi ili sažmi naslov
 	Exponential	Eksponencijalno
 	Exponential series	Eksponencijalni red
@@ -799,6 +808,7 @@
 	Field…	Polje…
 	Figure	Ilustracija
 	File name:	Naziv datoteke:
+	Fill	Ispuna
 	Fill color:	Boja ispune:
 	Filling in forms	Ispunjavanje obrazaca
 	Film	Film
@@ -826,6 +836,7 @@
 	First line:	Prvi redak:
 	First Name	Ime
 	First row of data contains column headers	Prvi redak podataka sadrži zaglavlja stupaca
+	Fit	Prilagodi
 	Fix Position on Page	Učvrsti položaj na stranici
 	Fixed Column Width	Fiksna širina stupca
 	Floor	Donje cijelo
@@ -886,6 +897,7 @@
 	Good morning	Dobro jutro
 	GOST (name sort)	GOST (sortiranje po imenu)
 	GOST (title sort)	GOST (sortiranje po naslovu)
+	Grab bag	Razno
 	Grave	Gravis
 	Grayscale	Sivi tonovi
 	Greater than	Veće od
@@ -933,6 +945,7 @@
 	Hide White Space	Sakrij prazan prostor
 	Hide\nInk	Sakrij\nrukopis
 	Hierarchy	Hijerarhija
+	Highlight	Istakni
 	Highlight Merge Fields	Istakni polja za spajanje
 	Highlight\nMerge Fields	Istakni\npolja za spajanje
 	Highlighter	Marker
@@ -989,6 +1002,7 @@
 	Include page numbers	Uključi brojeve stranica
 	Increase Font Size	Povećaj veličinu fonta
 	Increase Indent	Povećaj uvlaku
+	Indent	Uvlaka
 	Indent from left:	Uvlaka slijeva:
 	Indentation	Uvlačenje
 	Indented	Uvučeno
@@ -1070,6 +1084,7 @@
 	Interface theme:	Tema sučelja:
 	Interface\nTheme	Tema\nsučelja
 	Internet addresses as links	Internetske adrese kao poveznice
+	Intersection	Presjek
 	Intersection with Limits	Presjek s granicama
 	Intersection with Lower Limit	Presjek s donjom granicom
 	Intersection with Subscript-Superscript Limits	Presjek s granicama u donjem i gornjem indeksu
@@ -1182,6 +1197,7 @@ template	Letter	Pismo
 	Line between	Crta između
 	Line Break	Prijelom retka
 	Line breaking	Prijelom redaka
+	Line delta	Delta redaka
 	Line End	Kraj retka
 	Line Number	Broj retka
 	Line Numbering Options…	Mogućnosti numeriranja redaka…
@@ -1262,6 +1278,7 @@ template	Letter	Pismo
 	Math AutoCorrect	Automatski ispravak matematike
 	Matrices with Brackets	Matrice sa zagradama
 	Matrix	Matrica
+	Maximum	Maksimum
 	Maximum Example	Primjer maksimuma
 	Measured By	Mjereno s
 	Measurement units:	Mjerne jedinice:
@@ -1273,6 +1290,7 @@ template	Letter	Pismo
 	Middle	Sredina
 	Midline Dots	Točke na sredini retka
 	Millimeters	Milimetri
+	Minimum	Minimum
 	Minus Equal	Minus jednako
 	Mirror indents	Zrcali uvlake
 	Mirror margins	Zrcalne margine
@@ -1354,6 +1372,7 @@ template	Letter	Pismo
 	No Border	Bez obruba
 	No changes (read only)	Nema promjena (samo za čitanje)
 	No Color	Bez boje
+	No contributor data was built into this copy.	U ovu kopiju nisu ugrađeni podaci o doprinositeljima.
 	No document is open. Create a document or open one first.	Nijedan dokument nije otvoren. Najprije stvorite ili otvorite dokument.
 	No errors found: every merge field is in the recipient list.	Nisu pronađene pogreške: svako polje za spajanje nalazi se na popisu primatelja.
 	No Fill	Bez ispune
@@ -1362,6 +1381,7 @@ template	Letter	Pismo
 	No header row	Bez retka zaglavlja
 	No icons match your search.	Nijedna ikona ne odgovara pretrazi.
 	No Markup	Bez oznaka
+	No model credits were built into this copy.	U ovu kopiju nisu ugrađene zasluge modela.
 	No Outline	Bez obrisa
 	No Paragraph Space	Bez razmaka odlomaka
 	No printers found. Configure a system printer or export a PDF.	Nije pronađen nijedan pisač. Postavite sustavni pisač ili izvezite PDF.
@@ -1403,6 +1423,7 @@ template	Letter	Pismo
 	Now used by {command}	Sada ga koristi {command}
 	Nudge	Pomakni malo
 	Num Occurrences	Broj pojavljivanja
+	Number	Broj
 	Number alignment:	Poravnanje broja:
 	Number format	Format broja
 	Number of columns:	Broj stupaca:
@@ -1470,6 +1491,7 @@ template	Letter	Pismo
 	Other Large Operators	Ostali veliki operatori
 	Other styles and their TOC level:	Ostali stilovi i njihova razina u sadržaju:
 	Otherwise insert:	Inače umetni:
+	Outline	Struktura
 	Outline Level	Razina strukture
 	Outline level	Razina strukture
 	Outline levels	Razine strukture
@@ -1493,6 +1515,7 @@ template	Letter	Pismo
 	Page break before	Prijelom stranice prije
 	Page Breaks	Prijelomi stranica
 	Page Color	Boja stranice
+	Page display	Prikaz stranice
 	Page Down	Stranica dolje
 	Page image (*.png)	Slika stranice (*.png)
 	Page Movement	Kretanje po stranicama
@@ -1585,6 +1608,7 @@ template	Letter	Pismo
 	Press a key combination	Pritisnite kombinaciju tipki
 	Preview Results	Pretpregled rezultata
 	Preview\nResults	Pretpregled\nrezultata
+	Previous	Prethodno
 	Previous 1 or More	Prethodno 1 ili više
 	Previous Change	Prethodna promjena
 	Previous Comment	Prethodni komentar
@@ -1741,6 +1765,7 @@ template	Letter	Pismo
 	Results	Rezultati
 	Return address labels	Naljepnice s povratnom adresom
 	Return address:	Povratna adresa:
+	Reverse the order	Obrni redoslijed
 	Reviewing	Pregledavanje
 	Reviewing Pane	Okno pregleda
 	Reviewing — edits become suggestions	Pregledavanje – izmjene postaju prijedlozi
@@ -1798,6 +1823,7 @@ template	Letter	Pismo
 	Scale Drawing	Crtež u mjerilu
 	Scatter	Raspršeni
 	Script	Indeksi
+	Scripts	Rukopisna slova
 	Scroll ribbon left	Pomakni vrpcu ulijevo
 	Scroll ribbon right	Pomakni vrpcu udesno
 	Search Commands	Pretraži naredbe
@@ -1991,6 +2017,7 @@ template	Letter	Pismo
 	Spanish (Mexico)	Španjolski (Meksiko)
 	Spanish (Spain)	Španjolski (Španjolska)
 	Sparse Matrices	Rijetke matrice
+	Special	Posebno
 	Special Characters	Posebni znakovi
 	Specify height:	Odredi visinu:
 	Speech	Govor
@@ -2030,6 +2057,7 @@ template	Letter	Pismo
 	Straight Arrow Connector	Ravni strelasti konektor
 	Straight Connector	Ravni konektor
 	Stroke {n} of {total}	Potez {n} od {total}
+	Strong	Jako isticanje
 	Structure Actions	Radnje strukture
 	Structures	Strukture
 	Studio	Studio
@@ -2165,6 +2193,7 @@ template	Letter	Pismo
 	These marks show even when Show/Hide ¶ is off.	Ove se oznake prikazuju čak i kad je Prikaži/sakrij ¶ isključeno.
 	These merge fields aren't in the recipient list:	Ova polja za spajanje nisu na popisu primatelja:
 	These settings will be used for new documents.	Ove će se postavke koristiti za nove dokumente.
+	Thick	Debelo
 	This document	Ovaj dokument
 	This field has no options.	Ovo polje nema mogućnosti.
 	This folder can't be read: {error}	Ova se mapa ne može pročitati: {error}
@@ -2287,6 +2316,7 @@ preview	Title	Naslov
 	Use "a" before a consonant sound	Koristi „a” ispred suglasničkog glasa
 	Use "an" before a vowel sound	Koristi „an” ispred samoglasničkog glasa
 	Use an Existing List…	Koristi postojeći popis…
+	Use system setting	Koristi postavku sustava
 	Use the browser's full screen (F11)	Koristi cijeli zaslon preglednika (F11)
 	Use the Insert key to switch overtype on and off	Koristite tipku Umetni (Insert) za uključivanje i isključivanje prepisivanja
 	Use wildcards	Koristi zamjenske znakove
@@ -2364,6 +2394,7 @@ preview	Title	Naslov
 	x bar	x s crtom
 	Year	Godina
 	Yields	Rezultira
+	Your changes will be lost if you don't save them.	Vaše promjene bit će izgubljene ako ih ne spremite.
 	Your system doesn't report an animation setting, so animation effects stay on.	Vaš sustav ne javlja postavku animacije pa animacijski efekti ostaju uključeni.
 	Your system has animation effects turned off.	Vaš sustav ima isključene animacijske efekte.
 	Your system has animation effects turned on.	Vaš sustav ima uključene animacijske efekte.

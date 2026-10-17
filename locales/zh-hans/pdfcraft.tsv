@@ -218,6 +218,7 @@
 	April	四月
 	Arbitrary Mask	任意掩码
 	Archive documents	存档文档
+	Area	面积
 	ArtCraft website	ArtCraft 官网
 	Ask about this document	询问本文档
 	Asks GitHub for the latest release. Nothing is downloaded or installed automatically.	向 GitHub 查询最新版本。不会自动下载或安装任何内容。
@@ -251,6 +252,7 @@
 	Before the number	在数字之前
 	Beveled	斜面
 	Bicubic downsampling to	双三次降采样至
+	Binary assets removed	删除二进制资源
 	Binding	装订
 	Binding:	装订：
 	Black	黑色
@@ -268,6 +270,7 @@
 	Borders and Colors	边框和颜色
 	Both	两者
 	Both sides	双面
+	Box	框
 	Bring your own model (off by default)	自备模型（默认关闭）
 	Browser's print dialog	浏览器的打印对话框
 	Butt	平头
@@ -285,6 +288,7 @@
 	Cancelling…	正在取消…
 	Case-sensitive	区分大小写
 	Category:	类别：
+	Center	居中
 	Center Footer Text	居中页脚文本
 	Center Header Text	居中页眉文本
 	Center horizontally	水平居中
@@ -315,8 +319,10 @@
 	Character encoding	字符编码
 	Character limit 0 means no limit. A comb of characters needs a limit.	字符数限制为 0 表示无限制。分格字符必须设置字符数限制。
 	Character limit:	字符数限制：
+	Character spacing	字符间距
 	characters	个字符
 	Characters without spaces	不含空白的字符数
+	Check	勾选
 	Check Again	重新检查
 	Check again	重新检查
 	Check box is checked by default	默认选中复选框
@@ -476,6 +482,7 @@
 	Create Custom Stamp	创建自定义图章
 	Create custom stamp…	创建自定义图章…
 	Create from	创建来源
+	Create Link	创建链接
 	Create link	创建链接
 	Create links from URLs	从 URL 创建链接
 	Create Link…	创建链接…
@@ -703,6 +710,7 @@ key	Esc	Esc
 	Exclude tagged tables	排除带标签的表格
 	Exclusions use PDF tags. Untagged tables and code remain included. Image exclusion also removes invisible text.	排除规则使用PDF标签。无标签的表格和代码仍计入统计。排除图像时也会排除不可见文本。
 	Execute a menu item	执行菜单项
+	Expand	展开
 	Expand all	全部展开
 	Expand all bookmarks	展开所有书签
 	Expand all pages	展开所有页面
@@ -775,6 +783,7 @@ scroll speed	Fast	快
 	Files are combined in the order shown. Drag them to change it.	文件按显示的顺序合并。拖动可更改顺序。
 	Files for {name}	{name} 的文件
 	Files you open in PdfCraft appear here. Drop a PDF anywhere to open it.	在 PdfCraft 中打开的文件会显示在这里。将 PDF 拖放到任意位置即可打开。
+	Fill	填写
 	Fill & Sign	填写与签名
 	Fill & Sign dates	填写与签名的日期
 	Fill & Sign signature	填写与签名中的签名
@@ -810,6 +819,7 @@ scroll speed	Fast	快
 	Find…	查找…
 	Finish or discard the text being edited before selecting several objects.	请先完成或放弃正在编辑的文本，再选择多个对象。
 	First / last page	首页/末页
+	Fit	适合
 	Fit Height	适合高度
 	Fit one full page	单页完整显示
 	Fit Page	适合页面
@@ -870,6 +880,7 @@ scroll speed	Fast	快
 	Go to page…	转到页面…
 	Go to the page	转到该页面
 	Go to this result	转到此结果
+	Grab bag	名称列表
 	Gray	灰色
 	Grayscale Images	灰度图像
 	Green	绿色
@@ -898,6 +909,7 @@ scroll speed	Fast	快
 	High	高
 	High Resolution	高分辨率
 	High resolution	高分辨率
+	Highlight	突出显示
 	Highlight fields	高亮显示字段
 	Highlight Style:	高亮样式：
 	Highlight text	突出显示文本
@@ -925,6 +937,7 @@ key	Home	Home
 	In this file	当前文件
 	Includes unsaved changes	包含未保存的更改
 	Incorrect password. Try again.	密码不正确，请重试。
+	Indent	缩进
 	Initial View	初始视图
 	Initials	姓名首字母
 	initials	姓名首字母
@@ -949,6 +962,7 @@ key	Home	Home
 	Installed fonts…	已安装字体…
 	Intended usage	预期用途
 	Interface size	界面大小
+	Intersection	交点
 	Intersections	交点
 	Invert	反转
 	Invisible Rectangle	不可见矩形
@@ -1005,6 +1019,7 @@ key	Home	Home
 	Light gray	浅灰色
 	Light theme	浅色主题
 	Limit of	限制为
+	Line delta	净增行数
 	Line ending	线条端点
 	Line Style:	线条样式：
 	Line thickness	线条粗细
@@ -1055,6 +1070,7 @@ key	Home	Home
 	Mask:	掩码：
 	Match page at 100%	匹配页面并设为 100%
 	Maximize	最大化
+	Maximum	最高
 	maximum	最大值
 	May	五月
 	Measure	测量
@@ -1076,6 +1092,7 @@ key	Home	Home
 	Midpoint	中点
 	Midpoints	中点
 	Minimize	最小化
+	Minimum	最低
 	minimum	最小值
 	Mixed	混合
 	Mobile	移动设备
@@ -1143,6 +1160,7 @@ key	Home	Home
 	No colour	无颜色
 	No comments match.	没有匹配的注释。
 	No comments yet.	尚无注释。
+	No contributor data was built into this copy.	此版本未包含贡献者数据。
 	No differences in the text.	文本没有差异。
 	No digital IDs yet.	尚无数字 ID。
 	No documents are open	没有打开的文档
@@ -1156,6 +1174,7 @@ key	Home	Home
 	No matches	无匹配
 	No matches.	无匹配。
 	No matching tools	没有匹配的工具
+	No model credits were built into this copy.	此版本未包含模型贡献记录。
 	No openly licensed document fonts found. Load a font file.	未找到采用开放许可证的字体。请加载字体文件。
 	no output folder was chosen	未选择输出文件夹
 	No pages match those choices	所选条件没有匹配的页面
@@ -1191,6 +1210,7 @@ scroll speed	Normal	正常
 	Nothing to undo	没有可撤销的操作
 	nothing to undo	没有可撤销的操作
 	November	十一月
+	Number	数字
 	Number every page in the footer.	在页脚为每页编号。
 	Number of pages	页数
 	Number pages	页面编号
@@ -1270,6 +1290,7 @@ animation effects	On	开
 	Other elements alternate text	其他元素替代文本
 	Other elements that require alternate text	需要替代文本的其他元素
 	Outdent	减少缩进
+	Outline	轮廓
 	Outline colour:	轮廓颜色:
 	Output	输出
 	Output appears here.	输出显示在此处。
@@ -1279,6 +1300,7 @@ animation effects	On	开
 	Owner password (no restrictions apply)	所有者密码（无限制）
 	Page background	页面背景
 	Page Content	页面内容
+	Page display	页面显示
 	Page display: {layout}	页面显示：{layout}
 	Page does not require timed responses	页面不需要限时响应
 	Page grid	页面网格
@@ -1542,6 +1564,7 @@ animation effects	On	开
 	Reverse closed arrow	反向闭合箭头
 	Reverse open arrow	反向开口箭头
 	Reverse pages	逆序页面
+	Reverse the order	反转排序
 	Revert	还原
 	Revert changes	撤销更改
 	Revert to the previously saved version of “{name}”? Changes since then can't be undone afterwards.	还原到“{name}”的上次保存版本？此后的更改将无法撤销。
@@ -1619,6 +1642,7 @@ animation effects	On	开
 	Screen readers choose their voice from the document's language. Set it in Document Properties > Advanced > Language.	屏幕阅读器根据文档语言选择语音。请在“文档属性”>“高级”>“语言”中设置。
 	Script Name:	脚本名称：
 	Script:	脚本：
+	Scripts	脚本
 	Scripts run in a sandbox without file or network access. A script that asks to open a web page needs your permission first. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	脚本在沙盒中运行，无法访问文件或网络。脚本请求打开网页时，需要先获得您的许可。关闭 JavaScript 后，Acrobat 的标准格式、验证和计算函数仍可使用。
 	Scripts run in a sandbox without file or network access. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	脚本在无文件和网络访问权限的沙盒中运行。关闭 JavaScript 后，Acrobat 的标准格式化、验证和计算函数仍可使用。
 	Scroll long text	滚动长文本
@@ -1761,6 +1785,7 @@ scroll speed	Slow	慢
 	Source	来源
 key	Space	空格
 	Space Audit	空间审计
+	Special	特殊
 	Split document	拆分文档
 	Split document…	拆分文档…
 	Split into files…	拆分为多个文件…
@@ -1780,6 +1805,7 @@ key	Space	空格
 	Sticky note	附注
 	Strength: {s}	强度：{s}
 	Strikethrough text	删除线文本
+	Strong	强
 	Structure Info	结构信息
 	Submit a form	提交表单
 	Subset	子集
@@ -1894,6 +1920,7 @@ key	Space	空格
 	there are no redaction marks to apply	没有可应用的密文标记
 	These files can't be read, so they won't be in the combined PDF:	这些文件无法读取，因此不会包含在合并后的 PDF 中：
 	These objects could not be moved. Select them again and try a smaller move.	无法移动这些对象。请重新选择并尝试较小的移动距离。
+	Thick	粗
 	Thin	细
 	This area has too many overlapping paths; intersection snapping is limited.	此区域有太多重叠路径；交点吸附受到限制。
 	This certificate is in your list of trusted certificates.	此证书位于受信任证书列表中。
@@ -2013,6 +2040,7 @@ key	Space	空格
 	Use now	立即使用
 	Use overlay text	使用覆盖文本
 	Use print production	印刷制作
+	Use system setting	跟随系统设置
 	Use system title bar	使用系统标题栏
 	Used when a PDF doesn't ask for a layout or zoom. Continuous scrolling never snaps between pages.	PDF 未指定布局或缩放时使用。连续滚动时页面不会逐页吸附。
 	Used when opening PDFs. An explicit launch or control mode takes precedence for the session.	用于打开 PDF 时。如果启动参数或控制通道明确指定了模式，则本次会话优先使用该模式。
@@ -2076,6 +2104,7 @@ key	Space	空格
 	You can pin up to {n} folders. Unpin one first.	最多可固定 {n} 个文件夹。请先取消固定一个。
 	You have version {c}. All releases are listed at {page}.	当前版本为 {c}。所有版本列在 {page}。
 	You have version {c}. Download the new version from its release page.	当前版本为 {c}。请从其发布页面下载新版本。
+	Your changes will be lost if you don't save them.	如果不保存，更改将会丢失。
 	Your name	您的姓名
 	yyyy or yy year · m or mm month · mmm or mmmm month name · d or dd day · ddd or dddd weekday. H, h, M, s and t are time letters and can't be used on their own: put {escape} before a letter to show it as is.	yyyy 或 yy 年 · m 或 mm 月 · mmm 或 mmmm 月份名称 · d 或 dd 日 · ddd 或 dddd 星期。H、h、M、s 和 t 是时间字母，不能单独使用：在字母前加 {escape} 可按原样显示。
 	ZIP	ZIP

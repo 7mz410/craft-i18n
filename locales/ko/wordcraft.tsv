@@ -169,6 +169,7 @@
 	Arabic	아라비아 숫자
 	Arch Down	아래쪽 아치
 	Arch Up	위쪽 아치
+	Area	영역형
 	Arrange	정렬
 	Arrange\nAll	모두\n정렬
 	Arrows	화살표
@@ -235,6 +236,7 @@
 	Below the item	항목 아래
 	Between	사이
 	Bibliography	참고 문헌
+	Binary assets removed	삭제된 바이너리 에셋
 	Binomial Coefficient	이항 계수
 	Binomial Coefficient (angle)	이항 계수 (꺾쇠)
 	Binomial Coefficient with Angle Brackets	꺾쇠 괄호 이항 계수
@@ -264,6 +266,7 @@
 	Bottom Margin	아래쪽 여백
 	Bottom of Page	페이지 아래쪽
 	Bottom Right Cell	오른쪽 아래 셀
+	Box	상자
 	Boxed Formula	상자 수식
 	Boxed Formula (example)	상자 수식 (예)
 	Boxed Formulas	상자 수식
@@ -312,6 +315,7 @@
 	Cell Margins	셀 여백
 	Cell Size	셀 크기
 	Cell\nMargins	셀\n여백
+	Center	가운데 맞춤
 	Centered	가운데 맞춤
 	Centered as Group	그룹으로 가운데 맞춤
 	Centimeters	센티미터
@@ -353,6 +357,7 @@
 	Character Scale	문자 비율
 	Character Shading	문자 음영
 	Character Spacing	문자 간격
+	Character spacing	문자 간격
 	Character style	문자 스타일
 	Characters (no spaces)	문자 수(공백 제외)
 	Characters (with spaces)	문자 수(공백 포함)
@@ -361,6 +366,7 @@
 	Chart Design	차트 디자인
 	Chart Layouts	차트 레이아웃
 	Chart Title	차트 제목
+	Check	카론(ˇ)
 	Check Accessibility	접근성 검사
 	Check Box Content Control	확인란 콘텐츠 컨트롤
 	Check Compatibility	호환성 검사
@@ -427,6 +433,7 @@
 	Combo Box Content Control	콤보 상자 콘텐츠 컨트롤
 	Commands	명령
 	Commands:	명령:
+	Comment	댓글
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	PDF, 인쇄물, 이미지에서는 각 페이지 옆에 주석과 변경 내용 추적을 표시하고, 웹 페이지, Markdown, 텍스트에서는 끝에 주석 목록을 표시합니다.
 	Comments Pane	댓글 창
 	Common Accent Objects	자주 쓰는 악센트 개체
@@ -501,6 +508,7 @@
 	Create a Style	스타일 만들기
 	Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document.	문서의 대화형 개요를 만드세요.\n\n현재 위치를 파악하거나 내용을 빠르게 이동할 수 있습니다.\n\n시작하려면 홈 탭으로 이동해 문서의 제목에 제목 스타일을 적용하세요.
 	Create Graphic	그래픽 만들기
+	Create Link	연결 만들기
 	Create New Style	새 스타일 만들기
 	Create Source	원본 만들기
 	Crop	자르기
@@ -746,6 +754,7 @@
 	Exactly {n}	정확히 {n}
 	Exceptions (optional)	예외(선택 사항)
 	Exceptions…	예외…
+	Expand	확장
 	Expand or Collapse Heading	제목 확장 또는 축소
 	Exponential	지수 함수
 	Exponential series	지수 급수
@@ -769,6 +778,7 @@
 	Field…	필드…
 	Figure	그림
 	File name:	파일 이름:
+	Fill	채우기
 	Fill color:	채우기 색:
 	Filling in forms	양식 작성
 	Film	영화
@@ -794,6 +804,7 @@
 	First line:	첫 줄:
 	First Name	이름
 	First row of data contains column headers	데이터의 첫 번째 행에 열 머리글이 포함됨
+	Fit	맞춤
 	Fix Position on Page	페이지에서 위치 고정
 	Fixed Column Width	고정 열 너비
 	Floor	내림(바닥 함수)
@@ -848,6 +859,7 @@
 	Good afternoon	좋은 오후입니다
 	Good evening	좋은 저녁입니다
 	Good morning	좋은 아침입니다
+	Grab bag	모음
 	Grave	그레이브(`)
 	Grayscale	회색조
 	Greek	그리스어
@@ -889,6 +901,7 @@
 	Hide White Space	공백 숨기기
 	Hide\nInk	잉크\n숨기기
 	Hierarchy	계층 구조
+	Highlight	강조 표시
 	Highlight Merge Fields	병합 필드 강조 표시
 	Highlight\nMerge Fields	병합 필드\n강조 표시
 	Highlighter	형광펜
@@ -942,6 +955,7 @@
 	Include page numbers	페이지 번호 포함
 	Increase Font Size	글꼴 크기 키우기
 	Increase Indent	들여쓰기 늘리기
+	Indent	들여쓰기
 	Indent from left:	왼쪽에서 들여쓰기:
 	Indentation	들여쓰기
 	Indented	들여쓰기
@@ -1022,6 +1036,7 @@
 	Interface theme:	인터페이스 테마:
 	Interface\nTheme	인터페이스\n테마
 	Internet addresses as links	인터넷 주소를 링크로 바꾸기
+	Intersection	교집합
 	Intersection with Limits	교집합 (한계 포함)
 	Intersection with Lower Limit	교집합 (아래 한계 포함)
 	Intersection with Subscript-Superscript Limits	교집합 (아래·위 첨자 한계 포함)
@@ -1121,6 +1136,7 @@
 	Line between	사이 구분선
 	Line Break	줄 바꿈
 	Line breaking	줄 바꿈
+	Line delta	줄 간격 변경량
 	Line End	줄 끝
 	Line Number	줄 번호
 	Line Numbering Options…	줄 번호 매기기 옵션…
@@ -1198,6 +1214,7 @@
 	Math AutoCorrect	수학 자동 고침
 	Matrices with Brackets	괄호 행렬
 	Matrix	행렬
+	Maximum	최댓값
 	Maximum Example	최댓값 예
 	Measured By	측정 기준
 	Measurement units:	측정 단위:
@@ -1209,6 +1226,7 @@
 	Middle	가운데
 	Midline Dots	가운데 점
 	Millimeters	밀리미터
+	Minimum	최솟값
 	Minus Equal	빼기 등호
 	Mirror indents	좌우 대칭 들여쓰기
 	Mirrored	좌우 대칭
@@ -1286,6 +1304,7 @@
 	No Border	테두리 없음
 	No changes (read only)	변경 내용 없음(읽기 전용)
 	No Color	색 없음
+	No contributor data was built into this copy.	이 빌드에는 기여자 정보가 포함되지 않았습니다.
 	No errors found: every merge field is in the recipient list.	오류가 없습니다. 모든 병합 필드가 받는 사람 목록에 있습니다.
 	No Fill	채우기 없음
 	No Glow	광채 없음
@@ -1293,6 +1312,7 @@
 	No header row	머리글 행 없음
 	No icons match your search.	검색 조건에 맞는 아이콘이 없습니다.
 	No Markup	변경 내용 표시 안 함
+	No model credits were built into this copy.	이 빌드에는 모델 크레딧이 포함되지 않았습니다.
 	No Outline	윤곽선 없음
 	No Paragraph Space	단락 간격 없음
 	No printers found. Configure a system printer or export a PDF.	프린터를 찾을 수 없습니다. 시스템 프린터를 설정하거나 PDF로 내보내세요.
@@ -1331,6 +1351,7 @@
 	Now used by {command}	현재 {command}에 할당됨
 	Nudge	미세 이동
 	Num Occurrences	발생 횟수
+	Number	번호
 	Number alignment:	번호 맞춤:
 	Number format	번호 서식
 	Number of columns:	열 수:
@@ -1395,6 +1416,7 @@
 	Other Large Operators	기타 대형 연산자
 	Other styles and their TOC level:	기타 스타일 및 목차 수준:
 	Otherwise insert:	그렇지 않으면 삽입:
+	Outline	개요
 	Outline Level	개요 수준
 	Outline level	개요 수준
 	Outline levels	개요 수준
@@ -1418,6 +1440,7 @@
 	Page break before	앞에서 페이지 나누기
 	Page Breaks	페이지 나누기
 	Page Color	페이지 색
+	Page display	페이지 표시
 	Page Down	Page Down
 	Page image (*.png)	페이지 이미지 (*.png)
 	Page Movement	페이지 이동
@@ -1507,6 +1530,7 @@
 	Press a key combination	키 조합을 누르세요
 	Preview Results	결과 미리 보기
 	Preview\nResults	결과\n미리 보기
+	Previous	이전
 	Previous 1 or More	이전 항목 1개 이상
 	Previous Change	이전 변경 내용
 	Previous Comment	이전 댓글
@@ -1656,6 +1680,7 @@
 	Results	결과
 	Return address labels	반송 주소 레이블
 	Return address:	반송 주소:
+	Reverse the order	순서 반전
 	Reviewing	검토 중
 	Reviewing Pane	검토 창
 	Reviewing — edits become suggestions	검토 중 — 편집 내용이 제안으로 바뀝니다
@@ -1712,6 +1737,7 @@
 	Scale Drawing	그리기 크기 조정
 	Scatter	분산형
 	Script	스크립트
+	Scripts	첨자
 	Scroll ribbon left	리본을 왼쪽으로 스크롤
 	Scroll ribbon right	리본을 오른쪽으로 스크롤
 	Search Commands	명령 검색
@@ -1897,6 +1923,7 @@
 	Spanish (Mexico)	스페인어(멕시코)
 	Spanish (Spain)	스페인어(스페인)
 	Sparse Matrices	희소 행렬
+	Special	특수
 	Special Characters	특수 문자
 	Specify height:	높이 지정:
 	Speech	음성
@@ -1935,6 +1962,7 @@
 	Straight Arrow Connector	직선 화살표 연결선
 	Straight Connector	직선 연결선
 	Stroke {n} of {total}	획 {n}/{total}
+	Strong	굵게 강조
 	Structure Actions	구조 작업
 	Structures	구조
 	Studio	Studio
@@ -2056,6 +2084,7 @@
 	Thesaurus	유의어 사전
 	These marks show even when Show/Hide ¶ is off.	이 기호는 표시/숨기기 ¶가 꺼져 있어도 표시됩니다.
 	These merge fields aren't in the recipient list:	다음 병합 필드는 받는 사람 목록에 없습니다:
+	Thick	굵게
 	This document	이 문서
 	This field has no options.	이 필드에는 옵션이 없습니다.
 	This folder can't be read: {error}	이 폴더를 읽을 수 없습니다: {error}
@@ -2173,6 +2202,7 @@ preview	Title	제목
 	Use "a" before a consonant sound	자음 소리 앞에는 "a"를 사용하세요
 	Use "an" before a vowel sound	모음 소리 앞에는 "an"을 사용하세요
 	Use an Existing List…	기존 목록 사용…
+	Use system setting	시스템 설정 사용
 	Use the Insert key to switch overtype on and off	Insert 키를 눌러 겹쳐쓰기 켜기/끄기
 	Use wildcards	와일드카드 사용
 	User Name	사용자 이름
@@ -2246,6 +2276,7 @@ preview	Title	제목
 	x bar	x 윗줄
 	Year	연도
 	Yields	결과
+	Your changes will be lost if you don't save them.	저장하지 않으면 변경 내용이 사라집니다.
 	Your system doesn't report an animation setting, so animation effects stay on.	시스템에서 애니메이션 설정을 확인할 수 없어 애니메이션 효과를 켜 둡니다.
 	Your system has animation effects turned off.	시스템에서 애니메이션 효과가 꺼져 있습니다.
 	Your system has animation effects turned on.	시스템에서 애니메이션 효과가 켜져 있습니다.

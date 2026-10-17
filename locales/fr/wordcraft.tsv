@@ -376,6 +376,7 @@
 	Combo Box Content Control	Contrôle de contenu Zone de liste déroulante
 	Commands	Commandes
 	Commands:	Commandes :
+	Comment	Commentaire
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Commentaires à côté de chaque page et modifications suivies dans les PDF, les impressions et les images ; liste des commentaires à la fin des pages web, du Markdown et du texte.
 	Comments Pane	Volet Commentaires
 	Communication	Communication
@@ -430,6 +431,7 @@
 	Create a Style	Créer un style
 	Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document.	Créez un plan interactif de votre document.\n\nC’est un excellent moyen de savoir où vous en êtes ou de déplacer rapidement votre contenu.\n\nPour commencer, accédez à l’onglet Accueil et appliquez les styles Titre aux titres de votre document.
 	Create Graphic	Créer un graphique
+	Create Link	Créer un lien
 	Create New Style	Créer un nouveau style
 	Create Source	Créer la source
 	Croatian	Croate
@@ -701,6 +703,7 @@
 	First line:	Première ligne :
 	First Name	Prénom
 	First row of data contains column headers	La première ligne de données contient les en-têtes de colonnes
+	Fit	Ajuster
 	Fix Position on Page	Fixer la position sur la page
 	Fixed Column Width	Largeur de colonne fixe
 	Focus	Focus
@@ -971,6 +974,7 @@
 	Line between	Ligne entre les colonnes
 	Line Break	Saut de ligne
 	Line breaking	Coupure de lignes
+	Line delta	Écart de lignes
 	Line End	Fin de ligne
 	Line Numbering Options…	Options de numérotation des lignes…
 	Line Numbers	Numéros de ligne
@@ -1339,6 +1343,7 @@
 	Press a key combination	Appuyez sur une combinaison de touches
 	Preview Results	Aperçu des résultats
 	Preview\nResults	Aperçu des\nrésultats
+	Previous	Précédent
 	Previous 1 or More	1 occurrence ou plus du précédent
 	Previous Change	Modification précédente
 	Previous Comment	Commentaire précédent
@@ -1712,6 +1717,7 @@
 	Spacing:	Espacement :
 	Spanish (Mexico)	Espagnol (Mexique)
 	Spanish (Spain)	Espagnol (Espagne)
+	Special	Spécial
 	Special Characters	Caractères spéciaux
 	Specify height:	Spécifier la hauteur :
 	Speech	Parole
@@ -2017,6 +2023,7 @@
 	Write & Insert Fields	Écriture et insertion de champs
 	Write a reply	Écrire une réponse
 	Year	Année
+	Your changes will be lost if you don't save them.	Vos modifications seront perdues si vous ne les enregistrez pas.
 	Your system doesn't report an animation setting, so animation effects stay on.	Votre système n’indique aucun réglage d’animation, les effets d’animation restent donc activés.
 	Your system has animation effects turned off.	Les effets d’animation sont désactivés sur votre système.
 	Your system has animation effects turned on.	Les effets d’animation sont activés sur votre système.

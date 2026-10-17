@@ -258,6 +258,7 @@
 	Before the number	Пред числото
 	Beveled	Скосена
 	Bicubic downsampling to	Бикубично понижаване на резолюцията до
+	Binary assets removed	Премахнати двоични ресурси
 	Binding	Подвързване
 	Binding:	Подвързване:
 	Black	Черно
@@ -910,6 +911,7 @@ scroll speed	Fast	Висока
 	Go to page…	Отиди на страница…
 	Go to the page	Отиди на страницата
 	Go to this result	Към този резултат
+	Grab bag	Смесица
 	Gray	Сиво
 	Grayscale Images	Изображения в сива скала
 	Green	Зелено
@@ -1051,6 +1053,7 @@ key	Home	Home
 	Light gray	Светлосиво
 	Light theme	Светла тема
 	Limit of	Ограничение от
+	Line delta	Разлика в редовете
 	Line ending	Край на линията
 	Line Style:	Стил на линията:
 	Line thickness	Дебелина на линията
@@ -1192,6 +1195,7 @@ key	Home	Home
 	No colour	Без цвят
 	No comments match.	Няма съвпадащи коментари.
 	No comments yet.	Все още няма коментари.
+	No contributor data was built into this copy.	В това копие няма вградени данни за сътрудниците.
 	No differences in the text.	Няма разлики в текста.
 	No digital IDs yet.	Все още няма цифрови идентификатори.
 	No documents are open	Няма отворени документи

@@ -225,6 +225,7 @@
 calendar date	April	квітня
 	Arbitrary Mask	Довільна маска
 	Archive documents	Архівувати документи
+	Area	Площа
 	ArtCraft website	Вебсайт ArtCraft
 	Ask about this document	Запитати про цей документ
 	Asks GitHub for the latest release. Nothing is downloaded or installed automatically.	Запитує в GitHub найновіший випуск. Нічого не завантажується й не встановлюється автоматично.
@@ -260,6 +261,7 @@ calendar date	August	серпня
 	Before the number	Перед числом
 	Beveled	Скошена
 	Bicubic downsampling to	Бікубічне зниження роздільної здатності до
+	Binary assets removed	Видалено бінарних ресурсів
 	Binding	Корінець
 	Binding:	Корінець:
 	Black	Чорний
@@ -277,6 +279,7 @@ calendar date	August	серпня
 	Borders and Colors	Рамки й кольори
 	Both	Обидва
 	Both sides	Обидва боки
+	Box	Область
 	Bring your own model (off by default)	Додайте власну модель (типово вимкнено)
 	Browser's print dialog	Діалог друку браузера
 	Butt	Торець
@@ -294,6 +297,7 @@ calendar date	August	серпня
 	Cancelling…	Скасування…
 	Case-sensitive	З урахуванням регістру
 	Category:	Категорія:
+	Center	По центру
 	Center Footer Text	Текст по центру у нижньому колонтитулі
 	Center Header Text	Текст по центру у верхньому колонтитулі
 	Center horizontally	По центру горизонтально
@@ -326,8 +330,10 @@ calendar date	August	серпня
 	Character encoding	Кодування символів
 	Character limit 0 means no limit. A comb of characters needs a limit.	Обмеження 0 означає відсутність обмеження. Для посимвольних комірок потрібно задати обмеження.
 	Character limit:	Обмеження символів:
+	Character spacing	Міжсимвольний інтервал
 	characters	символів
 	Characters without spaces	Символи без пробілів
+	Check	Позначка
 	Check Again	Перевірити ще раз
 	Check again	Перевірити ще раз
 	Check box is checked by default	Прапорець типово встановлено
@@ -488,6 +494,7 @@ calendar date	August	серпня
 	Create Custom Stamp	Створити власний штамп
 	Create custom stamp…	Створити власний штамп…
 	Create from	Створити з
+	Create Link	Створити посилання
 	Create link	Створити посилання
 	Create links from URLs	Створити посилання з URL
 	Create Link…	Створити посилання…
@@ -719,6 +726,7 @@ key	Esc	Esc
 	Exclude tagged tables	Виключити таблиці з тегами
 	Exclusions use PDF tags. Untagged tables and code remain included. Image exclusion also removes invisible text.	Виключення використовують теги PDF. Таблиці й код без тегів залишаються в підрахунку. Виключення зображень також видаляє невидимий текст.
 	Execute a menu item	Виконати пункт меню
+	Expand	Розгорнути
 	Expand all	Розгорнути всі
 	Expand all bookmarks	Розгорнути всі закладки
 	Expand all pages	Розгорнути всі сторінки
@@ -793,6 +801,7 @@ calendar date	February	лютого
 	Files are combined in this order. Leave Pages empty to take every page.	Файли об’єднуються в цьому порядку. Залиште «Сторінки» порожнім, щоб узяти всі сторінки.
 	Files for {name}	Файли для {name}
 	Files you open in PdfCraft appear here. Drop a PDF anywhere to open it.	Тут з’являються файли, які ви відкриваєте в PdfCraft. Перетягніть PDF будь-куди, щоб відкрити його.
+	Fill	Заповнити
 	Fill & Sign	Заповнення й підпис
 	Fill & Sign dates	Дати заповнення й підпису
 	Fill & Sign signature	Підпис із «Заповнення й підпис»
@@ -828,6 +837,7 @@ calendar date	February	лютого
 	Find…	Знайти…
 	Finish or discard the text being edited before selecting several objects.	Завершіть або скасуйте редагування тексту, перш ніж вибирати кілька об’єктів.
 	First / last page	Перша / остання сторінка
+	Fit	Припасувати
 	Fit Height	За висотою
 	Fit one full page	Одна повна сторінка
 	Fit Page	За розміром сторінки
@@ -888,6 +898,7 @@ calendar date	February	лютого
 	Go to page…	Перейти до сторінки…
 	Go to the page	Перейти до сторінки
 	Go to this result	Перейти до цього результату
+	Grab bag	Добірка
 	Gray	Сірий
 	Grayscale Images	Зображення у відтінках сірого
 	Green	Зелений
@@ -917,6 +928,7 @@ calendar date	February	лютого
 	High	Висока
 	High Resolution	Висока роздільна здатність
 	High resolution	Висока роздільна здатність
+	Highlight	Виділення кольором
 	Highlight fields	Підсвітити поля
 	Highlight Style:	Стиль підсвічування:
 	Highlight text	Виділити текст кольором
@@ -945,6 +957,7 @@ key	Home	Home
 	In this file	У цьому файлі
 	Includes unsaved changes	Містить незбережені зміни
 	Incorrect password. Try again.	Неправильний пароль. Спробуйте ще раз.
+	Indent	Збільшити відступ
 	Initial View	Початковий вигляд
 	Initials	Ініціали
 	initials	ініціали
@@ -969,6 +982,7 @@ key	Home	Home
 	Installed fonts…	Встановлені шрифти…
 	Intended usage	Призначення
 	Interface size	Розмір інтерфейсу
+	Intersection	Перетин
 	Intersections	Перетини
 	Invert	Інверсія
 	Invisible Rectangle	Невидимий прямокутник
@@ -1028,6 +1042,7 @@ calendar date	June	червня
 	Light gray	Світло-сіра
 	Light theme	Світла тема
 	Limit of	Обмеження:
+	Line delta	Зміна кількості рядків
 	Line ending	Закінчення лінії
 	Line Style:	Стиль лінії:
 	Line thickness	Товщина лінії
@@ -1084,6 +1099,7 @@ calendar date	March	березня
 	Match field sizes	Задати однакові розміри полів
 	Match page at 100%	Підібрати папір, масштаб 100%
 	Maximize	Розгорнути
+	Maximum	Максимальна
 	maximum	максимум
 	May	Травень
 calendar date	May	травня
@@ -1106,6 +1122,7 @@ calendar date	May	травня
 	Midpoint	Серединна точка
 	Midpoints	Серединні точки
 	Minimize	Згорнути
+	Minimum	Мінімальна
 	minimum	мінімум
 	Mixed	Різні значення
 	Mobile	Мобільні пристрої
@@ -1173,6 +1190,7 @@ calendar date	May	травня
 	No colour	Без кольору
 	No comments match.	Відповідних коментарів немає.
 	No comments yet.	Ще немає коментарів.
+	No contributor data was built into this copy.	У цю копію не вбудовано даних про учасників.
 	No differences in the text.	Відмінностей у тексті немає.
 	No digital IDs yet.	Ще немає цифрових посвідчень.
 	No documents are open	Немає відкритих документів
@@ -1186,6 +1204,7 @@ calendar date	May	травня
 	No matches	Збігів немає
 	No matches.	Збігів немає.
 	No matching tools	Відповідних інструментів немає
+	No model credits were built into this copy.	У цю копію не вбудовано відомостей про моделі.
 	No openly licensed document fonts found. Load a font file.	Шрифтів із відкритою ліцензією не знайдено. Завантажте файл шрифту.
 	no output folder was chosen	не вибрано теку для виводу
 	No pages match those choices	Жодна сторінка не відповідає вибраним параметрам
@@ -1222,6 +1241,7 @@ scroll speed	Normal	Звичайна
 	nothing to undo	немає дій для скасування
 	November	Листопад
 calendar date	November	листопада
+	Number	Число
 	Number every page in the footer.	Пронумерувати кожну сторінку в нижньому колонтитулі.
 	Number of pages	Кількість сторінок
 	Number pages	Пронумерувати сторінки
@@ -1302,6 +1322,7 @@ animation effects	On	Увімкнено
 	Other elements alternate text	Альтернативний текст інших елементів
 	Other elements that require alternate text	Інші елементи, які потребують альтернативного тексту
 	Outdent	Зменшити відступ
+	Outline	Контур
 	Outline colour:	Колір контуру:
 	Output	Вивід
 	Output appears here.	Тут з’являється вивід.
@@ -1311,6 +1332,7 @@ animation effects	On	Увімкнено
 	Owner password (no restrictions apply)	Пароля власника (обмеження не застосовуються)
 	Page background	Фон сторінки
 	Page Content	Вміст сторінки
+	Page display	Відображення сторінок
 	Page display: {layout}	Відображення сторінок: {layout}
 	Page does not require timed responses	Сторінка не потребує відповідей з обмеженням часу
 	Page grid	Сітка сторінок
@@ -1577,6 +1599,7 @@ animation effects	On	Увімкнено
 	Reverse closed arrow	Зворотна закрита стрілка
 	Reverse open arrow	Зворотна відкрита стрілка
 	Reverse pages	Зворотний порядок сторінок
+	Reverse the order	Зворотний порядок
 	Revert	Повернути збережену версію
 	Revert changes	Скасувати зміни
 	Revert to the previously saved version of “{name}”? Changes since then can't be undone afterwards.	Повернутися до попередньої збереженої версії «{name}»? Після цього зміни, внесені відтоді, неможливо буде повернути.
@@ -1656,6 +1679,7 @@ animation effects	On	Увімкнено
 	Script Name:	Назва сценарію:
 	Script:	Сценарій:
 	Scripted content must be usable with a keyboard and assistive technology. Check the document's scripts.	Вміст зі сценаріями має бути доступним для керування за допомогою клавіатури й допоміжних технологій. Перевірте сценарії документа.
+	Scripts	Сценарії
 	Scripts run in a sandbox without file or network access. A script that asks to open a web page needs your permission first. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	Сценарії виконуються в ізольованому середовищі без доступу до файлів і мережі. Сценарій, що просить відкрити вебсторінку, спочатку потребує вашого дозволу. Коли JavaScript вимкнено, стандартні функції форматування, перевірки й обчислення Acrobat усе одно працюють.
 	Scripts run in a sandbox without file or network access. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	Сценарії виконуються в ізольованому середовищі без доступу до файлів і мережі. Коли JavaScript вимкнено, стандартні функції форматування, перевірки й обчислення Acrobat усе одно працюють.
 	Scroll long text	Прокручувати довгий текст
@@ -1801,6 +1825,7 @@ scroll speed	Slow	Повільна
 	Source	Джерело
 key	Space	Пробіл
 	Space Audit	Аналіз місця
+	Special	Спеціальний
 	Split document	Розділити документ
 	Split document…	Розділити документ…
 	Split into files…	Розділити на файли…
@@ -1822,6 +1847,7 @@ action wizard	Start	Почати
 	Sticky note	Нотатка
 	Strength: {s}	Надійність: {s}
 	Strikethrough text	Закреслити текст
+	Strong	Надійний
 	Structure Info	Відомості про структуру
 certificate	Subject	Власник сертифіката
 	Submit a form	Надіслати форму
@@ -1943,6 +1969,7 @@ certificate	Subject	Власник сертифіката
 	there are no redaction marks to apply	немає позначок вилучення для застосування
 	These files can't be read, so they won't be in the combined PDF:	Ці файли не вдається прочитати, тож їх не буде в об’єднаному PDF:
 	These objects could not be moved. Select them again and try a smaller move.	Не вдалося перемістити ці об’єкти. Виберіть їх знову та спробуйте менше зміщення.
+	Thick	Товста
 	Thin	Тонка
 	This area has too many overlapping paths; intersection snapping is limited.	Ця область має забагато контурів, що перекриваються; прив’язування до перетинів обмежено.
 	This certificate is in your list of trusted certificates.	Цей сертифікат є у вашому списку довірених сертифікатів.
@@ -2063,6 +2090,7 @@ signature pad	Type	Ввести
 	Use now	Використати зараз
 	Use overlay text	Використовувати накладений текст
 	Use print production	Підготувати до друку
+	Use system setting	Використовувати системні налаштування
 	Use system title bar	Використовувати системний заголовок вікна
 	Use {what}	Використати: {what}
 	Used when a PDF doesn't ask for a layout or zoom. Continuous scrolling never snaps between pages.	Використовується, коли PDF не задає макет або масштаб. Безперервне прокручування ніколи не прив’язується до сторінок.
@@ -2127,6 +2155,7 @@ signature pad	Type	Ввести
 	You can pin up to {n} folders. Unpin one first.	Можна закріпити не більше {n} тек. Спочатку відкріпіть одну з них.
 	You have version {c}. All releases are listed at {page}.	У вас версія {c}. Усі випуски наведено на {page}.
 	You have version {c}. Download the new version from its release page.	У вас версія {c}. Завантажте нову версію зі сторінки випуску.
+	Your changes will be lost if you don't save them.	Якщо не зберегти зміни, їх буде втрачено.
 	Your name	Ваше ім’я
 	yyyy or yy year · m or mm month · mmm or mmmm month name · d or dd day · ddd or dddd weekday. H, h, M, s and t are time letters and can't be used on their own: put {escape} before a letter to show it as is.	yyyy або yy рік · m або mm місяць · mmm або mmmm назва місяця · d або dd день · ddd або dddd день тижня. H, h, M, s і t — літери часу, їх не можна використовувати окремо: поставте {escape} перед літерою, щоб показати її як є.
 	ZIP	ZIP

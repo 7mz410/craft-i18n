@@ -218,6 +218,7 @@
 	April	四月
 	Arbitrary Mask	任意掩碼
 	Archive documents	封存文件
+	Area	面積
 	ArtCraft website	ArtCraft 網站
 	Ask about this document	詢問此文件
 	Asks GitHub for the latest release. Nothing is downloaded or installed automatically.	向 GitHub 搜尋最新版本。不會自動下載或安裝任何內容。
@@ -251,6 +252,7 @@
 	Before the number	在數字之前
 	Beveled	斜面
 	Bicubic downsampling to	雙三次降取樣至
+	Binary assets removed	移除的二進位資產
 	Binding	裝訂
 	Binding:	裝訂：
 	Black	黑色
@@ -268,6 +270,7 @@
 	Borders and Colors	邊框和顏色
 	Both	兩者
 	Both sides	雙面
+	Box	框
 	Bring your own model (off by default)	使用自己的模型（預設關閉）
 	Browser's print dialog	瀏覽器的列印對話方塊
 	Butt	平頭
@@ -285,6 +288,7 @@
 	Cancelling…	正在取消…
 	Case-sensitive	區分大小寫
 	Category:	類別：
+	Center	置中
 	Center Footer Text	置中頁尾文字
 	Center Header Text	置中頁首文字
 	Center horizontally	水平置中
@@ -315,8 +319,10 @@
 	Character encoding	字元編碼
 	Character limit 0 means no limit. A comb of characters needs a limit.	字元數限制為 0 表示無限制。分格字元必須設定字元數限制。
 	Character limit:	字元數限制：
+	Character spacing	字元間距
 	characters	個字元
 	Characters without spaces	不含空白的字元數
+	Check	勾選記號
 	Check Again	重新檢驗
 	Check again	重新檢驗
 	Check box is checked by default	預設選取核取方塊
@@ -476,6 +482,7 @@
 	Create Custom Stamp	建立自訂戳記
 	Create custom stamp…	建立自訂戳記…
 	Create from	建立來源
+	Create Link	建立連結
 	Create link	建立連結
 	Create links from URLs	從網址建立連結
 	Create Link…	建立連結…
@@ -703,6 +710,7 @@ key	Esc	Esc
 	Exclude tagged tables	排除帶標籤的表格
 	Exclusions use PDF tags. Untagged tables and code remain included. Image exclusion also removes invisible text.	排除規則使用PDF標籤。沒有標籤的表格和程式碼仍計入統計。排除影像時也會排除不可見文字。
 	Execute a menu item	執行選單項
+	Expand	展開
 	Expand all	全部展開
 	Expand all bookmarks	展開所有書籤
 	Expand all pages	展開所有頁面
@@ -775,6 +783,7 @@ scroll speed	Fast	快
 	Files are combined in the order shown. Drag them to change it.	檔案將按顯示的順序合併。拖曳可變更順序。
 	Files for {name}	{name} 的檔案
 	Files you open in PdfCraft appear here. Drop a PDF anywhere to open it.	在 PdfCraft 開啟過的檔案會顯示在這裡。將 PDF 拖曳至視窗即可開啟。
+	Fill	填寫
 	Fill & Sign	填寫與簽署
 	Fill & Sign dates	填寫與簽署的日期
 	Fill & Sign signature	填寫與簽署中的簽名
@@ -810,6 +819,7 @@ scroll speed	Fast	快
 	Find…	尋找…
 	Finish or discard the text being edited before selecting several objects.	請先完成或放棄正在編輯的文字，再選取多個物件。
 	First / last page	第一頁／最後一頁
+	Fit	適合
 	Fit Height	適合高度
 	Fit one full page	單頁完整顯示
 	Fit Page	適合頁面
@@ -870,6 +880,7 @@ scroll speed	Fast	快
 	Go to page…	轉到頁面…
 	Go to the page	轉到該頁面
 	Go to this result	轉到此結果
+	Grab bag	精簡
 	Gray	灰色
 	Grayscale Images	灰度圖片
 	Green	綠色
@@ -898,6 +909,7 @@ scroll speed	Fast	快
 	High	高
 	High Resolution	高解析度
 	High resolution	高解析度
+	Highlight	突出顯示
 	Highlight fields	醒目提示欄位
 	Highlight Style:	醒目提示樣式：
 	Highlight text	醒目提示文字
@@ -925,6 +937,7 @@ key	Home	Home
 	In this file	在此檔案中
 	Includes unsaved changes	包含未儲存的變更
 	Incorrect password. Try again.	密碼不正確，請重試。
+	Indent	縮排
 	Initial View	初始檢視
 	Initials	姓名縮寫
 	initials	姓名首字母
@@ -949,6 +962,7 @@ key	Home	Home
 	Installed fonts…	已安裝的字型…
 	Intended usage	預期用途
 	Interface size	介面大小
+	Intersection	交點
 	Intersections	交點
 	Invert	反轉
 	Invisible Rectangle	不可見矩形
@@ -1005,6 +1019,7 @@ key	Home	Home
 	Light gray	淺灰色
 	Light theme	淺色主題
 	Limit of	限制為
+	Line delta	行數增減
 	Line ending	線條端點
 	Line Style:	線條樣式：
 	Line thickness	線條粗細
@@ -1055,6 +1070,7 @@ key	Home	Home
 	Mask:	掩碼：
 	Match page at 100%	以 100% 符合頁面
 	Maximize	最大化
+	Maximum	最高
 	maximum	最大值
 	May	五月
 	Measure	測量
@@ -1076,6 +1092,7 @@ key	Home	Home
 	Midpoint	中點
 	Midpoints	中點
 	Minimize	最小化
+	Minimum	最低
 	minimum	最小值
 	Mixed	混合
 	Mobile	行動裝置
@@ -1143,6 +1160,7 @@ key	Home	Home
 	No colour	無顏色
 	No comments match.	沒有匹配的註解。
 	No comments yet.	尚無註解。
+	No contributor data was built into this copy.	此版本未內建貢獻者資料。
 	No differences in the text.	文字沒有差異。
 	No digital IDs yet.	尚無數位 ID。
 	No documents are open	沒有開啟的文件
@@ -1156,6 +1174,7 @@ key	Home	Home
 	No matches	無匹配
 	No matches.	無匹配。
 	No matching tools	找不到符合的工具
+	No model credits were built into this copy.	此版本未內建模型致謝資料。
 	No openly licensed document fonts found. Load a font file.	找不到開放授權的文件字型。請載入字型檔。
 	no output folder was chosen	未選擇輸出資料夾
 	No pages match those choices	所選條件沒有匹配的頁面
@@ -1191,6 +1210,7 @@ scroll speed	Normal	正常
 	Nothing to undo	沒有可復原的操作
 	nothing to undo	沒有可復原的操作
 	November	十一月
+	Number	數字
 	Number every page in the footer.	在頁尾為每頁編號。
 	Number of pages	頁數
 	Number pages	頁面編號
@@ -1270,6 +1290,7 @@ animation effects	On	開
 	Other elements alternate text	其他元素替代文字
 	Other elements that require alternate text	需要替代文字的其他元素
 	Outdent	減少縮排
+	Outline	輪廓
 	Outline colour:	輪廓色彩:
 	Output	輸出
 	Output appears here.	輸出顯示在此處。
@@ -1279,6 +1300,7 @@ animation effects	On	開
 	Owner password (no restrictions apply)	所有者密碼（無限制）
 	Page background	頁面背景
 	Page Content	頁面內容
+	Page display	頁面顯示
 	Page display: {layout}	頁面顯示：{layout}
 	Page does not require timed responses	頁面不需要限時回應
 	Page grid	頁面格狀檢視
@@ -1542,6 +1564,7 @@ animation effects	On	開
 	Reverse closed arrow	反向閉合箭頭
 	Reverse open arrow	反向開口箭頭
 	Reverse pages	逆序頁面
+	Reverse the order	反轉順序
 	Revert	回復至上次儲存
 	Revert changes	還原變更
 	Revert to the previously saved version of “{name}”? Changes since then can't be undone afterwards.	還原到「{name}」的上次儲存版本？此後的更改將無法復原。
@@ -1619,6 +1642,7 @@ animation effects	On	開
 	Screen readers choose their voice from the document's language. Set it in Document Properties > Advanced > Language.	螢幕閱讀器根據文件語言選擇語音。請在「文件屬性」>「進階」>「語言」中設定。
 	Script Name:	指令碼名稱：
 	Script:	指令碼：
+	Scripts	指令碼
 	Scripts run in a sandbox without file or network access. A script that asks to open a web page needs your permission first. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	指令碼在沙箱中執行，無法存取檔案或網路。指令碼要開啟網頁時，需要先經過您的允許。關閉 JavaScript 後，Acrobat 的標準格式、驗證和計算函式仍可運作。
 	Scripts run in a sandbox without file or network access. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	指令碼在沙箱中執行，無法存取檔案或網路。關閉 JavaScript 後，Acrobat 的標準格式、驗證與計算函式仍可使用。
 	Scroll long text	捲動長文字
@@ -1761,6 +1785,7 @@ scroll speed	Slow	慢
 	Source	來源
 key	Space	空格
 	Space Audit	空間審計
+	Special	特殊
 	Split document	拆分文件
 	Split document…	分割文件…
 	Split into files…	拆分為多個檔案…
@@ -1780,6 +1805,7 @@ key	Space	空格
 	Sticky note	便利貼註解
 	Strength: {s}	強度：{s}
 	Strikethrough text	文字加上刪除線
+	Strong	強
 	Structure Info	結構資訊
 	Submit a form	送出表單
 	Subset	子集
@@ -1895,6 +1921,7 @@ key	Space	空格
 	there are no redaction marks to apply	沒有可套用的遮蔽標記
 	These files can't be read, so they won't be in the combined PDF:	這些檔案無法讀取，因此不會包含在合併後的 PDF 中：
 	These objects could not be moved. Select them again and try a smaller move.	無法移動這些物件。請重新選取並嘗試較小的移動距離。
+	Thick	粗
 	Thin	細
 	This area has too many overlapping paths; intersection snapping is limited.	此區域有太多重疊路徑；交點吸附受到限制。
 	This certificate is in your list of trusted certificates.	此憑證位於受信任憑證清單中。
@@ -2014,6 +2041,7 @@ key	Space	空格
 	Use now	立即使用
 	Use overlay text	使用覆蓋文字
 	Use print production	使用印刷製作工具
+	Use system setting	使用系統設定
 	Use system title bar	使用系統標題列
 	Used when a PDF doesn't ask for a layout or zoom. Continuous scrolling never snaps between pages.	在 PDF 未指定版面配置或縮放時使用。連續捲動不會在頁面之間自動對齊。
 	Used when opening PDFs. An explicit launch or control mode takes precedence for the session.	開啟 PDF 時使用。若啟動時或透過控制通道明確指定了模式，則本次工作階段以該模式為準。
@@ -2075,6 +2103,7 @@ key	Space	空格
 	You can pin up to {n} folders. Unpin one first.	最多可釘選 {n} 個資料夾。請先取消釘選一個。
 	You have version {c}. All releases are listed at {page}.	目前版本為 {c}。所有版本列在 {page}。
 	You have version {c}. Download the new version from its release page.	目前版本為 {c}。請從其釋出頁面下載新版本。
+	Your changes will be lost if you don't save them.	如果不儲存，更改將會丟失。
 	Your name	您的姓名
 	yyyy or yy year · m or mm month · mmm or mmmm month name · d or dd day · ddd or dddd weekday. H, h, M, s and t are time letters and can't be used on their own: put {escape} before a letter to show it as is.	yyyy 或 yy 年 · m 或 mm 月 · mmm 或 mmmm 月份名稱 · d 或 dd 日 · ddd 或 dddd 星期。H、h、M、s 和 t 是時間字母，不能單獨使用：在字母前加上 {escape} 即可照原樣顯示。
 	ZIP	ZIP

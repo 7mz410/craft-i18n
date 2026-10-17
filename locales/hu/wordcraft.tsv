@@ -174,6 +174,7 @@
 	Arabic	Arab
 	Arch Down	Ív lefelé
 	Arch Up	Ív felfelé
+	Area	Terület
 	Arrange	Elhelyezés
 	Arrange\nAll	Ablakok\nrendezése
 	Arrows	Nyilak
@@ -241,6 +242,7 @@
 	Below the item	Az elem alatt
 	Between	Köztes
 	Bibliography	Irodalomjegyzék
+	Binary assets removed	Eltávolított bináris elemek
 	Binomial Coefficient	Binomiális együttható
 	Binomial Coefficient (angle)	Binomiális együttható (csúcsos)
 	Binomial Coefficient with Angle Brackets	Binomiális együttható csúcsos zárójelben
@@ -270,6 +272,7 @@
 	Bottom Margin	Alsó margó
 	Bottom of Page	Oldal alja
 	Bottom Right Cell	Jobb alsó cella
+	Box	Keret
 	Boxed Formula	Bekeretezett képlet
 	Boxed Formula (example)	Bekeretezett képlet (példa)
 	Boxed Formulas	Bekeretezett képletek
@@ -319,6 +322,7 @@
 	Cell Margins	Cellamargók
 	Cell Size	Cellaméret
 	Cell\nMargins	Cellamargók
+	Center	Középre igazítás
 	Centered	Középre igazított
 	Centered as Group	Középre igazítva csoportként
 	Centimeters	Centiméter
@@ -360,6 +364,7 @@
 	Character Scale	Karakterméretezés
 	Character Shading	Karakterárnyékolás
 	Character Spacing	Betűköz
+	Character spacing	Betűköz
 	Character style	Karakterstílus
 	Characters (no spaces)	Karakterek (szóközök nélkül)
 	Characters (with spaces)	Karakterek (szóközökkel)
@@ -368,6 +373,7 @@
 	Chart Design	Diagramtervezés
 	Chart Layouts	Diagramelrendezések
 	Chart Title	Diagramcím
+	Check	Pipa
 	Check Accessibility	Akadálymentesség ellenőrzése
 	Check Box Content Control	Jelölőnégyzet-tartalomvezérlő
 	Check Compatibility	Kompatibilitás ellenőrzése
@@ -436,6 +442,7 @@
 	Combo Box Content Control	Kombinált listás tartalomvezérlő
 	Commands	Parancsok
 	Commands:	Parancsok:
+	Comment	Megjegyzés
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	PDF-ben, nyomtatásban és képen: megjegyzések az oldalak mellett és követett módosítások. Weboldal, Markdown és szöveg esetén: megjegyzéslista a végén.
 	Comments Pane	Megjegyzések panel
 	Common Accent Objects	Gyakori ékezetes objektumok
@@ -513,6 +520,7 @@
 	Create a Style	Stílus létrehozása
 	Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document.	Készíts interaktív vázlatot a dokumentumodról.\n\nÍgy mindig látod, hol tartasz, és gyorsan átrendezheted a tartalmat.\n\nKezdésként a Kezdőlap lapon alkalmazz címsorstílusokat a dokumentum címeire.
 	Create Graphic	Ábra létrehozása
+	Create Link	Csatolás létrehozása
 	Create New Style	Új stílus létrehozása
 	Create Source	Forrás létrehozása
 	Croatian	Horvát
@@ -770,6 +778,7 @@
 	Exceptions (optional)	Kivételek (nem kötelező)
 	Exceptions…	Kivételek…
 	Existing File or Web Page	Létező fájl vagy weblap
+	Expand	Kibővítés
 	Expand or Collapse Heading	Címsor kibontása vagy összecsukása
 	Exponential	Exponenciális
 	Exponential series	Exponenciális sor
@@ -793,6 +802,7 @@
 	Field…	Mező…
 	Figure	Ábra
 	File name:	Fájlnév:
+	Fill	Kitöltés
 	Fill color:	Kitöltőszín:
 	Filling in forms	Űrlapok kitöltése
 	Film	Film
@@ -819,6 +829,7 @@
 	First line:	Első sor:
 	First Name	Utónév
 	First row of data contains column headers	Az adatok első sora oszlopfejléceket tartalmaz
+	Fit	Illesztés
 	Fix Position on Page	Rögzített hely az oldalon
 	Fixed Column Width	Rögzített oszlopszélesség
 	Floor	Alsó egészrész
@@ -879,6 +890,7 @@
 	Good morning	Jó reggelt
 	GOST (name sort)	GOST (név szerinti rendezés)
 	GOST (title sort)	GOST (cím szerinti rendezés)
+	Grab bag	Vegyes
 	Grave	Tompa ékezet
 	Grayscale	Szürkeárnyalatos
 	Greater than	Nagyobb, mint
@@ -926,6 +938,7 @@
 	Hide White Space	Üres terület elrejtése
 	Hide\nInk	Tinta\nelrejtése
 	Hierarchy	Hierarchia
+	Highlight	Kiemelés
 	Highlight Merge Fields	Egyesítési mezők kiemelése
 	Highlight\nMerge Fields	Egyesítési mezők\nkiemelése
 	Highlighter	Szövegkiemelő
@@ -982,6 +995,7 @@
 	Include page numbers	Oldalszámokkal
 	Increase Font Size	Betűméret növelése
 	Increase Indent	Behúzás növelése
+	Indent	Behúzás
 	Indent from left:	Behúzás balról:
 	Indentation	Behúzás
 	Indented	Behúzott
@@ -1063,6 +1077,7 @@
 	Interface theme:	Felület témája:
 	Interface\nTheme	Felület\ntémája
 	Internet addresses as links	Internetcímek linkként
+	Intersection	Metszet
 	Intersection with Limits	Metszet határokkal
 	Intersection with Lower Limit	Metszet alsó határral
 	Intersection with Subscript-Superscript Limits	Metszet indexben írt határokkal
@@ -1170,6 +1185,7 @@
 	Line between	Elválasztó vonal
 	Line Break	Sortörés
 	Line breaking	Sortörés
+	Line delta	Sorok változása
 	Line End	Sor vége
 	Line Number	Sorszám
 	Line Numbering Options…	Sorszámozás beállításai…
@@ -1249,6 +1265,7 @@
 	Math AutoCorrect	Matematikai automatikus javítás
 	Matrices with Brackets	Zárójeles mátrixok
 	Matrix	Mátrix
+	Maximum	Maximum
 	Maximum Example	Maximum (példa)
 	Measured By	Mértékegysége
 	Measurement units:	Mértékegység:
@@ -1260,6 +1277,7 @@
 	Middle	Középen
 	Midline Dots	Középvonali pontok
 	Millimeters	Milliméter
+	Minimum	Minimum
 	Minus Equal	Mínusz-egyenlő
 	Mirror indents	Tükrözött behúzások
 	Mirror margins	Tükrözött margók
@@ -1341,6 +1359,7 @@
 	No Border	Nincs szegély
 	No changes (read only)	Nincs módosítás (csak olvasható)
 	No Color	Nincs szín
+	No contributor data was built into this copy.	Ebbe a példányba nem kerültek közreműködői adatok.
 	No document is open. Create a document or open one first.	Nincs megnyitott dokumentum. Előbb hozz létre vagy nyiss meg egyet.
 	No errors found: every merge field is in the recipient list.	Nincs hiba: minden egyesítési mező szerepel a címzettlistában.
 	No Fill	Nincs kitöltés
@@ -1349,6 +1368,7 @@
 	No header row	Nincs fejlécsor
 	No icons match your search.	Egy ikon sem felel meg a keresésnek.
 	No Markup	Nincs jelölés
+	No model credits were built into this copy.	Ebbe a példányba nem kerültek modell-közreműködői adatok.
 	No Outline	Nincs körvonal
 	No Paragraph Space	Nincs bekezdéstérköz
 	No printers found. Configure a system printer or export a PDF.	Nem található nyomtató. Állítson be egy rendszernyomtatót, vagy exportáljon PDF-et.
@@ -1390,6 +1410,7 @@
 	Now used by {command}	Jelenleg ehhez tartozik: {command}
 	Nudge	Finom mozgatás
 	Num Occurrences	Előfordulások száma
+	Number	Szám
 	Number alignment:	Számigazítás:
 	Number format	Számformátum
 	Number of columns:	Oszlopok száma:
@@ -1457,6 +1478,7 @@
 	Other Large Operators	Egyéb nagy operátorok
 	Other styles and their TOC level:	Egyéb stílusok és tartalomjegyzék-szintjük:
 	Otherwise insert:	Különben beszúrandó:
+	Outline	Vázlat
 	Outline Level	Vázlatszint
 	Outline level	Vázlatszint
 	Outline levels	Vázlatszintek
@@ -1480,6 +1502,7 @@
 	Page break before	Oldaltörés előtte
 	Page Breaks	Oldaltörések
 	Page Color	Oldalszín
+	Page display	Oldalmegjelenítés
 	Page Down	Page Down
 	Page image (*.png)	Oldalkép (*.png)
 	Page Movement	Lapozás
@@ -1572,6 +1595,7 @@
 	Press a key combination	Nyomj le egy billentyűkombinációt
 	Preview Results	Eredmények előnézete
 	Preview\nResults	Eredmények\nelőnézete
+	Previous	Előző
 	Previous 1 or More	Előző 1 vagy több
 	Previous Change	Előző módosítás
 	Previous Comment	Előző megjegyzés
@@ -1728,6 +1752,7 @@
 	Results	Eredmények
 	Return address labels	Feladócímkék
 	Return address:	Feladó címe:
+	Reverse the order	Fordított sorrend
 	Reviewing	Véleményezés
 	Reviewing Pane	Véleményezés panel
 	Reviewing — edits become suggestions	Véleményezés – a módosítások javaslatként jelennek meg
@@ -1785,6 +1810,7 @@
 	Scale Drawing	Rajz méretezése
 	Scatter	Pont (XY)
 	Script	Index
+	Scripts	Indexek
 	Scroll ribbon left	Menüszalag görgetése balra
 	Scroll ribbon right	Menüszalag görgetése jobbra
 	Search Commands	Parancsok keresése
@@ -1978,6 +2004,7 @@
 	Spanish (Mexico)	Spanyol (Mexikó)
 	Spanish (Spain)	Spanyol (Spanyolország)
 	Sparse Matrices	Ritka mátrixok
+	Special	Különleges
 	Special Characters	Különleges karakterek
 	Specify height:	Magasság megadása:
 	Speech	Beszéd
@@ -2016,6 +2043,7 @@
 	Straight Arrow Connector	Egyenes nyilas összekötő
 	Straight Connector	Egyenes összekötő
 	Stroke {n} of {total}	Vonás: {n}/{total}
+	Strong	Félkövér kiemelés
 	Structure Actions	Szerkezeti műveletek
 	Structures	Szerkezetek
 	Studio	Stúdió
@@ -2150,6 +2178,7 @@
 	These marks show even when Show/Hide ¶ is off.	Ezek a jelek akkor is látszanak, ha a Megjelenítés/elrejtés ¶ ki van kapcsolva.
 	These merge fields aren't in the recipient list:	Ezek az egyesítési mezők hiányoznak a címzettlistából:
 	These settings will be used for new documents.	Ezek a beállítások az új dokumentumokra lesznek érvényesek.
+	Thick	Vastag
 	This document	Ez a dokumentum
 	This field has no options.	Ennek a mezőnek nincsenek beállításai.
 	This folder can't be read: {error}	Ez a mappa nem olvasható: {error}
@@ -2270,6 +2299,7 @@
 	Use "a" before a consonant sound	Mássalhangzóval kezdődő szó előtt „a” áll
 	Use "an" before a vowel sound	Magánhangzóval kezdődő szó előtt „an” áll
 	Use an Existing List…	Meglévő lista használata…
+	Use system setting	A rendszerbeállítás követése
 	Use the browser's full screen (F11)	Használja a böngésző teljes képernyős módját (F11)
 	Use the Insert key to switch overtype on and off	Az Insert billentyű ki- és bekapcsolja a felülírást
 	Use wildcards	Helyettesítő karakterek használata
@@ -2345,6 +2375,7 @@
 	x bar	x felülvonással
 	Year	Év
 	Yields	Eredményez
+	Your changes will be lost if you don't save them.	Ha nem mented, a módosítások elvesznek.
 	Your system doesn't report an animation setting, so animation effects stay on.	A rendszered nem jelez animációs beállítást, ezért az animációs effektusok bekapcsolva maradnak.
 	Your system has animation effects turned off.	A rendszereden ki vannak kapcsolva az animációs effektusok.
 	Your system has animation effects turned on.	A rendszereden be vannak kapcsolva az animációs effektusok.

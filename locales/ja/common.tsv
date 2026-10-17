@@ -23,23 +23,17 @@
 	All	すべて
 	All pages	すべてのページ
 	Apply	適用
-	Area	面積
 	Arrow	矢印
 	Author	作成者
 	Auto	自動
 	Auto ({percent}%)	自動 ({percent}%)
 	Binary assets added	追加したバイナリファイル数
-	Binary assets removed	削除したバイナリファイル数
 	Bold	太字
 	Bottom	下
 	Bottom:	下:
-	Box	ボックス
 	Browse…	参照…
 	Cancel	キャンセル
-	Center	中央
-	Character spacing	字間
 	Characters	文字数
-	Check	チェック
 	Circle	円形
 	Clear	クリア
 	Clear All	すべてクリア
@@ -49,7 +43,6 @@
 	Color	色
 	Color:	色:
 	Combine	結合
-	Comment	コメント
 	Comments	コメント
 	Commits	コミット
 	Company	企業
@@ -58,7 +51,6 @@
 	Convert	変換
 	Copy	コピー
 	Create	作成
-	Create Link	リンクを作成
 	Current page	現在のページ
 	Custom	カスタム
 	Cut	切り取り
@@ -81,16 +73,13 @@
 	Eraser	消しゴム
 	Even pages only	偶数ページのみ
 	Example: {sample}	例: {sample}
-	Expand	展開
 	Export	書き出し
 	Field	フィールド
 	Field properties	フィールドのプロパティ
 	Fields	フィールド
 	File	ファイル
-	Fill	入力
 	First	最初
 	First commit	最初のコミット
-	Fit	合わせる
 	Flip Horizontal	左右反転
 	Flip Vertical	上下反転
 	Font	フォント
@@ -100,20 +89,16 @@
 	Format:	書式:
 	Full Screen	フルスクリーン
 	General	一般
-	Grab bag	いろいろ
 	Graphic	グラフィック
 	Headings	見出し
 	Height:	高さ:
 	Help	ヘルプ
 	Hidden text	非表示テキスト
-	Highlight	ハイライト
 	Home	ホーム
 	Horizontal	横
-	Indent	インデントを増やす
 	Index	インデックス
 	Insert	挿入
 	Interface language	表示言語
-	Intersection	交点
 	Italic	斜体
 	Justify	両端揃え
 	Keywords	キーワード
@@ -127,7 +112,6 @@
 	Left:	左:
 	Light	ライト
 	Line	直線
-	Line delta	行数の増減
 	Line spacing	行間
 	Lines +/−	行数 +/−
 	Lines added	追加した行数
@@ -136,10 +120,8 @@
 	List	リスト
 	Location	場所
 	Margins	余白
-	Maximum	最高
 	Medium	中
 	Merged PRs	マージ済みの PR
-	Minimum	最低
 	Model	モデル
 	Models	モデル
 	Name	名前
@@ -147,11 +129,8 @@
 	Name:	名前:
 	Next	次へ
 	No	いいえ
-	No contributor data was built into this copy.	このビルドには貢献者のデータが組み込まれていません。
 	No limit	制限なし
-	No model credits were built into this copy.	このビルドにはモデルのクレジット情報が組み込まれていません。
 	None	なし
-	Number	数値
 	Odd pages only	奇数ページのみ
 	Off	オフ
 	OK	OK
@@ -159,17 +138,14 @@
 	Open	開く
 	Options	オプション
 	Options…	オプション…
-	Outline	輪郭
 	Oval	楕円
 	Page	ページ
-	Page display	ページ表示
 	Pages	ページ
 	Password	パスワード
 	Paste	貼り付け
 	Portrait	縦
 	Position	位置
 	Preview	プレビュー
-	Previous	前へ
 	Print	印刷
 	Printing	印刷
 	Protect	保護
@@ -185,14 +161,12 @@
 	Replace	置換
 	Reply	返信
 	Report	レポート
-	Reverse the order	並び順を逆にする
 	Review	レビュー
 	Right	右
 	Rotate	回転
 	Rotation	回転
 	Rotation:	回転:
 	Save	保存
-	Scripts	スクリプト
 	Search	検索
 	Select All	すべて選択
 	Selected pages	選択したページ
@@ -201,13 +175,11 @@
 	Size	サイズ
 	Sort	並べ替え
 	Sort by	並べ替え
-	Special	特殊
 	Split	分割
 	Square	四角形
 	Standard	標準
 	Star	星形
 	Strikethrough	取り消し線
-	Strong	強い
 	Style	スタイル
 	Subject	件名
 	System	システム
@@ -215,7 +187,6 @@
 	Tables	表
 	Text	テキスト
 	The passwords don't match.	パスワードが一致しません。
-	Thick	太い
 	Thickness	太さ
 	This document has no bookmarks.	この文書にしおりはありません。
 	Title	タイトル
@@ -228,7 +199,6 @@
 	Undo	取り消し
 	Undo {action}	元に戻す: {action}
 	Up	上へ
-	Use system setting	システム設定を使用
 	Username	ユーザー名
 	Version	バージョン
 	Vertical	縦
@@ -237,5 +207,4 @@
 	Width:	幅:
 	Words	単語数
 	Yes	はい
-	Your changes will be lost if you don't save them.	保存しないと変更内容は失われます。
 	Zoom	ズーム

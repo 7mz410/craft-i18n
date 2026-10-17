@@ -146,6 +146,7 @@
 	Arabic	Arabisch
 	Arch Down	Bogen nach unten
 	Arch Up	Bogen nach oben
+	Area	Fläche
 	Arrange	Anordnen
 	Arrange\nAll	Alle\nanordnen
 	Arrows	Pfeile
@@ -236,6 +237,7 @@
 	Bottom Margin	Unterer Rand
 	Bottom of Page	Seitenende
 	Bottom Right Cell	Zelle unten rechts
+	Box	Rahmen
 	Bracket	Klammer
 	Break Link	Verknüpfung aufheben
 	Breaks	Umbrüche
@@ -302,6 +304,7 @@
 	Character Scale	Zeichenskalierung
 	Character Shading	Zeichenschattierung
 	Character Spacing	Zeichenabstand
+	Character spacing	Zeichenabstand
 	Character style	Zeichenformatvorlage
 	Characters (no spaces)	Zeichen (ohne Leerzeichen)
 	Characters (with spaces)	Zeichen (mit Leerzeichen)
@@ -376,6 +379,7 @@
 	Combo Box Content Control	Kombinationsfeld-Inhaltssteuerelement
 	Commands	Befehle
 	Commands:	Befehle:
+	Comment	Kommentar
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Kommentare neben jeder Seite und nachverfolgte Änderungen in PDFs, Ausdrucken und Bildern; eine Kommentarliste am Ende von Webseiten, Markdown und Text.
 	Comments Pane	Kommentarbereich
 	Communication	Kommunikation
@@ -1255,6 +1259,7 @@
 	Page break before	Seitenumbruch davor
 	Page Breaks	Seitenumbrüche
 	Page Color	Seitenfarbe
+	Page display	Seitenanzeige
 	Page Down	Bild ab
 	Page image (*.png)	Seitenbild (*.png)
 	Page Movement	Seitennavigation
@@ -1340,6 +1345,7 @@
 	Press a key combination	Tastenkombination drücken
 	Preview Results	Ergebnisvorschau
 	Preview\nResults	Ergebnis-\nvorschau
+	Previous	Zurück
 	Previous 1 or More	Vorheriges 1-mal oder öfter
 	Previous Change	Vorherige Änderung
 	Previous Comment	Vorheriger Kommentar
@@ -1947,6 +1953,7 @@
 	UPPERCASE	GROSSBUCHSTABEN
 	URL	URL
 	Use an Existing List…	Vorhandene Liste verwenden…
+	Use system setting	Systemeinstellung verwenden
 	Use the browser's full screen (F11)	Verwenden Sie den Vollbildmodus des Browsers (F11)
 	Use the Insert key to switch overtype on and off	Überschreibmodus mit der Einfg-Taste ein- und ausschalten
 	Use wildcards	Platzhalter verwenden

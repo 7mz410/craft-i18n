@@ -228,6 +228,7 @@
 calendar date	April	Απρίλιος
 	Arbitrary Mask	Προσαρμοσμένη μάσκα
 	Archive documents	Αρχειοθέτηση εγγράφων
+	Area	Εμβαδόν
 	ArtCraft website	Ιστότοπος ArtCraft
 	Ask about this document	Ερώτηση σχετικά με αυτό το έγγραφο
 	Asks GitHub for the latest release. Nothing is downloaded or installed automatically.	Αναζητά την τελευταία έκδοση στο GitHub. Δεν γίνεται αυτόματα λήψη ή εγκατάσταση.
@@ -263,6 +264,7 @@ calendar date	August	Αύγουστος
 	Before the number	Πριν από τον αριθμό
 	Beveled	Λοξότμητο
 	Bicubic downsampling to	Δικυβική μείωση ανάλυσης σε
+	Binary assets removed	Δυαδικά στοιχεία που αφαιρέθηκαν
 	Binding	Βιβλιοδεσία
 	Binding:	Βιβλιοδεσία:
 	Black	Μαύρο
@@ -280,6 +282,7 @@ calendar date	August	Αύγουστος
 	Borders and Colors	Περιγράμματα και χρώματα
 	Both	Και τα δύο
 	Both sides	Και οι δύο όψεις
+	Box	Πλαίσιο
 	Bring your own model (off by default)	Χρήση δικού σας μοντέλου (απενεργοποιημένο από προεπιλογή)
 	Browser's print dialog	Παράθυρο εκτύπωσης του προγράμματος περιήγησης
 	Butt	Επίπεδο άκρο
@@ -297,6 +300,7 @@ calendar date	August	Αύγουστος
 	Cancelling…	Ακύρωση…
 	Case-sensitive	Διάκριση πεζών/κεφαλαίων
 	Category:	Κατηγορία:
+	Center	Κέντρο
 	Center Footer Text	Κείμενο κεντρικού υποσέλιδου
 	Center Header Text	Κείμενο κεντρικής κεφαλίδας
 	Center horizontally	Οριζόντιο κεντράρισμα
@@ -329,8 +333,10 @@ calendar date	August	Αύγουστος
 	Character encoding	Κωδικοποίηση χαρακτήρων
 	Character limit 0 means no limit. A comb of characters needs a limit.	Το όριο 0 σημαίνει απεριόριστους χαρακτήρες. Η διάταξη χαρακτήρων σε χωριστά πλαίσια απαιτεί όριο.
 	Character limit:	Όριο χαρακτήρων:
+	Character spacing	Απόσταση χαρακτήρων
 	characters	χαρακτήρες
 	Characters without spaces	Χαρακτήρες χωρίς κενά
+	Check	Σημάδι επιλογής
 	Check Again	Επανέλεγχος
 	Check again	Επανέλεγχος
 	Check box is checked by default	Το πλαίσιο ελέγχου είναι προεπιλεγμένο
@@ -488,6 +494,7 @@ calendar date	August	Αύγουστος
 	Create Custom Stamp	Δημιουργία προσαρμοσμένης σφραγίδας
 	Create custom stamp…	Δημιουργία προσαρμοσμένης σφραγίδας…
 	Create from	Δημιουργία από
+	Create Link	Δημιουργία συνδέσμου
 	Create link	Δημιουργία συνδέσμου
 	Create links from URLs	Δημιουργία συνδέσμων από URL
 	Create Link…	Δημιουργία συνδέσμου…
@@ -724,6 +731,7 @@ key	Esc	Esc
 	Exclude tagged tables	Εξαίρεση πινάκων με ετικέτες
 	Exclusions use PDF tags. Untagged tables and code remain included. Image exclusion also removes invisible text.	Οι εξαιρέσεις χρησιμοποιούν ετικέτες PDF. Οι πίνακες και ο κώδικας χωρίς ετικέτες παραμένουν στην καταμέτρηση. Η εξαίρεση εικόνων αφαιρεί και το αόρατο κείμενο.
 	Execute a menu item	Εκτέλεση εντολής μενού
+	Expand	Ανάπτυξη
 	Expand all	Ανάπτυξη όλων
 	Expand all bookmarks	Ανάπτυξη όλων των σελιδοδεικτών
 	Expand all pages	Ανάπτυξη όλων των σελίδων
@@ -798,6 +806,7 @@ calendar date	February	Φεβρουάριος
 	Files are combined in this order. Leave Pages empty to take every page.	Τα αρχεία συνδυάζονται με αυτή τη σειρά. Αφήστε κενό το πεδίο «Σελίδες» για να συμπεριληφθούν όλες.
 	Files for {name}	Αρχεία για το {name}
 	Files you open in PdfCraft appear here. Drop a PDF anywhere to open it.	Τα αρχεία που ανοίγετε στο PdfCraft εμφανίζονται εδώ. Σύρετε ένα PDF οπουδήποτε για να το ανοίξετε.
+	Fill	Συμπλήρωση
 	Fill & Sign	Συμπλήρωση και υπογραφή
 	Fill & Sign dates	Ημερομηνίες συμπλήρωσης και υπογραφής
 	Fill & Sign signature	Υπογραφή από το εργαλείο «Συμπλήρωση και υπογραφή»
@@ -833,6 +842,7 @@ calendar date	February	Φεβρουάριος
 	Find…	Εύρεση…
 	Finish or discard the text being edited before selecting several objects.	Ολοκληρώστε ή απορρίψτε την επεξεργασία κειμένου προτού επιλέξετε πολλά αντικείμενα.
 	First / last page	Πρώτη / τελευταία σελίδα
+	Fit	Προσαρμογή
 	Fit Height	Προσαρμογή στο ύψος
 	Fit one full page	Προσαρμογή ολόκληρης σελίδας
 	Fit Page	Προσαρμογή σελίδας
@@ -893,6 +903,7 @@ calendar date	February	Φεβρουάριος
 	Go to page…	Μετάβαση στη σελίδα…
 	Go to the page	Μετάβαση στη σελίδα
 	Go to this result	Μετάβαση σε αυτό το αποτέλεσμα
+	Grab bag	Διάφορα
 	Gray	Γκρι
 	Grayscale Images	Εικόνες σε κλίμακα του γκρι
 	Green	Πράσινο
@@ -922,6 +933,7 @@ calendar date	February	Φεβρουάριος
 	High	Υψηλή
 	High Resolution	Υψηλή ανάλυση
 	High resolution	Υψηλή ανάλυση
+	Highlight	Επισήμανση
 	Highlight fields	Επισήμανση πεδίων
 	Highlight Style:	Στυλ επισήμανσης:
 	Highlight text	Επισήμανση κειμένου
@@ -950,6 +962,7 @@ key	Home	Αρχή
 	In this file	Σε αυτό το αρχείο
 	Includes unsaved changes	Περιλαμβάνει μη αποθηκευμένες αλλαγές
 	Incorrect password. Try again.	Λανθασμένος κωδικός πρόσβασης. Δοκιμάστε ξανά.
+	Indent	Αύξηση εσοχής
 	Initial View	Αρχική προβολή
 	Initials	Μονογραφή
 	initials	μονογραφή
@@ -975,6 +988,7 @@ key	Home	Αρχή
 	Installed fonts…	Εγκατεστημένες γραμματοσειρές…
 	Intended usage	Προβλεπόμενη χρήση
 	Interface size	Μέγεθος περιβάλλοντος
+	Intersection	Σημείο τομής
 	Intersections	Τομές
 	Invert	Αντιστροφή
 	Invisible Rectangle	Αόρατο ορθογώνιο
@@ -1034,6 +1048,7 @@ calendar date	June	Ιούνιος
 	Light gray	Ανοιχτό γκρι
 	Light theme	Φωτεινό θέμα
 	Limit of	Όριο
+	Line delta	Μεταβολή γραμμών
 	Line ending	Τέλος γραμμής
 	Line Style:	Στυλ γραμμής:
 	Line thickness	Πάχος γραμμής
@@ -1090,6 +1105,7 @@ calendar date	March	Μάρτιος
 	Match field sizes	Εξίσωση μεγεθών πεδίων
 	Match page at 100%	Προσαρμογή σελίδας στο 100%
 	Maximize	Μεγιστοποίηση
+	Maximum	Μέγιστη
 	maximum	μέγιστο
 	May	Μάιος
 calendar date	May	Μάιος
@@ -1112,6 +1128,7 @@ calendar date	May	Μάιος
 	Midpoint	Μέσο τμήματος
 	Midpoints	Μέσα τμημάτων
 	Minimize	Ελαχιστοποίηση
+	Minimum	Ελάχιστη
 	minimum	ελάχιστο
 	Mixed	Μεικτές τιμές
 	Mobile	Κινητό
@@ -1181,6 +1198,7 @@ calendar date	May	Μάιος
 	No colour	Χωρίς χρώμα
 	No comments match.	Δεν βρέθηκαν σχόλια που να ταιριάζουν.
 	No comments yet.	Δεν υπάρχουν ακόμη σχόλια.
+	No contributor data was built into this copy.	Αυτή η έκδοση δεν περιλαμβάνει δεδομένα συντελεστών.
 	No differences in the text.	Δεν εντοπίστηκαν διαφορές στο κείμενο.
 	No digital IDs yet.	Δεν υπάρχουν ακόμη ψηφιακές ταυτότητες.
 	No documents are open	Δεν υπάρχουν ανοικτά έγγραφα
@@ -1194,6 +1212,7 @@ calendar date	May	Μάιος
 	No matches	Δεν βρέθηκαν αντιστοιχίες
 	No matches.	Δεν βρέθηκαν αντιστοιχίες.
 	No matching tools	Δεν βρέθηκαν εργαλεία
+	No model credits were built into this copy.	Αυτή η έκδοση δεν περιλαμβάνει πληροφορίες αναγνώρισης συνεισφορών μοντέλων.
 	No openly licensed document fonts found. Load a font file.	Δεν βρέθηκαν γραμματοσειρές εγγράφου με ανοιχτή άδεια. Φορτώστε ένα αρχείο γραμματοσειράς.
 	no output folder was chosen	δεν επιλέχθηκε φάκελος εξόδου
 	No pages match those choices	Καμία σελίδα δεν αντιστοιχεί σε αυτές τις επιλογές
@@ -1231,6 +1250,7 @@ scroll speed	Normal	Κανονική
 	nothing to undo	δεν υπάρχει ενέργεια προς αναίρεση
 	November	Νοέμβριος
 calendar date	November	Νοέμβριος
+	Number	Αριθμός
 	Number every page in the footer.	Προσθέτει αριθμό σε κάθε σελίδα, στο υποσέλιδο.
 	Number of pages	Αριθμός σελίδων
 	Number pages	Αρίθμηση σελίδων
@@ -1313,6 +1333,7 @@ animation effects	On	Ενεργά
 	Other elements alternate text	Εναλλακτικό κείμενο άλλων στοιχείων
 	Other elements that require alternate text	Άλλα στοιχεία που απαιτούν εναλλακτικό κείμενο
 	Outdent	Μείωση εσοχής
+	Outline	Περίγραμμα
 	Outline colour:	Χρώμα περιγράμματος:
 	Output	Έξοδος
 	Output appears here.	Η έξοδος εμφανίζεται εδώ.
@@ -1322,6 +1343,7 @@ animation effects	On	Ενεργά
 	Owner password (no restrictions apply)	Κωδικός κατόχου (χωρίς περιορισμούς)
 	Page background	Φόντο σελίδας
 	Page Content	Περιεχόμενο σελίδας
+	Page display	Εμφάνιση σελίδων
 	Page display: {layout}	Εμφάνιση σελίδων: {layout}
 	Page does not require timed responses	Η σελίδα δεν απαιτεί απαντήσεις μέσα σε χρονικό όριο
 	Page grid	Πλέγμα σελίδων
@@ -1591,6 +1613,7 @@ animation effects	On	Ενεργά
 	Reverse closed arrow	Αντίστροφη κλειστή αιχμή βέλους
 	Reverse open arrow	Αντίστροφη ανοιχτή αιχμή βέλους
 	Reverse pages	Αντιστροφή σειράς σελίδων
+	Reverse the order	Αντιστροφή σειράς
 	Revert	Επαναφορά στην αποθηκευμένη έκδοση
 	Revert changes	Αναίρεση αλλαγών
 	Revert to the previously saved version of “{name}”? Changes since then can't be undone afterwards.	Επαναφορά της τελευταίας αποθηκευμένης έκδοσης του «{name}»; Οι μεταγενέστερες αλλαγές δεν θα μπορούν να αναιρεθούν.
@@ -1672,6 +1695,7 @@ animation effects	On	Ενεργά
 	Script Name:	Όνομα σεναρίου:
 	Script:	Σενάριο εντολών:
 	Scripted content must be usable with a keyboard and assistive technology. Check the document's scripts.	Το περιεχόμενο που ελέγχεται από δέσμες ενεργειών πρέπει να είναι προσβάσιμο με πληκτρολόγιο και υποστηρικτικές τεχνολογίες. Ελέγξτε τις δέσμες ενεργειών του εγγράφου.
+	Scripts	Σενάρια εντολών
 	Scripts run in a sandbox without file or network access. A script that asks to open a web page needs your permission first. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	Οι δέσμες ενεργειών εκτελούνται σε απομονωμένο περιβάλλον χωρίς πρόσβαση σε αρχεία ή δίκτυο. Για το άνοιγμα ιστοσελίδας απαιτείται πρώτα η άδειά σας. Ακόμη και με απενεργοποιημένη τη JavaScript, οι τυπικές συναρτήσεις μορφοποίησης, επικύρωσης και υπολογισμού του Acrobat εξακολουθούν να λειτουργούν.
 	Scripts run in a sandbox without file or network access. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	Τα σενάρια εκτελούνται σε απομονωμένο περιβάλλον χωρίς πρόσβαση σε αρχεία ή δίκτυο. Με απενεργοποιημένη τη JavaScript, οι τυπικές λειτουργίες μορφοποίησης, επικύρωσης και υπολογισμού του Acrobat εξακολουθούν να λειτουργούν.
 	Scroll long text	Κύλιση μεγάλου κειμένου
@@ -1817,6 +1841,7 @@ scroll speed	Slow	Αργή
 	Source	Πηγή
 key	Space	Διάστημα
 	Space Audit	Έλεγχος χώρου
+	Special	Ειδικό
 	Split document	Διαχωρισμός εγγράφου
 	Split document…	Διαχωρισμός εγγράφου…
 	Split into files…	Διαχωρισμός σε αρχεία…
@@ -1838,6 +1863,7 @@ action wizard	Start	Έναρξη
 	Sticky note	Αυτοκόλλητη σημείωση
 	Strength: {s}	Ισχύς: {s}
 	Strikethrough text	Διακριτή διαγραφή κειμένου
+	Strong	Ισχυρός
 	Structure Info	Πληροφορίες δομής
 certificate	Subject	Υποκείμενο πιστοποιητικού
 	Submit a form	Υποβολή φόρμας
@@ -1956,6 +1982,7 @@ certificate	Subject	Υποκείμενο πιστοποιητικού
 	there are no redaction marks to apply	δεν υπάρχουν σημάνσεις απόκρυψης προς εφαρμογή
 	These files can't be read, so they won't be in the combined PDF:	Αυτά τα αρχεία δεν διαβάζονται, οπότε δεν θα συμπεριληφθούν στο συνδυασμένο PDF:
 	These objects could not be moved. Select them again and try a smaller move.	Δεν ήταν δυνατή η μετακίνηση αυτών των αντικειμένων. Επιλέξτε τα ξανά και δοκιμάστε μικρότερη μετακίνηση.
+	Thick	Παχύ
 	Thin	Λεπτό
 	This area has too many overlapping paths; intersection snapping is limited.	Αυτή η περιοχή έχει υπερβολικά πολλές επικαλυπτόμενες διαδρομές· η προσκόλληση σε τομές είναι περιορισμένη.
 	This certificate is in your list of trusted certificates.	Αυτό το πιστοποιητικό βρίσκεται στη λίστα αξιόπιστων πιστοποιητικών σας.
@@ -2076,6 +2103,7 @@ signature pad	Type	Πληκτρολόγηση
 	Use now	Χρήση τώρα
 	Use overlay text	Χρήση κειμένου επικάλυψης
 	Use print production	Χρήση εργαλείων προεκτύπωσης
+	Use system setting	Χρήση ρύθμισης συστήματος
 	Use system title bar	Χρήση γραμμής τίτλου συστήματος
 	Use {what}	Χρήση {what}
 	Used when a PDF doesn't ask for a layout or zoom. Continuous scrolling never snaps between pages.	Χρησιμοποιείται όταν το PDF δεν ορίζει διάταξη ή μεγέθυνση. Η συνεχής κύλιση δεν προσκολλάται στις σελίδες.
@@ -2138,6 +2166,7 @@ signature pad	Type	Πληκτρολόγηση
 	You can pin up to {n} folders. Unpin one first.	Μπορείτε να καρφιτσώσετε έως {n} φακέλους. Ξεκαρφιτσώστε πρώτα έναν.
 	You have version {c}. All releases are listed at {page}.	Έχετε την έκδοση {c}. Όλες οι εκδόσεις βρίσκονται στη διεύθυνση {page}.
 	You have version {c}. Download the new version from its release page.	Έχετε την έκδοση {c}. Κάντε λήψη της νέας έκδοσης από τη σελίδα εκδόσεών της.
+	Your changes will be lost if you don't save them.	Οι αλλαγές σας θα χαθούν εάν δεν τις αποθηκεύσετε.
 	Your name	Το όνομά σας
 	yyyy or yy year · m or mm month · mmm or mmmm month name · d or dd day · ddd or dddd weekday. H, h, M, s and t are time letters and can't be used on their own: put {escape} before a letter to show it as is.	yyyy ή yy έτος · m ή mm μήνας · mmm ή mmmm όνομα μήνα · d ή dd ημέρα · ddd ή dddd ημέρα εβδομάδας. Τα H, h, M, s και t είναι σύμβολα ώρας και δεν χρησιμοποιούνται μόνα τους: βάλτε {escape} πριν από ένα γράμμα για να εμφανιστεί αυτούσιο.
 	ZIP	ZIP

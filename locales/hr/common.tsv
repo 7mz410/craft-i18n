@@ -23,23 +23,17 @@
 	All	Sve
 	All pages	Sve stranice
 	Apply	Primijeni
-	Area	Površina
 	Arrow	Strelica
 	Author	Autor
 	Auto	Automatski
 	Auto ({percent}%)	Automatski ({percent} %)
 	Binary assets added	Dodani binarni resursi
-	Binary assets removed	Uklonjeni binarni resursi
 	Bold	Podebljano
 	Bottom	Dolje
 	Bottom:	Dolje:
-	Box	Okvir
 	Browse…	Pregledaj…
 	Cancel	Odustani
-	Center	Sredina
-	Character spacing	Razmak znakova
 	Characters	Znakovi
-	Check	Kvačica
 	Circle	Krug
 	Clear	Očisti
 	Clear All	Očisti sve
@@ -49,7 +43,6 @@
 	Color	Boja
 	Color:	Boja:
 	Combine	Kombiniraj
-	Comment	Komentar
 	Comments	Komentari
 	Commits	Commitovi
 	Company	Tvrtka
@@ -58,7 +51,6 @@
 	Convert	Pretvori
 	Copy	Kopiraj
 	Create	Izradi
-	Create Link	Izradi poveznicu
 	Current page	Trenutačna stranica
 	Custom	Prilagođeno
 	Cut	Izreži
@@ -81,16 +73,13 @@
 	Eraser	Gumica
 	Even pages only	Samo parne stranice
 	Example: {sample}	Primjer: {sample}
-	Expand	Proširi
 	Export	Izvoz
 	Field	Polje
 	Field properties	Svojstva polja
 	Fields	Polja
 	File	Datoteka
-	Fill	Ispuna
 	First	Prvi
 	First commit	Prvi commit
-	Fit	Prilagodi
 	Flip Horizontal	Okreni vodoravno
 	Flip Vertical	Okreni okomito
 	Font	Font
@@ -100,20 +89,16 @@
 	Format:	Oblikovanje:
 	Full Screen	Cijeli zaslon
 	General	Općenito
-	Grab bag	Razno
 	Graphic	Grafika
 	Headings	Naslovi
 	Height:	Visina:
 	Help	Pomoć
 	Hidden text	Skriveni tekst
-	Highlight	Istakni
 	Home	Početna
 	Horizontal	Vodoravno
-	Indent	Uvlaka
 	Index	Kazalo
 	Insert	Umetni
 	Interface language	Jezik sučelja
-	Intersection	Presjek
 	Italic	Kurziv
 	Justify	Obostrano poravnaj
 	Keywords	Ključne riječi
@@ -127,7 +112,6 @@
 	Left:	Lijevo:
 	Light	Svijetlo
 	Line	Crta
-	Line delta	Delta redaka
 	Line spacing	Razmak redaka
 	Lines +/−	Retci +/−
 	Lines added	Dodani retci
@@ -136,10 +120,8 @@
 	List	Popis
 	Location	Lokacija
 	Margins	Margine
-	Maximum	Maksimum
 	Medium	Srednje
 	Merged PRs	Spojeni PR-ovi
-	Minimum	Minimum
 	Model	Model
 	Models	Modeli
 	Name	Naziv
@@ -147,11 +129,8 @@
 	Name:	Naziv:
 	Next	Sljedeće
 	No	Ne
-	No contributor data was built into this copy.	U ovu kopiju nisu ugrađeni podaci o doprinositeljima.
 	No limit	Bez ograničenja
-	No model credits were built into this copy.	U ovu kopiju nisu ugrađene zasluge modela.
 	None	Nema
-	Number	Broj
 	Odd pages only	Samo neparne stranice
 	Off	Isključeno
 	OK	U redu
@@ -159,17 +138,14 @@
 	Open	Otvori
 	Options	Mogućnosti
 	Options…	Mogućnosti…
-	Outline	Struktura
 	Oval	Ovalno
 	Page	Stranica
-	Page display	Prikaz stranice
 	Pages	Stranice
 	Password	Lozinka
 	Paste	Zalijepi
 	Portrait	Uspravno
 	Position	Položaj
 	Preview	Pretpregled
-	Previous	Prethodno
 	Print	Ispis
 	Printing	Ispis
 	Protect	Zaštiti
@@ -185,14 +161,12 @@
 	Replace	Zamijeni
 	Reply	Odgovori
 	Report	Izvješće
-	Reverse the order	Obrni redoslijed
 	Review	Pregled
 	Right	Desno
 	Rotate	Zakreni
 	Rotation	Rotacija
 	Rotation:	Rotacija:
 	Save	Spremi
-	Scripts	Rukopisna slova
 	Search	Traži
 	Select All	Odaberi sve
 	Selected pages	Odabrane stranice
@@ -201,13 +175,11 @@
 	Size	Veličina
 	Sort	Sortiraj
 	Sort by	Sortiraj po
-	Special	Posebno
 	Split	Podijeli
 	Square	Kvadrat
 	Standard	Standardno
 	Star	Zvijezda
 	Strikethrough	Precrtano
-	Strong	Jako isticanje
 	Style	Stil
 	Subject	Predmet
 	System	Sustav
@@ -215,7 +187,6 @@
 	Tables	Tablice
 	Text	Tekst
 	The passwords don't match.	Lozinke se ne podudaraju.
-	Thick	Debelo
 	Thickness	Debljina
 	This document has no bookmarks.	Ovaj dokument nema knjižnih oznaka.
 	Title	Naslov
@@ -228,7 +199,6 @@
 	Undo	Poništi
 	Undo {action}	Poništi: {action}
 	Up	Gore
-	Use system setting	Koristi postavku sustava
 	Username	Korisničko ime
 	Version	Verzija
 	Vertical	Okomito
@@ -237,5 +207,4 @@
 	Width:	Širina:
 	Words	Riječi
 	Yes	Da
-	Your changes will be lost if you don't save them.	Vaše promjene bit će izgubljene ako ih ne spremite.
 	Zoom	Zumiranje

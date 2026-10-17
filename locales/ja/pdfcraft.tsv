@@ -224,6 +224,7 @@
 	April	4月
 	Arbitrary Mask	任意のマスク
 	Archive documents	文書をアーカイブ
+	Area	面積
 	ArtCraft website	ArtCraft のウェブサイト
 	Ask about this document	この文書について質問
 	Asks GitHub for the latest release. Nothing is downloaded or installed automatically.	GitHub で最新リリースを確認します。自動でダウンロードやインストールは行いません。
@@ -258,6 +259,7 @@
 	Before the number	数値の前
 	Beveled	ベベル
 	Bicubic downsampling to	バイキュービック法でダウンサンプル:
+	Binary assets removed	削除したバイナリファイル数
 	Binding	とじ方向
 	Binding:	とじ方向:
 	Black	黒
@@ -275,6 +277,7 @@
 	Borders and Colors	境界線と色
 	Both	両方
 	Both sides	両面
+	Box	ボックス
 	Bring your own model (off by default)	自分のモデルを使用（初期設定では無効）
 	Browser's print dialog	ブラウザーの印刷ダイアログ
 	Butt	平ら
@@ -292,6 +295,7 @@
 	Cancelling…	キャンセルしています…
 	Case-sensitive	大文字と小文字を区別
 	Category:	カテゴリ:
+	Center	中央
 	Center Footer Text	中央フッターのテキスト
 	Center Header Text	中央ヘッダーのテキスト
 	Center horizontally	水平方向の中央
@@ -323,8 +327,10 @@
 	Character encoding	文字エンコーディング
 	Character limit 0 means no limit. A comb of characters needs a limit.	文字数の上限が 0 の場合は無制限です。文字の分割には上限が必要です。
 	Character limit:	文字数の上限:
+	Character spacing	字間
 	characters	文字
 	Characters without spaces	空白を除く文字数
+	Check	チェック
 	Check Again	再チェック
 	Check again	再チェック
 	Check box is checked by default	既定でチェックする
@@ -485,6 +491,7 @@
 	Create Custom Stamp	カスタムスタンプを作成
 	Create custom stamp…	カスタムスタンプを作成…
 	Create from	作成元
+	Create Link	リンクを作成
 	Create link	リンクを作成
 	Create links from URLs	URL からリンクを作成
 	Create Link…	リンクを作成…
@@ -713,6 +720,7 @@ key	Esc	Esc
 	Exclude tagged tables	タグ付きの表を除外
 	Exclusions use PDF tags. Untagged tables and code remain included. Image exclusion also removes invisible text.	除外にはPDFタグを使用します。タグのない表やコードは集計に含まれます。画像の除外では非表示のテキストも除外されます。
 	Execute a menu item	メニュー項目を実行
+	Expand	展開
 	Expand all	すべて展開
 	Expand all bookmarks	すべてのしおりを展開
 	Expand all pages	すべてのページを展開
@@ -786,6 +794,7 @@ scroll speed	Fast	速い
 	Files are combined in this order. Leave Pages empty to take every page.	ファイルはこの順序で結合されます。すべてのページを含めるには、「ページ」を空欄のままにしてください。
 	Files for {name}	{name} 用のファイル
 	Files you open in PdfCraft appear here. Drop a PDF anywhere to open it.	PdfCraft で開いたファイルがここに表示されます。PDF をウィンドウにドロップして開くこともできます。
+	Fill	入力
 	Fill & Sign	入力と署名
 	Fill & Sign dates	入力と署名の日付
 	Fill & Sign signature	入力と署名の署名
@@ -821,6 +830,7 @@ scroll speed	Fast	速い
 	Find…	検索…
 	Finish or discard the text being edited before selecting several objects.	複数のオブジェクトを選択する前に、テキストの編集を完了するか破棄してください。
 	First / last page	最初／最後のページ
+	Fit	合わせる
 	Fit Height	高さに合わせる
 	Fit one full page	1ページずつ全体を表示
 	Fit Page	ページに合わせる
@@ -881,6 +891,7 @@ scroll speed	Fast	速い
 	Go to page…	ページへ移動…
 	Go to the page	ページへ移動
 	Go to this result	この結果に移動
+	Grab bag	いろいろ
 	Gray	グレー
 	Grayscale Images	グレースケール画像
 	Green	緑
@@ -910,6 +921,7 @@ scroll speed	Fast	速い
 	High	高
 	High Resolution	高解像度
 	High resolution	高解像度
+	Highlight	ハイライト
 	Highlight fields	フィールドをハイライト
 	Highlight Style:	ハイライトの形式:
 	Highlight text	テキストをハイライト
@@ -938,6 +950,7 @@ key	Home	Home
 	In this file	このファイル内
 	Includes unsaved changes	未保存の変更を含みます
 	Incorrect password. Try again.	パスワードが正しくありません。もう一度入力してください。
+	Indent	インデントを増やす
 	Initial View	初期表示
 	Initials	イニシャル
 	initials	イニシャル
@@ -962,6 +975,7 @@ key	Home	Home
 	Installed fonts…	インストール済みフォント…
 	Intended usage	使用目的
 	Interface size	表示サイズ
+	Intersection	交点
 	Intersections	交点
 	Invert	反転
 	Invisible Rectangle	非表示の長方形
@@ -1018,6 +1032,7 @@ key	Home	Home
 	Light gray	ライトグレー
 	Light theme	ライトテーマ
 	Limit of	文字数の上限:
+	Line delta	行数の増減
 	Line ending	線端の形状
 	Line Style:	線の形式:
 	Line thickness	線の太さ
@@ -1072,6 +1087,7 @@ key	Home	Home
 	Match field sizes	フィールドのサイズを揃える
 	Match page at 100%	ページに合わせて100%に設定
 	Maximize	最大化
+	Maximum	最高
 	maximum	最大値
 	May	5月
 	Measure	測定
@@ -1093,6 +1109,7 @@ key	Home	Home
 	Midpoint	中点
 	Midpoints	中点
 	Minimize	最小化
+	Minimum	最低
 	minimum	最小値
 	Mixed	混在
 	Mobile	モバイル
@@ -1160,6 +1177,7 @@ key	Home	Home
 	No colour	色なし
 	No comments match.	一致する注釈はありません。
 	No comments yet.	注釈はまだありません。
+	No contributor data was built into this copy.	このビルドには貢献者のデータが組み込まれていません。
 	No differences in the text.	テキストに差分はありません。
 	No digital IDs yet.	デジタル ID はまだありません。
 	No documents are open	開いている文書はありません
@@ -1173,6 +1191,7 @@ key	Home	Home
 	No matches	一致なし
 	No matches.	一致する項目はありません。
 	No matching tools	該当するツールがありません
+	No model credits were built into this copy.	このビルドにはモデルのクレジット情報が組み込まれていません。
 	No openly licensed document fonts found. Load a font file.	オープンライセンスのフォントが見つかりません。フォントファイルを読み込んでください。
 	no output folder was chosen	出力フォルダーが選択されていません
 	No pages match those choices	条件に一致するページはありません
@@ -1208,6 +1227,7 @@ scroll speed	Normal	標準
 	Nothing to undo	取り消す操作はありません
 	nothing to undo	取り消す操作はありません
 	November	11月
+	Number	数値
 	Number every page in the footer.	すべてのページのフッターに番号を付けます。
 	Number of pages	ページ数
 	Number pages	ページ番号を設定
@@ -1287,6 +1307,7 @@ animation effects	On	オン
 	Other elements alternate text	その他の要素の代替テキスト
 	Other elements that require alternate text	代替テキストが必要なその他の要素
 	Outdent	インデントを減らす
+	Outline	輪郭
 	Outline colour:	枠線の色:
 	Output	出力
 	Output appears here.	出力はここに表示されます。
@@ -1296,6 +1317,7 @@ animation effects	On	オン
 	Owner password (no restrictions apply)	所有者パスワード（制限なし）
 	Page background	ページの背景
 	Page Content	ページの内容
+	Page display	ページ表示
 	Page display: {layout}	ページ表示：{layout}
 	Page does not require timed responses	ページに時間制限付きの応答はありません
 	Page grid	ページ一覧
@@ -1561,6 +1583,7 @@ animation effects	On	オン
 	Reverse closed arrow	逆向きの閉じた矢印
 	Reverse open arrow	逆向きの開いた矢印
 	Reverse pages	逆順で印刷
+	Reverse the order	並び順を逆にする
 	Revert	保存済みの状態に戻す
 	Revert changes	変更を元に戻す
 	Revert to the previously saved version of “{name}”? Changes since then can't be undone afterwards.	「{name}」を保存済みの状態に戻しますか？それ以降の変更は後から取り消せません。
@@ -1640,6 +1663,7 @@ animation effects	On	オン
 	Script Name:	スクリプト名:
 	Script:	スクリプト:
 	Scripted content must be usable with a keyboard and assistive technology. Check the document's scripts.	スクリプトで動作するコンテンツは、キーボードや支援技術でも操作できる必要があります。文書のスクリプトを確認してください。
+	Scripts	スクリプト
 	Scripts run in a sandbox without file or network access. A script that asks to open a web page needs your permission first. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	スクリプトは、ファイルやネットワークにアクセスできないサンドボックス内で実行されます。スクリプトがウェブページを開くには、事前にユーザーの許可が必要です。JavaScript がオフでも、Acrobat 標準の書式・検証・計算関数は引き続き動作します。
 	Scripts run in a sandbox without file or network access. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	スクリプトはファイルやネットワークにアクセスできないサンドボックスで実行されます。JavaScript を無効にしても、Acrobat の標準の書式設定・検証・計算関数は使用できます。
 	Scroll long text	長いテキストをスクロール
@@ -1784,6 +1808,7 @@ scroll speed	Slow	遅い
 	Source	ソース
 key	Space	スペース
 	Space Audit	容量の使用状況
+	Special	特殊
 	Split document	文書を分割
 	Split document…	文書を分割…
 	Split into files…	ファイルに分割…
@@ -1804,6 +1829,7 @@ key	Space	スペース
 	Sticky note	ノート注釈
 	Strength: {s}	強度: {s}
 	Strikethrough text	テキストに取り消し線
+	Strong	強い
 	Structure Info	構造情報
 	Submit a form	フォームを送信
 	Subset	対象範囲
@@ -1925,6 +1951,7 @@ key	Space	スペース
 	there are no redaction marks to apply	適用する墨消しマークはありません
 	These files can't be read, so they won't be in the combined PDF:	次のファイルは読み込めないため、結合した PDF には含まれません:
 	These objects could not be moved. Select them again and try a smaller move.	これらのオブジェクトを移動できませんでした。選択し直し、移動量を小さくして試してください。
+	Thick	太い
 	Thin	細い
 	This area has too many overlapping paths; intersection snapping is limited.	この領域は重なるパスが多すぎるため、交点へのスナップを制限します。
 	This certificate is in your list of trusted certificates.	この証明書は信頼済み証明書の一覧に登録されています。
@@ -2045,6 +2072,7 @@ signature pad	Type	入力
 	Use now	使用する
 	Use overlay text	オーバーレイテキストを使用
 	Use print production	印刷工程のツールを使用
+	Use system setting	システム設定を使用
 	Use system title bar	システムのタイトルバーを使う
 	Use {what}	{what}を使用
 	Used when a PDF doesn't ask for a layout or zoom. Continuous scrolling never snaps between pages.	PDF にレイアウトやズームの指定がない場合に使用されます。連続スクロールでは、ページの境目にスナップすることはありません。
@@ -2109,6 +2137,7 @@ signature pad	Type	入力
 	You can pin up to {n} folders. Unpin one first.	ピン留めできるフォルダーは {n} 個までです。先にいずれかのピン留めを外してください。
 	You have version {c}. All releases are listed at {page}.	現在のバージョンは {c} です。すべてのリリースは {page} に掲載されています。
 	You have version {c}. Download the new version from its release page.	現在のバージョンは {c} です。リリースページから新しいバージョンをダウンロードしてください。
+	Your changes will be lost if you don't save them.	保存しないと変更内容は失われます。
 	Your name	お名前
 	yyyy or yy year · m or mm month · mmm or mmmm month name · d or dd day · ddd or dddd weekday. H, h, M, s and t are time letters and can't be used on their own: put {escape} before a letter to show it as is.	yyyy または yy 年 · m または mm 月 · mmm または mmmm 月名 · d または dd 日 · ddd または dddd 曜日。H、h、M、s、t は時刻の文字なので単独では使えません。文字をそのまま表示するには前に {escape} を付けます。
 	ZIP	ZIP

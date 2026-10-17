@@ -23,23 +23,17 @@
 	All	Vše
 	All pages	Všechny stránky
 	Apply	Použít
-	Area	Plošný
 	Arrow	Šipka
 	Author	Autor
 	Auto	Automaticky
 	Auto ({percent}%)	Automaticky ({percent}%)
 	Binary assets added	Přidané binární soubory
-	Binary assets removed	Odebrané binární soubory
 	Bold	Tučné
 	Bottom	Dole
 	Bottom:	Dole:
-	Box	Rámeček
 	Browse…	Procházet…
 	Cancel	Zrušit
-	Center	Na střed
-	Character spacing	Proložení znaků
 	Characters	Znaky
-	Check	Háček
 	Circle	Kruh
 	Clear	Vymazat
 	Clear All	Vymazat vše
@@ -49,7 +43,6 @@
 	Color	Barva
 	Color:	Barva:
 	Combine	Zkombinovat
-	Comment	Komentář
 	Comments	Komentáře
 	Commits	Commity
 	Company	Společnost
@@ -58,7 +51,6 @@
 	Convert	Převést
 	Copy	Kopírovat
 	Create	Vytvořit
-	Create Link	Vytvořit propojení
 	Current page	Aktuální stránka
 	Custom	Vlastní
 	Cut	Vyjmout
@@ -81,16 +73,13 @@
 	Eraser	Guma
 	Even pages only	Pouze sudé stránky
 	Example: {sample}	Příklad: {sample}
-	Expand	Rozšířit
 	Export	Exportovat
 	Field	Pole
 	Field properties	Vlastnosti pole
 	Fields	Pole
 	File	Soubor
-	Fill	Výplň
 	First	První
 	First commit	První commit
-	Fit	Přizpůsobit
 	Flip Horizontal	Převrátit vodorovně
 	Flip Vertical	Převrátit svisle
 	Font	Písmo
@@ -100,20 +89,16 @@
 	Format:	Formát:
 	Full Screen	Celá obrazovka
 	General	Obecné
-	Grab bag	Různé
 	Graphic	Obrázek
 	Headings	Nadpisy
 	Height:	Výška:
 	Help	Nápověda
 	Hidden text	Skrytý text
-	Highlight	Zvýraznění
 	Home	Domů
 	Horizontal	Vodorovně
-	Indent	Odsazení
 	Index	Rejstřík
 	Insert	Vložení
 	Interface language	Jazyk rozhraní
-	Intersection	Průnik
 	Italic	Kurzíva
 	Justify	Do bloku
 	Keywords	Klíčová slova
@@ -127,7 +112,6 @@
 	Left:	Vlevo:
 	Light	Světlý
 	Line	Čára
-	Line delta	Změna počtu řádků
 	Line spacing	Řádkování
 	Lines +/−	Řádky +/−
 	Lines added	Přidané řádky
@@ -136,10 +120,8 @@
 	List	Seznam
 	Location	Umístění
 	Margins	Okraje
-	Maximum	Maximum
 	Medium	Střední
 	Merged PRs	Sloučené PR
-	Minimum	Minimum
 	Model	Model
 	Models	Modely
 	Name	Jméno
@@ -147,11 +129,8 @@
 	Name:	Název:
 	Next	Další
 	No	Ne
-	No contributor data was built into this copy.	Tato kopie neobsahuje údaje o přispěvatelích.
 	No limit	Bez omezení
-	No model credits were built into this copy.	Tato kopie neobsahuje uvedení modelů.
 	None	Žádné
-	Number	Číslo
 	Odd pages only	Pouze liché stránky
 	Off	Vypnuto
 	OK	OK
@@ -159,17 +138,14 @@
 	Open	Otevřít
 	Options	Možnosti
 	Options…	Možnosti…
-	Outline	Osnova
 	Oval	Ovál
 	Page	Stránka
-	Page display	Zobrazení stránky
 	Pages	Stránky
 	Password	Heslo
 	Paste	Vložit
 	Portrait	Na výšku
 	Position	Pozice
 	Preview	Náhled
-	Previous	Předchozí
 	Print	Tisk
 	Printing	Tisk
 	Protect	Zabezpečení
@@ -185,14 +161,12 @@
 	Replace	Nahradit
 	Reply	Odpovědět
 	Report	Zpráva
-	Reverse the order	Obrátit pořadí
 	Review	Revize
 	Right	Vpravo
 	Rotate	Otočit
 	Rotation	Otočení
 	Rotation:	Otočení:
 	Save	Uložit
-	Scripts	Indexy
 	Search	Hledat
 	Select All	Vybrat vše
 	Selected pages	Vybrané stránky
@@ -201,13 +175,11 @@
 	Size	Velikost
 	Sort	Seřadit
 	Sort by	Seřadit podle
-	Special	Speciální
 	Split	Rozdělit
 	Square	Čtverec
 	Standard	Standardní
 	Star	Hvězda
 	Strikethrough	Přeškrtnuté
-	Strong	Silné
 	Style	Styl
 	Subject	Předmět
 	System	Systémové
@@ -215,7 +187,6 @@
 	Tables	Tabulky
 	Text	Text
 	The passwords don't match.	Hesla se neshodují.
-	Thick	Silné
 	Thickness	Tloušťka
 	This document has no bookmarks.	Tento dokument nemá žádné záložky.
 	Title	Název
@@ -228,7 +199,6 @@
 	Undo	Zpět
 	Undo {action}	Zpět: {action}
 	Up	Nahoru
-	Use system setting	Podle nastavení systému
 	Username	Uživatelské jméno
 	Version	Verze
 	Vertical	Svisle
@@ -237,5 +207,4 @@
 	Width:	Šířka:
 	Words	Slova
 	Yes	Ano
-	Your changes will be lost if you don't save them.	Pokud změny neuložíte, budou ztraceny.
 	Zoom	Lupa

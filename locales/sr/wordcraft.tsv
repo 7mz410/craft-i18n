@@ -144,6 +144,7 @@
 	Arabic	Арапски
 	Arch Down	Лук надоле
 	Arch Up	Лук нагоре
+	Area	Површински
 	Arrange	Ређање
 	Arrange\nAll	Распореди\nсве
 	Arrows	Стрелице
@@ -207,6 +208,7 @@
 	Below the item	Испод ставке
 	Between	Између пасуса
 	Bibliography	Библиографија
+	Binary assets removed	Уклоњени бинарни ресурси
 	Blank	Празно
 	Blank (Three Columns)	Празно (три колоне)
 	Blank document	Празан документ
@@ -230,6 +232,7 @@
 	Bottom Margin	Доња маргина
 	Bottom of Page	Дно стране
 	Bottom Right Cell	Доња десна ћелија
+	Box	Оквир
 	Bracket	Заграда
 	Break Link	Прекини везу
 	Breaks	Прекиди
@@ -265,6 +268,7 @@
 	Cell Margins	Маргине ћелије
 	Cell Size	Величина ћелије
 	Cell\nMargins	Маргине\nћелије
+	Center	Центрирај
 	Centered	Центрирано
 	Centimeters	Центиметри
 	Change	Измени
@@ -295,6 +299,7 @@
 	Character Scale	Размера знака
 	Character Shading	Сенчење знакова
 	Character Spacing	Размак између знакова
+	Character spacing	Размак између знакова
 	Character style	Стил знакова
 	Characters (no spaces)	Знакови (без размака)
 	Characters (with spaces)	Знакови (са размацима)
@@ -365,6 +370,7 @@
 	Combo Box Content Control	Контрола садржаја за комбиновано поље
 	Commands	Наредбе
 	Commands:	Команде:
+	Comment	Коментар
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Коментари поред сваке странице и праћене измене у PDF-овима, отисцима и сликама; листа коментара на крају веб-страница, Markdown-а и текста.
 	Comments Pane	Окно коментара
 	Communication	Комуникација
@@ -419,6 +425,7 @@
 	Create a Style	Направи стил
 	Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document.	Направите интерактивни преглед документа.\n\nОдличан је начин да пратите где се налазите или брзо премештате садржај.\n\nЗа почетак, идите на картицу Почетак и примените стилове наслова на наслове у документу.
 	Create Graphic	Креирање графике
+	Create Link	Направи везу
 	Create New Style	Направи нови стил
 	Create Source	Направи извор
 	Croatian	Хрватски
@@ -637,6 +644,7 @@
 	Exceptions (optional)	Изузеци (необавезно)
 	Exceptions…	Изузеци…
 	Existing File or Web Page	Постојећа датотека или веб страница
+	Expand	Прошири
 	Expand or Collapse Heading	Прошири или скупи наслов
 	Export a copy to share (PDF, Word document)	Извези копију за дељење (PDF, Word документ)
 	Export Page as PNG	Извези страну као PNG
@@ -657,6 +665,7 @@
 	Field…	Поље…
 	Figure	Слика
 	File name:	Име датотеке:
+	Fill	Испуна
 	Fill color:	Боја попуне:
 	Filling in forms	Попуњавање образаца
 	Film	Филм
@@ -683,6 +692,7 @@
 	First line:	Први ред:
 	First Name	Име
 	First row of data contains column headers	Први ред података садржи заглавља колона
+	Fit	Прилагоди
 	Fix Position on Page	Фиксирај положај на страници
 	Fixed Column Width	Фиксна ширина колоне
 	Focus	Фокус
@@ -731,6 +741,7 @@
 	Go To (⌘⌥G)	Иди на (⌘⌥G)
 	Go to what:	Иди на:
 	Go To…	Иди на…
+	Grab bag	Разно
 	Grayscale	Сиви тонови
 	Greater than	Веће од
 	Greater than or equal	Веће или једнако
@@ -765,6 +776,7 @@
 	Hide White Space	Сакриј празан простор
 	Hide\nInk	Сакриј\nмастило
 	Hierarchy	Хијерархија
+	Highlight	Истицање
 	Highlight Merge Fields	Истакни поља за спајање
 	Highlight\nMerge Fields	Истакни\nпоља за спајање
 	Highlighter	Маркер
@@ -810,6 +822,7 @@
 	Include page numbers	Укључи бројеве страница
 	Increase Font Size	Повећај величину фонта
 	Increase Indent	Повећај увлачење
+	Indent	Увлачење
 	Indent from left:	Увлачење слева:
 	Indentation	Увлачење
 	Indented	Увучено
@@ -947,6 +960,7 @@
 	Line between	Линија између колона
 	Line Break	Прекид реда
 	Line breaking	Прелом редова
+	Line delta	Промена броја редова
 	Line End	Крај реда
 	Line Numbering Options…	Опције бројева редова…
 	Line Numbers	Бројеви редова
@@ -1097,6 +1111,7 @@
 	No Border	Без ивице
 	No changes (read only)	Без измена (само за читање)
 	No Color	Без боје
+	No contributor data was built into this copy.	Ова верзија не садржи податке о сарадницима.
 	No document is open. Create a document or open one first.	Ниједан документ није отворен. Прво направите или отворите документ.
 	No errors found: every merge field is in the recipient list.	Нема грешака: свако поље за спајање постоји у листи прималаца.
 	No Fill	Без попуне
@@ -1105,6 +1120,7 @@
 	No header row	Без реда заглавља
 	No icons match your search.	Ниједна иконица не одговара претрази.
 	No Markup	Без измена
+	No model credits were built into this copy.	Ова верзија не садржи заслуге за AI моделе.
 	No Outline	Без контуре
 	No Paragraph Space	Без размака пасуса
 	No printers found. Configure a system printer or export a PDF.	Нису пронађени штампачи. Подесите системски штампач или извезите PDF.
@@ -1141,6 +1157,7 @@
 	Now used by {command}	Сада користи: {command}
 	Nudge	Микро-померање
 	Num Occurrences	Број понављања
+	Number	Број
 	Number alignment:	Поравнање броја:
 	Number format	Формат броја
 	Number of columns:	Број колона:
@@ -1201,6 +1218,7 @@
 	Other	Друго
 	Other styles and their TOC level:	Остали стилови и њихов ниво у садржају:
 	Otherwise insert:	Иначе уметни:
+	Outline	Контура
 	Outline Level	Ниво контуре
 	Outline level	Ниво контуре
 	Outline levels	Нивои структуре
@@ -1220,6 +1238,7 @@
 	Page break before	Прекид стране пре
 	Page Breaks	Прекиди страна
 	Page Color	Боја стране
+	Page display	Приказ стране
 	Page Down	Страна надоле
 	Page image (*.png)	Слика стране (*.png)
 	Page Movement	Кретање странама
@@ -1304,6 +1323,7 @@
 	Press a key combination	Притисните комбинацију тастера
 	Preview Results	Преглед резултата
 	Preview\nResults	Преглед\nрезултата
+	Previous	Претходно
 	Previous 1 or More	Претходно 1 или више пута
 	Previous Change	Претходна измена
 	Previous Comment	Претходни коментар
@@ -1448,6 +1468,7 @@
 	Results	Резултати
 	Return address labels	Налепнице са адресом пошиљаоца
 	Return address:	Адреса пошиљаоца:
+	Reverse the order	Обрни редослед
 	Reviewing	Прегледање
 	Reviewing Pane	Окно за преглед
 	Reviewing — edits become suggestions	Прегледање — измене постају предлози
@@ -1671,6 +1692,7 @@
 	Spacing:	Размак:
 	Spanish (Mexico)	Шпански (Мексико)
 	Spanish (Spain)	Шпански (Шпанија)
+	Special	Посебно
 	Special Characters	Специјални знакови
 	Specify height:	Задај висину:
 	Speech	Говор
@@ -1810,6 +1832,7 @@
 	These marks show even when Show/Hide ¶ is off.	Ове ознаке се приказују и када је Прикажи/сакриј ¶ искључено.
 	These merge fields aren't in the recipient list:	Ова поља за спајање нису у листи прималаца:
 	These settings will be used for new documents.	Ова подешавања ће се користити за нове документе.
+	Thick	Дебело
 	This document	Овај документ
 	This field has no options.	Ово поље нема опција.
 	This folder can't be read: {error}	Ова фасцикла не може да се прочита: {error}
@@ -1900,6 +1923,7 @@
 	UPPERCASE	ВЕЛИКА СЛОВА
 	URL	URL
 	Use an Existing List…	Користи постојећу листу…
+	Use system setting	Према подешавању система
 	Use the browser's full screen (F11)	Користите приказ преко целог екрана у прегледачу (F11)
 	Use the Insert key to switch overtype on and off	Тастер Insert укључује и искључује преписивање
 	Use wildcards	Користи џокер знаке
@@ -1966,6 +1990,7 @@
 	Write & Insert Fields	Писање и уметање поља
 	Write a reply	Напишите одговор
 	Year	Година
+	Your changes will be lost if you don't save them.	Ваше измене ће бити изгубљене ако их не сачувате.
 	Your system doesn't report an animation setting, so animation effects stay on.	Систем не пријављује подешавање анимације, па ефекти анимације остају укључени.
 	Your system has animation effects turned off.	У систему су ефекти анимације искључени.
 	Your system has animation effects turned on.	У систему су ефекти анимације укључени.

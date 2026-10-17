@@ -23,23 +23,17 @@
 	All	Toutes
 	All pages	Toutes les pages
 	Apply	Appliquer
-	Area	Aire
 	Arrow	Flèche
 	Author	Auteur
 	Auto	Automatique
 	Auto ({percent}%)	Automatique ({percent} %)
 	Binary assets added	Fichiers binaires ajoutés
-	Binary assets removed	Fichiers binaires retirés
 	Bold	Gras
 	Bottom	Bas
 	Bottom:	Bas :
-	Box	Zone
 	Browse…	Parcourir…
 	Cancel	Annuler
-	Center	Centre
-	Character spacing	Approche
 	Characters	Caractères
-	Check	Coche
 	Circle	Cercle
 	Clear	Effacer
 	Clear All	Tout effacer
@@ -49,7 +43,6 @@
 	Color	Couleur
 	Color:	Couleur :
 	Combine	Combiner
-	Comment	Commentaire
 	Comments	Commentaires
 	Commits	Commits
 	Company	Société
@@ -58,7 +51,6 @@
 	Convert	Convertir
 	Copy	Copier
 	Create	Créer
-	Create Link	Créer un lien
 	Current page	Page actuelle
 	Custom	Personnalisé
 	Cut	Couper
@@ -81,16 +73,13 @@
 	Eraser	Gomme
 	Even pages only	Pages paires seulement
 	Example: {sample}	Exemple : {sample}
-	Expand	Développer
 	Export	Exporter
 	Field	Champ
 	Field properties	Propriétés du champ
 	Fields	Champs
 	File	Fichier
-	Fill	Remplir
 	First	Premier
 	First commit	Premier commit
-	Fit	Ajuster
 	Flip Horizontal	Retourner horizontalement
 	Flip Vertical	Retourner verticalement
 	Font	Police
@@ -100,20 +89,16 @@
 	Format:	Format :
 	Full Screen	Plein écran
 	General	Général
-	Grab bag	En vrac
 	Graphic	Graphique
 	Headings	Titres
 	Height:	Hauteur :
 	Help	Aide
 	Hidden text	Texte masqué
-	Highlight	Surligner
 	Home	Accueil
 	Horizontal	Horizontal
-	Indent	Augmenter le retrait
 	Index	Index
 	Insert	Insérer
 	Interface language	Langue de l'interface
-	Intersection	Intersection
 	Italic	Italique
 	Justify	Justifier
 	Keywords	Mots-clés
@@ -127,7 +112,6 @@
 	Left:	Gauche :
 	Light	Clair
 	Line	Ligne
-	Line delta	Écart de lignes
 	Line spacing	Interligne
 	Lines +/−	Lignes +/−
 	Lines added	Lignes ajoutées
@@ -136,10 +120,8 @@
 	List	Liste
 	Location	Emplacement
 	Margins	Marges
-	Maximum	Maximum
 	Medium	Moyen
 	Merged PRs	PR fusionnées
-	Minimum	Minimum
 	Model	Modèle
 	Models	Modèles
 	Name	Nom
@@ -147,11 +129,8 @@
 	Name:	Nom :
 	Next	Suivant
 	No	Non
-	No contributor data was built into this copy.	Cette copie ne contient aucune donnée sur les contributeurs.
 	No limit	Aucune limite
-	No model credits were built into this copy.	Cette copie ne contient aucun crédit de modèle.
 	None	Aucun
-	Number	Nombre
 	Odd pages only	Pages impaires seulement
 	Off	Désactivé
 	OK	OK
@@ -159,17 +138,14 @@
 	Open	Ouvrir
 	Options	Options
 	Options…	Options…
-	Outline	Contour
 	Oval	Ellipse
 	Page	Page
-	Page display	Affichage des pages
 	Pages	Pages
 	Password	Mot de passe
 	Paste	Coller
 	Portrait	Portrait
 	Position	Position
 	Preview	Aperçu
-	Previous	Précédent
 	Print	Imprimer
 	Printing	Impression
 	Protect	Protéger
@@ -185,14 +161,12 @@
 	Replace	Remplacer
 	Reply	Répondre
 	Report	Rapport
-	Reverse the order	Inverser l'ordre
 	Review	Révision
 	Right	Droite
 	Rotate	Pivoter
 	Rotation	Rotation
 	Rotation:	Rotation :
 	Save	Enregistrer
-	Scripts	Scripts
 	Search	Rechercher
 	Select All	Tout sélectionner
 	Selected pages	Pages sélectionnées
@@ -201,13 +175,11 @@
 	Size	Taille
 	Sort	Trier
 	Sort by	Trier par
-	Special	Spécial
 	Split	Fractionner
 	Square	Carré
 	Standard	Standard
 	Star	Étoile
 	Strikethrough	Barré
-	Strong	Fort
 	Style	Style
 	Subject	Sujet
 	System	Système
@@ -215,7 +187,6 @@
 	Tables	Tableaux
 	Text	Texte
 	The passwords don't match.	Les mots de passe ne correspondent pas.
-	Thick	Épais
 	Thickness	Épaisseur
 	This document has no bookmarks.	Ce document ne contient aucun signet.
 	Title	Titre
@@ -228,7 +199,6 @@
 	Undo	Annuler
 	Undo {action}	Annuler {action}
 	Up	Monter
-	Use system setting	Utiliser le réglage du système
 	Username	Nom d'utilisateur
 	Version	Version
 	Vertical	Vertical
@@ -237,5 +207,4 @@
 	Width:	Largeur :
 	Words	Mots
 	Yes	Oui
-	Your changes will be lost if you don't save them.	Vos modifications seront perdues si vous ne les enregistrez pas.
 	Zoom	Zoom

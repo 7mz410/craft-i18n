@@ -144,6 +144,7 @@
 	Arabic	Araabia
 	Arch Down	Kaar alla
 	Arch Up	Kaar üles
+	Area	Pind
 	Arrange	Paiguta
 	Arrange\nAll	Paiguta\nkõik
 	Arrows	Nooled
@@ -207,6 +208,7 @@
 	Below the item	Objekti all
 	Between	Vahel
 	Bibliography	Allikaloend
+	Binary assets removed	Eemaldatud binaarvarad
 	Blank	Tühi
 	Blank (Three Columns)	Tühi (kolm veergu)
 	Blank document	Tühi dokument
@@ -231,6 +233,7 @@
 	Bottom Margin	Alumine veeris
 	Bottom of Page	Lehe allserv
 	Bottom Right Cell	Alumine parem lahter
+	Box	Kast
 	Bracket	Sulg
 	Break Link	Katkesta link
 	Breaks	Piirid
@@ -267,6 +270,7 @@
 	Cell Margins	Lahtri veerised
 	Cell Size	Lahtri suurus
 	Cell\nMargins	Lahtri\nveerised
+	Center	Keskele
 	Centered	Keskele joondatud
 	Centimeters	Sentimeetrid
 	Change	Muuda
@@ -297,6 +301,7 @@
 	Character Scale	Märgi mõõtkava
 	Character Shading	Märgi taust
 	Character Spacing	Märkide vahe
+	Character spacing	Märkide vahe
 	Character style	Märgistiil
 	Characters (no spaces)	Märgid (tühikuteta)
 	Characters (with spaces)	Märgid (tühikutega)
@@ -367,6 +372,7 @@
 	Combo Box Content Control	Liitboksi sisujuhtelement
 	Commands	Käsud
 	Commands:	Käsud:
+	Comment	Kommentaar
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Kommentaarid iga lehe kõrval ja jälitatud muudatused PDF-ides, väljatrükkides ja piltides; kommentaaride loend veebilehtede, Markdowni ja teksti lõpus.
 	Comments Pane	Kommentaaripaan
 	Communication	Suhtlus
@@ -421,6 +427,7 @@
 	Create a Style	Loo stiil
 	Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document.	Loo dokumendi interaktiivne liigendus.\n\nSee aitab leida oma asukohta ja sisu kiiresti ümber paigutada.\n\nAlustamiseks ava vahekaart Avaleht ja rakenda dokumendi pealkirjadele pealkirjastiilid.
 	Create Graphic	Loo graafika
+	Create Link	Loo link
 	Create New Style	Loo uus stiil
 	Create Source	Loo allikas
 	Croatian	Horvaadi
@@ -642,6 +649,7 @@
 	Exceptions (optional)	Erandid (valikuline)
 	Exceptions…	Erandid…
 	Existing File or Web Page	Olemasolev fail või veebileht
+	Expand	Laienda
 	Expand or Collapse Heading	Laienda või ahenda pealkiri
 	Export a copy to share (PDF, Word document)	Ekspordi koopia jagamiseks (PDF, Wordi dokument)
 	Export Page as PNG	Ekspordi leht PNG-na
@@ -662,6 +670,7 @@
 	Field…	Väli…
 	Figure	Joonis
 	File name:	Faili nimi:
+	Fill	Täide
 	Fill color:	Täitevärv:
 	Filling in forms	Vormide täitmine
 	Film	Film
@@ -688,6 +697,7 @@
 	First line:	Esimene rida:
 	First Name	Eesnimi
 	First row of data contains column headers	Andmete esimene rida sisaldab veerupäiseid
+	Fit	Sobita
 	Fix Position on Page	Fikseeri asukoht lehel
 	Fixed Column Width	Fikseeritud veerulaius
 	Focus	Keskendu
@@ -738,6 +748,7 @@
 	Go To (⌘⌥G)	Mine (⌘⌥G)
 	Go to what:	Mine:
 	Go To…	Mine…
+	Grab bag	Koondvaade
 	Grayscale	Halltoonid
 	Greater than	Suurem kui
 	Greater than or equal	Suurem või võrdne
@@ -772,6 +783,7 @@
 	Hide White Space	Peida tühi ala lehtede vahel
 	Hide\nInk	Peida\ntint
 	Hierarchy	Hierarhia
+	Highlight	Esiletõst
 	Highlight Merge Fields	Tõsta ühendamisväljad esile
 	Highlight\nMerge Fields	Tõsta ühendamis-\nväljad esile
 	Highlighter	Marker
@@ -818,6 +830,7 @@
 	Include page numbers	Lisa leheküljenumbrid
 	Increase Font Size	Suurenda fondi suurust
 	Increase Indent	Suurenda taanet
+	Indent	Taane
 	Indent from left:	Taane vasakult:
 	Indentation	Taandus
 	Indented	Taandega
@@ -958,6 +971,7 @@
 	Line between	Joon vahel
 	Line Break	Reapiir
 	Line breaking	Reamurdmine
+	Line delta	Ridade muutus
 	Line End	Rea lõpp
 	Line Numbering Options…	Reanummerduse sätted…
 	Line Numbers	Reanumbrid
@@ -1109,6 +1123,7 @@
 	No Border	Ääriseta
 	No changes (read only)	Muudatusi pole (kirjutuskaitstud)
 	No Color	Värvita
+	No contributor data was built into this copy.	Selles versioonis pole kaasautorite andmeid.
 	No document is open. Create a document or open one first.	Ükski dokument pole avatud. Looge või avage kõigepealt dokument.
 	No errors found: every merge field is in the recipient list.	Vigu ei leitud: kõik ühendamisväljad on adressaatide loendis.
 	No Fill	Täiteta
@@ -1117,6 +1132,7 @@
 	No header row	Päiserida puudub
 	No icons match your search.	Otsingule vastavaid ikoone pole.
 	No Markup	Märgistuseta
+	No model credits were built into this copy.	Selles versioonis pole mudelite autoriteavet.
 	No Outline	Kontuurita
 	No Paragraph Space	Lõiguvaheta
 	No printers found. Configure a system printer or export a PDF.	Printereid ei leitud. Seadista süsteemis printer või ekspordi PDF.
@@ -1154,6 +1170,7 @@
 	Now used by {command}	Praegu kasutab: {command}
 	Nudge	Nihuta
 	Num Occurrences	Korduste arv
+	Number	Number
 	Number alignment:	Numbri joondus:
 	Number format	Numbri vorming
 	Number of columns:	Veergude arv:
@@ -1214,6 +1231,7 @@
 	Other	Muu
 	Other styles and their TOC level:	Muud laadid ja nende sisukorratase:
 	Otherwise insert:	Muidu lisa:
+	Outline	Liigendus
 	Outline Level	Liigendustase
 	Outline level	Liigendustase
 	Outline levels	Liigendustasemed
@@ -1233,6 +1251,7 @@
 	Page break before	Lehepiir enne
 	Page Breaks	Lehepiirid
 	Page Color	Lehe värv
+	Page display	Lehe kuvamine
 	Page Down	Lehe võrra alla
 	Page image (*.png)	Lehe pilt (*.png)
 	Page Movement	Lehtede liikumine
@@ -1317,6 +1336,7 @@
 	Press a key combination	Vajuta klahvikombinatsiooni
 	Preview Results	Tulemuste eelvaade
 	Preview\nResults	Tulemuste\neelvaade
+	Previous	Eelmine
 	Previous 1 or More	Eelmine 1 või rohkem korda
 	Previous Change	Eelmine muudatus
 	Previous Comment	Eelmine kommentaar
@@ -1462,6 +1482,7 @@
 	Results	Tulemused
 	Return address labels	Saatja aadressi sildid
 	Return address:	Saatja aadress:
+	Reverse the order	Pööra järjestus ümber
 	Reviewing	Läbivaatus
 	Reviewing Pane	Läbivaatuspaan
 	Reviewing — edits become suggestions	Läbivaatus — muudatused muutuvad soovitusteks
@@ -1685,6 +1706,7 @@
 	Spacing:	Vahe:
 	Spanish (Mexico)	Hispaania (Mehhiko)
 	Spanish (Spain)	Hispaania (Hispaania)
+	Special	Erimärgid
 	Special Characters	Erimärgid
 	Specify height:	Määra kõrgus:
 	Speech	Kõne
@@ -1716,6 +1738,7 @@
 	Straight Arrow Connector	Sirge noolega ühendusjoon
 	Straight Connector	Sirge ühendusjoon
 	Stroke {n} of {total}	Joon {n}/{total}
+	Strong	Tugev
 	Structure Actions	Struktuuritoimingud
 	Structures	Struktuurid
 	Studio	Stuudio
@@ -1827,6 +1850,7 @@
 	These marks show even when Show/Hide ¶ is off.	Need märgid on nähtavad ka siis, kui Kuva/peida ¶ on välja lülitatud.
 	These merge fields aren't in the recipient list:	Neid ühendamisvälju pole adressaatide loendis:
 	These settings will be used for new documents.	Neid sätteid kasutatakse uute dokumentide puhul.
+	Thick	Paks
 	This document	See dokument
 	This field has no options.	Sellel väljal pole suvandeid.
 	This folder can't be read: {error}	Seda kausta ei saa lugeda: {error}
@@ -1921,6 +1945,7 @@
 	UPPERCASE	SUURTÄHED
 	URL	URL
 	Use an Existing List…	Kasuta olemasolevat loendit…
+	Use system setting	Kasuta süsteemi seadistust
 	Use the browser's full screen (F11)	Kasutage brauseri täisekraani (F11)
 	Use the Insert key to switch overtype on and off	Kasuta Insert-klahvi ülekirjutuse sisse- ja väljalülitamiseks
 	Use wildcards	Kasuta metamärke
@@ -1987,6 +2012,7 @@
 	Write & Insert Fields	Kirjuta ja lisa väljad
 	Write a reply	Kirjuta vastus
 	Year	Aasta
+	Your changes will be lost if you don't save them.	Salvestamata muudatused lähevad kaotsi.
 	Your system doesn't report an animation setting, so animation effects stay on.	Süsteem ei teata animatsiooniseadet, seega jäävad animatsiooniefektid sisse.
 	Your system has animation effects turned off.	Süsteemis on animatsiooniefektid välja lülitatud.
 	Your system has animation effects turned on.	Süsteemis on animatsiooniefektid sisse lülitatud.

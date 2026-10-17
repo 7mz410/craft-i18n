@@ -23,23 +23,17 @@
 	All	Tất cả
 	All pages	Tất cả các trang
 	Apply	Áp dụng
-	Area	Diện tích
 	Arrow	Mũi tên
 	Author	Tác giả
 	Auto	Tự động
 	Auto ({percent}%)	Tự động ({percent}%)
 	Binary assets added	Tài nguyên nhị phân đã thêm
-	Binary assets removed	Tài nguyên nhị phân đã xóa
 	Bold	Đậm
 	Bottom	Dưới cùng
 	Bottom:	Dưới:
-	Box	Hộp
 	Browse…	Duyệt…
 	Cancel	Hủy
-	Center	Giữa
-	Character spacing	Khoảng cách ký tự
 	Characters	Ký tự
-	Check	Đánh dấu chọn
 	Circle	Hình tròn
 	Clear	Xóa
 	Clear All	Xóa tất cả
@@ -49,7 +43,6 @@
 	Color	Màu
 	Color:	Màu:
 	Combine	Kết hợp
-	Comment	Bình luận
 	Comments	Bình luận
 	Commits	Commit
 	Company	Công ty
@@ -58,7 +51,6 @@
 	Convert	Chuyển đổi
 	Copy	Sao chép
 	Create	Tạo
-	Create Link	Tạo liên kết
 	Current page	Trang hiện tại
 	Custom	Tùy chỉnh
 	Cut	Cắt
@@ -81,16 +73,13 @@
 	Eraser	Cục tẩy
 	Even pages only	Chỉ các trang chẵn
 	Example: {sample}	Ví dụ: {sample}
-	Expand	Mở rộng
 	Export	Xuất
 	Field	Trường
 	Field properties	Thuộc tính trường
 	Fields	Các trường
 	File	Tệp
-	Fill	Điền
 	First	Đầu tiên
 	First commit	Commit đầu tiên
-	Fit	Vừa khớp
 	Flip Horizontal	Lật ngang
 	Flip Vertical	Lật dọc
 	Font	Phông chữ
@@ -100,20 +89,16 @@
 	Format:	Định dạng:
 	Full Screen	Toàn màn hình
 	General	Chung
-	Grab bag	Tổng hợp
 	Graphic	Đồ họa
 	Headings	Đề mục
 	Height:	Chiều cao:
 	Help	Trợ giúp
 	Hidden text	Văn bản ẩn
-	Highlight	Tô sáng
 	Home	Trang chủ
 	Horizontal	Ngang
-	Indent	Thụt lề
 	Index	Chỉ mục
 	Insert	Chèn
 	Interface language	Ngôn ngữ giao diện
-	Intersection	Giao điểm
 	Italic	Nghiêng
 	Justify	Căn đều
 	Keywords	Từ khóa
@@ -127,7 +112,6 @@
 	Left:	Trái:
 	Light	Sáng
 	Line	Đường thẳng
-	Line delta	Chênh lệch dòng
 	Line spacing	Giãn dòng
 	Lines +/−	Dòng +/−
 	Lines added	Dòng thêm
@@ -136,10 +120,8 @@
 	List	Danh sách
 	Location	Vị trí
 	Margins	Lề
-	Maximum	Tối đa
 	Medium	Vừa
 	Merged PRs	PR đã gộp
-	Minimum	Tối thiểu
 	Model	Mô hình
 	Models	Mô hình
 	Name	Tên
@@ -147,11 +129,8 @@
 	Name:	Tên:
 	Next	Tiếp theo
 	No	Không
-	No contributor data was built into this copy.	Bản sao này không có dữ liệu người đóng góp.
 	No limit	Không giới hạn
-	No model credits were built into this copy.	Bản sao này không có ghi công mô hình.
 	None	Không có
-	Number	Số
 	Odd pages only	Chỉ các trang lẻ
 	Off	Tắt
 	OK	OK
@@ -159,17 +138,14 @@
 	Open	Mở
 	Options	Tùy chọn
 	Options…	Tùy chọn…
-	Outline	Đường bao
 	Oval	Hình bầu dục
 	Page	Trang
-	Page display	Hiển thị trang
 	Pages	Trang
 	Password	Mật khẩu
 	Paste	Dán
 	Portrait	Dọc
 	Position	Vị trí
 	Preview	Xem trước
-	Previous	Trước
 	Print	In
 	Printing	In ấn
 	Protect	Bảo vệ
@@ -185,14 +161,12 @@
 	Replace	Thay thế
 	Reply	Trả lời
 	Report	Báo cáo
-	Reverse the order	Đảo thứ tự
 	Review	Duyệt
 	Right	Phải
 	Rotate	Xoay
 	Rotation	Xoay
 	Rotation:	Xoay:
 	Save	Lưu
-	Scripts	Script
 	Search	Tìm
 	Select All	Chọn tất cả
 	Selected pages	Các trang đã chọn
@@ -201,13 +175,11 @@
 	Size	Kích thước
 	Sort	Sắp xếp
 	Sort by	Sắp xếp theo
-	Special	Đặc biệt
 	Split	Tách
 	Square	Hình vuông
 	Standard	Tiêu chuẩn
 	Star	Ngôi sao
 	Strikethrough	Gạch ngang
-	Strong	Mạnh
 	Style	Kiểu
 	Subject	Chủ đề
 	System	Hệ thống
@@ -215,7 +187,6 @@
 	Tables	Bảng
 	Text	Văn bản
 	The passwords don't match.	Các mật khẩu không khớp.
-	Thick	Dày
 	Thickness	Độ dày
 	This document has no bookmarks.	Tài liệu này không có dấu trang.
 	Title	Tiêu đề
@@ -228,7 +199,6 @@
 	Undo	Hoàn tác
 	Undo {action}	Hoàn tác {action}
 	Up	Lên
-	Use system setting	Dùng cài đặt hệ thống
 	Username	Tên người dùng
 	Version	Phiên bản
 	Vertical	Dọc
@@ -237,5 +207,4 @@
 	Width:	Chiều rộng:
 	Words	Từ
 	Yes	Có
-	Your changes will be lost if you don't save them.	Các thay đổi của bạn sẽ bị mất nếu bạn không lưu.
 	Zoom	Thu phóng

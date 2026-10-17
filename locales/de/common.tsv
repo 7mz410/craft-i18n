@@ -23,23 +23,17 @@
 	All	Alle
 	All pages	Alle Seiten
 	Apply	Anwenden
-	Area	Fläche
 	Arrow	Pfeil
 	Author	Verfasser
 	Auto	Automatisch
 	Auto ({percent}%)	Automatisch ({percent} %)
 	Binary assets added	Hinzugefügte Binärdateien
-	Binary assets removed	Entfernte Binärdateien
 	Bold	Fett
 	Bottom	Unten
 	Bottom:	Unten:
-	Box	Rahmen
 	Browse…	Durchsuchen…
 	Cancel	Abbrechen
-	Center	Zentriert
-	Character spacing	Zeichenabstand
 	Characters	Zeichen
-	Check	Häkchen
 	Circle	Kreis
 	Clear	Leeren
 	Clear All	Alle abwählen
@@ -49,7 +43,6 @@
 	Color	Farbe
 	Color:	Farbe:
 	Combine	Zusammenführen
-	Comment	Kommentar
 	Comments	Kommentare
 	Commits	Commits
 	Company	Unternehmen
@@ -58,7 +51,6 @@
 	Convert	Konvertieren
 	Copy	Kopieren
 	Create	Erstellen
-	Create Link	Link erstellen
 	Current page	Aktuelle Seite
 	Custom	Benutzerdefiniert
 	Cut	Ausschneiden
@@ -81,16 +73,13 @@
 	Eraser	Radierer
 	Even pages only	Nur gerade Seiten
 	Example: {sample}	Beispiel: {sample}
-	Expand	Ausklappen
 	Export	Exportieren
 	Field	Feld
 	Field properties	Feldeigenschaften
 	Fields	Felder
 	File	Datei
-	Fill	Ausfüllen
 	First	Erster
 	First commit	Erster Commit
-	Fit	Einpassen
 	Flip Horizontal	Horizontal spiegeln
 	Flip Vertical	Vertikal spiegeln
 	Font	Schriftart
@@ -100,20 +89,16 @@
 	Format:	Format:
 	Full Screen	Vollbild
 	General	Allgemein
-	Grab bag	Bunt gemischt
 	Graphic	Grafik
 	Headings	Überschriften
 	Height:	Höhe:
 	Help	Hilfe
 	Hidden text	Ausgeblendeter Text
-	Highlight	Hervorheben
 	Home	Start
 	Horizontal	Horizontal
-	Indent	Einrücken
 	Index	Index
 	Insert	Einfügen
 	Interface language	Sprache der Oberfläche
-	Intersection	Schnittpunkt
 	Italic	Kursiv
 	Justify	Blocksatz
 	Keywords	Stichwörter
@@ -127,7 +112,6 @@
 	Left:	Links:
 	Light	Hell
 	Line	Linie
-	Line delta	Zeilendifferenz
 	Line spacing	Zeilenabstand
 	Lines +/−	Zeilen +/−
 	Lines added	Hinzugefügte Zeilen
@@ -136,10 +120,8 @@
 	List	Listenfeld
 	Location	Ort
 	Margins	Ränder
-	Maximum	Maximal
 	Medium	Mittel
 	Merged PRs	Gemergte PRs
-	Minimum	Minimal
 	Model	Modell
 	Models	Modelle
 	Name	Name
@@ -147,11 +129,8 @@
 	Name:	Name:
 	Next	Weiter
 	No	Nein
-	No contributor data was built into this copy.	In diese Version wurden keine Mitwirkendendaten eingebaut.
 	No limit	Keine Grenze
-	No model credits were built into this copy.	In diese Version wurden keine Modellnachweise eingebaut.
 	None	Keine
-	Number	Zahl
 	Odd pages only	Nur ungerade Seiten
 	Off	Aus
 	OK	OK
@@ -159,17 +138,14 @@
 	Open	Öffnen
 	Options	Optionen
 	Options…	Optionen…
-	Outline	Kontur
 	Oval	Ellipse
 	Page	Seite
-	Page display	Seitenanzeige
 	Pages	Seiten
 	Password	Passwort
 	Paste	Einfügen
 	Portrait	Hochformat
 	Position	Position
 	Preview	Vorschau
-	Previous	Zurück
 	Print	Drucken
 	Printing	Drucken
 	Protect	Schützen
@@ -185,14 +161,12 @@
 	Replace	Ersetzen
 	Reply	Antworten
 	Report	Bericht
-	Reverse the order	Reihenfolge umkehren
 	Review	Überprüfen
 	Right	Rechts
 	Rotate	Drehen
 	Rotation	Drehung
 	Rotation:	Drehung:
 	Save	Speichern
-	Scripts	Skripte
 	Search	Suchen
 	Select All	Alles auswählen
 	Selected pages	Ausgewählte Seiten
@@ -201,13 +175,11 @@
 	Size	Größe
 	Sort	Sortieren
 	Sort by	Sortieren nach
-	Special	Spezial
 	Split	Teilen
 	Square	Quadrat
 	Standard	Standard
 	Star	Stern
 	Strikethrough	Durchstreichen
-	Strong	Stark
 	Style	Stil
 	Subject	Thema
 	System	System
@@ -215,7 +187,6 @@
 	Tables	Tabellen
 	Text	Text
 	The passwords don't match.	Die Passwörter stimmen nicht überein.
-	Thick	Dick
 	Thickness	Stärke
 	This document has no bookmarks.	Dieses Dokument hat keine Lesezeichen.
 	Title	Titel
@@ -228,7 +199,6 @@
 	Undo	Rückgängig
 	Undo {action}	{action} rückgängig machen
 	Up	Nach oben
-	Use system setting	Systemeinstellung verwenden
 	Username	Benutzername
 	Version	Version
 	Vertical	Vertikal
@@ -237,5 +207,4 @@
 	Width:	Breite:
 	Words	Wörter
 	Yes	Ja
-	Your changes will be lost if you don't save them.	Deine Änderungen gehen verloren, wenn du sie nicht speicherst.
 	Zoom	Zoom

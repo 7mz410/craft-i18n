@@ -173,6 +173,7 @@
 	Arabic	Arapça
 	Arch Down	Aşağı Kemer
 	Arch Up	Yukarı Kemer
+	Area	Alan
 	Arrange	Yerleştir
 	Arrange\nAll	Tümünü\nYerleştir
 	Arrows	Oklar
@@ -240,6 +241,7 @@
 	Below the item	Öğenin altında
 	Between	Paragraflar arası
 	Bibliography	Kaynakça
+	Binary assets removed	Kaldırılan ikili varlıklar
 	Binomial Coefficient	Binom Katsayısı
 	Binomial Coefficient (angle)	Binom Katsayısı (açılı)
 	Binomial Coefficient with Angle Brackets	Açılı Parantezli Binom Katsayısı
@@ -269,6 +271,7 @@
 	Bottom Margin	Alt Kenar Boşluğu
 	Bottom of Page	Sayfa Altı
 	Bottom Right Cell	Sağ Alt Hücre
+	Box	Kutu
 	Boxed Formula	Kutulu Formül
 	Boxed Formula (example)	Kutulu Formül (örnek)
 	Boxed Formulas	Kutulu Formüller
@@ -317,6 +320,7 @@
 	Cell Margins	Hücre Kenar Boşlukları
 	Cell Size	Hücre Boyutu
 	Cell\nMargins	Hücre Kenar\nBoşlukları
+	Center	Ortala
 	Centered	Ortalanmış
 	Centered as Group	Grup Olarak Ortalanmış
 	Centimeters	Santimetre
@@ -354,6 +358,7 @@
 	Character Scale	Karakter Ölçeği
 	Character Shading	Karakter Gölgelendirmesi
 	Character Spacing	Karakter Aralığı
+	Character spacing	Karakter aralığı
 	Character style	Karakter stili
 	Characters (no spaces)	Karakterler (boşluksuz)
 	Characters (with spaces)	Karakterler (boşluklu)
@@ -362,6 +367,7 @@
 	Chart Design	Grafik Tasarımı
 	Chart Layouts	Grafik Düzenleri
 	Chart Title	Grafik Başlığı
+	Check	İşaret
 	Check Accessibility	Erişilebilirliği Denetle
 	Check Box Content Control	Onay Kutusu İçerik Denetimi
 	Check Compatibility	Uyumluluğu Denetle
@@ -429,6 +435,7 @@
 	Combo Box Content Control	Açılan Kutu İçerik Denetimi
 	Commands	Komutlar
 	Commands:	Komutlar:
+	Comment	Yorum
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	PDF'lerde, baskılarda ve görüntülerde her sayfanın yanında açıklamalar ve izlenen değişiklikler; web sayfalarının, Markdown ve metnin sonunda açıklama listesi.
 	Comments Pane	Yorumlar Bölmesi
 	Common Accent Objects	Sık Kullanılan Vurgulu Nesneler
@@ -506,6 +513,7 @@
 	Create a Style	Stil Oluştur
 	Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document.	Belgenizin etkileşimli ana hattını oluşturun.\n\nKonumunuzu takip etmek veya içeriğinizi hızla taşımak için kullanabilirsiniz.\n\nBaşlamak için Giriş sekmesine gidin ve belgenizin başlıklarına Başlık stillerini uygulayın.
 	Create Graphic	Grafik Oluştur
+	Create Link	Bağlantı Oluştur
 	Create New Style	Yeni Stil Oluştur
 	Create Source	Kaynak Oluştur
 	Croatian	Hırvatça
@@ -763,6 +771,7 @@
 	Exceptions (optional)	Özel durumlar (isteğe bağlı)
 	Exceptions…	Özel durumlar…
 	Existing File or Web Page	Varolan Dosya veya Web Sayfası
+	Expand	Genişlet
 	Expand or Collapse Heading	Başlığı genişlet veya daralt
 	Exponential	Üstel
 	Exponential series	Üstel Seri
@@ -785,6 +794,7 @@
 	Field…	Alan…
 	Figure	Şekil
 	File name:	Dosya adı:
+	Fill	Dolgu
 	Fill color:	Dolgu rengi:
 	Filling in forms	Form doldurma
 	Film	Film
@@ -811,6 +821,7 @@
 	First line:	İlk satır:
 	First Name	Ad
 	First row of data contains column headers	Verinin ilk satırı sütun başlıklarını içerir
+	Fit	Sığdır
 	Fix Position on Page	Sayfadaki konumu sabitle
 	Fixed Column Width	Sabit Sütun Genişliği
 	Floor	Aşağı Yuvarlama
@@ -868,6 +879,7 @@
 	Good afternoon	Tünaydın
 	Good evening	İyi akşamlar
 	Good morning	Günaydın
+	Grab bag	Çeşitli
 	Grave	Pes Vurgu
 	Grayscale	Gri tonlama
 	Greater than	Büyüktür
@@ -914,6 +926,7 @@
 	Hide White Space	Boşluğu gizle
 	Hide\nInk	Mürekkebi\nGizle
 	Hierarchy	Hiyerarşi
+	Highlight	Vurgu
 	Highlight Merge Fields	Birleştirme Alanlarını Vurgula
 	Highlight\nMerge Fields	Birleştirme\nAlanlarını Vurgula
 	Highlighter	Vurgulayıcı
@@ -969,6 +982,7 @@
 	Include page numbers	Sayfa numaralarını ekle
 	Increase Font Size	Yazı Tipi Boyutunu Büyüt
 	Increase Indent	Girintiyi Artır
+	Indent	Girinti
 	Indent from left:	Soldan girinti:
 	Indentation	Girintileme
 	Indented	Girintili
@@ -1050,6 +1064,7 @@
 	Interface theme:	Arayüz teması:
 	Interface\nTheme	Arayüz\nTeması
 	Internet addresses as links	İnternet adreslerini bağlantı yap
+	Intersection	Kesişim
 	Intersection with Limits	Sınırlı Kesişim
 	Intersection with Lower Limit	Alt Sınırlı Kesişim
 	Intersection with Subscript-Superscript Limits	Alt ve Üst İndis Sınırlı Kesişim
@@ -1155,6 +1170,7 @@
 	Line between	Sütunlar arasında çizgi
 	Line Break	Satır Sonu
 	Line breaking	Satır bölme
+	Line delta	Satır farkı
 	Line End	Satırın Sonu
 	Line Number	Satır Numarası
 	Line Numbering Options…	Satır Numaralandırma Seçenekleri…
@@ -1234,6 +1250,7 @@
 	Math AutoCorrect	Matematik Otomatik Düzelt
 	Matrices with Brackets	Parantezli Matrisler
 	Matrix	Matris
+	Maximum	Maksimum
 	Maximum Example	Maksimum Örneği
 	Measured By	Ölçüm Birimi
 	Measurement units:	Ölçü birimleri:
@@ -1245,6 +1262,7 @@
 	Middle	Orta
 	Midline Dots	Orta Çizgide Üç Nokta
 	Millimeters	Milimetre
+	Minimum	Minimum
 	Minus Equal	Eksi Eşittir
 	Mirror indents	Ayna girintiler
 	Mirror margins	Yansıtılmış kenar boşlukları
@@ -1325,6 +1343,7 @@
 	No Border	Kenarlık Yok
 	No changes (read only)	Değişiklik yok (salt okunur)
 	No Color	Renk Yok
+	No contributor data was built into this copy.	Bu kopyaya katkıda bulunan verisi eklenmemiş.
 	No document is open. Create a document or open one first.	Açık belge yok. Önce bir belge oluşturun veya açın.
 	No errors found: every merge field is in the recipient list.	Hata bulunamadı: her birleştirme alanı alıcı listesinde var.
 	No Fill	Dolgu Yok
@@ -1333,6 +1352,7 @@
 	No header row	Başlık satırı yok
 	No icons match your search.	Aramanızla eşleşen simge yok.
 	No Markup	İşaret Yok
+	No model credits were built into this copy.	Bu kopyaya model katkıları eklenmemiş.
 	No Outline	Anahat Yok
 	No Paragraph Space	Paragraf Boşluğu Yok
 	No printers found. Configure a system printer or export a PDF.	Yazıcı bulunamadı. Sistemde bir yazıcı yapılandırın veya PDF olarak dışa aktarın.
@@ -1374,6 +1394,7 @@
 	Now used by {command}	Şu anda kullanan: {command}
 	Nudge	Az Kaydır
 	Num Occurrences	Tekrar Sayısı
+	Number	Numara
 	Number alignment:	Numara hizalaması:
 	Number format	Numara biçimi
 	Number of columns:	Sütun sayısı:
@@ -1441,6 +1462,7 @@
 	Other Large Operators	Diğer Büyük İşleçler
 	Other styles and their TOC level:	Diğer stiller ve İçindekiler düzeyleri:
 	Otherwise insert:	Diğer durumda ekle:
+	Outline	Ana Hat
 	Outline Level	Ana Hat Düzeyi
 	Outline level	Ana hat düzeyi
 	Outline levels	Anahat düzeyleri
@@ -1464,6 +1486,7 @@
 	Page break before	Öncesinde sayfa sonu
 	Page Breaks	Sayfa Sonları
 	Page Color	Sayfa Rengi
+	Page display	Sayfa görünümü
 	Page Down	Bir Sayfa Aşağı
 	Page image (*.png)	Sayfa görüntüsü (*.png)
 	Page Movement	Sayfa Geçişi
@@ -1555,6 +1578,7 @@
 	Press a key combination	Bir tuş birleşimine basın
 	Preview Results	Sonuçları Önizle
 	Preview\nResults	Sonuçları\nÖnizle
+	Previous	Önceki
 	Previous 1 or More	Öncekinin 1 veya Daha Fazlası
 	Previous Change	Önceki Değişiklik
 	Previous Comment	Önceki Yorum
@@ -1710,6 +1734,7 @@
 	Results	Sonuçlar
 	Return address labels	Gönderen adresi etiketleri
 	Return address:	Gönderen adresi:
+	Reverse the order	Sırayı ters çevir
 	Reviewing	İnceleme
 	Reviewing Pane	İnceleme Bölmesi
 	Reviewing — edits become suggestions	İnceleme — düzenlemeler öneriye dönüşür
@@ -1767,6 +1792,7 @@
 	Scale Drawing	Çizimi Ölçeklendir
 	Scatter	Dağılım
 	Script	Üst/Alt Simge
+	Scripts	İndisler
 	Scroll ribbon left	Şeridi sola kaydır
 	Scroll ribbon right	Şeridi sağa kaydır
 	Search Commands	Komut Ara
@@ -1959,6 +1985,7 @@
 	Spanish (Mexico)	İspanyolca (Meksika)
 	Spanish (Spain)	İspanyolca (İspanya)
 	Sparse Matrices	Seyrek Matrisler
+	Special	Özel
 	Special Characters	Özel Karakterler
 	Specify height:	Yüksekliği belirt:
 	Speech	Konuşma
@@ -1997,6 +2024,7 @@
 	Straight Arrow Connector	Düz Oklu Bağlayıcı
 	Straight Connector	Düz Bağlayıcı
 	Stroke {n} of {total}	Vuruş {n} / {total}
+	Strong	Kalın Vurgu
 	Structure Actions	Yapı İşlemleri
 	Structures	Yapılar
 	Studio	Stüdyo
@@ -2129,6 +2157,7 @@
 	These marks show even when Show/Hide ¶ is off.	Bu işaretler, Göster/Gizle ¶ kapalıyken de görünür.
 	These merge fields aren't in the recipient list:	Bu birleştirme alanları alıcı listesinde yok:
 	These settings will be used for new documents.	Bu ayarlar yeni belgeler için kullanılacak.
+	Thick	Kalın
 	This document	Bu belge
 	This field has no options.	Bu alanın seçeneği yok.
 	This folder can't be read: {error}	Bu klasör okunamıyor: {error}
@@ -2247,6 +2276,7 @@ preview	Title	Örnek
 	URGENT	ACİL
 	URL	URL
 	Use an Existing List…	Var Olan Listeyi Kullan…
+	Use system setting	Sistem ayarını kullan
 	Use the browser's full screen (F11)	Tarayıcının tam ekran modunu kullanın (F11)
 	Use the Insert key to switch overtype on and off	Üzerine yazmayı açıp kapatmak için Insert tuşunu kullan
 	Use wildcards	Joker karakter kullan
@@ -2322,6 +2352,7 @@ preview	Title	Örnek
 	x bar	x Çizgisi
 	Year	Yıl
 	Yields	Sonuç
+	Your changes will be lost if you don't save them.	Kaydetmezseniz değişiklikleriniz kaybolur.
 	Your system doesn't report an animation setting, so animation effects stay on.	Sisteminiz bir animasyon ayarı bildirmiyor, bu nedenle animasyon efektleri açık kalır.
 	Your system has animation effects turned off.	Sisteminizde animasyon efektleri kapalı.
 	Your system has animation effects turned on.	Sisteminizde animasyon efektleri açık.

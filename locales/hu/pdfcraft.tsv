@@ -224,6 +224,7 @@
 	April	április
 	Arbitrary Mask	Tetszőleges maszk
 	Archive documents	Dokumentumok archiválása
+	Area	Terület
 	ArtCraft website	Az ArtCraft webhelye
 	Ask about this document	Kérdezz erről a dokumentumról
 	Asks GitHub for the latest release. Nothing is downloaded or installed automatically.	A GitHubtól kéri le a legújabb kiadást. Semmi sem töltődik le vagy települ automatikusan.
@@ -278,6 +279,7 @@
 	Both	Mindkettő
 	Both sides	Mindkét oldal
 	Bottom:	Alsó:
+	Box	Keret
 	Bring your own model (off by default)	Saját modell használata (alapból ki van kapcsolva)
 	Browser's print dialog	A böngésző nyomtatási párbeszédablaka
 	Butt	Tompa
@@ -330,6 +332,7 @@
 	Character spacing	Karaktertávolság
 	characters	karakter
 	Characters without spaces	Karakterek szóközök nélkül
+	Check	Pipa
 	Check Again	Újraellenőrzés
 	Check again	Újraellenőrzés
 	Check box is checked by default	A jelölőnégyzet alapból be van jelölve
@@ -797,6 +800,7 @@ scroll speed	Fast	Gyors
 	Files are combined in this order. Leave Pages empty to take every page.	A fájlok ebben a sorrendben egyesülnek. Hagyd üresen az Oldalak mezőt, ha minden oldalt kéred.
 	Files for {name}	Fájlok ehhez: {name}
 	Files you open in PdfCraft appear here. Drop a PDF anywhere to open it.	A PdfCraftban megnyitott fájlok itt jelennek meg. Húzz ide egy PDF-et a megnyitáshoz.
+	Fill	Kitöltés
 	Fill & Sign	Kitöltés és aláírás
 	Fill & Sign dates	Kitöltés és aláírás dátumai
 	Fill & Sign signature	A Kitöltés és aláírás aláírása
@@ -893,6 +897,7 @@ scroll speed	Fast	Gyors
 	Go to page…	Ugrás oldalra…
 	Go to the page	Ugrás az oldalra
 	Go to this result	Ugrás ehhez a találathoz
+	Grab bag	Vegyes
 	Gray	Szürke
 	Grayscale Images	Szürkeárnyalatos képek
 	Green	Zöld
@@ -922,6 +927,7 @@ scroll speed	Fast	Gyors
 	High	Magas
 	High Resolution	Nagy felbontás
 	High resolution	Nagy felbontás
+	Highlight	Kiemelés
 	Highlight fields	Mezők kiemelése
 	Highlight Style:	Kiemelés stílusa:
 	Highlight text	Szöveg kiemelése
@@ -950,6 +956,7 @@ key	Home	Home
 	In this file	Ebben a fájlban
 	Includes unsaved changes	Nem mentett módosításokat tartalmaz
 	Incorrect password. Try again.	Hibás jelszó. Próbáld újra.
+	Indent	Behúzás
 	Index	Index
 	Initial View	Kezdeti nézet
 	Initials	Monogram
@@ -1229,6 +1236,7 @@ scroll speed	Normal	Normál
 	Nothing to undo	Nincs mit visszavonni
 	nothing to undo	nincs mit visszavonni
 	November	november
+	Number	Szám
 	Number every page in the footer.	Minden oldal számozása a láblécben.
 	Number of pages	Oldalak száma
 	Number pages	Oldalak számozása
@@ -1319,6 +1327,7 @@ animation effects	On	Be
 	Owner password (no restrictions apply)	Tulajdonosi jelszó (nincs korlátozás)
 	Page background	Oldal háttere
 	Page Content	Oldaltartalom
+	Page display	Oldalmegjelenítés
 	Page display: {layout}	Oldalmegjelenítés: {layout}
 	Page does not require timed responses	Az oldal nem igényel időzített választ
 	Page grid	Oldalrács
@@ -1961,6 +1970,7 @@ action wizard	Start	Indítás
 	there are no redaction marks to apply	nincs alkalmazható kitakarásjelölés
 	These files can't be read, so they won't be in the combined PDF:	Ezek a fájlok nem olvashatók, ezért nem kerülnek bele az egyesített PDF-be:
 	These objects could not be moved. Select them again and try a smaller move.	Ezeket az objektumokat nem sikerült áthelyezni. Jelölje ki őket újra, és próbáljon kisebb elmozdítást.
+	Thick	Vastag
 	Thin	Vékony
 	This area has too many overlapping paths; intersection snapping is limited.	Ezen a területen túl sok az átfedő útvonal; a metszéspontokhoz illesztés korlátozott.
 	This certificate is in your list of trusted certificates.	Ez a tanúsítvány a megbízható tanúsítványaid között van.

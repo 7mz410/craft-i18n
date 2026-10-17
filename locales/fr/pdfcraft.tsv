@@ -224,6 +224,7 @@
 	April	avril
 	Arbitrary Mask	Masque arbitraire
 	Archive documents	Archiver des documents
+	Area	Aire
 	ArtCraft website	Site web d'ArtCraft
 	Ask about this document	Interroger ce document
 	Asks GitHub for the latest release. Nothing is downloaded or installed automatically.	Demande à GitHub la dernière version. Rien n'est téléchargé ni installé automatiquement.
@@ -258,6 +259,7 @@
 	Before the number	Avant le nombre
 	Beveled	Biseauté
 	Bicubic downsampling to	Sous-échantillonnage bicubique à
+	Binary assets removed	Fichiers binaires retirés
 	Binding	Reliure
 	Binding:	Reliure :
 	Black	Noir
@@ -275,6 +277,7 @@
 	Borders and Colors	Bordures et couleurs
 	Both	Les deux
 	Both sides	Les deux faces
+	Box	Zone
 	Bring your own model (off by default)	Apportez votre propre modèle (désactivé par défaut)
 	Browser's print dialog	Boîte de dialogue d'impression du navigateur
 	Butt	Extrémité plate
@@ -292,6 +295,7 @@
 	Cancelling…	Annulation…
 	Case-sensitive	Respecter la casse
 	Category:	Catégorie :
+	Center	Centre
 	Center Footer Text	Texte du pied de page central
 	Center Header Text	Texte de l'en-tête central
 	Center horizontally	Centrer horizontalement
@@ -323,8 +327,10 @@
 	Character encoding	Codage des caractères
 	Character limit 0 means no limit. A comb of characters needs a limit.	Une limite de caractères de 0 signifie aucune limite. Les cases de caractères nécessitent une limite.
 	Character limit:	Limite de caractères :
+	Character spacing	Approche
 	characters	caractères
 	Characters without spaces	Caractères sans espaces
+	Check	Coche
 	Check Again	Vérifier à nouveau
 	Check again	Vérifier à nouveau
 	Check box is checked by default	La case est cochée par défaut
@@ -485,6 +491,7 @@
 	Create Custom Stamp	Créer un tampon personnalisé
 	Create custom stamp…	Créer un tampon personnalisé…
 	Create from	Créer à partir de
+	Create Link	Créer un lien
 	Create link	Créer un lien
 	Create links from URLs	Créer des liens à partir des URL
 	Create Link…	Créer un lien…
@@ -714,6 +721,7 @@ key	Esc	Échap
 	Exclude tagged tables	Exclure les tableaux balisés
 	Exclusions use PDF tags. Untagged tables and code remain included. Image exclusion also removes invisible text.	Les exclusions utilisent les balises PDF. Les tableaux et le code non balisés restent inclus. L’exclusion des images retire aussi le texte invisible.
 	Execute a menu item	Exécuter un élément de menu
+	Expand	Développer
 	Expand all	Tout développer
 	Expand all bookmarks	Développer tous les signets
 	Expand all pages	Développer toutes les pages
@@ -787,6 +795,7 @@ scroll speed	Fast	Rapide
 	Files are combined in this order. Leave Pages empty to take every page.	Les fichiers sont combinés dans cet ordre. Laissez Pages vide pour prendre toutes les pages.
 	Files for {name}	Fichiers pour {name}
 	Files you open in PdfCraft appear here. Drop a PDF anywhere to open it.	Les fichiers que vous ouvrez dans PdfCraft apparaissent ici. Déposez un PDF n'importe où pour l'ouvrir.
+	Fill	Remplir
 	Fill & Sign	Remplir et signer
 	Fill & Sign dates	Dates de Remplir et signer
 	Fill & Sign signature	Signature de Remplir et signer
@@ -822,6 +831,7 @@ scroll speed	Fast	Rapide
 	Find…	Rechercher…
 	Finish or discard the text being edited before selecting several objects.	Terminez ou abandonnez la modification du texte avant de sélectionner plusieurs objets.
 	First / last page	Première / dernière page
+	Fit	Ajuster
 	Fit Height	Ajuster à la hauteur
 	Fit one full page	Ajuster une page entière
 	Fit Page	Ajuster à la page
@@ -882,6 +892,7 @@ scroll speed	Fast	Rapide
 	Go to page…	Aller à la page…
 	Go to the page	Aller à la page
 	Go to this result	Aller à ce résultat
+	Grab bag	En vrac
 	Gray	Gris
 	Grayscale Images	Images en niveaux de gris
 	Green	Vert
@@ -911,6 +922,7 @@ scroll speed	Fast	Rapide
 	High	Élevé
 	High Resolution	Haute résolution
 	High resolution	Haute résolution
+	Highlight	Surligner
 	Highlight fields	Surligner les champs
 	Highlight Style:	Style de surbrillance :
 	Highlight text	Surligner le texte
@@ -939,6 +951,7 @@ key	Home	Début
 	In this file	Dans ce fichier
 	Includes unsaved changes	Inclut des modifications non enregistrées
 	Incorrect password. Try again.	Mot de passe incorrect. Réessayez.
+	Indent	Augmenter le retrait
 	Initial View	Affichage initial
 	Initials	Initiales
 	initials	initiales
@@ -964,6 +977,7 @@ key	Home	Début
 	Installed fonts…	Polices installées…
 	Intended usage	Usage prévu
 	Interface size	Taille de l'interface
+	Intersection	Intersection
 	Intersections	Intersections
 	Invert	Inverser
 	Invisible Rectangle	Rectangle invisible
@@ -1020,6 +1034,7 @@ key	Home	Début
 	Light gray	Gris clair
 	Light theme	Thème clair
 	Limit of	Limite de
+	Line delta	Écart de lignes
 	Line ending	Extrémité de ligne
 	Line Style:	Style de ligne :
 	Line thickness	Épaisseur de ligne
@@ -1074,6 +1089,7 @@ key	Home	Début
 	Match field sizes	Uniformiser la taille des champs
 	Match page at 100%	Adapter le papier à la page à 100 %
 	Maximize	Agrandir
+	Maximum	Maximum
 	maximum	le maximum
 	May	mai
 	Measure	Mesurer
@@ -1095,6 +1111,7 @@ key	Home	Début
 	Midpoint	Milieu
 	Midpoints	Milieux
 	Minimize	Réduire
+	Minimum	Minimum
 	minimum	le minimum
 	Mixed	Valeurs différentes
 	Mobile	Mobile
@@ -1162,6 +1179,7 @@ key	Home	Début
 	No colour	Aucune couleur
 	No comments match.	Aucun commentaire correspondant.
 	No comments yet.	Aucun commentaire pour l'instant.
+	No contributor data was built into this copy.	Cette copie ne contient aucune donnée sur les contributeurs.
 	No differences in the text.	Aucune différence dans le texte.
 	No digital IDs yet.	Aucun ID numérique pour l'instant.
 	No documents are open	Aucun document n'est ouvert
@@ -1175,6 +1193,7 @@ key	Home	Début
 	No matches	Aucune correspondance
 	No matches.	Aucune correspondance.
 	No matching tools	Aucun outil correspondant
+	No model credits were built into this copy.	Cette copie ne contient aucun crédit de modèle.
 	No openly licensed document fonts found. Load a font file.	Aucune police sous licence libre trouvée. Chargez un fichier de police.
 	no output folder was chosen	aucun dossier de sortie choisi
 	No pages match those choices	Aucune page ne correspond à ces choix
@@ -1210,6 +1229,7 @@ scroll speed	Normal	Normale
 	Nothing to undo	Rien à annuler
 	nothing to undo	rien à annuler
 	November	novembre
+	Number	Nombre
 	Number every page in the footer.	Numérote chaque page dans le pied de page.
 	Number of pages	Nombre de pages
 	Number pages	Numéroter les pages
@@ -1289,6 +1309,7 @@ animation effects	On	Activés
 	Other elements alternate text	Texte de remplacement d'autres éléments
 	Other elements that require alternate text	Autres éléments qui exigent un texte de remplacement
 	Outdent	Diminuer le retrait
+	Outline	Contour
 	Outline colour:	Couleur du contour :
 	Output	Sortie
 	Output appears here.	La sortie apparaît ici.
@@ -1298,6 +1319,7 @@ animation effects	On	Activés
 	Owner password (no restrictions apply)	Mot de passe propriétaire (aucune restriction)
 	Page background	Arrière-plan de la page
 	Page Content	Contenu de la page
+	Page display	Affichage des pages
 	Page display: {layout}	Affichage des pages : {layout}
 	Page does not require timed responses	La page n'exige pas de réponse dans un délai limité
 	Page grid	Grille de pages
@@ -1564,6 +1586,7 @@ animation effects	On	Activés
 	Reverse closed arrow	Flèche fermée inversée
 	Reverse open arrow	Flèche ouverte inversée
 	Reverse pages	Inverser les pages
+	Reverse the order	Inverser l'ordre
 	Revert	Revenir à la version enregistrée
 	Revert changes	Annuler les modifications
 	Revert to the previously saved version of “{name}”? Changes since then can't be undone afterwards.	Revenir à la version précédemment enregistrée de «{name}» ? Les modifications faites depuis ne pourront plus être annulées.
@@ -1643,6 +1666,7 @@ animation effects	On	Activés
 	Script Name:	Nom du script :
 	Script:	Script :
 	Scripted content must be usable with a keyboard and assistive technology. Check the document's scripts.	Le contenu scripté doit être utilisable au clavier et avec les technologies d'assistance. Vérifiez les scripts du document.
+	Scripts	Scripts
 	Scripts run in a sandbox without file or network access. A script that asks to open a web page needs your permission first. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	Les scripts s'exécutent dans un bac à sable, sans accès aux fichiers ni au réseau. Un script qui demande d'ouvrir une page web a d'abord besoin de votre autorisation. Si JavaScript est désactivé, les fonctions standard de format, de validation et de calcul d'Acrobat continuent de fonctionner.
 	Scripts run in a sandbox without file or network access. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	Les scripts s'exécutent dans un bac à sable, sans accès aux fichiers ni au réseau. Si JavaScript est désactivé, les fonctions standard de format, de validation et de calcul d'Acrobat continuent de fonctionner.
 	Scroll long text	Faire défiler le texte long
@@ -1787,6 +1811,7 @@ scroll speed	Slow	Lente
 	Source	Source
 key	Space	Espace
 	Space Audit	Audit de l'espace
+	Special	Spécial
 	Split document	Fractionner le document
 	Split document…	Fractionner le document…
 	Split into files…	Fractionner en fichiers…
@@ -1808,6 +1833,7 @@ action wizard	Start	Démarrer
 	Sticky note	Note
 	Strength: {s}	Robustesse : {s}
 	Strikethrough text	Barrer le texte
+	Strong	Fort
 	Structure Info	Informations de structure
 certificate	Subject	Titulaire
 	Submit a form	Envoyer un formulaire
@@ -1929,6 +1955,7 @@ certificate	Subject	Titulaire
 	there are no redaction marks to apply	il n'y a aucune marque de biffure à appliquer
 	These files can't be read, so they won't be in the combined PDF:	Ces fichiers sont illisibles ; ils ne figureront pas dans le PDF combiné :
 	These objects could not be moved. Select them again and try a smaller move.	Ces objets n’ont pas pu être déplacés. Sélectionnez-les à nouveau et essayez un déplacement plus petit.
+	Thick	Épais
 	Thin	Fin
 	This area has too many overlapping paths; intersection snapping is limited.	Cette zone a trop de tracés qui se chevauchent ; l'accrochage aux intersections est limité.
 	This certificate is in your list of trusted certificates.	Ce certificat figure dans votre liste de certificats approuvés.
@@ -2049,6 +2076,7 @@ signature pad	Type	Saisir
 	Use now	Utiliser
 	Use overlay text	Utiliser un texte en superposition
 	Use print production	Utiliser la prépresse
+	Use system setting	Utiliser le réglage du système
 	Use system title bar	Utiliser la barre de titre du système
 	Use {what}	Utiliser {what}
 	Used when a PDF doesn't ask for a layout or zoom. Continuous scrolling never snaps between pages.	Utilisé lorsqu'un PDF ne demande ni présentation ni zoom. Le défilement continu ne saute jamais d'une page à l'autre.
@@ -2113,6 +2141,7 @@ signature pad	Type	Saisir
 	You can pin up to {n} folders. Unpin one first.	Vous pouvez épingler jusqu'à {n} dossiers. Désépinglez-en un d'abord.
 	You have version {c}. All releases are listed at {page}.	Vous avez la version {c}. Toutes les versions sont listées sur {page}.
 	You have version {c}. Download the new version from its release page.	Vous avez la version {c}. Téléchargez la nouvelle version depuis sa page de publication.
+	Your changes will be lost if you don't save them.	Vos modifications seront perdues si vous ne les enregistrez pas.
 	Your name	Votre nom
 	yyyy or yy year · m or mm month · mmm or mmmm month name · d or dd day · ddd or dddd weekday. H, h, M, s and t are time letters and can't be used on their own: put {escape} before a letter to show it as is.	yyyy ou yy année · m ou mm mois · mmm ou mmmm nom du mois · d ou dd jour · ddd ou dddd jour de la semaine. H, h, M, s et t sont des lettres d'heure et ne peuvent pas être utilisées seules : placez {escape} devant une lettre pour l'afficher telle quelle.
 	ZIP	ZIP

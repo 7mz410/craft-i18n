@@ -62,4 +62,4 @@ As surveyed on 2026-10-16. Locale counts exclude English.
 | Date | Change | Summary |
 |---|---|---|
 | 2026-10-16 | major | First roadmap: milestones 1–3d, per-app survey, open decisions |
-| 2026-10-17 | minor | Milestones 1 and 2 done; WordCraft and PdfCraft catalogs migrated (227 shared strings, 28 locales) |
+| 2026-10-17 | minor | Milestones 1 and 2 done; WordCraft and PdfCraft catalogs migrated (196 shared strings, 28 locales) |

@@ -173,6 +173,7 @@
 	Arabic	Arabski
 	Arch Down	Łuk w dół
 	Arch Up	Łuk w górę
+	Area	Warstwowy
 	Arrange	Rozmieszczanie
 	Arrange\nAll	Rozmieść\nwszystkie
 	Arrows	Strzałki
@@ -240,6 +241,7 @@
 	Below the item	Pod elementem
 	Between	Między akapitami
 	Bibliography	Bibliografia
+	Binary assets removed	Usunięte zasoby binarne
 	Binomial Coefficient	Współczynnik dwumianowy
 	Binomial Coefficient (angle)	Współczynnik dwumianowy (nawiasy kątowe)
 	Binomial Coefficient with Angle Brackets	Współczynnik dwumianowy w nawiasach kątowych
@@ -269,6 +271,7 @@
 	Bottom Margin	Margines dolny
 	Bottom of Page	Dół strony
 	Bottom Right Cell	Prawa dolna komórka
+	Box	Ramka
 	Boxed Formula	Wzór w ramce
 	Boxed Formula (example)	Wzór w ramce (przykład)
 	Boxed Formulas	Wzory w ramce
@@ -318,6 +321,7 @@
 	Cell Margins	Marginesy komórki
 	Cell Size	Rozmiar komórki
 	Cell\nMargins	Marginesy\nkomórki
+	Center	Wyśrodkuj
 	Centered	Wyśrodkowany
 	Centered as Group	Wyśrodkowane jako grupa
 	Centimeters	Centymetry
@@ -359,6 +363,7 @@
 	Character Scale	Skala znaku
 	Character Shading	Cieniowanie znaku
 	Character Spacing	Odstępy między znakami
+	Character spacing	Odstępy między znakami
 	Character style	Styl znakowy
 	Characters (no spaces)	Znaki (bez spacji)
 	Characters (with spaces)	Znaki (ze spacjami)
@@ -367,6 +372,7 @@
 	Chart Design	Projekt wykresu
 	Chart Layouts	Układy wykresu
 	Chart Title	Tytuł wykresu
+	Check	Daszek odwrócony
 	Check Accessibility	Sprawdź ułatwienia dostępu
 	Check Box Content Control	Formant zawartości pola wyboru
 	Check Compatibility	Sprawdź zgodność
@@ -434,6 +440,7 @@
 	Combo Box Content Control	Formant zawartości pola kombi
 	Commands	Polecenia
 	Commands:	Polecenia:
+	Comment	Komentarz
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Komentarze obok każdej strony i śledzone zmiany w plikach PDF, wydrukach i obrazach; lista komentarzy na końcu stron internetowych, plików Markdown i tekstu.
 	Comments Pane	Okienko komentarzy
 	Common Accent Objects	Typowe obiekty z akcentem
@@ -511,6 +518,7 @@
 	Create a Style	Utwórz styl
 	Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document.	Utwórz interaktywny konspekt dokumentu.\n\nTo dobry sposób, by wiedzieć, w którym miejscu jesteś, i szybko przenosić fragmenty tekstu.\n\nAby zacząć, przejdź na kartę Start i zastosuj style nagłówków do nagłówków w dokumencie.
 	Create Graphic	Utwórz grafikę
+	Create Link	Utwórz łącze
 	Create New Style	Utwórz nowy styl
 	Create Source	Utwórz źródło
 	Croatian	Chorwacki
@@ -768,6 +776,7 @@
 	Exceptions (optional)	Wyjątki (opcjonalnie)
 	Exceptions…	Wyjątki…
 	Existing File or Web Page	Istniejący plik lub strona sieci Web
+	Expand	Rozwiń
 	Expand or Collapse Heading	Rozwiń lub zwiń nagłówek
 	Exponential	Funkcja wykładnicza
 	Exponential series	Szereg wykładniczy
@@ -791,6 +800,7 @@
 	Field…	Pole…
 	Figure	Rysunek
 	File name:	Nazwa pliku:
+	Fill	Wypełnienie
 	Fill color:	Kolor wypełnienia:
 	Filling in forms	Wypełnianie formularzy
 	Film	Film
@@ -817,6 +827,7 @@
 	First line:	Pierwszy wiersz:
 	First Name	Imię
 	First row of data contains column headers	Pierwszy wiersz danych zawiera nagłówki kolumn
+	Fit	Dopasuj
 	Fix Position on Page	Ustal położenie na stronie
 	Fixed Column Width	Stała szerokość kolumn
 	Floor	Podłoga
@@ -874,6 +885,7 @@
 	Good afternoon	Dzień dobry
 	Good evening	Dobry wieczór
 	Good morning	Dzień dobry
+	Grab bag	Mieszanka
 	Grave	Akcent ciężki
 	Grayscale	Odcienie szarości
 	Greater than	Większe niż
@@ -920,6 +932,7 @@
 	Hide White Space	Ukryj odstęp
 	Hide\nInk	Ukryj\npismo
 	Hierarchy	Hierarchia
+	Highlight	Wyróżnienie
 	Highlight Merge Fields	Wyróżnij pola scalania
 	Highlight\nMerge Fields	Wyróżnij\npola scalania
 	Highlighter	Zakreślacz
@@ -975,6 +988,7 @@
 	Include page numbers	Dołącz numery stron
 	Increase Font Size	Zwiększ rozmiar czcionki
 	Increase Indent	Zwiększ wcięcie
+	Indent	Wcięcie
 	Indent from left:	Wcięcie od lewej:
 	Indentation	Wcięcia
 	Indented	Z wcięciem
@@ -1056,6 +1070,7 @@
 	Interface theme:	Motyw interfejsu:
 	Interface\nTheme	Motyw\ninterfejsu
 	Internet addresses as links	Adresy internetowe jako łącza
+	Intersection	Iloczyn zbiorów
 	Intersection with Limits	Iloczyn zbiorów z granicami
 	Intersection with Lower Limit	Iloczyn zbiorów z dolną granicą
 	Intersection with Subscript-Superscript Limits	Iloczyn zbiorów z granicami w indeksach
@@ -1161,6 +1176,7 @@
 	Line between	Linia między kolumnami
 	Line Break	Podział wiersza
 	Line breaking	Łamanie wierszy
+	Line delta	Bilans wierszy
 	Line End	Koniec wiersza
 	Line Number	Numer wiersza
 	Line Numbering Options…	Opcje numerowania wierszy…
@@ -1240,6 +1256,7 @@
 	Math AutoCorrect	Autokorekta matematyczna
 	Matrices with Brackets	Macierze w nawiasach
 	Matrix	Macierz
+	Maximum	Maksimum
 	Maximum Example	Przykład maksimum
 	Measured By	Mierzone przez
 	Measurement units:	Jednostki miary:
@@ -1251,6 +1268,7 @@
 	Middle	Środek
 	Midline Dots	Kropki środkowe
 	Millimeters	Milimetry
+	Minimum	Minimum
 	Minus Equal	Minus i znak równości
 	Mirror indents	Wcięcia lustrzane
 	Mirror margins	Marginesy lustrzane
@@ -1331,6 +1349,7 @@
 	No Border	Bez krawędzi
 	No changes (read only)	Bez zmian (tylko do odczytu)
 	No Color	Bez koloru
+	No contributor data was built into this copy.	Ta kopia programu nie zawiera danych o współtwórcach.
 	No document is open. Create a document or open one first.	Żaden dokument nie jest otwarty. Najpierw utwórz lub otwórz dokument.
 	No errors found: every merge field is in the recipient list.	Nie znaleziono błędów: każde pole scalania jest na liście adresatów.
 	No Fill	Brak wypełnienia
@@ -1339,6 +1358,7 @@
 	No header row	Bez wiersza nagłówka
 	No icons match your search.	Żadna ikona nie pasuje do wyszukiwania.
 	No Markup	Bez znaczników
+	No model credits were built into this copy.	Ta kopia programu nie zawiera informacji o modelach.
 	No Outline	Brak konturu
 	No Paragraph Space	Bez odstępów między akapitami
 	No printers found. Configure a system printer or export a PDF.	Nie znaleziono drukarek. Skonfiguruj drukarkę systemową lub wyeksportuj PDF.
@@ -1380,6 +1400,7 @@
 	Now used by {command}	Obecnie używany przez: {command}
 	Nudge	Przesuń nieznacznie
 	Num Occurrences	Liczba wystąpień
+	Number	Numer
 	Number alignment:	Wyrównanie numeru:
 	Number format	Format numeru
 	Number of columns:	Liczba kolumn:
@@ -1447,6 +1468,7 @@
 	Other Large Operators	Inne duże operatory
 	Other styles and their TOC level:	Inne style i ich poziom w spisie treści:
 	Otherwise insert:	W przeciwnym razie wstaw:
+	Outline	Konspekt
 	Outline Level	Poziom konspektu
 	Outline level	Poziom konspektu
 	Outline levels	Poziomy konspektu
@@ -1470,6 +1492,7 @@
 	Page break before	Podział strony przed
 	Page Breaks	Podziały stron
 	Page Color	Kolor strony
+	Page display	Wyświetlanie strony
 	Page Down	Page Down
 	Page image (*.png)	Obraz strony (*.png)
 	Page Movement	Przewijanie stron
@@ -1562,6 +1585,7 @@
 	Press a key combination	Naciśnij kombinację klawiszy
 	Preview Results	Podgląd wyników
 	Preview\nResults	Podgląd\nwyników
+	Previous	Poprzedni
 	Previous 1 or More	Poprzedni 1 lub więcej razy
 	Previous Change	Poprzednia zmiana
 	Previous Comment	Poprzedni komentarz
@@ -1718,6 +1742,7 @@
 	Results	Wyniki
 	Return address labels	Etykiety adresu zwrotnego
 	Return address:	Adres zwrotny:
+	Reverse the order	Odwróć kolejność
 	Reviewing	Recenzowanie
 	Reviewing Pane	Okienko recenzji
 	Reviewing — edits become suggestions	Recenzowanie — zmiany stają się propozycjami
@@ -1775,6 +1800,7 @@
 	Scale Drawing	Skaluj rysunek
 	Scatter	Punktowy
 	Script	Indeks
+	Scripts	Indeksy
 	Scroll ribbon left	Przewiń wstążkę w lewo
 	Scroll ribbon right	Przewiń wstążkę w prawo
 	Search Commands	Wyszukaj polecenia
@@ -1967,6 +1993,7 @@
 	Spanish (Mexico)	Hiszpański (Meksyk)
 	Spanish (Spain)	Hiszpański (Hiszpania)
 	Sparse Matrices	Macierze rzadkie
+	Special	Specjalne
 	Special Characters	Znaki specjalne
 	Specify height:	Określ wysokość:
 	Speech	Mowa
@@ -2005,6 +2032,7 @@
 	Straight Arrow Connector	Łącznik prosty ze strzałką
 	Straight Connector	Łącznik prosty
 	Stroke {n} of {total}	Pociągnięcie {n} z {total}
+	Strong	Pogrubienie
 	Structure Actions	Działania na strukturze
 	Structures	Struktury
 	Studio	Studio
@@ -2138,6 +2166,7 @@
 	These marks show even when Show/Hide ¶ is off.	Te znaki są widoczne nawet przy wyłączonym poleceniu Pokaż wszystko ¶.
 	These merge fields aren't in the recipient list:	Tych pól scalania nie ma na liście adresatów:
 	These settings will be used for new documents.	Te ustawienia będą używane w nowych dokumentach.
+	Thick	Grube
 	This document	Ten dokument
 	This field has no options.	To pole nie ma opcji.
 	This folder can't be read: {error}	Nie można odczytać tego folderu: {error}
@@ -2258,6 +2287,7 @@ preview	Title	Tytuł
 	Use "a" before a consonant sound	Przed głoską spółgłoskową użyj „a”
 	Use "an" before a vowel sound	Przed głoską samogłoskową użyj „an”
 	Use an Existing List…	Użyj istniejącej listy…
+	Use system setting	Użyj ustawienia systemowego
 	Use the browser's full screen (F11)	Użyj trybu pełnoekranowego przeglądarki (F11)
 	Use the Insert key to switch overtype on and off	Używaj klawisza Insert do przełączania trybu zastępowania
 	Use wildcards	Użyj symboli wieloznacznych
@@ -2334,6 +2364,7 @@ preview	Title	Tytuł
 	x bar	x z kreską
 	Year	Rok
 	Yields	Daje w wyniku
+	Your changes will be lost if you don't save them.	Jeśli nie zapiszesz zmian, zostaną utracone.
 	Your system doesn't report an animation setting, so animation effects stay on.	System nie podaje ustawienia animacji, więc efekty animacji pozostają włączone.
 	Your system has animation effects turned off.	Efekty animacji są wyłączone w systemie.
 	Your system has animation effects turned on.	Efekty animacji są włączone w systemie.

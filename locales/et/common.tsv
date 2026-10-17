@@ -23,21 +23,16 @@
 	All	Kõik
 	All pages	Kõik leheküljed
 	Apply	Rakenda
-	Area	Pind
 	Arrow	Nool
 	Author	Autor
 	Auto	Automaatne
 	Auto ({percent}%)	Automaatne ({percent}%)
 	Binary assets added	Lisatud binaarvarad
-	Binary assets removed	Eemaldatud binaarvarad
 	Bold	Paks
 	Bottom	All
 	Bottom:	All:
-	Box	Kast
 	Browse…	Sirvi…
 	Cancel	Loobu
-	Center	Keskele
-	Character spacing	Märkide vahe
 	Characters	Märgid
 	Circle	Ring
 	Clear	Tühjenda
@@ -48,7 +43,6 @@
 	Color	Värv
 	Color:	Värv:
 	Combine	Ühenda
-	Comment	Kommentaar
 	Comments	Kommentaarid
 	Commits	Commitid
 	Company	Ettevõte
@@ -57,7 +51,6 @@
 	Convert	Teisenda
 	Copy	Kopeeri
 	Create	Loo
-	Create Link	Loo link
 	Current page	Praegune lehekülg
 	Custom	Kohandatud
 	Cut	Lõika
@@ -79,16 +72,13 @@
 	Eraser	Kustutuskumm
 	Even pages only	Ainult paarisleheküljed
 	Example: {sample}	Näide: {sample}
-	Expand	Laienda
 	Export	Ekspordi
 	Field	Väli
 	Field properties	Välja atribuudid
 	Fields	Väljad
 	File	Fail
-	Fill	Täide
 	First	Esimene
 	First commit	Esimene commit
-	Fit	Sobita
 	Flip Horizontal	Peegelda horisontaalselt
 	Flip Vertical	Peegelda vertikaalselt
 	Font	Font
@@ -98,16 +88,13 @@
 	Format:	Vorming:
 	Full Screen	Täisekraan
 	General	Üldine
-	Grab bag	Koondvaade
 	Graphic	Pilt
 	Headings	Pealkirjad
 	Height:	Kõrgus:
 	Help	Abi
 	Hidden text	Peidetud tekst
-	Highlight	Esiletõst
 	Home	Avaleht
 	Horizontal	Rõhtne
-	Indent	Taane
 	Index	Register
 	Insert	Lisa
 	Interface language	Kasutajaliidese keel
@@ -124,7 +111,6 @@
 	Left:	Vasakul:
 	Light	Hele
 	Line	Joon
-	Line delta	Ridade muutus
 	Line spacing	Reavahe
 	Lines +/−	Read +/−
 	Lines added	Lisatud read
@@ -142,11 +128,8 @@
 	Name:	Nimi:
 	Next	Järgmine
 	No	Ei
-	No contributor data was built into this copy.	Selles versioonis pole kaasautorite andmeid.
 	No limit	Piiranguta
-	No model credits were built into this copy.	Selles versioonis pole mudelite autoriteavet.
 	None	Puudub
-	Number	Number
 	Odd pages only	Ainult paaritud leheküljed
 	Off	Väljas
 	OK	OK
@@ -154,17 +137,14 @@
 	Open	Ava
 	Options	Valikud
 	Options…	Suvandid…
-	Outline	Liigendus
 	Oval	Ovaal
 	Page	Leht
-	Page display	Lehe kuvamine
 	Pages	Lehed
 	Password	Parool
 	Paste	Kleebi
 	Portrait	Püstpaigutus
 	Position	Asukoht
 	Preview	Eelvaade
-	Previous	Eelmine
 	Print	Prindi
 	Printing	Printimine
 	Protect	Kaitse
@@ -180,7 +160,6 @@
 	Replace	Asenda
 	Reply	Vasta
 	Report	Aruanne
-	Reverse the order	Pööra järjestus ümber
 	Review	Läbivaatus
 	Right	Parem
 	Rotate	Pööra
@@ -195,13 +174,11 @@
 	Size	Suurus
 	Sort	Sordi
 	Sort by	Sordi välja järgi
-	Special	Erimärgid
 	Split	Tükelda
 	Square	Ruudukujuline
 	Standard	Standard
 	Star	Täht
 	Strikethrough	Läbikriipsutus
-	Strong	Tugev
 	Style	Stiil
 	Subject	Teema
 	System	Süsteem
@@ -209,7 +186,6 @@
 	Tables	Tabelid
 	Text	Tekst
 	The passwords don't match.	Paroolid ei ühti.
-	Thick	Paks
 	Thickness	Paksus
 	Title	Pealkiri
 	Tools	Tööriistad
@@ -221,7 +197,6 @@
 	Undo	Võta tagasi
 	Undo {action}	Võta tagasi: {action}
 	Up	Üles
-	Use system setting	Kasuta süsteemi seadistust
 	Username	Kasutajanimi
 	Version	Versioon
 	Vertical	Püstine
@@ -230,5 +205,4 @@
 	Width:	Laius:
 	Words	Sõnad
 	Yes	Jah
-	Your changes will be lost if you don't save them.	Salvestamata muudatused lähevad kaotsi.
 	Zoom	Suum

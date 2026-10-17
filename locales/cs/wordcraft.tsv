@@ -173,6 +173,7 @@
 	Arabic	Arabština
 	Arch Down	Oblouk dolů
 	Arch Up	Oblouk nahoru
+	Area	Plošný
 	Arrange	Uspořádat
 	Arrange\nAll	Uspořádat\nvše
 	Arrows	Šipky
@@ -240,6 +241,7 @@
 	Below the item	Pod položkou
 	Between	Mezi odstavci
 	Bibliography	Bibliografie
+	Binary assets removed	Odebrané binární soubory
 	Binomial Coefficient	Binomický koeficient
 	Binomial Coefficient (angle)	Binomický koeficient (lomené závorky)
 	Binomial Coefficient with Angle Brackets	Binomický koeficient v lomených závorkách
@@ -269,6 +271,7 @@
 	Bottom Margin	Dolní okraj
 	Bottom of Page	Dolní část stránky
 	Bottom Right Cell	Pravá dolní buňka
+	Box	Rámeček
 	Boxed Formula	Vzorec v rámečku
 	Boxed Formula (example)	Vzorec v rámečku (příklad)
 	Boxed Formulas	Vzorce v rámečku
@@ -318,6 +321,7 @@
 	Cell Margins	Okraje buňky
 	Cell Size	Velikost buňky
 	Cell\nMargins	Okraje\nbuňky
+	Center	Na střed
 	Centered	Na střed
 	Centered as Group	Na střed jako skupina
 	Centimeters	Centimetry
@@ -359,6 +363,7 @@
 	Character Scale	Měřítko znaků
 	Character Shading	Stínování znaků
 	Character Spacing	Proložení znaků
+	Character spacing	Proložení znaků
 	Character style	Znakový styl
 	Characters (no spaces)	Znaky (bez mezer)
 	Characters (with spaces)	Znaky (včetně mezer)
@@ -367,6 +372,7 @@
 	Chart Design	Návrh grafu
 	Chart Layouts	Rozvržení grafu
 	Chart Title	Název grafu
+	Check	Háček
 	Check Accessibility	Kontrola přístupnosti
 	Check Box Content Control	Ovládací prvek obsahu zaškrtávacího políčka
 	Check Compatibility	Kontrola kompatibility
@@ -434,6 +440,7 @@
 	Combo Box Content Control	Ovládací prvek obsahu pole se seznamem
 	Commands	Příkazy
 	Commands:	Příkazy:
+	Comment	Komentář
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Komentáře vedle každé stránky a sledované změny v souborech PDF, výtiscích a obrázcích; seznam komentářů na konci webových stránek, Markdownu a textu.
 	Comments Pane	Podokno komentářů
 	Common Accent Objects	Běžné výrazy s diakritickými znaménky
@@ -511,6 +518,7 @@
 	Create a Style	Vytvořit styl
 	Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document.	Vytvořte si interaktivní osnovu dokumentu.\n\nSnadno tak udržíte přehled o tom, kde se nacházíte, a rychle přesunete obsah.\n\nChcete-li začít, přejděte na kartu Domů a použijte na nadpisy v dokumentu styly nadpisů.
 	Create Graphic	Vytvořit grafiku
+	Create Link	Vytvořit propojení
 	Create New Style	Vytvořit nový styl
 	Create Source	Vytvořit pramen
 	Croatian	Chorvatština
@@ -768,6 +776,7 @@
 	Exceptions (optional)	Výjimky (volitelné)
 	Exceptions…	Výjimky…
 	Existing File or Web Page	Existující soubor nebo webová stránka
+	Expand	Rozšířit
 	Expand or Collapse Heading	Rozbalit nebo sbalit nadpis
 	Exponential	Exponenciální funkce
 	Exponential series	Exponenciální řada
@@ -791,6 +800,7 @@
 	Field…	Pole…
 	Figure	Obrázek
 	File name:	Název souboru:
+	Fill	Výplň
 	Fill color:	Barva výplně:
 	Filling in forms	Vyplňování formulářů
 	Film	Film
@@ -817,6 +827,7 @@
 	First line:	První řádek:
 	First Name	Jméno
 	First row of data contains column headers	První řádek dat obsahuje záhlaví sloupců
+	Fit	Přizpůsobit
 	Fix Position on Page	Ukotvit pozici na stránce
 	Fixed Column Width	Pevná šířka sloupce
 	Floor	Dolní celá část
@@ -874,6 +885,7 @@
 	Good afternoon	Dobré odpoledne
 	Good evening	Dobrý večer
 	Good morning	Dobré ráno
+	Grab bag	Různé
 	Grave	Obrácená čárka
 	Grayscale	Stupně šedi
 	Greater than	Větší než
@@ -920,6 +932,7 @@
 	Hide White Space	Skrýt prázdné místo
 	Hide\nInk	Skrýt\nrukopis
 	Hierarchy	Hierarchie
+	Highlight	Zvýraznění
 	Highlight Merge Fields	Zvýraznit slučovací pole
 	Highlight\nMerge Fields	Zvýraznit\nslučovací pole
 	Highlighter	Zvýrazňovač
@@ -975,6 +988,7 @@
 	Include page numbers	Zahrnout čísla stránek
 	Increase Font Size	Zvětšit velikost písma
 	Increase Indent	Zvětšit odsazení
+	Indent	Odsazení
 	Indent from left:	Odsazení zleva:
 	Indentation	Odsazení
 	Indented	Odsazený
@@ -1056,6 +1070,7 @@
 	Interface theme:	Motiv rozhraní:
 	Interface\nTheme	Motiv\nrozhraní
 	Internet addresses as links	Internetové adresy jako odkazy
+	Intersection	Průnik
 	Intersection with Limits	Průnik s mezemi
 	Intersection with Lower Limit	Průnik s dolní mezí
 	Intersection with Subscript-Superscript Limits	Průnik s mezemi v dolním a horním indexu
@@ -1161,6 +1176,7 @@
 	Line between	Čára mezi sloupci
 	Line Break	Zalomení řádku
 	Line breaking	Zalamování řádků
+	Line delta	Změna počtu řádků
 	Line End	Konec řádku
 	Line Number	Číslo řádku
 	Line Numbering Options…	Možnosti číslování řádků…
@@ -1240,6 +1256,7 @@
 	Math AutoCorrect	Automatické opravy matematiky
 	Matrices with Brackets	Matice v závorkách
 	Matrix	Matice
+	Maximum	Maximum
 	Maximum Example	Maximum (příklad)
 	Measured By	Měřeno pomocí
 	Measurement units:	Jednotky měření:
@@ -1251,6 +1268,7 @@
 	Middle	Uprostřed
 	Midline Dots	Tečky ve střední výšce
 	Millimeters	Milimetry
+	Minimum	Minimum
 	Minus Equal	Minus a rovná se
 	Mirror indents	Zrcadlové odsazení
 	Mirror margins	Zrcadlové okraje
@@ -1331,6 +1349,7 @@
 	No Border	Bez ohraničení
 	No changes (read only)	Žádné změny (jen pro čtení)
 	No Color	Bez barvy
+	No contributor data was built into this copy.	Tato kopie neobsahuje údaje o přispěvatelích.
 	No document is open. Create a document or open one first.	Není otevřen žádný dokument. Nejprve dokument vytvořte nebo otevřete.
 	No errors found: every merge field is in the recipient list.	Nebyly nalezeny žádné chyby: všechna slučovací pole jsou v seznamu příjemců.
 	No Fill	Bez výplně
@@ -1339,6 +1358,7 @@
 	No header row	Bez řádku záhlaví
 	No icons match your search.	Vašemu hledání neodpovídají žádné ikony.
 	No Markup	Bez revizí
+	No model credits were built into this copy.	Tato kopie neobsahuje uvedení modelů.
 	No Outline	Bez obrysu
 	No Paragraph Space	Bez mezer mezi odstavci
 	No printers found. Configure a system printer or export a PDF.	Nebyly nalezeny žádné tiskárny. Nastavte systémovou tiskárnu nebo exportujte PDF.
@@ -1380,6 +1400,7 @@
 	Now used by {command}	Nyní používá: {command}
 	Nudge	Posunout o krok
 	Num Occurrences	Počet výskytů
+	Number	Číslo
 	Number alignment:	Zarovnání čísel:
 	Number format	Formát čísla
 	Number of columns:	Počet sloupců:
@@ -1447,6 +1468,7 @@
 	Other Large Operators	Další velké operátory
 	Other styles and their TOC level:	Další styly a jejich úroveň v obsahu:
 	Otherwise insert:	Jinak vložit:
+	Outline	Osnova
 	Outline Level	Úroveň osnovy
 	Outline level	Úroveň osnovy
 	Outline levels	Úrovně osnovy
@@ -1470,6 +1492,7 @@
 	Page break before	Vložit konec stránky před
 	Page Breaks	Konce stránek
 	Page Color	Barva stránky
+	Page display	Zobrazení stránky
 	Page Down	O stránku dolů
 	Page image (*.png)	Obrázek stránky (*.png)
 	Page Movement	Pohyb stránek
@@ -1562,6 +1585,7 @@
 	Press a key combination	Stiskněte kombinaci kláves
 	Preview Results	Náhled výsledků
 	Preview\nResults	Náhled\nvýsledků
+	Previous	Předchozí
 	Previous 1 or More	Předchozí 1 nebo více
 	Previous Change	Předchozí změna
 	Previous Comment	Předchozí komentář
@@ -1718,6 +1742,7 @@
 	Results	Výsledky
 	Return address labels	Štítky se zpáteční adresou
 	Return address:	Zpáteční adresa:
+	Reverse the order	Obrátit pořadí
 	Reviewing	Revize
 	Reviewing Pane	Podokno revizí
 	Reviewing — edits become suggestions	Revize — úpravy se ukládají jako návrhy
@@ -1775,6 +1800,7 @@
 	Scale Drawing	Škálovat kresbu
 	Scatter	Bodový
 	Script	Index
+	Scripts	Indexy
 	Scroll ribbon left	Posunout pás karet doleva
 	Scroll ribbon right	Posunout pás karet doprava
 	Search Commands	Hledat příkazy
@@ -1967,6 +1993,7 @@
 	Spanish (Mexico)	Španělština (Mexiko)
 	Spanish (Spain)	Španělština (Španělsko)
 	Sparse Matrices	Řídké matice
+	Special	Speciální
 	Special Characters	Speciální znaky
 	Specify height:	Zadat výšku:
 	Speech	Řeč
@@ -2005,6 +2032,7 @@
 	Straight Arrow Connector	Přímá spojnice se šipkou
 	Straight Connector	Přímá spojnice
 	Stroke {n} of {total}	Tah {n} z {total}
+	Strong	Silné
 	Structure Actions	Akce se strukturou
 	Structures	Struktury
 	Studio	Studio
@@ -2138,6 +2166,7 @@
 	These marks show even when Show/Hide ¶ is off.	Tyto značky se zobrazují, i když je vypnuto Zobrazit/skrýt ¶.
 	These merge fields aren't in the recipient list:	Tato slučovací pole nejsou v seznamu příjemců:
 	These settings will be used for new documents.	Tato nastavení se použijí pro nové dokumenty.
+	Thick	Silné
 	This document	Tento dokument
 	This field has no options.	Toto pole nemá žádné možnosti.
 	This folder can't be read: {error}	Tuto složku nelze přečíst: {error}
@@ -2258,6 +2287,7 @@ preview	Title	Ukázka
 	Use "a" before a consonant sound	Před souhláskovým zvukem použít „a“
 	Use "an" before a vowel sound	Před samohláskovým zvukem použít „an“
 	Use an Existing List…	Použít existující seznam…
+	Use system setting	Podle nastavení systému
 	Use the browser's full screen (F11)	Použijte celou obrazovku prohlížeče (F11)
 	Use the Insert key to switch overtype on and off	Přepínat režim přepisování klávesou Insert
 	Use wildcards	Používat zástupné znaky
@@ -2334,6 +2364,7 @@ preview	Title	Ukázka
 	x bar	x s čárou nad
 	Year	Rok
 	Yields	Dává
+	Your changes will be lost if you don't save them.	Pokud změny neuložíte, budou ztraceny.
 	Your system doesn't report an animation setting, so animation effects stay on.	Systém neuvádí žádné nastavení animací, proto efekty animace zůstávají zapnuté.
 	Your system has animation effects turned off.	Efekty animace jsou v systému vypnuté.
 	Your system has animation effects turned on.	Efekty animace jsou v systému zapnuté.

@@ -23,23 +23,17 @@
 	All	Alla
 	All pages	Alla sidor
 	Apply	Använd
-	Area	Ytdiagram
 	Arrow	Pil
 	Author	Författare
 	Auto	Auto
 	Auto ({percent}%)	Automatisk ({percent} %)
 	Binary assets added	Tillagda binärfiler
-	Binary assets removed	Borttagna binärfiler
 	Bold	Fet
 	Bottom	Nedtill
 	Bottom:	Nederkant:
-	Box	Ram
 	Browse…	Bläddra…
 	Cancel	Avbryt
-	Center	Centrera
-	Character spacing	Teckenavstånd
 	Characters	Tecken
-	Check	Hake
 	Circle	Cirkel
 	Clear	Rensa
 	Clear All	Rensa allt
@@ -49,7 +43,6 @@
 	Color	Färg
 	Color:	Färg:
 	Combine	Kombinera
-	Comment	Kommentar
 	Comments	Kommentarer
 	Commits	Commits
 	Company	Företag
@@ -58,7 +51,6 @@
 	Convert	Konvertera
 	Copy	Kopiera
 	Create	Skapa
-	Create Link	Skapa länk
 	Current page	Aktuell sida
 	Custom	Anpassad
 	Cut	Klipp ut
@@ -81,16 +73,13 @@
 	Eraser	Suddgummi
 	Even pages only	Bara jämna sidor
 	Example: {sample}	Exempel: {sample}
-	Expand	Expandera
 	Export	Exportera
 	Field	Fält
 	Field properties	Fältegenskaper
 	Fields	Fält
 	File	Arkiv
-	Fill	Fyllning
 	First	Första
 	First commit	Första commit
-	Fit	Anpassa
 	Flip Horizontal	Vänd vågrätt
 	Flip Vertical	Vänd lodrätt
 	Font	Typsnitt
@@ -100,20 +89,16 @@
 	Format:	Format:
 	Full Screen	Helskärm
 	General	Allmänt
-	Grab bag	Blandat
 	Graphic	Grafik
 	Headings	Rubriker
 	Height:	Höjd:
 	Help	Hjälp
 	Hidden text	Dold text
-	Highlight	Överstrykning
 	Home	Start
 	Horizontal	Vågrät
-	Indent	Indrag
 	Index	Register
 	Insert	Infoga
 	Interface language	Gränssnittsspråk
-	Intersection	Snitt
 	Italic	Kursiv
 	Justify	Marginaljustera
 	Keywords	Nyckelord
@@ -127,7 +112,6 @@
 	Left:	Vänster:
 	Light	Ljust
 	Line	Linje
-	Line delta	Radskillnad
 	Line spacing	Radavstånd
 	Lines +/−	Rader +/−
 	Lines added	Tillagda rader
@@ -136,10 +120,8 @@
 	List	Lista
 	Location	Placering
 	Margins	Marginaler
-	Maximum	Maximum
 	Medium	Medel
 	Merged PRs	Sammanslagna PR:er
-	Minimum	Minimum
 	Model	Modell
 	Models	Modeller
 	Name	Namn
@@ -147,11 +129,8 @@
 	Name:	Namn:
 	Next	Nästa
 	No	Nej
-	No contributor data was built into this copy.	Den här kopian innehåller inga uppgifter om bidragsgivare.
 	No limit	Ingen gräns
-	No model credits were built into this copy.	Den här kopian innehåller inga uppgifter om medverkande AI-modeller.
 	None	Ingen
-	Number	Nummer
 	Odd pages only	Bara udda sidor
 	Off	Av
 	OK	OK
@@ -159,17 +138,14 @@
 	Open	Öppna
 	Options	Alternativ
 	Options…	Alternativ…
-	Outline	Disposition
 	Oval	Oval
 	Page	Sida
-	Page display	Sidvisning
 	Pages	Sidor
 	Password	Lösenord
 	Paste	Klistra in
 	Portrait	Stående
 	Position	Position
 	Preview	Förhandsvisning
-	Previous	Föregående
 	Print	Skriv ut
 	Printing	Utskrift
 	Protect	Skydda
@@ -185,14 +161,12 @@
 	Replace	Ersätt
 	Reply	Svara
 	Report	Rapport
-	Reverse the order	Vänd på ordningen
 	Review	Granska
 	Right	Höger
 	Rotate	Rotera
 	Rotation	Rotation
 	Rotation:	Rotation:
 	Save	Spara
-	Scripts	Index och exponenter
 	Search	Sök
 	Select All	Markera allt
 	Selected pages	Valda sidor
@@ -201,13 +175,11 @@
 	Size	Storlek
 	Sort	Sortera
 	Sort by	Sortera efter
-	Special	Special
 	Split	Dela
 	Square	Fyrkant
 	Standard	Standard
 	Star	Stjärna
 	Strikethrough	Genomstruken
-	Strong	Stark
 	Style	Stil
 	Subject	Ämne
 	System	Enligt systemet
@@ -215,7 +187,6 @@
 	Tables	Tabeller
 	Text	Text
 	The passwords don't match.	Lösenorden stämmer inte överens.
-	Thick	Tjock
 	Thickness	Tjocklek
 	This document has no bookmarks.	Det här dokumentet har inga bokmärken.
 	Title	Titel
@@ -228,7 +199,6 @@
 	Undo	Ångra
 	Undo {action}	Ångra {action}
 	Up	Uppåt
-	Use system setting	Använd systeminställningen
 	Username	Användarnamn
 	Version	Version
 	Vertical	Lodrät
@@ -237,5 +207,4 @@
 	Width:	Bredd:
 	Words	Ord
 	Yes	Ja
-	Your changes will be lost if you don't save them.	Dina ändringar går förlorade om du inte sparar dem.
 	Zoom	Zoom

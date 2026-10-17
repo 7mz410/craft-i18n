@@ -273,6 +273,7 @@
 	Cell Margins	儲存格邊界
 	Cell Size	儲存格大小
 	Cell\nMargins	儲存格邊界
+	Center	置中
 	Centered	置中
 	Centimeters	公分
 	Change	變更
@@ -303,6 +304,7 @@
 	Character Scale	字元縮放
 	Character Shading	字元網底
 	Character Spacing	字元間距
+	Character spacing	字元間距
 	Character style	字元樣式
 	Characters	字元
 	Characters (no spaces)	字元數（不含空格）
@@ -375,6 +377,7 @@
 	Combo Box Content Control	下拉式方塊內容控制項
 	Commands	命令
 	Commands:	命令：
+	Comment	註解
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	在 PDF、列印和影像中於每頁旁顯示註解和修訂；在網頁、Markdown 和文字末尾附上註解清單。
 	Comments Pane	註解窗格
 	Commits	提交
@@ -430,6 +433,7 @@
 	Create a Style	建立樣式
 	Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document.	為文件建立互動式大綱。\n\n用它可以隨時掌握目前位置，或快速移動內容。\n\n若要開始使用，請前往「常用」索引標籤，為文件中的標題套用標題樣式。
 	Create Graphic	建立圖形
+	Create Link	建立連結
 	Create New Style	建立新樣式
 	Create Source	建立來源
 	Croatian	克羅埃西亞文
@@ -835,6 +839,7 @@
 	Include page numbers	包含頁碼
 	Increase Font Size	放大字型
 	Increase Indent	增加縮排
+	Indent	縮排
 	Indent from left:	左側縮排：
 	Indentation	縮排
 	Indented	縮排式
@@ -1126,6 +1131,7 @@
 	No Border	無框線
 	No changes (read only)	不允許任何變更 (唯讀)
 	No Color	無色彩
+	No contributor data was built into this copy.	此版本未內建貢獻者資料。
 	No document is open. Create a document or open one first.	沒有開啟的文件。請先新增或開啟文件。
 	No errors found: every merge field is in the recipient list.	未發現錯誤：所有合併欄位都在收件者清單中。
 	No Fill	無填滿
@@ -1253,6 +1259,7 @@
 	Page break before	段落前分頁
 	Page Breaks	分頁符號
 	Page Color	頁面色彩
+	Page display	頁面顯示
 	Page Down	下一頁
 	Page image (*.png)	頁面影像 (*.png)
 	Page Movement	翻頁方式
@@ -1338,6 +1345,7 @@
 	Press a key combination	請按組合鍵
 	Preview Results	預覽結果
 	Preview\nResults	預覽結果
+	Previous	上一個
 	Previous 1 or More	前一項 1 次以上
 	Previous Change	上一個變更
 	Previous Comment	上一個註解
@@ -1486,6 +1494,7 @@
 	Results	結果
 	Return address labels	寄件人地址標籤
 	Return address:	寄件人地址：
+	Reverse the order	反轉順序
 	Review	校閱
 	Reviewing	校閱
 	Reviewing Pane	校閱窗格
@@ -1949,6 +1958,7 @@
 	UPPERCASE	全部大寫
 	URL	URL
 	Use an Existing List…	使用現有清單…
+	Use system setting	使用系統設定
 	Use the browser's full screen (F11)	請使用瀏覽器的全螢幕模式 (F11)
 	Use the Insert key to switch overtype on and off	使用 Insert 鍵切換取代模式
 	Use wildcards	使用萬用字元

@@ -23,23 +23,17 @@
 	All	Tümü
 	All pages	Tüm sayfalar
 	Apply	Uygula
-	Area	Alan
 	Arrow	Ok
 	Author	Yazar
 	Auto	Otomatik
 	Auto ({percent}%)	Otomatik (%{percent})
 	Binary assets added	Eklenen ikili varlıklar
-	Binary assets removed	Kaldırılan ikili varlıklar
 	Bold	Kalın
 	Bottom	Alt
 	Bottom:	Alt:
-	Box	Kutu
 	Browse…	Gözat…
 	Cancel	İptal
-	Center	Ortala
-	Character spacing	Karakter aralığı
 	Characters	Karakterler
-	Check	İşaret
 	Circle	Daire
 	Clear	Temizle
 	Clear All	Tümünü Temizle
@@ -49,7 +43,6 @@
 	Color	Renk
 	Color:	Renk:
 	Combine	Birleştir
-	Comment	Yorum
 	Comments	Yorumlar
 	Commits	Commit'ler
 	Company	Şirket
@@ -58,7 +51,6 @@
 	Convert	Dönüştür
 	Copy	Kopyala
 	Create	Oluştur
-	Create Link	Bağlantı Oluştur
 	Current page	Geçerli sayfa
 	Custom	Özel
 	Cut	Kes
@@ -81,16 +73,13 @@
 	Eraser	Silgi
 	Even pages only	Yalnızca çift sayfalar
 	Example: {sample}	Örnek: {sample}
-	Expand	Genişlet
 	Export	Dışa Aktar
 	Field	Alan
 	Field properties	Alan özellikleri
 	Fields	Alanlar
 	File	Dosya
-	Fill	Dolgu
 	First	İlk
 	First commit	İlk commit
-	Fit	Sığdır
 	Flip Horizontal	Yatay Çevir
 	Flip Vertical	Dikey Çevir
 	Font	Yazı Tipi
@@ -100,20 +89,16 @@
 	Format:	Biçim:
 	Full Screen	Tam ekran
 	General	Genel
-	Grab bag	Çeşitli
 	Graphic	Grafik
 	Headings	Başlıklar
 	Height:	Yükseklik:
 	Help	Yardım
 	Hidden text	Gizli metin
-	Highlight	Vurgu
 	Home	Giriş
 	Horizontal	Yatay
-	Indent	Girinti
 	Index	Dizin
 	Insert	Ekle
 	Interface language	Arayüz dili
-	Intersection	Kesişim
 	Italic	İtalik
 	Justify	İki Yana Yasla
 	Keywords	Anahtar Sözcükler
@@ -127,7 +112,6 @@
 	Left:	Sol:
 	Light	Açık
 	Line	Satır
-	Line delta	Satır farkı
 	Line spacing	Satır aralığı
 	Lines +/−	Satır +/−
 	Lines added	Eklenen satırlar
@@ -136,10 +120,8 @@
 	List	Liste
 	Location	Konum
 	Margins	Kenar Boşlukları
-	Maximum	Maksimum
 	Medium	Orta
 	Merged PRs	Birleştirilen PR'lar
-	Minimum	Minimum
 	Model	Model
 	Models	Modeller
 	Name	Ad
@@ -147,11 +129,8 @@
 	Name:	Ad:
 	Next	Sonraki
 	No	Hayır
-	No contributor data was built into this copy.	Bu kopyaya katkıda bulunan verisi eklenmemiş.
 	No limit	Sınır yok
-	No model credits were built into this copy.	Bu kopyaya model katkıları eklenmemiş.
 	None	Yok
-	Number	Numara
 	Odd pages only	Yalnızca tek sayfalar
 	Off	Kapalı
 	OK	Tamam
@@ -159,17 +138,14 @@
 	Open	Aç
 	Options	Seçenekler
 	Options…	Seçenekler…
-	Outline	Ana Hat
 	Oval	Oval
 	Page	Sayfa
-	Page display	Sayfa görünümü
 	Pages	Sayfalar
 	Password	Parola
 	Paste	Yapıştır
 	Portrait	Dikey
 	Position	Konum
 	Preview	Önizleme
-	Previous	Önceki
 	Print	Yazdır
 	Printing	Yazdırma
 	Protect	Koru
@@ -185,14 +161,12 @@
 	Replace	Değiştir
 	Reply	Yanıtla
 	Report	Rapor
-	Reverse the order	Sırayı ters çevir
 	Review	İncele
 	Right	Sağ
 	Rotate	Döndür
 	Rotation	Döndürme
 	Rotation:	Döndürme:
 	Save	Kaydet
-	Scripts	İndisler
 	Search	Ara
 	Select All	Tümünü Seç
 	Selected pages	Seçili sayfalar
@@ -201,13 +175,11 @@
 	Size	Boyut
 	Sort	Sırala
 	Sort by	Sıralama ölçütü
-	Special	Özel
 	Split	Böl
 	Square	Kare
 	Standard	Standart
 	Star	Yıldız
 	Strikethrough	Üstü Çizili
-	Strong	Kalın Vurgu
 	Style	Stil
 	Subject	Konu
 	System	Sistem
@@ -215,7 +187,6 @@
 	Tables	Tablolar
 	Text	Metin
 	The passwords don't match.	Parolalar eşleşmiyor.
-	Thick	Kalın
 	Thickness	Kalınlık
 	This document has no bookmarks.	Bu belgede yer işareti yok.
 	Title	Başlık
@@ -228,7 +199,6 @@
 	Undo	Geri Al
 	Undo {action}	Geri Al: {action}
 	Up	Yukarı
-	Use system setting	Sistem ayarını kullan
 	Username	Kullanıcı adı
 	Version	Sürüm
 	Vertical	Dikey
@@ -237,5 +207,4 @@
 	Width:	Genişlik:
 	Words	Sözcükler
 	Yes	Evet
-	Your changes will be lost if you don't save them.	Kaydetmezseniz değişiklikleriniz kaybolur.
 	Zoom	Yakınlaştırma

@@ -144,6 +144,7 @@
 	Arabic	Arábico
 	Arch Down	Arco para baixo
 	Arch Up	Arco para cima
+	Area	Área
 	Arrange	Organizar
 	Arrange\nAll	Organizar\ntudo
 	Arrows	Setas
@@ -234,6 +235,7 @@
 	Bottom Margin	Margem inferior
 	Bottom of Page	Fim da página
 	Bottom Right Cell	Célula inferior direita
+	Box	Caixa
 	Bracket	Colchete
 	Break Link	Quebrar link
 	Breaks	Quebras
@@ -269,6 +271,7 @@
 	Cell Margins	Margens das células
 	Cell Size	Tamanho das células
 	Cell\nMargins	Margens\ndas células
+	Center	Centralizar
 	Centered	Centralizado
 	Centimeters	Centímetros
 	Change	Alterar
@@ -299,6 +302,7 @@
 	Character Scale	Escala de caracteres
 	Character Shading	Sombreamento de caracteres
 	Character Spacing	Espaçamento entre caracteres
+	Character spacing	Espaçamento entre caracteres
 	Character style	Estilo de caractere
 	Characters (no spaces)	Caracteres (sem espaços)
 	Characters (with spaces)	Caracteres (com espaços)
@@ -369,6 +373,7 @@
 	Combo Box Content Control	Controle de conteúdo de caixa de combinação
 	Commands	Comandos
 	Commands:	Comandos:
+	Comment	Comentário
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Comentários ao lado de cada página e alterações controladas em PDFs, impressões e imagens; uma lista de comentários no final de páginas da web, Markdown e texto.
 	Comments Pane	Painel de comentários
 	Communication	Comunicação
@@ -423,6 +428,7 @@
 	Create a Style	Criar um estilo
 	Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document.	Crie uma estrutura de tópicos interativa do seu documento.\n\nÉ uma ótima maneira de acompanhar onde você está ou mover seu conteúdo rapidamente.\n\nPara começar, vá para a guia Início e aplique estilos de Título aos títulos do seu documento.
 	Create Graphic	Criar gráfico
+	Create Link	Criar link
 	Create New Style	Criar novo estilo
 	Create Source	Criar fonte
 	Croatian	Croata
@@ -643,6 +649,7 @@
 	Exceptions (optional)	Exceções (opcional)
 	Exceptions…	Exceções…
 	Existing File or Web Page	Página da Web ou arquivo existente
+	Expand	Expandir
 	Expand or Collapse Heading	Expandir ou recolher título
 	Export a copy to share (PDF, Word document)	Exporte uma cópia para compartilhar (PDF, documento Word)
 	Export Page as PNG	Exportar página como PNG
@@ -690,6 +697,7 @@
 	First line:	Primeira linha:
 	First Name	Nome
 	First row of data contains column headers	A primeira linha de dados contém cabeçalhos de coluna
+	Fit	Ajustar
 	Fix Position on Page	Fixar posição na página
 	Fixed Column Width	Largura de coluna fixa
 	Focus	Foco
@@ -1159,6 +1167,7 @@
 	Now used by {command}	Usado agora por {command}
 	Nudge	Deslocar ligeiramente
 	Num Occurrences	Número de ocorrências
+	Number	Número
 	Number alignment:	Alinhamento do número:
 	Number format	Formato do número
 	Number of columns:	Número de colunas:
@@ -1326,6 +1335,7 @@
 	Preview	Visualizar
 	Preview Results	Visualizar resultados
 	Preview\nResults	Visualizar\nresultados
+	Previous	Anterior
 	Previous 1 or More	Anterior 1 ou mais vezes
 	Previous Change	Alteração anterior
 	Previous Comment	Comentário anterior
@@ -1470,6 +1480,7 @@
 	Results	Resultados
 	Return address labels	Etiquetas de remetente
 	Return address:	Endereço do remetente:
+	Reverse the order	Inverter a ordem
 	Reviewing	Revisão
 	Reviewing Pane	Painel de revisão
 	Reviewing — edits become suggestions	Revisão — as edições viram sugestões
@@ -1693,6 +1704,7 @@
 	Spacing:	Espaçamento:
 	Spanish (Mexico)	Espanhol (México)
 	Spanish (Spain)	Espanhol (Espanha)
+	Special	Especial
 	Special Characters	Caracteres especiais
 	Specify height:	Especificar altura:
 	Speech	Fala
@@ -1832,6 +1844,7 @@
 	These marks show even when Show/Hide ¶ is off.	Estas marcas aparecem mesmo com Mostrar/ocultar ¶ desativado.
 	These merge fields aren't in the recipient list:	Estes campos de mesclagem não estão na lista de destinatários:
 	These settings will be used for new documents.	Essas configurações serão usadas nos novos documentos.
+	Thick	Grossa
 	This document	Este documento
 	This field has no options.	Este campo não tem opções.
 	This folder can't be read: {error}	Não é possível ler esta pasta: {error}

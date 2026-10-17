@@ -232,6 +232,7 @@
 	April	abril
 	Arbitrary Mask	Máscara arbitraria
 	Archive documents	Archivar documentos
+	Area	Área
 	ArtCraft website	Sitio web de ArtCraft
 	Ask about this document	Preguntar sobre este documento
 	Asks GitHub for the latest release. Nothing is downloaded or installed automatically.	Consulta a GitHub cuál es la última versión. No se descarga ni se instala nada automáticamente.
@@ -268,6 +269,7 @@
 	Before the number	Antes del número
 	Beveled	Biselado
 	Bicubic downsampling to	Reducción de resolución bicúbica a
+	Binary assets removed	Recursos binarios eliminados
 	Binding	Encuadernación
 	Binding:	Encuadernación:
 	Black	Negro
@@ -285,6 +287,7 @@
 	Borders and Colors	Bordes y colores
 	Both	Ambos
 	Both sides	Ambas caras
+	Box	Cuadro
 	Bring your own model (off by default)	Usa tu propio modelo (desactivado por defecto)
 	Browser's print dialog	Diálogo de impresión del navegador
 	Butt	Extremo recto
@@ -744,6 +747,7 @@ key	Esc	Esc
 	Exclude tagged tables	Excluir tablas etiquetadas
 	Exclusions use PDF tags. Untagged tables and code remain included. Image exclusion also removes invisible text.	Las exclusiones usan etiquetas PDF. Las tablas y el código sin etiquetas siguen incluidos. Excluir imágenes también elimina el texto invisible.
 	Execute a menu item	Ejecutar un elemento de menú
+	Expand	Expandir
 	Expand all	Expandir todo
 	Expand all bookmarks	Expandir todos los marcadores
 	Expand all pages	Expandir todas las páginas
@@ -855,6 +859,7 @@ scroll speed	Fast	Rápida
 	Find…	Buscar…
 	Finish or discard the text being edited before selecting several objects.	Termina o descarta la edición del texto antes de seleccionar varios objetos.
 	First / last page	Primera / última página
+	Fit	Ajustar
 	Fit Height	Ajustar al alto
 	Fit one full page	Ajustar una página completa
 	Fit Page	Ajustar a la página
@@ -920,6 +925,7 @@ scroll speed	Fast	Rápida
 	Go to page…	Ir a la página…
 	Go to the page	Ir a la página
 	Go to this result	Ir a este resultado
+	Grab bag	Miscelánea
 	Gray	Gris
 	Grayscale Images	Imágenes en escala de grises
 	Green	Verde
@@ -1005,6 +1011,7 @@ key	Home	Inicio
 	Installed fonts…	Fuentes instaladas…
 	Intended usage	Uso previsto
 	Interface size	Tamaño de la interfaz
+	Intersection	Intersección
 	Intersections	Intersecciones
 	Invert	Invertir
 	Invisible Rectangle	Rectángulo invisible
@@ -1062,6 +1069,7 @@ key	Home	Inicio
 	Light gray	Gris claro
 	Light theme	Tema claro
 	Limit of	Límite de
+	Line delta	Diferencia de líneas
 	Line ending	Extremo de línea
 	Line Style:	Estilo de línea:
 	Line thickness	Grosor de línea
@@ -1210,6 +1218,7 @@ key	Home	Inicio
 	No colour	Sin color
 	No comments match.	Ningún comentario coincide.
 	No comments yet.	Aún no hay comentarios.
+	No contributor data was built into this copy.	Esta copia no incluye datos de colaboradores.
 	No differences in the text.	No hay diferencias en el texto.
 	No digital IDs yet.	Aún no hay ningún ID digital.
 	No document language is set	No se ha indicado el idioma del documento
@@ -1225,6 +1234,7 @@ key	Home	Inicio
 	No matches	Sin coincidencias
 	No matches.	Sin coincidencias.
 	No matching tools	Ninguna herramienta coincide
+	No model credits were built into this copy.	Esta copia no incluye créditos de modelos.
 	No openly licensed document fonts found. Load a font file.	No se encontraron fuentes de documento con licencia abierta. Cargue un archivo de fuente.
 	no output folder was chosen	no se eligió ninguna carpeta de salida
 	No page has text: the document appears to be images of pages	Ninguna página tiene texto: el documento parece ser imágenes de páginas
@@ -1266,6 +1276,7 @@ scroll speed	Normal	Normal
 	Nothing to undo	Nada que deshacer
 	nothing to undo	nada que deshacer
 	November	noviembre
+	Number	Número
 	Number every page in the footer.	Numera todas las páginas en el pie.
 	Number of pages	Número de páginas
 	Number pages	Numerar páginas
@@ -1632,6 +1643,7 @@ animation effects	On	Activados
 	Reverse closed arrow	Flecha cerrada invertida
 	Reverse open arrow	Flecha abierta invertida
 	Reverse pages	Invertir páginas
+	Reverse the order	Invertir el orden
 	Revert	Volver a la versión guardada
 	Revert changes	Descartar cambios
 	Revert to the previously saved version of “{name}”? Changes since then can't be undone afterwards.	¿Revertir a la última versión guardada de «{name}»? Los cambios hechos desde entonces no se podrán deshacer después.
@@ -1866,6 +1878,7 @@ scroll speed	Slow	Lenta
 	Source	Origen
 key	Space	Espacio
 	Space Audit	Auditoría de espacio
+	Special	Especial
 	Split document	Dividir documento
 	Split document…	Dividir documento…
 	Split into files…	Dividir en archivos…
@@ -1887,6 +1900,7 @@ action wizard	Start	Iniciar
 	Sticky note	Nota adhesiva
 	Strength: {s}	Seguridad: {s}
 	Strikethrough text	Tachar texto
+	Strong	Fuerte
 	Structure Info	Información de estructura
 certificate	Subject	Titular
 	Submit a form	Enviar un formulario
@@ -2193,6 +2207,7 @@ signature pad	Type	Escribir
 	Use now	Usar ahora
 	Use overlay text	Usar texto superpuesto
 	Use print production	Usar producción de impresión
+	Use system setting	Usar la configuración del sistema
 	Use system title bar	Usar la barra de título del sistema
 	Use {what}	Usar {what}
 	Used when a PDF doesn't ask for a layout or zoom. Continuous scrolling never snaps between pages.	Se usa cuando un PDF no pide una presentación ni un zoom. El desplazamiento continuo nunca salta de página en página.

@@ -23,23 +23,17 @@
 	All	Todas
 	All pages	Todas las páginas
 	Apply	Aplicar
-	Area	Área
 	Arrow	Flecha
 	Author	Autor
 	Auto	Auto
 	Auto ({percent}%)	Auto ({percent}%)
 	Binary assets added	Recursos binarios añadidos
-	Binary assets removed	Recursos binarios eliminados
 	Bold	Negrita
 	Bottom	Abajo
 	Bottom:	Inferior:
-	Box	Cuadro
 	Browse…	Examinar…
 	Cancel	Cancelar
-	Center	Centrar
-	Character spacing	Espaciado de caracteres
 	Characters	Caracteres
-	Check	Carón
 	Circle	Círculo
 	Clear	Borrar
 	Clear All	Borrar todo
@@ -49,7 +43,6 @@
 	Color	Color
 	Color:	Color:
 	Combine	Combinar
-	Comment	Comentario
 	Comments	Comentarios
 	Commits	Commits
 	Company	Empresa
@@ -58,7 +51,6 @@
 	Convert	Convertir
 	Copy	Copiar
 	Create	Crear
-	Create Link	Crear vínculo
 	Current page	Página actual
 	Custom	Personalizado
 	Cut	Cortar
@@ -81,16 +73,13 @@
 	Eraser	Borrador
 	Even pages only	Solo páginas pares
 	Example: {sample}	Ejemplo: {sample}
-	Expand	Expandir
 	Export	Exportar
 	Field	Campo
 	Field properties	Propiedades del campo
 	Fields	Campos
 	File	Archivo
-	Fill	Relleno de color
 	First	Primero
 	First commit	Primer commit
-	Fit	Ajustar
 	Flip Horizontal	Voltear horizontalmente
 	Flip Vertical	Voltear verticalmente
 	Font	Fuente
@@ -100,20 +89,16 @@
 	Format:	Formato:
 	Full Screen	Pantalla completa
 	General	General
-	Grab bag	Miscelánea
 	Graphic	Gráfico
 	Headings	Títulos
 	Height:	Alto:
 	Help	Ayuda
 	Hidden text	Texto oculto
-	Highlight	Resaltado
 	Home	Inicio
 	Horizontal	Horizontal
-	Indent	Sangría
 	Index	Índice
 	Insert	Insertar
 	Interface language	Idioma de la interfaz
-	Intersection	Intersección
 	Italic	Cursiva
 	Justify	Justificar
 	Keywords	Palabras clave
@@ -127,7 +112,6 @@
 	Left:	Izquierda:
 	Light	Claro
 	Line	Línea
-	Line delta	Diferencia de líneas
 	Line spacing	Interlineado
 	Lines +/−	Líneas +/−
 	Lines added	Líneas añadidas
@@ -136,10 +120,8 @@
 	List	Lista
 	Location	Ubicación
 	Margins	Márgenes
-	Maximum	Máximo
 	Medium	Media
 	Merged PRs	PR fusionados
-	Minimum	Mínimo
 	Model	Modelo
 	Models	Modelos
 	Name	Nombre
@@ -147,11 +129,8 @@
 	Name:	Nombre:
 	Next	Siguiente
 	No	No
-	No contributor data was built into this copy.	Esta copia no incluye datos de colaboradores.
 	No limit	Sin límite
-	No model credits were built into this copy.	Esta copia no incluye créditos de modelos.
 	None	Ninguno
-	Number	Número
 	Odd pages only	Solo páginas impares
 	Off	Desactivado
 	OK	Aceptar
@@ -159,17 +138,14 @@
 	Open	Abrir
 	Options	Opciones
 	Options…	Opciones…
-	Outline	Esquema
 	Oval	Óvalo
 	Page	Página
-	Page display	Visualización de página
 	Pages	Páginas
 	Password	Contraseña
 	Paste	Pegar
 	Portrait	Vertical
 	Position	Posición
 	Preview	Vista previa
-	Previous	Anterior
 	Print	Imprimir
 	Printing	Impresión
 	Protect	Proteger
@@ -185,14 +161,12 @@
 	Replace	Reemplazar
 	Reply	Responder
 	Report	Informe
-	Reverse the order	Invertir el orden
 	Review	Revisar
 	Right	Derecha
 	Rotate	Girar
 	Rotation	Giro
 	Rotation:	Giro:
 	Save	Guardar
-	Scripts	Índices
 	Search	Buscar
 	Select All	Seleccionar todo
 	Selected pages	Páginas seleccionadas
@@ -201,13 +175,11 @@
 	Size	Tamaño
 	Sort	Ordenar
 	Sort by	Ordenar por
-	Special	Especial
 	Split	Dividir
 	Square	Cuadrado
 	Standard	Estándar
 	Star	Estrella
 	Strikethrough	Tachado
-	Strong	Fuerte
 	Style	Estilo
 	Subject	Asunto
 	System	Sistema
@@ -215,7 +187,6 @@
 	Tables	Tablas
 	Text	Texto
 	The passwords don't match.	Las contraseñas no coinciden.
-	Thick	Gruesa
 	Thickness	Grosor
 	This document has no bookmarks.	Este documento no tiene marcadores.
 	Title	Título
@@ -228,7 +199,6 @@
 	Undo	Deshacer
 	Undo {action}	Deshacer {action}
 	Up	Arriba
-	Use system setting	Usar la configuración del sistema
 	Username	Nombre de usuario
 	Version	Versión
 	Vertical	Vertical
@@ -237,5 +207,4 @@
 	Width:	Ancho:
 	Words	Palabras
 	Yes	Sí
-	Your changes will be lost if you don't save them.	Si no guardas los cambios, se perderán.
 	Zoom	Zoom

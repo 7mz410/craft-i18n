@@ -247,6 +247,7 @@
 	Below the item	Phía dưới mục
 	Between	Giữa
 	Bibliography	Danh mục tham khảo
+	Binary assets removed	Tài nguyên nhị phân đã xóa
 	Binomial Coefficient	Hệ số nhị thức
 	Binomial Coefficient (angle)	Hệ số nhị thức (ngoặc góc)
 	Binomial Coefficient with Angle Brackets	Hệ số nhị thức với ngoặc góc
@@ -370,6 +371,7 @@
 	Character Scale	Tỉ lệ ký tự
 	Character Shading	Tô nền ký tự
 	Character Spacing	Khoảng cách ký tự
+	Character spacing	Khoảng cách ký tự
 	Character style	Kiểu ký tự
 	Characters (no spaces)	Ký tự (không tính khoảng trắng)
 	Characters (with spaces)	Ký tự (tính cả khoảng trắng)
@@ -526,6 +528,7 @@
 	Create a Style	Tạo một kiểu
 	Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document.	Tạo dàn ý tương tác cho tài liệu của bạn.\n\nĐây là cách tuyệt vời để theo dõi vị trí hoặc nhanh chóng di chuyển nội dung.\n\nĐể bắt đầu, hãy mở thẻ Trang chủ rồi áp dụng kiểu Tiêu đề cho các đề mục trong tài liệu.
 	Create Graphic	Tạo đồ họa
+	Create Link	Tạo liên kết
 	Create New Style	Tạo kiểu mới
 	Create Source	Tạo nguồn
 	Croatian	Tiếng Croatia
@@ -790,6 +793,7 @@
 	Exceptions…	Ngoại lệ…
 	Executive   7.25" × 10.50"	Giấy Executive 7.25" × 10.50"
 	Existing File or Web Page	Tệp hoặc trang web hiện có
+	Expand	Mở rộng
 	Expand or Collapse Heading	Mở rộng hoặc thu gọn tiêu đề
 	Exponential	Hàm mũ
 	Exponential series	Chuỗi hàm mũ
@@ -955,6 +959,7 @@
 	Hide White Space	Ẩn khoảng giữa trang
 	Hide\nInk	Ẩn\nmực
 	Hierarchy	Phân cấp
+	Highlight	Tô sáng
 	Highlight Merge Fields	Làm nổi bật trường trộn
 	Highlight\nMerge Fields	Làm nổi bật\ntrường trộn
 	Highlighter	Bút tô sáng
@@ -1011,6 +1016,7 @@
 	Include page numbers	Bao gồm số trang
 	Increase Font Size	Tăng cỡ chữ
 	Increase Indent	Tăng thụt lề
+	Indent	Thụt lề
 	Indent from left:	Thụt lề từ trái:
 	Indentation	Thụt lề
 	Indented	Thụt lề
@@ -1305,6 +1311,7 @@ template	Letter	Thư
 	Middle	Giữa
 	Midline Dots	Chấm giữa dòng
 	Millimeters	Milimét
+	Minimum	Tối thiểu
 	Minus Equal	Trừ bằng
 	Mirror indents	Thụt lề đối xứng
 	Mirror margins	Lề đối xứng
@@ -1530,6 +1537,7 @@ template	Letter	Thư
 	Page break before	Ngắt trang trước đoạn
 	Page Breaks	Ngắt trang
 	Page Color	Màu nền trang
+	Page display	Hiển thị trang
 	Page Down	Chuyển xuống một trang
 	Page image (*.png)	Ảnh trang (*.png)
 	Page Movement	Cách chuyển trang
@@ -2037,6 +2045,7 @@ template	Letter	Thư
 	Spanish (Mexico)	Tiếng Tây Ban Nha (Mexico)
 	Spanish (Spain)	Tiếng Tây Ban Nha (Tây Ban Nha)
 	Sparse Matrices	Ma trận thưa
+	Special	Đặc biệt
 	Special Characters	Ký tự đặc biệt
 	Specify height:	Chỉ định chiều cao:
 	Speech	Giọng nói
@@ -2218,6 +2227,7 @@ template	Letter	Thư
 	These marks show even when Show/Hide ¶ is off.	Các dấu này vẫn hiện cả khi đã tắt Hiện/Ẩn ¶.
 	These merge fields aren't in the recipient list:	Các trường trộn này không nằm trong danh sách người nhận:
 	These settings will be used for new documents.	Các thiết đặt này sẽ được dùng cho tài liệu mới.
+	Thick	Dày
 	This document	Tài liệu này
 	This field has no options.	Trường này không có tùy chọn nào.
 	This folder can't be read: {error}	Không thể đọc thư mục này: {error}

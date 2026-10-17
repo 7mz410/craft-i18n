@@ -226,6 +226,7 @@
 	April	april
 	Arbitrary Mask	Poljubna maska
 	Archive documents	Arhiviraj dokumente
+	Area	Ploščina
 	ArtCraft website	Spletna stran ArtCraft
 	Ask about this document	Vprašaj o tem dokumentu
 	Asks GitHub for the latest release. Nothing is downloaded or installed automatically.	Vpraša GitHub za najnovejšo izdajo. Ničesar se ne prenese ali namesti samodejno.
@@ -260,6 +261,7 @@
 	Before the number	Pred številko
 	Beveled	Prirezan rob
 	Bicubic downsampling to	Bicubic zmanjšanje vzorčenja na
+	Binary assets removed	Odstranjeni binarni viri
 	Binding	Vezava
 	Binding:	Vezava:
 	Black	Črna
@@ -277,6 +279,7 @@
 	Borders and Colors	Obrobe in barve
 	Both	Oboje
 	Both sides	Obe strani
+	Box	Okvir
 	Bring your own model (off by default)	Uporabite lasten model (privzeto izklopljeno)
 	Browser's print dialog	Pogovorno okno za tiskanje v brskalniku
 	Butt	Raven rob
@@ -294,6 +297,7 @@
 	Cancelling…	Preklicevanje…
 	Case-sensitive	Razlikuj velike in male črke
 	Category:	Kategorija:
+	Center	Sredinsko
 	Center Footer Text	Besedilo noge na sredini
 	Center Header Text	Besedilo glave na sredini
 	Center horizontally	Na sredino vodoravno
@@ -325,8 +329,10 @@
 	Character encoding	Kodiranje znakov
 	Character limit 0 means no limit. A comb of characters needs a limit.	Omejitev znakov 0 pomeni brez omejitve. Glavnik znakov potrebuje omejitev.
 	Character limit:	Omejitev znakov:
+	Character spacing	Razmik med znaki
 	characters	znaki
 	Characters without spaces	Znaki brez presledkov
+	Check	Preveri
 	Check Again	Ponovno preveri
 	Check again	Ponovno preveri
 	Check box is checked by default	Potrditveno polje je privzeto označeno
@@ -487,6 +493,7 @@
 	Create Custom Stamp	Ustvari lasten žig
 	Create custom stamp…	Ustvari lasten žig…
 	Create from	Ustvari iz
+	Create Link	Ustvari povezavo
 	Create link	Ustvari povezavo
 	Create links from URLs	Ustvari povezave iz naslovov URL
 	Create Link…	Ustvari povezavo…
@@ -720,6 +727,7 @@ key	Esc	Esc
 	Exclude tagged tables	Izključi označene tabele
 	Exclusions use PDF tags. Untagged tables and code remain included. Image exclusion also removes invisible text.	Izključitve uporabljajo oznake PDF. Neoznačene tabele in koda ostanejo vključene. Izključitev slik odstrani tudi nevidno besedilo.
 	Execute a menu item	Izvedi element menija
+	Expand	Razširi
 	Expand all	Razširi vse
 	Expand all bookmarks	Razširi vse zaznamke
 	Expand all pages	Razširi vse strani
@@ -793,6 +801,7 @@ scroll speed	Fast	Hitro
 	Files are combined in this order. Leave Pages empty to take every page.	Datoteke se združijo v tem vrstnem redu. Če pustite Strani prazno, se vzamejo vse strani.
 	Files for {name}	Datoteke za {name}
 	Files you open in PdfCraft appear here. Drop a PDF anywhere to open it.	Datoteke, ki jih odprete v PdfCraftu, se prikažejo tukaj. Spustite PDF kamor koli, da ga odprete.
+	Fill	Izpolni
 	Fill & Sign	Izpolni in podpiši
 	Fill & Sign dates	Datumi pri Izpolni in podpiši
 	Fill & Sign signature	Podpis iz orodja Izpolni in podpiši
@@ -828,6 +837,7 @@ scroll speed	Fast	Hitro
 	Find…	Poišči…
 	Finish or discard the text being edited before selecting several objects.	Dokončajte ali opustite urejano besedilo, preden izberete več objektov.
 	First / last page	Prva / zadnja stran
+	Fit	Prilagodi
 	Fit Height	Prilagodi višini
 	Fit one full page	Prilagodi eni celi strani
 	Fit Page	Prilagodi strani
@@ -888,6 +898,7 @@ scroll speed	Fast	Hitro
 	Go to page…	Pojdi na stran…
 	Go to the page	Pojdi na stran
 	Go to this result	Pojdi na ta rezultat
+	Grab bag	Razno
 	Gray	Siva
 	Grayscale Images	Sivinske slike
 	Green	Zelena
@@ -917,6 +928,7 @@ scroll speed	Fast	Hitro
 	High	Visoka
 	High Resolution	Visoka ločljivost
 	High resolution	Visoka ločljivost
+	Highlight	Označi
 	Highlight fields	Označi polja
 	Highlight Style:	Slog označbe:
 	Highlight text	Označi besedilo
@@ -945,6 +957,7 @@ key	Home	Home
 	In this file	V tej datoteki
 	Includes unsaved changes	Vključuje neshranjene spremembe
 	Incorrect password. Try again.	Napačno geslo. Poskusite znova.
+	Indent	Zamik
 	Initial View	Začetni pogled
 	Initials	Začetnice
 	initials	začetnice
@@ -970,6 +983,7 @@ key	Home	Home
 	Installed fonts…	Nameščene pisave…
 	Intended usage	Predvidena uporaba
 	Interface size	Velikost vmesnika
+	Intersection	Presek
 	Intersections	Preseki
 	Invert	Obrni barve
 	Invisible Rectangle	Nevidni pravokotnik
@@ -1026,6 +1040,7 @@ key	Home	Home
 	Light gray	Svetlo siva
 	Light theme	Svetla tema
 	Limit of	Omejitev
+	Line delta	Sprememba vrstic
 	Line ending	Konec črte
 	Line Style:	Slog črte:
 	Line thickness	Debelina črte
@@ -1081,6 +1096,7 @@ key	Home	Home
 	Match field sizes	Uskladi velikosti polj
 	Match page at 100%	Prilagodi strani pri 100 %
 	Maximize	Povečaj
+	Maximum	Največ
 	maximum	največ
 	May	Maj
 	Measure	Izmeri
@@ -1102,6 +1118,7 @@ key	Home	Home
 	Midpoint	Središčna točka
 	Midpoints	Središčne točke
 	Minimize	Pomanjšaj
+	Minimum	Najmanj
 	minimum	najmanj
 	Mixed	Mešano
 	Mobile	Mobilna naprava
@@ -1171,6 +1188,7 @@ key	Home	Home
 	No colour	Brez barve
 	No comments match.	Noben komentar se ne ujema.
 	No comments yet.	Komentarjev še ni.
+	No contributor data was built into this copy.	V to kopijo ni vgrajenih podatkov o sodelujočih.
 	No differences in the text.	V besedilu ni razlik.
 	No digital IDs yet.	Digitalnih identitet še ni.
 	No documents are open	Noben dokument ni odprt
@@ -1184,6 +1202,7 @@ key	Home	Home
 	No matches	Ni zadetkov
 	No matches.	Ni zadetkov.
 	No matching tools	Ni ustreznih orodij
+	No model credits were built into this copy.	V to kopijo ni vgrajenih zahval modelom.
 	No openly licensed document fonts found. Load a font file.	Ni najdenih pisav dokumenta z odprto licenco. Naložite datoteko pisave.
 	no output folder was chosen	izhodna mapa ni bila izbrana
 	No pages match those choices	Nobena stran se ne ujema s temi izbirami
@@ -1220,6 +1239,7 @@ scroll speed	Normal	Običajno
 	Nothing to undo	Ni dejanj za razveljavitev
 	nothing to undo	ni dejanj za razveljavitev
 	November	November
+	Number	Številka
 	Number every page in the footer.	Oštevilči vsako stran v nogi.
 	Number of pages	Število strani
 	Number pages	Oštevilči strani
@@ -1301,6 +1321,7 @@ animation effects	On	Vklopljeni
 	Other elements alternate text	Nadomestno besedilo drugih elementov
 	Other elements that require alternate text	Drugi elementi, ki zahtevajo nadomestno besedilo
 	Outdent	Zmanjšaj zamik
+	Outline	Oris
 	Outline colour:	Barva obrobe:
 	Output	Izhod
 	Output appears here.	Izhod se prikaže tukaj.
@@ -1310,6 +1331,7 @@ animation effects	On	Vklopljeni
 	Owner password (no restrictions apply)	Geslo lastnika (omejitve ne veljajo)
 	Page background	Ozadje strani
 	Page Content	Vsebina strani
+	Page display	Prikaz strani
 	Page display: {layout}	Prikaz strani: {layout}
 	Page does not require timed responses	Stran ne zahteva časovno omejenih odzivov
 	Page grid	Mreža strani
@@ -1578,6 +1600,7 @@ animation effects	On	Vklopljeni
 	Reverse closed arrow	Obrnjena zaprta puščica
 	Reverse open arrow	Obrnjena odprta puščica
 	Reverse pages	Obrni vrstni red strani
+	Reverse the order	Obrni vrstni red
 	Revert	Povrni
 	Revert changes	Razveljavi spremembe
 	Revert to the previously saved version of “{name}”? Changes since then can't be undone afterwards.	Povrniti na prej shranjeno različico dokumenta „{name}“? Sprememb od takrat pozneje ni mogoče razveljaviti.
@@ -1659,6 +1682,7 @@ animation effects	On	Vklopljeni
 	Script Name:	Ime skripta:
 	Script:	Skript:
 	Scripted content must be usable with a keyboard and assistive technology. Check the document's scripts.	Vsebina s skripti mora biti uporabna s tipkovnico in podpornimi tehnologijami. Preverite skripte dokumenta.
+	Scripts	Skripti
 	Scripts run in a sandbox without file or network access. A script that asks to open a web page needs your permission first. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	Skripti se izvajajo v peskovniku brez dostopa do datotek ali omrežja. Skript, ki želi odpreti spletno stran, najprej potrebuje vaše dovoljenje. Ko je JavaScript izklopljen, Acrobatove standardne funkcije za oblikovanje, preverjanje in izračun še vedno delujejo.
 	Scripts run in a sandbox without file or network access. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	Skripti se izvajajo v peskovniku brez dostopa do datotek ali omrežja. Ko je JavaScript izklopljen, Acrobatove standardne funkcije za oblikovanje, preverjanje in izračun še vedno delujejo.
 	Scroll long text	Pomikaj dolgo besedilo
@@ -1803,6 +1827,7 @@ scroll speed	Slow	Počasi
 	Source	Vir
 key	Space	Preslednica
 	Space Audit	Pregled prostora
+	Special	Posebno
 	Split document	Razdeli dokument
 	Split document…	Razdeli dokument…
 	Split into files…	Razdeli na datoteke…
@@ -1824,6 +1849,7 @@ action wizard	Start	Začni
 	Sticky note	Opomba
 	Strength: {s}	Moč: {s}
 	Strikethrough text	Prečrtaj besedilo
+	Strong	Močno
 	Structure Info	Podatki o strukturi
 certificate	Subject	Imetnik
 	Submit a form	Oddaj obrazec
@@ -1945,6 +1971,7 @@ certificate	Subject	Imetnik
 	there are no redaction marks to apply	ni oznak za počrnitev, ki bi jih bilo mogoče uveljaviti
 	These files can't be read, so they won't be in the combined PDF:	Teh datotek ni mogoče prebrati, zato ne bodo v združenem PDF-ju:
 	These objects could not be moved. Select them again and try a smaller move.	Teh objektov ni bilo mogoče premakniti. Izberite jih znova in poskusite z manjšim premikom.
+	Thick	Debelo
 	Thin	Tanko
 	This area has too many overlapping paths; intersection snapping is limited.	To območje ima preveč prekrivajočih se poti; pripenjanje na preseke je omejeno.
 	This certificate is in your list of trusted certificates.	To potrdilo je na vašem seznamu zaupanja vrednih potrdil.
@@ -2065,6 +2092,7 @@ signature pad	Type	Vtipkaj
 	Use now	Uporabi zdaj
 	Use overlay text	Uporabi besedilo prekrivanja
 	Use print production	Uporabi pripravo za tisk
+	Use system setting	Uporabi sistemsko nastavitev
 	Use system title bar	Uporabi sistemsko naslovno vrstico
 	Use {what}	Uporabi: {what}
 	Used when a PDF doesn't ask for a layout or zoom. Continuous scrolling never snaps between pages.	Uporabi se, kadar PDF ne zahteva postavitve ali povečave. Neprekinjeno pomikanje se nikoli ne pripne med strani.
@@ -2129,6 +2157,7 @@ signature pad	Type	Vtipkaj
 	You can pin up to {n} folders. Unpin one first.	Pripnete lahko do {n} map. Najprej eno odpnite.
 	You have version {c}. All releases are listed at {page}.	Imate različico {c}. Vse izdaje so navedene na {page}.
 	You have version {c}. Download the new version from its release page.	Imate različico {c}. Novo različico prenesite z njene strani izdaje.
+	Your changes will be lost if you don't save them.	Vaše spremembe bodo izgubljene, če jih ne shranite.
 	Your name	Vaše ime
 	yyyy or yy year · m or mm month · mmm or mmmm month name · d or dd day · ddd or dddd weekday. H, h, M, s and t are time letters and can't be used on their own: put {escape} before a letter to show it as is.	yyyy ali yy leto · m ali mm mesec · mmm ali mmmm ime meseca · d ali dd dan · ddd ali dddd dan v tednu. H, h, M, s in t so časovne črke in jih ni mogoče uporabiti samostojno: pred črko postavite {escape}, da se prikaže tako, kot je.
 	ZIP	ZIP

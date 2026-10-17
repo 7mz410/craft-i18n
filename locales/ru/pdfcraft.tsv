@@ -286,6 +286,7 @@
 	Cancelling…	Отмена…
 	Case-sensitive	С учётом регистра
 	Category:	Категория:
+	Center	По центру
 	Center Footer Text	Текст нижнего центрального колонтитула
 	Center Header Text	Текст центрального колонтитула
 	Center horizontally	По центру горизонтально
@@ -825,6 +826,7 @@ scroll speed	Fast	Высокая
 	Find…	Найти…
 	Finish or discard the text being edited before selecting several objects.	Завершите или отмените редактирование текста, прежде чем выбирать несколько объектов.
 	First / last page	Первая / последняя страница
+	Fit	По размеру
 	Fit Height	По высоте
 	Fit one full page	По одной полной странице
 	Fit Page	По странице
@@ -946,6 +948,7 @@ key	Home	Home
 	In this file	В этом файле
 	Includes unsaved changes	Включает несохранённые изменения
 	Incorrect password. Try again.	Неверный пароль. Попробуйте снова.
+	Indent	Отступ
 	Index	Индекс
 	Initial View	Начальный вид
 	Initials	Инициалы
@@ -972,6 +975,7 @@ key	Home	Home
 	Installed fonts…	Установленные шрифты…
 	Intended usage	Назначение
 	Interface size	Размер интерфейса
+	Intersection	Пересечение
 	Intersections	Пересечения
 	Invert	Инверсия
 	Invisible Rectangle	Невидимый прямоугольник
@@ -1795,6 +1799,7 @@ scroll speed	Slow	Низкая
 	Source	Источник
 key	Space	Пробел
 	Space Audit	Анализ места
+	Special	Специальный
 	Split document	Разделить документ
 	Split document…	Разделить документ…
 	Split into files…	Разделить на файлы…

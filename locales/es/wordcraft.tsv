@@ -173,6 +173,7 @@
 	Arabic	Árabe
 	Arch Down	Arco hacia abajo
 	Arch Up	Arco hacia arriba
+	Area	Área
 	Arrange	Organizar
 	Arrange\nAll	Organizar\ntodo
 	Arrows	Flechas
@@ -240,6 +241,7 @@
 	Below the item	Debajo del elemento
 	Between	Entre párrafos
 	Bibliography	Bibliografía
+	Binary assets removed	Recursos binarios eliminados
 	Binomial Coefficient	Coeficiente binomial
 	Binomial Coefficient (angle)	Coeficiente binomial (angular)
 	Binomial Coefficient with Angle Brackets	Coeficiente binomial con corchetes angulares
@@ -269,6 +271,7 @@
 	Bottom Margin	Margen inferior
 	Bottom of Page	Parte inferior de la página
 	Bottom Right Cell	Celda inferior derecha
+	Box	Cuadro
 	Boxed Formula	Fórmula enmarcada
 	Boxed Formula (example)	Fórmula enmarcada (ejemplo)
 	Boxed Formulas	Fórmulas enmarcadas
@@ -317,6 +320,7 @@
 	Cell Margins	Márgenes de celda
 	Cell Size	Tamaño de celda
 	Cell\nMargins	Márgenes de\ncelda
+	Center	Centrar
 	Centered	Centrado
 	Centered as Group	Centrado como grupo
 	Centimeters	Centímetros
@@ -349,6 +353,7 @@
 	Character Scale	Escala del carácter
 	Character Shading	Sombreado de carácter
 	Character Spacing	Espaciado de caracteres
+	Character spacing	Espaciado de caracteres
 	Character style	Estilo de carácter
 	Characters (no spaces)	Caracteres (sin espacios)
 	Characters (with spaces)	Caracteres (con espacios)
@@ -357,6 +362,7 @@
 	Chart Design	Diseño de gráfico
 	Chart Layouts	Diseños de gráfico
 	Chart Title	Título del gráfico
+	Check	Carón
 	Check Accessibility	Comprobar accesibilidad
 	Check Box Content Control	Control de contenido de casilla
 	Check Compatibility	Comprobar compatibilidad
@@ -424,6 +430,7 @@
 	Combo Box Content Control	Control de contenido de cuadro combinado
 	Commands	Comandos
 	Commands:	Comandos:
+	Comment	Comentario
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Comentarios junto a cada página y cambios marcados en PDF, impresiones e imágenes; una lista de comentarios al final de páginas web, Markdown y texto.
 	Comments Pane	Panel de comentarios
 	Common Accent Objects	Objetos de acento comunes
@@ -501,6 +508,7 @@
 	Create a Style	Crear un estilo
 	Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document.	Crea un esquema interactivo de tu documento.\n\nEs una buena forma de saber en qué punto estás o de mover tu contenido con rapidez.\n\nPara empezar, ve a la pestaña Inicio y aplica estilos de título a los títulos de tu documento.
 	Create Graphic	Crear gráfico
+	Create Link	Crear vínculo
 	Create New Style	Crear nuevo estilo
 	Create Source	Crear fuente
 	Croatian	Croata
@@ -758,6 +766,7 @@
 	Exceptions (optional)	Excepciones (opcional)
 	Exceptions…	Excepciones…
 	Existing File or Web Page	Archivo o página web existente
+	Expand	Expandir
 	Expand or Collapse Heading	Expandir o contraer título
 	Exponential	Exponencial
 	Exponential series	Serie exponencial
@@ -780,6 +789,7 @@
 	Field…	Campo…
 	Figure	Figura
 	File name:	Nombre de archivo:
+	Fill	Relleno de color
 	Fill color:	Color de relleno:
 	Filling in forms	Rellenar formularios
 	Film	Película
@@ -806,6 +816,7 @@
 	First line:	Primera línea:
 	First Name	Nombre
 	First row of data contains column headers	La primera fila de datos contiene encabezados de columna
+	Fit	Ajustar
 	Fix Position on Page	Fijar posición en la página
 	Fixed Column Width	Ancho de columna fijo
 	Floor	Suelo
@@ -862,6 +873,7 @@
 	Good afternoon	Buenas tardes
 	Good evening	Buenas noches
 	Good morning	Buenos días
+	Grab bag	Miscelánea
 	Grave	Acento grave
 	Grayscale	Escala de grises
 	Greater than	Mayor que
@@ -902,6 +914,7 @@
 	Hide White Space	Ocultar espacio en blanco
 	Hide\nInk	Ocultar\ntinta
 	Hierarchy	Jerarquía
+	Highlight	Resaltado
 	Highlight Merge Fields	Resaltar campos de combinación
 	Highlight\nMerge Fields	Resaltar campos\nde combinación
 	Highlighter	Resaltador
@@ -957,6 +970,7 @@
 	Include page numbers	Incluir números de página
 	Increase Font Size	Aumentar tamaño de fuente
 	Increase Indent	Aumentar sangría
+	Indent	Sangría
 	Indent from left:	Sangría desde la izquierda:
 	Indentation	Sangría
 	Indented	Con sangría
@@ -1036,6 +1050,7 @@
 	Interface theme:	Tema de la interfaz:
 	Interface\nTheme	Tema de la\ninterfaz
 	Internet addresses as links	Direcciones de Internet como vínculos
+	Intersection	Intersección
 	Intersection with Limits	Intersección con límites
 	Intersection with Lower Limit	Intersección con límite inferior
 	Intersection with Subscript-Superscript Limits	Intersección con límites en subíndice y superíndice
@@ -1141,6 +1156,7 @@
 	Line between	Línea entre columnas
 	Line Break	Salto de línea
 	Line breaking	División de líneas
+	Line delta	Diferencia de líneas
 	Line End	Fin de línea
 	Line Number	Número de línea
 	Line Numbering Options…	Opciones de numeración de líneas…
@@ -1216,6 +1232,7 @@
 	Math AutoCorrect	Autocorrección matemática
 	Matrices with Brackets	Matrices con corchetes
 	Matrix	Matriz
+	Maximum	Máximo
 	Maximum Example	Ejemplo de máximo
 	Measured By	Medido por
 	Measurement units:	Unidades de medida:
@@ -1227,6 +1244,7 @@
 	Middle	En medio
 	Midline Dots	Puntos suspensivos centrales
 	Millimeters	Milímetros
+	Minimum	Mínimo
 	Minus Equal	Menos igual
 	Mirror indents	Sangrías simétricas
 	Mirror margins	Márgenes simétricos
@@ -1307,6 +1325,7 @@
 	No Border	Sin bordes
 	No changes (read only)	Sin cambios (solo lectura)
 	No Color	Sin color
+	No contributor data was built into this copy.	Esta copia no incluye datos de colaboradores.
 	No document is open. Create a document or open one first.	No hay ningún documento abierto. Crea uno o abre uno primero.
 	No errors found: every merge field is in the recipient list.	No se encontraron errores: todos los campos de combinación están en la lista de destinatarios.
 	No Fill	Sin relleno
@@ -1315,6 +1334,7 @@
 	No header row	Sin fila de encabezado
 	No icons match your search.	Ningún icono coincide con la búsqueda.
 	No Markup	Sin marcas
+	No model credits were built into this copy.	Esta copia no incluye créditos de modelos.
 	No Outline	Sin contorno
 	No Paragraph Space	Sin espacio entre párrafos
 	No printers found. Configure a system printer or export a PDF.	No se encontraron impresoras. Configura una impresora en el sistema o exporta un PDF.
@@ -1356,6 +1376,7 @@
 	Now used by {command}	Ahora lo usa {command}
 	Nudge	Desplazar ligeramente
 	Num Occurrences	Número de repeticiones
+	Number	Número
 	Number alignment:	Alineación del número:
 	Number format	Formato de número
 	Number of columns:	Número de columnas:
@@ -1423,6 +1444,7 @@
 	Other Large Operators	Otros operadores grandes
 	Other styles and their TOC level:	Otros estilos y su nivel en la tabla:
 	Otherwise insert:	Si no, insertar:
+	Outline	Esquema
 	Outline Level	Nivel de esquema
 	Outline level	Nivel de esquema
 	Outline levels	Niveles de esquema
@@ -1446,6 +1468,7 @@
 	Page break before	Salto de página antes
 	Page Breaks	Saltos de página
 	Page Color	Color de página
+	Page display	Visualización de página
 	Page Down	Av Pág
 	Page image (*.png)	Imagen de página (*.png)
 	Page Movement	Movimiento de página
@@ -1537,6 +1560,7 @@
 	Press a key combination	Pulse una combinación de teclas
 	Preview Results	Vista previa de resultados
 	Preview\nResults	Vista previa\nde resultados
+	Previous	Anterior
 	Previous 1 or More	Anterior 1 o más veces
 	Previous Change	Cambio anterior
 	Previous Comment	Comentario anterior
@@ -1691,6 +1715,7 @@
 	Results	Resultados
 	Return address labels	Etiquetas de remitente
 	Return address:	Dirección del remitente:
+	Reverse the order	Invertir el orden
 	Reviewing	Revisión
 	Reviewing Pane	Panel de revisión
 	Reviewing — edits become suggestions	Revisión — las ediciones pasan a ser sugerencias
@@ -1748,6 +1773,7 @@
 	Scale Drawing	Escalar dibujo
 	Scatter	Dispersión
 	Script	Índice
+	Scripts	Índices
 	Scroll ribbon left	Desplazar la cinta a la izquierda
 	Scroll ribbon right	Desplazar la cinta a la derecha
 	Search Commands	Buscar comandos
@@ -1940,6 +1966,7 @@
 	Spanish (Mexico)	Español (México)
 	Spanish (Spain)	Español (España)
 	Sparse Matrices	Matrices dispersas
+	Special	Especial
 	Special Characters	Caracteres especiales
 	Specify height:	Especificar alto:
 	Speech	Voz
@@ -1978,6 +2005,7 @@
 	Straight Arrow Connector	Conector recto de flecha
 	Straight Connector	Conector recto
 	Stroke {n} of {total}	Trazo {n} de {total}
+	Strong	Fuerte
 	Structure Actions	Acciones de estructura
 	Structures	Estructuras
 	Studio	Estudio
@@ -2110,6 +2138,7 @@
 	These marks show even when Show/Hide ¶ is off.	Estas marcas se muestran aunque Mostrar u ocultar ¶ esté desactivado.
 	These merge fields aren't in the recipient list:	Estos campos de combinación no están en la lista de destinatarios:
 	These settings will be used for new documents.	Esta configuración se usará para los documentos nuevos.
+	Thick	Gruesa
 	This document	Este documento
 	This field has no options.	Este campo no tiene opciones.
 	This folder can't be read: {error}	No se puede leer esta carpeta: {error}
@@ -2228,6 +2257,7 @@ preview	Title	Título
 	URGENT	URGENTE
 	URL	URL
 	Use an Existing List…	Usar una lista existente…
+	Use system setting	Usar la configuración del sistema
 	Use the browser's full screen (F11)	Use la pantalla completa del navegador (F11)
 	Use the Insert key to switch overtype on and off	Usar la tecla Insert para activar y desactivar la sobrescritura
 	Use wildcards	Usar caracteres comodín
@@ -2303,6 +2333,7 @@ preview	Title	Título
 	x bar	x con barra
 	Year	Año
 	Yields	Produce
+	Your changes will be lost if you don't save them.	Si no guardas los cambios, se perderán.
 	Your system doesn't report an animation setting, so animation effects stay on.	Tu sistema no indica ningún ajuste de animación, así que los efectos de animación siguen activados.
 	Your system has animation effects turned off.	Tu sistema tiene desactivados los efectos de animación.
 	Your system has animation effects turned on.	Tu sistema tiene activados los efectos de animación.

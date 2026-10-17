@@ -23,23 +23,17 @@
 	All	Wszystkie
 	All pages	Wszystkie strony
 	Apply	Zastosuj
-	Area	Warstwowy
 	Arrow	Strzałka
 	Author	Autor
 	Auto	Automatycznie
 	Auto ({percent}%)	Automatycznie ({percent}%)
 	Binary assets added	Dodane zasoby binarne
-	Binary assets removed	Usunięte zasoby binarne
 	Bold	Pogrubienie
 	Bottom	Do dołu
 	Bottom:	Dolny:
-	Box	Ramka
 	Browse…	Przeglądaj…
 	Cancel	Anuluj
-	Center	Wyśrodkuj
-	Character spacing	Odstępy między znakami
 	Characters	Znaki
-	Check	Daszek odwrócony
 	Circle	Okrąg
 	Clear	Wyczyść
 	Clear All	Wyczyść wszystko
@@ -49,7 +43,6 @@
 	Color	Kolor
 	Color:	Kolor:
 	Combine	Połącz
-	Comment	Komentarz
 	Comments	Komentarze
 	Commits	Commity
 	Company	Firma
@@ -58,7 +51,6 @@
 	Convert	Konwertuj
 	Copy	Kopiuj
 	Create	Utwórz
-	Create Link	Utwórz łącze
 	Current page	Bieżąca strona
 	Custom	Niestandardowe
 	Cut	Wytnij
@@ -81,16 +73,13 @@
 	Eraser	Gumka
 	Even pages only	Tylko strony parzyste
 	Example: {sample}	Przykład: {sample}
-	Expand	Rozwiń
 	Export	Eksportuj
 	Field	Pole
 	Field properties	Właściwości pola
 	Fields	Pola
 	File	Plik
-	Fill	Wypełnienie
 	First	Pierwszy
 	First commit	Pierwszy commit
-	Fit	Dopasuj
 	Flip Horizontal	Przerzuć w poziomie
 	Flip Vertical	Przerzuć w pionie
 	Font	Czcionka
@@ -100,20 +89,16 @@
 	Format:	Format:
 	Full Screen	Pełny ekran
 	General	Ogólne
-	Grab bag	Mieszanka
 	Graphic	Grafika
 	Headings	Nagłówki
 	Height:	Wysokość:
 	Help	Pomoc
 	Hidden text	Tekst ukryty
-	Highlight	Wyróżnienie
 	Home	Start
 	Horizontal	Poziomo
-	Indent	Wcięcie
 	Index	Indeks
 	Insert	Wstaw
 	Interface language	Język interfejsu
-	Intersection	Iloczyn zbiorów
 	Italic	Kursywa
 	Justify	Wyjustuj
 	Keywords	Słowa kluczowe
@@ -127,7 +112,6 @@
 	Left:	Lewe:
 	Light	Jasny
 	Line	Linia
-	Line delta	Bilans wierszy
 	Line spacing	Interlinia
 	Lines +/−	Wiersze +/−
 	Lines added	Dodane wiersze
@@ -136,10 +120,8 @@
 	List	Lista
 	Location	Położenie
 	Margins	Marginesy
-	Maximum	Maksimum
 	Medium	Średnia
 	Merged PRs	Scalone PR-y
-	Minimum	Minimum
 	Model	Model
 	Models	Modele
 	Name	Nazwa
@@ -147,11 +129,8 @@
 	Name:	Nazwa:
 	Next	Następny
 	No	Nie
-	No contributor data was built into this copy.	Ta kopia programu nie zawiera danych o współtwórcach.
 	No limit	Bez limitu
-	No model credits were built into this copy.	Ta kopia programu nie zawiera informacji o modelach.
 	None	Brak
-	Number	Numer
 	Odd pages only	Tylko strony nieparzyste
 	Off	Wyłączone
 	OK	OK
@@ -159,17 +138,14 @@
 	Open	Otwórz
 	Options	Opcje
 	Options…	Opcje…
-	Outline	Konspekt
 	Oval	Owal
 	Page	Strona
-	Page display	Wyświetlanie strony
 	Pages	Strony
 	Password	Hasło
 	Paste	Wklej
 	Portrait	Pionowa
 	Position	Położenie
 	Preview	Podgląd
-	Previous	Poprzedni
 	Print	Drukuj
 	Printing	Drukowanie
 	Protect	Ochrona
@@ -185,14 +161,12 @@
 	Replace	Zamień
 	Reply	Odpowiedz
 	Report	Raport
-	Reverse the order	Odwróć kolejność
 	Review	Recenzja
 	Right	Do prawej
 	Rotate	Obróć
 	Rotation	Obrót
 	Rotation:	Obrót:
 	Save	Zapisz
-	Scripts	Indeksy
 	Search	Wyszukaj
 	Select All	Zaznacz wszystko
 	Selected pages	Wybrane strony
@@ -201,13 +175,11 @@
 	Size	Rozmiar
 	Sort	Sortuj
 	Sort by	Sortuj według
-	Special	Specjalne
 	Split	Podziel
 	Square	Kwadrat
 	Standard	Standardowe
 	Star	Gwiazda
 	Strikethrough	Przekreślenie
-	Strong	Pogrubienie
 	Style	Styl
 	Subject	Temat
 	System	Systemowe
@@ -215,7 +187,6 @@
 	Tables	Tabele
 	Text	Tekst
 	The passwords don't match.	Hasła nie są zgodne.
-	Thick	Grube
 	Thickness	Grubość linii
 	This document has no bookmarks.	Ten dokument nie zawiera zakładek.
 	Title	Tytuł
@@ -228,7 +199,6 @@
 	Undo	Cofnij
 	Undo {action}	Cofnij: {action}
 	Up	W górę
-	Use system setting	Użyj ustawienia systemowego
 	Username	Nazwa użytkownika
 	Version	Wersja
 	Vertical	Pionowo
@@ -237,5 +207,4 @@
 	Width:	Szerokość:
 	Words	Słowa
 	Yes	Tak
-	Your changes will be lost if you don't save them.	Jeśli nie zapiszesz zmian, zostaną utracone.
 	Zoom	Powiększenie

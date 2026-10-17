@@ -23,23 +23,17 @@
 	All	అన్నీ
 	All pages	అన్ని పేజీలు
 	Apply	వర్తింపజేయి
-	Area	వైశాల్యం
 	Arrow	బాణం
 	Author	రచయిత
 	Auto	ఆటో
 	Auto ({percent}%)	ఆటో ({percent}%)
 	Binary assets added	జోడించిన బైనరీ ఫైల్‌లు
-	Binary assets removed	తీసివేసిన బైనరీ ఫైల్‌లు
 	Bold	బోల్డ్
 	Bottom	కింద
 	Bottom:	కింద:
-	Box	బాక్స్
 	Browse…	బ్రౌజ్ చేయి…
 	Cancel	రద్దు చేయి
-	Center	మధ్య
-	Character spacing	అక్షర అంతరం
 	Characters	అక్షరాలు
-	Check	టిక్ గుర్తు
 	Circle	వృత్తం
 	Clear	క్లియర్ చేయి
 	Clear All	అన్నీ క్లియర్ చేయి
@@ -56,7 +50,6 @@
 	Convert	మార్పిడి
 	Copy	కాపీ చేయి
 	Create	సృష్టించు
-	Create Link	లింక్‌ను సృష్టించు
 	Current page	ప్రస్తుత పేజీ
 	Custom	అనుకూల
 	Cut	కత్తిరించు
@@ -79,16 +72,13 @@
 	Eraser	ఎరేజర్
 	Even pages only	సరి పేజీలు మాత్రమే
 	Example: {sample}	ఉదాహరణ: {sample}
-	Expand	విస్తరించు
 	Export	ఎగుమతి చేయి
 	Field	ఫీల్డ్
 	Field properties	ఫీల్డ్ లక్షణాలు
 	Fields	ఫీల్డ్‌లు
 	File	ఫైల్
-	Fill	నింపడం
 	First	మొదటి
 	First commit	మొదటి కమిట్
-	Fit	సరిపోయేలా
 	Flip Horizontal	అడ్డంగా తిరగేయి
 	Flip Vertical	నిలువుగా తిరగేయి
 	Font:	ఫాంట్:
@@ -97,20 +87,16 @@
 	Format:	ఫార్మాట్:
 	Full Screen	పూర్తి తెర
 	General	సాధారణం
-	Grab bag	జాబితా
 	Graphic	గ్రాఫిక్
 	Headings	హెడింగ్‌లు
 	Height:	ఎత్తు:
 	Help	సహాయం
 	Hidden text	దాచిన టెక్స్ట్
-	Highlight	హైలైట్
 	Home	హోమ్
 	Horizontal	అడ్డంగా
-	Indent	లోపలికి జరుపు
 	Index	ఇండెక్స్
 	Insert	చొప్పించు
 	Interface language	ఇంటర్‌ఫేస్ భాష
-	Intersection	ఖండన బిందువు
 	Italic	ఇటాలిక్
 	Justify	రెండు వైపులా అమర్చు
 	Keywords	కీలక పదాలు
@@ -124,7 +110,6 @@
 	Left:	ఎడమ:
 	Light	లైట్
 	Line	గీత
-	Line delta	పంక్తుల నికర మార్పు
 	Line spacing	పంక్తి అంతరం
 	Lines +/−	పంక్తులు +/−
 	Lines added	జోడించిన పంక్తులు
@@ -133,31 +118,24 @@
 	List	లిస్ట్ బాక్స్
 	Location	స్థానం
 	Margins	మార్జిన్‌లు
-	Maximum	గరిష్ఠం
 	Medium	మధ్యస్థం
 	Merged PRs	విలీనం చేసిన PRలు
-	Minimum	కనిష్ఠం
 	Model	మోడల్
 	Models	మోడల్‌లు
 	Name	పేరు
 	Name (A–Z)	పేరు (A–Z)
 	Name:	పేరు:
 	No	కాదు
-	No contributor data was built into this copy.	ఈ కాపీలో సహకారుల డేటా ఏదీ చేర్చబడలేదు.
 	No limit	పరిమితి లేదు
-	No model credits were built into this copy.	ఈ కాపీలో మోడల్‌ల సహకార వివరాలు ఏవీ చేర్చబడలేదు.
 	None	ఏదీ లేదు
-	Number	సంఖ్య
 	Odd pages only	బేసి పేజీలు మాత్రమే
 	Off	ఆఫ్
 	OK	సరే
 	Open	తెరువు
 	Options	ఎంపికలు
 	Options…	ఎంపికలు…
-	Outline	అవుట్‌లైన్
 	Oval	అండాకారం
 	Page	పేజీ
-	Page display	పేజీ ప్రదర్శన
 	Pages	పేజీలు
 	Password	పాస్‌వర్డ్
 	Portrait	నిలువు
@@ -177,14 +155,12 @@
 	Replace	భర్తీ చేయి
 	Reply	ప్రత్యుత్తరం ఇవ్వు
 	Report	నివేదిక
-	Reverse the order	వ్యతిరేక క్రమానికి మార్చు
 	Review	సమీక్ష
 	Right	కుడి
 	Rotate	తిప్పు
 	Rotation	భ్రమణం
 	Rotation:	భ్రమణం:
 	Save	సేవ్ చేయి
-	Scripts	స్క్రిప్ట్‌లు
 	Search	శోధన
 	Select All	అన్నీ ఎంచుకో
 	Selected pages	ఎంచుకున్న పేజీలు
@@ -193,20 +169,17 @@
 	Size	పరిమాణం
 	Sort	క్రమపరిచే విధానం
 	Sort by	క్రమపరిచే విధానం
-	Special	ప్రత్యేకం
 	Split	విభజించు
 	Square	చతురస్రం
 	Standard	ప్రామాణికం
 	Star	నక్షత్రం
 	Strikethrough	కొట్టివేత
-	Strong	బలమైనది
 	Style	శైలి
 	Subject	విషయం
 	Table	పట్టిక
 	Tables	పట్టికలు
 	Text	టెక్స్ట్
 	The passwords don't match.	పాస్‌వర్డ్‌లు సరిపోలడం లేదు.
-	Thick	మందమైన
 	Thickness	మందం
 	This document has no bookmarks.	ఈ పత్రంలో బుక్‌మార్క్‌లు లేవు.
 	Title	శీర్షిక
@@ -219,7 +192,6 @@
 	Undo	రద్దు చేయి
 	Undo {action}	రద్దు చేయి: {action}
 	Up	పైకి
-	Use system setting	సిస్టమ్ సెట్టింగ్‌ను ఉపయోగించు
 	Username	వినియోగదారు పేరు
 	Version	వెర్షన్
 	Vertical	నిలువుగా
@@ -228,5 +200,4 @@
 	Width:	వెడల్పు:
 	Words	పదాలు
 	Yes	అవును
-	Your changes will be lost if you don't save them.	మీరు సేవ్ చేయకపోతే మీ మార్పులు పోతాయి.
 	Zoom	జూమ్

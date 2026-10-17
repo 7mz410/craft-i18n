@@ -23,23 +23,17 @@
 	All	Все
 	All pages	Все страницы
 	Apply	Применить
-	Area	С областями
 	Arrow	Стрелка
 	Author	Автор
 	Auto	Авто
 	Auto ({percent}%)	Авто ({percent}%)
 	Binary assets added	Добавлены двоичные ресурсы
-	Binary assets removed	Удалены двоичные ресурсы
 	Bold	Полужирный
 	Bottom	Снизу
 	Bottom:	Снизу:
-	Box	Рамка
 	Browse…	Обзор…
 	Cancel	Отмена
-	Center	По центру
-	Character spacing	Межзнаковый интервал
 	Characters	Знаки
-	Check	Галка
 	Circle	Круг
 	Clear	Очистить
 	Clear All	Очистить всё
@@ -49,7 +43,6 @@
 	Color	Цвет
 	Color:	Цвет:
 	Combine	Объединить
-	Comment	Комментарий
 	Comments	Комментарии
 	Commits	Коммиты
 	Company	Организация
@@ -58,7 +51,6 @@
 	Convert	Преобразовать
 	Copy	Копировать
 	Create	Создать
-	Create Link	Создать связь
 	Current page	Текущая страница
 	Custom	Другая
 	Cut	Вырезать
@@ -81,16 +73,13 @@
 	Eraser	Ластик
 	Even pages only	Только чётные страницы
 	Example: {sample}	Пример: {sample}
-	Expand	Расширить
 	Export	Экспорт
 	Field	Поле
 	Field properties	Свойства поля
 	Fields	Поля
 	File	Файл
-	Fill	Заливка
 	First	Первый
 	First commit	Первый коммит
-	Fit	По размеру
 	Flip Horizontal	Отразить слева направо
 	Flip Vertical	Отразить сверху вниз
 	Font	Шрифт
@@ -100,20 +89,16 @@
 	Format:	Формат:
 	Full Screen	Во весь экран
 	General	Общие
-	Grab bag	Разное
 	Graphic	Графический объект
 	Headings	Заголовки
 	Height:	Высота:
 	Help	Справка
 	Hidden text	Скрытый текст
-	Highlight	Выделение цветом
 	Home	Главная
 	Horizontal	Горизонтально
-	Indent	Отступ
 	Index	Предметный указатель
 	Insert	Вставка
 	Interface language	Язык интерфейса
-	Intersection	Пересечение
 	Italic	Курсив
 	Justify	По ширине
 	Keywords	Ключевые слова
@@ -127,7 +112,6 @@
 	Left:	Слева:
 	Light	Светлая
 	Line	Линия
-	Line delta	Изменение числа строк
 	Line spacing	Межстрочный интервал
 	Lines +/−	Строки +/−
 	Lines added	Добавлено строк
@@ -136,10 +120,8 @@
 	List	Список
 	Location	Расположение
 	Margins	Поля
-	Maximum	Максимум
 	Medium	Средняя
 	Merged PRs	Принятые PR
-	Minimum	Минимум
 	Model	Модель
 	Models	Модели
 	Name	Имя
@@ -147,11 +129,8 @@
 	Name:	Имя:
 	Next	Далее
 	No	Нет
-	No contributor data was built into this copy.	В эту сборку не включены данные об участниках.
 	No limit	Без ограничения
-	No model credits were built into this copy.	В эту сборку не включены сведения о моделях.
 	None	Нет
-	Number	Номер
 	Odd pages only	Только нечётные страницы
 	Off	Выключено
 	OK	ОК
@@ -159,17 +138,14 @@
 	Open	Открыть
 	Options	Параметры
 	Options…	Параметры…
-	Outline	Структура
 	Oval	Овал
 	Page	Страница
-	Page display	Отображение страницы
 	Pages	Страницы
 	Password	Пароль
 	Paste	Вставить
 	Portrait	Книжная
 	Position	Положение
 	Preview	Предварительный просмотр
-	Previous	Назад
 	Print	Печать
 	Printing	Печать
 	Protect	Защита
@@ -185,14 +161,12 @@
 	Replace	Заменить
 	Reply	Ответить
 	Report	Отчёт
-	Reverse the order	В обратном порядке
 	Review	Рецензирование
 	Right	Справа
 	Rotate	Повернуть
 	Rotation	Поворот
 	Rotation:	Поворот:
 	Save	Сохранить
-	Scripts	Индексы
 	Search	Поиск
 	Select All	Выделить всё
 	Selected pages	Выбранные страницы
@@ -201,13 +175,11 @@
 	Size	Размер
 	Sort	Сортировка
 	Sort by	Сортировать по
-	Special	Специальный
 	Split	Разделить
 	Square	Квадрат
 	Standard	Обычные
 	Star	Звезда
 	Strikethrough	Зачёркнутый
-	Strong	Строгий
 	Style	Стиль
 	Subject	Тема
 	System	Системные
@@ -215,7 +187,6 @@
 	Tables	Таблицы
 	Text	Текст
 	The passwords don't match.	Пароли не совпадают.
-	Thick	Толстый
 	Thickness	Толщина
 	This document has no bookmarks.	В этом документе нет закладки.
 	Title	Заголовок
@@ -228,7 +199,6 @@
 	Undo	Отменить
 	Undo {action}	Отменить: {action}
 	Up	Вверх
-	Use system setting	Как в системе
 	Username	Имя пользователя
 	Version	Версия
 	Vertical	Вертикально
@@ -237,5 +207,4 @@
 	Width:	Ширина:
 	Words	Слова
 	Yes	Да
-	Your changes will be lost if you don't save them.	Если не сохранить изменения, они будут потеряны.
 	Zoom	Масштаб

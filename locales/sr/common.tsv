@@ -23,21 +23,16 @@
 	All	Сви
 	All pages	Све странице
 	Apply	Примени
-	Area	Површински
 	Arrow	Стрелица
 	Author	Аутор
 	Auto	Аутоматски
 	Auto ({percent}%)	Аутоматски ({percent}%)
 	Binary assets added	Додати бинарни ресурси
-	Binary assets removed	Уклоњени бинарни ресурси
 	Bold	Подебљано
 	Bottom	Доле
 	Bottom:	Доле:
-	Box	Оквир
 	Browse…	Потражи…
 	Cancel	Откажи
-	Center	Центрирај
-	Character spacing	Размак између знакова
 	Characters	Знакови
 	Circle	Круг
 	Clear	Обриши
@@ -48,7 +43,6 @@
 	Color	Боја
 	Color:	Боја:
 	Combine	Споји
-	Comment	Коментар
 	Comments	Коментари
 	Commits	Commit-ови
 	Company	Предузеће
@@ -56,7 +50,6 @@
 	Convert	Претвори
 	Copy	Копирај
 	Create	Направи
-	Create Link	Направи везу
 	Current page	Тренутна страница
 	Custom	Прилагођено
 	Cut	Исеци
@@ -78,16 +71,13 @@
 	Eraser	Гумица
 	Even pages only	Само парне странице
 	Example: {sample}	Пример: {sample}
-	Expand	Прошири
 	Export	Извоз
 	Field	Поље
 	Field properties	Својства поља
 	Fields	Поља
 	File	Фајл
-	Fill	Испуна
 	First	Први
 	First commit	Први commit
-	Fit	Прилагоди
 	Flip Horizontal	Окрени хоризонтално
 	Flip Vertical	Окрени вертикално
 	Font	Фонт
@@ -97,16 +87,13 @@
 	Format:	Формат:
 	Full Screen	Цео екран
 	General	Опште
-	Grab bag	Разно
 	Graphic	Графика
 	Headings	Наслови
 	Height:	Висина:
 	Help	Помоћ
 	Hidden text	Скривени текст
-	Highlight	Истицање
 	Home	Почетак
 	Horizontal	Хоризонтално
-	Indent	Увлачење
 	Index	Индекс
 	Insert	Уметање
 	Interface language	Језик интерфејса
@@ -122,7 +109,6 @@
 	Left:	Лево:
 	Light	Светла
 	Line	Линија
-	Line delta	Промена броја редова
 	Line spacing	Проређеност
 	Lines +/−	Редови +/−
 	Lines added	Додати редови
@@ -139,11 +125,8 @@
 	Name:	Назив:
 	Next	Следеће
 	No	Не
-	No contributor data was built into this copy.	Ова верзија не садржи податке о сарадницима.
 	No limit	Без ограничења
-	No model credits were built into this copy.	Ова верзија не садржи заслуге за AI моделе.
 	None	Ниједно
-	Number	Број
 	Odd pages only	Само непарне странице
 	Off	Искључено
 	OK	У реду
@@ -151,17 +134,14 @@
 	Open	Отвори
 	Options	Опције
 	Options…	Опције…
-	Outline	Контура
 	Oval	Овално
 	Page	Страна
-	Page display	Приказ стране
 	Pages	Стране
 	Password	Лозинка
 	Paste	Налепи
 	Portrait	Усправно
 	Position	Положај
 	Preview	Преглед
-	Previous	Претходно
 	Print	Штампај
 	Printing	Штампање
 	Protect	Заштити
@@ -177,7 +157,6 @@
 	Replace	Замени
 	Reply	Одговори
 	Report	Извештај
-	Reverse the order	Обрни редослед
 	Review	Преглед
 	Right	Десно
 	Rotate	Ротирај
@@ -192,7 +171,6 @@
 	Size	Величина папира
 	Sort	Сортирај
 	Sort by	Сортирај по
-	Special	Посебно
 	Split	Подели
 	Square	Квадратно
 	Standard	Стандардне
@@ -204,7 +182,6 @@
 	Tables	Табеле
 	Text	Текст
 	The passwords don't match.	Лозинке се не подударају.
-	Thick	Дебело
 	Thickness	Дебљина
 	Title	Наслов
 	Tools	Алати
@@ -216,7 +193,6 @@
 	Undo	Опозови
 	Undo {action}	Опозови {action}
 	Up	Горе
-	Use system setting	Према подешавању система
 	Username	Корисничко име
 	Version	Верзија
 	Vertical	Усправно
@@ -225,5 +201,4 @@
 	Width:	Ширина:
 	Words	Речи
 	Yes	Да
-	Your changes will be lost if you don't save them.	Ваше измене ће бити изгубљене ако их не сачувате.
 	Zoom	Зумирање

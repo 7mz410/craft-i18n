@@ -23,23 +23,17 @@
 	All	Όλες
 	All pages	Όλες οι σελίδες
 	Apply	Εφαρμογή
-	Area	Εμβαδόν
 	Arrow	Βέλος
 	Author	Συντάκτης
 	Auto	Αυτόματα
 	Auto ({percent}%)	Αυτόματο ({percent}%)
 	Binary assets added	Δυαδικά στοιχεία που προστέθηκαν
-	Binary assets removed	Δυαδικά στοιχεία που αφαιρέθηκαν
 	Bold	Έντονα
 	Bottom	Κάτω
 	Bottom:	Κάτω:
-	Box	Πλαίσιο
 	Browse…	Περιήγηση…
 	Cancel	Ακύρωση
-	Center	Κέντρο
-	Character spacing	Απόσταση χαρακτήρων
 	Characters	Χαρακτήρες
-	Check	Σημάδι επιλογής
 	Circle	Κύκλος
 	Clear	Εκκαθάριση
 	Clear All	Εκκαθάριση όλων
@@ -56,7 +50,6 @@
 	Convert	Μετατροπή
 	Copy	Αντιγραφή
 	Create	Δημιουργία
-	Create Link	Δημιουργία συνδέσμου
 	Current page	Τρέχουσα σελίδα
 	Custom	Προσαρμοσμένο
 	Cut	Αποκοπή
@@ -79,16 +72,13 @@
 	Eraser	Γόμα
 	Even pages only	Μόνο ζυγές σελίδες
 	Example: {sample}	Παράδειγμα: {sample}
-	Expand	Ανάπτυξη
 	Export	Εξαγωγή
 	Field	Πεδίο
 	Field properties	Ιδιότητες πεδίου
 	Fields	Πεδία
 	File	Αρχείο
-	Fill	Συμπλήρωση
 	First	Πρώτο
 	First commit	Πρώτη καταχώριση
-	Fit	Προσαρμογή
 	Flip Horizontal	Οριζόντια αναστροφή
 	Flip Vertical	Κατακόρυφη αναστροφή
 	Font:	Γραμματοσειρά:
@@ -97,20 +87,16 @@
 	Format:	Μορφή:
 	Full Screen	Πλήρης οθόνη
 	General	Γενικά
-	Grab bag	Διάφορα
 	Graphic	Γραφικό
 	Headings	Επικεφαλίδες
 	Height:	Ύψος:
 	Help	Βοήθεια
 	Hidden text	Κρυφό κείμενο
-	Highlight	Επισήμανση
 	Home	Αρχική
 	Horizontal	Οριζόντια
-	Indent	Αύξηση εσοχής
 	Index	Ευρετήριο
 	Insert	Εισαγωγή
 	Interface language	Γλώσσα περιβάλλοντος
-	Intersection	Σημείο τομής
 	Italic	Πλάγια
 	Justify	Πλήρης στοίχιση
 	Keywords	Λέξεις-κλειδιά
@@ -124,7 +110,6 @@
 	Left:	Αριστερά:
 	Light	Ανοιχτό
 	Line	Γραμμή
-	Line delta	Μεταβολή γραμμών
 	Line spacing	Διάστιχο
 	Lines +/−	Γραμμές +/−
 	Lines added	Γραμμές που προστέθηκαν
@@ -133,31 +118,24 @@
 	List	Λίστα
 	Location	Τοποθεσία
 	Margins	Περιθώρια
-	Maximum	Μέγιστη
 	Medium	Μέτριος
 	Merged PRs	Συγχωνευμένα αιτήματα αλλαγών
-	Minimum	Ελάχιστη
 	Model	Μοντέλο
 	Models	Μοντέλα
 	Name	Όνομα
 	Name (A–Z)	Όνομα (Α–Ω)
 	Name:	Όνομα:
 	No	Όχι
-	No contributor data was built into this copy.	Αυτή η έκδοση δεν περιλαμβάνει δεδομένα συντελεστών.
 	No limit	Χωρίς όριο
-	No model credits were built into this copy.	Αυτή η έκδοση δεν περιλαμβάνει πληροφορίες αναγνώρισης συνεισφορών μοντέλων.
 	None	Κανένα
-	Number	Αριθμός
 	Odd pages only	Μόνο μονές σελίδες
 	Off	Ανενεργό
 	OK	Εντάξει
 	Open	Άνοιγμα
 	Options	Επιλογές
 	Options…	Επιλογές…
-	Outline	Περίγραμμα
 	Oval	Έλλειψη
 	Page	Σελίδα
-	Page display	Εμφάνιση σελίδων
 	Pages	Σελίδες
 	Password	Κωδικός πρόσβασης
 	Portrait	Κατακόρυφος
@@ -177,14 +155,12 @@
 	Replace	Αντικατάσταση
 	Reply	Απάντηση
 	Report	Αναφορά
-	Reverse the order	Αντιστροφή σειράς
 	Review	Ανασκόπηση
 	Right	Δεξιά
 	Rotate	Περιστροφή
 	Rotation	Περιστροφή
 	Rotation:	Περιστροφή:
 	Save	Αποθήκευση
-	Scripts	Σενάρια εντολών
 	Search	Αναζήτηση
 	Select All	Επιλογή όλων
 	Selected pages	Επιλεγμένες σελίδες
@@ -193,20 +169,17 @@
 	Size	Μέγεθος
 	Sort	Ταξινόμηση
 	Sort by	Ταξινόμηση κατά
-	Special	Ειδικό
 	Split	Διαχωρισμός
 	Square	Τετράγωνο
 	Standard	Τυπικές
 	Star	Αστέρι
 	Strikethrough	Διακριτή διαγραφή
-	Strong	Ισχυρός
 	Style	Στυλ
 	Subject	Θέμα
 	Table	Πίνακας
 	Tables	Πίνακες
 	Text	Κείμενο
 	The passwords don't match.	Οι κωδικοί πρόσβασης δεν ταιριάζουν.
-	Thick	Παχύ
 	Thickness	Πάχος
 	This document has no bookmarks.	Αυτό το έγγραφο δεν έχει σελιδοδείκτες.
 	Title	Τίτλος
@@ -219,7 +192,6 @@
 	Undo	Αναίρεση
 	Undo {action}	Αναίρεση ενέργειας: {action}
 	Up	Πάνω
-	Use system setting	Χρήση ρύθμισης συστήματος
 	Username	Όνομα χρήστη
 	Version	Έκδοση
 	Vertical	Κατακόρυφα
@@ -228,5 +200,4 @@
 	Width:	Πλάτος:
 	Words	Λέξεις
 	Yes	Ναι
-	Your changes will be lost if you don't save them.	Οι αλλαγές σας θα χαθούν εάν δεν τις αποθηκεύσετε.
 	Zoom	Μεγέθυνση

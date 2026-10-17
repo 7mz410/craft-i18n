@@ -174,6 +174,7 @@
 	Arabic	Арабски
 	Arch Down	Дъга надолу
 	Arch Up	Дъга нагоре
+	Area	Площна
 	Arrange	Подреждане
 	Arrange\nAll	Подреждане\nна всички
 	Arrows	Стрелки
@@ -241,6 +242,7 @@
 	Below the item	Под елемента
 	Between	Между
 	Bibliography	Библиография
+	Binary assets removed	Премахнати двоични ресурси
 	Binomial Coefficient	Биномен коефициент
 	Binomial Coefficient (angle)	Биномен коефициент (ъглови скоби)
 	Binomial Coefficient with Angle Brackets	Биномен коефициент в ъглови скоби
@@ -270,6 +272,7 @@
 	Bottom Margin	Долно поле
 	Bottom of Page	Долу на страницата
 	Bottom Right Cell	Долна дясна клетка
+	Box	Каре
 	Boxed Formula	Формула в рамка
 	Boxed Formula (example)	Формула в рамка (пример)
 	Boxed Formulas	Формули в рамка
@@ -318,6 +321,7 @@
 	Cell Margins	Полета на клетката
 	Cell Size	Размер на клетката
 	Cell\nMargins	Полета на\nклетката
+	Center	Центриране
 	Centered	Центрирано
 	Centered as Group	Центрирано като група
 	Centimeters	Сантиметри
@@ -355,6 +359,7 @@
 	Character Scale	Мащаб на знаците
 	Character Shading	Засенчване на знаци
 	Character Spacing	Разстояние между знаците
+	Character spacing	Разстояние между знаците
 	Character style	Стил на знаци
 	Characters (no spaces)	Знаци (без интервали)
 	Characters (with spaces)	Знаци (с интервали)
@@ -363,6 +368,7 @@
 	Chart Design	Дизайн на диаграма
 	Chart Layouts	Оформления на диаграмата
 	Chart Title	Заглавие на диаграмата
+	Check	Хачек
 	Check Accessibility	Проверка на достъпността
 	Check Box Content Control	Контрола за съдържание с отметка
 	Check Compatibility	Проверка на съвместимостта
@@ -431,6 +437,7 @@
 	Combo Box Content Control	Контрола за съдържание с комбинирано поле
 	Commands	Команди
 	Commands:	Команди:
+	Comment	Коментар
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Коментари до всяка страница и проследени промени в PDF файлове, разпечатки и изображения; списък с коментари в края при уеб страници, Markdown и текст.
 	Comments Pane	Панел с коментари
 	Common Accent Objects	Често използвани диакритични знаци
@@ -508,6 +515,7 @@
 	Create a Style	Създаване на стил
 	Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document.	Създайте интерактивна структура на документа си.\n\nТова е чудесен начин да следите къде се намирате или бързо да премествате съдържанието.\n\nЗа да започнете, отидете в раздела „Начало“ и приложете стилове за заглавия към заглавията в документа.
 	Create Graphic	Създаване на графика
+	Create Link	Създаване на връзка
 	Create New Style	Създаване на нов стил
 	Create Source	Създаване на източник
 	Croatian	Хърватски
@@ -765,6 +773,7 @@
 	Exceptions (optional)	Изключения (по избор)
 	Exceptions…	Изключения…
 	Existing File or Web Page	Съществуващ файл или уеб страница
+	Expand	Разширяване
 	Expand or Collapse Heading	Разгъване или свиване на заглавието
 	Exponential	Експонента
 	Exponential series	Експоненциален ред
@@ -787,6 +796,7 @@
 	Field…	Поле…
 	Figure	Фигура
 	File name:	Име на файла:
+	Fill	Запълване
 	Fill color:	Цвят на запълване:
 	Filling in forms	Попълване на формуляри
 	Film	Филм
@@ -813,6 +823,7 @@
 	First line:	Първи ред:
 	First Name	Име
 	First row of data contains column headers	Първият ред с данни съдържа заглавия на колони
+	Fit	Побиране
 	Fix Position on Page	Фиксирана позиция на страницата
 	Fixed Column Width	Фиксирана ширина на колоните
 	Floor	Долна цяла част
@@ -873,6 +884,7 @@
 	Good morning	Добро утро
 	GOST (name sort)	GOST (сортиране по име)
 	GOST (title sort)	GOST (сортиране по заглавие)
+	Grab bag	Смесица
 	Grave	Тежко ударение
 	Grayscale	Нюанси на сивото
 	Greater than	По-голямо от
@@ -920,6 +932,7 @@
 	Hide White Space	Скриване на празното пространство
 	Hide\nInk	Скриване на\nмастилото
 	Hierarchy	Йерархия
+	Highlight	Осветяване
 	Highlight Merge Fields	Осветяване на полетата за обединяване
 	Highlight\nMerge Fields	Осветяване на\nполетата за обединяване
 	Highlighter	Маркер
@@ -976,6 +989,7 @@
 	Include page numbers	Включване на номера на страници
 	Increase Font Size	Увеличаване на размера на шрифта
 	Increase Indent	Увеличаване на отстъпа
+	Indent	Отстъп
 	Indent from left:	Отстъп отляво:
 	Indentation	Отстъпи
 	Indented	С отстъп
@@ -1057,6 +1071,7 @@
 	Interface theme:	Тема на интерфейса:
 	Interface\nTheme	Тема на\nинтерфейса
 	Internet addresses as links	Интернет адреси като връзки
+	Intersection	Сечение
 	Intersection with Limits	Сечение с граници
 	Intersection with Lower Limit	Сечение с долна граница
 	Intersection with Subscript-Superscript Limits	Сечение с граници като индекси
@@ -1166,6 +1181,7 @@
 	Line between	Разделителна линия
 	Line Break	Нов ред
 	Line breaking	Пренасяне на редове
+	Line delta	Разлика в редовете
 	Line End	Край на реда
 	Line Number	Номер на ред
 	Line Numbering Options…	Опции за номериране на редовете…
@@ -1246,6 +1262,7 @@
 	Math AutoCorrect	Автокорекция на математически изрази
 	Matrices with Brackets	Матрици в скоби
 	Matrix	Матрица
+	Maximum	Максимум
 	Maximum Example	Пример за максимум
 	Measured By	Измерено чрез
 	Measurement units:	Мерни единици:
@@ -1257,6 +1274,7 @@
 	Middle	По средата
 	Midline Dots	Точки на средната линия
 	Millimeters	Милиметри
+	Minimum	Минимум
 	Minus Equal	Минус равно
 	Mirror indents	Огледални отстъпи
 	Mirror margins	Огледални полета
@@ -1338,6 +1356,7 @@
 	No Border	Без граница
 	No changes (read only)	Без промени (само за четене)
 	No Color	Без цвят
+	No contributor data was built into this copy.	В това копие няма вградени данни за сътрудниците.
 	No document is open. Create a document or open one first.	Няма отворен документ. Първо създайте или отворете документ.
 	No errors found: every merge field is in the recipient list.	Няма открити грешки: всяко поле за обединяване е в списъка с получатели.
 	No Fill	Без запълване
@@ -1346,6 +1365,7 @@
 	No header row	Без заглавен ред
 	No icons match your search.	Няма икони, отговарящи на търсенето.
 	No Markup	Без маркировки
+	No model credits were built into this copy.	В това копие няма вградени сведения за моделите.
 	No Outline	Без контур
 	No Paragraph Space	Без разстояние между абзаците
 	No printers found. Configure a system printer or export a PDF.	Не са намерени принтери. Настройте системен принтер или експортирайте PDF.
@@ -1387,6 +1407,7 @@
 	Now used by {command}	Използва се от {command}
 	Nudge	Леко преместване
 	Num Occurrences	Брой повторения
+	Number	Номер
 	Number alignment:	Подравняване на номера:
 	Number format	Формат на номера
 	Number of columns:	Брой колони:
@@ -1454,6 +1475,7 @@
 	Other Large Operators	Други големи оператори
 	Other styles and their TOC level:	Други стилове и тяхното ниво в съдържанието:
 	Otherwise insert:	Иначе да се вмъкне:
+	Outline	Структура
 	Outline Level	Ниво в структурата
 	Outline level	Ниво в структурата
 	Outline levels	Нива в структурата
@@ -1477,6 +1499,7 @@
 	Page break before	Нова страница преди
 	Page Breaks	Нови страници
 	Page Color	Цвят на страницата
+	Page display	Показване на страницата
 	Page Down	Page Down
 	Page image (*.png)	Изображение на страница (*.png)
 	Page Movement	Придвижване по страници
@@ -1568,6 +1591,7 @@
 	Press a key combination	Натиснете клавишна комбинация
 	Preview Results	Визуализация на резултатите
 	Preview\nResults	Визуализация\nна резултатите
+	Previous	Предишна
 	Previous 1 or More	Предходният 1 или повече пъти
 	Previous Change	Предишна промяна
 	Previous Comment	Предишен коментар
@@ -1723,6 +1747,7 @@
 	Results	Резултати
 	Return address labels	Етикети с адрес на подателя
 	Return address:	Адрес на подателя:
+	Reverse the order	Обръщане на реда
 	Reviewing	Преглед
 	Reviewing Pane	Панел за преглед
 	Reviewing — edits become suggestions	Преглед — редакциите стават предложения
@@ -1780,6 +1805,7 @@
 	Scale Drawing	Мащабиране на рисунката
 	Scatter	Точкова
 	Script	Индекс
+	Scripts	Индекси
 	Scroll ribbon left	Превъртане на лентата наляво
 	Scroll ribbon right	Превъртане на лентата надясно
 	Search Commands	Търсене на команди
@@ -1973,6 +1999,7 @@
 	Spanish (Mexico)	Испански (Мексико)
 	Spanish (Spain)	Испански (Испания)
 	Sparse Matrices	Разредени матрици
+	Special	Специални
 	Special Characters	Специални знаци
 	Specify height:	Задаване на височина:
 	Speech	Реч
@@ -2011,6 +2038,7 @@
 	Straight Arrow Connector	Прав съединител със стрелка
 	Straight Connector	Прав съединител
 	Stroke {n} of {total}	Щрих {n} от {total}
+	Strong	Удебелен
 	Structure Actions	Действия със структури
 	Structures	Структури
 	Studio	Студио
@@ -2143,6 +2171,7 @@
 	These marks show even when Show/Hide ¶ is off.	Тези знаци се показват дори когато „Показване/скриване на ¶“ е изключено.
 	These merge fields aren't in the recipient list:	Тези полета за обединяване не са в списъка с получатели:
 	These settings will be used for new documents.	Тези настройки ще се използват за новите документи.
+	Thick	Дебело
 	This document	Този документ
 	This field has no options.	Това поле няма опции.
 	This folder can't be read: {error}	Тази папка не може да бъде прочетена: {error}
@@ -2261,6 +2290,7 @@
 	URGENT	НЕОТЛОЖНО
 	URL	URL
 	Use an Existing List…	Използване на съществуващ списък…
+	Use system setting	Според системната настройка
 	Use the browser's full screen (F11)	Използвайте режима на цял екран на браузъра (F11)
 	Use the Insert key to switch overtype on and off	Използване на клавиша Insert за включване и изключване на заместването
 	Use wildcards	Използване на заместващи символи
@@ -2337,6 +2367,7 @@
 	x bar	x с черта
 	Year	Година
 	Yields	Води до
+	Your changes will be lost if you don't save them.	Промените ще бъдат загубени, ако не ги запазите.
 	Your system doesn't report an animation setting, so animation effects stay on.	Системата не съобщава настройка за анимацията, затова ефектите остават включени.
 	Your system has animation effects turned off.	Ефектите на анимация в системата са изключени.
 	Your system has animation effects turned on.	Ефектите на анимация в системата са включени.

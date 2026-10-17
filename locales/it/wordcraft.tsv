@@ -174,6 +174,7 @@
 	Arabic	Arabo
 	Arch Down	Arco in giù
 	Arch Up	Arco in su
+	Area	Area
 	Arrange	Disponi
 	Arrange\nAll	Disponi\ntutto
 	Arrows	Frecce
@@ -241,6 +242,7 @@
 	Below the item	Sotto l'elemento
 	Between	Interno
 	Bibliography	Bibliografia
+	Binary assets removed	Risorse binarie rimosse
 	Binomial Coefficient	Coefficiente binomiale
 	Binomial Coefficient (angle)	Coefficiente binomiale (angolare)
 	Binomial Coefficient with Angle Brackets	Coefficiente binomiale con parentesi angolari
@@ -271,6 +273,7 @@
 	Bottom of Page	Fondo pagina
 	Bottom Right Cell	Cella in basso a destra
 	Bottom:	Inferiore:
+	Box	Riquadro
 	Boxed Formula	Formula riquadrata
 	Boxed Formula (example)	Formula riquadrata (esempio)
 	Boxed Formulas	Formule riquadrate
@@ -362,6 +365,7 @@
 	Character Scale	Scala carattere
 	Character Shading	Sfondo carattere
 	Character Spacing	Spaziatura caratteri
+	Character spacing	Spaziatura caratteri
 	Character style	Stile carattere
 	Characters (no spaces)	Caratteri (spazi esclusi)
 	Characters (with spaces)	Caratteri (spazi inclusi)
@@ -440,6 +444,7 @@
 	Combo Box Content Control	Controllo contenuto casella combinata
 	Commands	Comandi
 	Commands:	Comandi:
+	Comment	Commento
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Commenti accanto a ogni pagina e revisioni in PDF, stampe e immagini; un elenco dei commenti alla fine di pagine web, Markdown e testo.
 	Comments Pane	Riquadro Commenti
 	Common Accent Objects	Oggetti accento comuni
@@ -518,6 +523,7 @@
 	Create a Style	Crea uno stile
 	Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document.	Crea una struttura interattiva del documento.\n\nÈ un ottimo modo per sapere dove ti trovi o per spostare rapidamente il contenuto.\n\nPer iniziare, vai alla scheda Home e applica gli stili Titolo ai titoli del documento.
 	Create Graphic	Crea elemento grafico
+	Create Link	Crea collegamento
 	Create New Style	Crea nuovo stile
 	Create Source	Crea fonte
 	Croatian	Croato
@@ -778,6 +784,7 @@
 	Exceptions (optional)	Eccezioni (facoltativo)
 	Exceptions…	Eccezioni…
 	Existing File or Web Page	File o pagina Web esistente
+	Expand	Espandi
 	Expand or Collapse Heading	Espandi o comprimi titolo
 	Exponential	Esponenziale
 	Exponential series	Serie esponenziale
@@ -828,6 +835,7 @@
 	First line:	Prima riga:
 	First Name	Nome
 	First row of data contains column headers	La prima riga di dati contiene le intestazioni di colonna
+	Fit	Adatta
 	Fix Position on Page	Blocca posizione nella pagina
 	Fixed Column Width	Larghezza colonna fissa
 	Floor	Parte intera inferiore
@@ -1079,6 +1087,7 @@
 	Interface theme:	Tema dell'interfaccia:
 	Interface\nTheme	Tema\ninterfaccia
 	Internet addresses as links	Indirizzi Internet con collegamenti
+	Intersection	Intersezione
 	Intersection with Limits	Intersezione con limiti
 	Intersection with Lower Limit	Intersezione con limite inferiore
 	Intersection with Subscript-Superscript Limits	Intersezione con limiti a pedice e apice
@@ -1189,6 +1198,7 @@
 	Line between	Linea tra le colonne
 	Line Break	Interruzione di riga
 	Line breaking	Divisione delle righe
+	Line delta	Differenza righe
 	Line End	Fine linea
 	Line Number	Numero di riga
 	Line Numbering Options…	Opzioni numeri di riga…
@@ -1414,6 +1424,7 @@
 	Now used by {command}	Ora usata da {command}
 	Nudge	Sposta leggermente
 	Num Occurrences	Numero di occorrenze
+	Number	Numero
 	Number alignment:	Allineamento numero:
 	Number format	Formato numero
 	Number of columns:	Numero di colonne:
@@ -1505,6 +1516,7 @@
 	Page break before	Interruzione di pagina prima
 	Page Breaks	Interruzioni di pagina
 	Page Color	Colore pagina
+	Page display	Visualizzazione pagina
 	Page Down	Pagina giù
 	Page image (*.png)	Immagine della pagina (*.png)
 	Page Movement	Spostamento pagina
@@ -1597,6 +1609,7 @@
 	Press a key combination	Premi una combinazione di tasti
 	Preview Results	Anteprima risultati
 	Preview\nResults	Anteprima\nrisultati
+	Previous	Precedente
 	Previous 1 or More	Precedente 1 o più volte
 	Previous Change	Modifica precedente
 	Previous Comment	Commento precedente
@@ -1755,6 +1768,7 @@
 	Results	Risultati
 	Return address labels	Etichette mittente
 	Return address:	Indirizzo mittente:
+	Reverse the order	Inverti l'ordine
 	Reviewing	Revisione
 	Reviewing Pane	Riquadro delle revisioni
 	Reviewing — edits become suggestions	Revisione: le modifiche diventano suggerimenti
@@ -2007,6 +2021,7 @@
 	Spanish (Mexico)	Spagnolo (Messico)
 	Spanish (Spain)	Spagnolo (Spagna)
 	Sparse Matrices	Matrici sparse
+	Special	Speciale
 	Special Characters	Caratteri speciali
 	Specify height:	Specifica altezza:
 	Speech	Voce
@@ -2046,6 +2061,7 @@
 	Straight Arrow Connector	Connettore diritto con freccia
 	Straight Connector	Connettore diritto
 	Stroke {n} of {total}	Tratto {n} di {total}
+	Strong	Forte
 	Structure Actions	Azioni struttura
 	Structures	Strutture
 	Studio	Studio

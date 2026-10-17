@@ -238,6 +238,7 @@ theme	Appearance	Išvaizda
 calendar date	April	balandžio
 	Arbitrary Mask	Pasirinktinė kaukė
 	Archive documents	Archyvuoti dokumentus
+	Area	Plotas
 	ArtCraft website	„ArtCraft“ svetainė
 	Ask about this document	Klausti apie šį dokumentą
 	Asks GitHub for the latest release. Nothing is downloaded or installed automatically.	„GitHub“ tikrinama, ar yra naujausia laida. Nieko automatiškai neatsisiunčiama ir neįdiegiama.
@@ -275,6 +276,7 @@ certificate	Basic constraints	Pagrindiniai apribojimai
 	Before the number	Prieš numerį
 	Beveled	Nuožulnus
 	Bicubic downsampling to	Bikubinis sumažinimas iki
+	Binary assets removed	Pašalinti dvejetainiai ištekliai
 	Binding	Įrišimas
 	Binding:	Įrišimas:
 	Black	Juoda
@@ -292,6 +294,7 @@ certificate	Basic constraints	Pagrindiniai apribojimai
 	Borders and Colors	Rėmeliai ir spalvos
 	Both	Abu
 	Both sides	Abi pusės
+	Box	Stačiakampis
 	Bring your own model (off by default)	Naudoti savo modelį (išjungta pagal numatytuosius parametrus)
 	Browser's print dialog	Naršyklės spausdinimo dialogas
 	Butt	Plokščias galas
@@ -309,6 +312,7 @@ certificate	Basic constraints	Pagrindiniai apribojimai
 	Cancelling…	Atšaukiama…
 	Case-sensitive	Skiriamos didžiosios ir mažosios raidės
 	Category:	Kategorija:
+	Center	Centruoti
 	Center Footer Text	Vidurinis poraštės tekstas
 	Center Header Text	Vidurinis antraštės tekstas
 	Center horizontally	Centruoti horizontaliai
@@ -346,8 +350,10 @@ certificate	Basic constraints	Pagrindiniai apribojimai
 	Character encoding	Simbolių koduotė
 	Character limit 0 means no limit. A comb of characters needs a limit.	Simbolių skaičius 0 reiškia, kad apribojimo nėra. Simbolių tinkleliui apribojimas būtinas.
 	Character limit:	Simbolių skaičiaus riba:
+	Character spacing	Tarpai tarp simbolių
 	characters	simboliai
 	Characters without spaces	Simboliai be tarpų
+	Check	Varnelė
 	Check Again	Tikrinti dar kartą
 	Check again	Tikrinti dar kartą
 	Check box is checked by default	Žymimasis langelis pažymėtas pagal numatytuosius parametrus
@@ -427,6 +433,7 @@ certificate	Basic constraints	Pagrindiniai apribojimai
 	Coming in milestone	Numatyta būsimame etape
 	Coming in milestone {m}. Items marked Ready work today.	Planuojama {m} etape. Paruoštais pažymėti elementai jau veikia.
 	Command	Komanda
+	Comment	Komentaras
 	Comment and form data	Komentarai ir formų duomenys
 	Comment and review	Komentuoti ir peržiūrėti
 	Comment list	Komentarų sąrašas
@@ -517,6 +524,7 @@ certificate	Basic constraints	Pagrindiniai apribojimai
 	Create custom stamp…	Kurti pasirinktinį antspaudą…
 	Create folder	Sukurti aplanką
 	Create from	Kurti iš
+	Create Link	Kurti saitą
 	Create link	Kurti saitą
 	Create links	Kurti saitus
 	Create links from URLs	Kurti saitus iš URL adresų
@@ -775,6 +783,7 @@ key	Esc	Esc
 	Exclude tagged tables	Neįtraukti pažymėtų lentelių
 	Exclusions use PDF tags. Untagged tables and code remain included. Image exclusion also removes invisible text.	Išimtys naudoja PDF žymas. Nepažymėtos lentelės ir kodas lieka įtraukti. Vaizdų išimtis pašalina ir nematomą tekstą.
 	Execute a menu item	Vykdyti meniu komandą
+	Expand	Išskleisti
 	Expand all	Išskleisti viską
 	Expand all bookmarks	Išskleisti visas žymeles
 	Expand all pages	Išskleisti visus puslapius
@@ -851,6 +860,7 @@ calendar date	February	vasario
 	Files are combined in this order. Leave Pages empty to take every page.	Failai jungiami šia tvarka. Palikite lauką „Puslapiai“ tuščią, jei norite įtraukti visus puslapius.
 	Files for {name}	Failai: {name}
 	Files you open in PdfCraft appear here. Drop a PDF anywhere to open it.	Čia rodomi „PdfCraft“ atverti failai. Įkelkite PDF bet kurioje vietoje, kad jį atvertumėte.
+	Fill	Pildyti
 	Fill & Sign	Pildyti ir pasirašyti
 	Fill & Sign dates	Datos pildymo ir pasirašymo įrankyje
 	Fill & Sign signature	Parašas pildymo ir pasirašymo įrankyje
@@ -886,6 +896,7 @@ calendar date	February	vasario
 	Find…	Ieškoti…
 	Finish or discard the text being edited before selecting several objects.	Prieš pasirinkdami kelis objektus užbaikite redaguoti tekstą arba atmeskite pakeitimus.
 	First / last page	Pirmas / paskutinis puslapis
+	Fit	Pritaikyti
 	Fit Height	Pritaikyti aukštį
 	Fit one full page	Pritaikyti visą puslapį
 	Fit Page	Pritaikyti puslapiui
@@ -953,6 +964,7 @@ calendar weekday	Fr	Pn
 	Go to page…	Pereiti į puslapį…
 	Go to the page	Pereiti į puslapį
 	Go to this result	Pereiti prie šio rezultato
+	Grab bag	Vardų rinkinys
 	Gray	Pilka
 	Grayscale Images	Pilkų atspalvių paveikslėliai
 	Green	Žalia
@@ -983,6 +995,7 @@ calendar weekday	Fr	Pn
 	High	Didelis
 	High Resolution	Didelė raiška
 	High resolution	Didelė raiška
+	Highlight	Paryškinti
 	Highlight fields	Paryškinti laukus
 	Highlight Style:	Paryškinimo stilius:
 	Highlight text	Paryškinti tekstą
@@ -1013,6 +1026,7 @@ key	Home	Home
 	In this file	Šiame faile
 	Includes unsaved changes	Yra neįrašytų pakeitimų
 	Incorrect password. Try again.	Netinkamas slaptažodis. Bandykite dar kartą.
+	Indent	Įtrauka
 	Information	Informacija
 	Initial View	Pradinis rodinys
 	Initials	Inicialai
@@ -1040,6 +1054,7 @@ key	Home	Home
 	Intended usage	Naudojimo paskirtis
 certificate	Intended usage	Naudojimo paskirtis
 	Interface size	Sąsajos dydis
+	Intersection	Sankirta
 	Intersections	Sankirtos
 	Invert	Invertuoti
 	Invisible Rectangle	Nematomos stačiakampės srities anotacija
@@ -1106,6 +1121,7 @@ certificate	Key usage	Rakto naudojimas
 	Light gray	Šviesiai pilka
 	Light theme	Šviesioji tema
 	Limit of	Riba:
+	Line delta	Eilučių pokytis
 	Line ending	Linijos galas
 	Line Style:	Linijos stilius:
 	Line thickness	Linijos storis
@@ -1164,6 +1180,7 @@ calendar date	March	kovo
 	Match field sizes	Suvienodinti laukų dydžius
 	Match page at 100%	Sutapatinti puslapį esant 100 % masteliui
 	Maximize	Išdidinti
+	Maximum	Didžiausia reikšmė
 	maximum	didžiausia reikšmė
 	May	gegužė
 calendar date	May	gegužės
@@ -1187,6 +1204,7 @@ calendar date	May	gegužės
 	Midpoint	Vidurio taškas
 	Midpoints	Vidurio taškai
 	Minimize	Sumažinti
+	Minimum	Mažiausia reikšmė
 	minimum	mažiausia reikšmė
 	Mixed	Mišrios reikšmės
 calendar weekday	Mo	Pr
@@ -1261,6 +1279,7 @@ calendar weekday	Mo	Pr
 	No colour	Be spalvos
 	No comments match.	Atitinkančių komentarų nėra.
 	No comments yet.	Komentarų dar nėra.
+	No contributor data was built into this copy.	Šioje programos kopijoje nėra duomenų apie bendraautorius.
 	No differences in the text.	Tekste skirtumų nėra.
 	No digital IDs yet.	Skaitmeninių ID dar nėra.
 	No document language is set	Dokumento kalba nenustatyta
@@ -1276,6 +1295,7 @@ calendar weekday	Mo	Pr
 	No matches	Atitikmenų nėra
 	No matches.	Atitikmenų nėra.
 	No matching tools	Atitinkančių įrankių nėra
+	No model credits were built into this copy.	Šioje programos kopijoje nėra naudotų modelių sąrašo.
 	No openly licensed document fonts found. Load a font file.	Nerasta atvirąją licenciją turinčių dokumento šriftų. Įkelkite šrifto failą.
 	no output folder was chosen	nepasirinktas išvesties aplankas
 	No page has text: the document appears to be images of pages	Nė viename puslapyje nėra teksto: dokumentą, atrodo, sudaro puslapių paveikslėliai
@@ -1321,6 +1341,7 @@ scroll speed	Normal	Įprastas
 	nothing to undo	nėra ką atšaukti
 	November	lapkritis
 calendar date	November	lapkričio
+	Number	Skaičius
 	Number every page in the footer.	Sunumeruoti visus puslapius poraštėje.
 	Number of pages	Puslapių skaičius
 	Number pages	Numeruoti puslapius
@@ -1407,6 +1428,7 @@ animation effects	On	Įjungta
 	Other elements alternate text	Kitų elementų alternatyvusis tekstas
 	Other elements that require alternate text	Kiti elementai, kuriems reikia alternatyviojo teksto
 	Outdent	Sumažinti įtrauką
+	Outline	Kontūras
 	Outline colour:	Kontūro spalva:
 	Output	Išvestis
 	Output appears here.	Čia bus rodoma išvestis.
@@ -1417,6 +1439,7 @@ animation effects	On	Įjungta
 	Page background	Puslapio fonas
 	Page Content	Puslapio turinys
 	page content	puslapio turinys
+	Page display	Puslapių rodymas
 	Page display: {layout}	Puslapių rodinys: {layout}
 	Page does not require timed responses	Puslapis nereikalauja atsakyti per ribotą laiką
 	Page grid	Puslapių tinklelis
@@ -1539,6 +1562,7 @@ animation effects	On	Įjungta
 	Presentation (.pptx)	Pateiktis (.pptx)
 	Preview unavailable: {e}	Peržiūra negalima: {e}
 	Preview: page {p} of {n}	Peržiūra: {p} puslapis iš {n}
+	Previous	Ankstesnis
 	Previous ({key})	Ankstesnis ({key})
 	Previous (⇧⌘G)	Ankstesnis (⇧⌘G)
 	Previous / next page	Ankstesnis / kitas puslapis
@@ -1704,6 +1728,7 @@ certificate	Public key	Viešasis raktas
 	Reverse closed arrow	Atvirkštinė uždara rodyklė
 	Reverse open arrow	Atvirkštinė atvira rodyklė
 	Reverse pages	Apversti puslapius
+	Reverse the order	Apversti tvarką
 	Revert	Grąžinti įrašytą versiją
 	Revert changes	Atšaukti pakeitimus
 	Revert to the previously saved version of “{name}”? Changes since then can't be undone afterwards.	Grąžinti anksčiau įrašytą „{name}“ versiją? Po to atliktų pakeitimų nebegalėsite atkurti.
@@ -1791,6 +1816,7 @@ calendar weekday	Sa	Št
 	Script Name:	Scenarijaus pavadinimas:
 	Script:	Scenarijus:
 	Scripted content must be usable with a keyboard and assistive technology. Check the document's scripts.	Scenarijais valdomas turinys turi būti pasiekiamas klaviatūra ir pagalbinėmis technologijomis. Patikrinkite dokumento scenarijus.
+	Scripts	Scenarijai
 	Scripts run in a sandbox without file or network access. A script that asks to open a web page needs your permission first. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	Scenarijai vykdomi izoliuotoje aplinkoje be prieigos prie failų ir tinklo. Scenarijui paprašius atverti tinklalapį, pirmiausia reikės jūsų leidimo. Išjungus JavaScript, vis tiek veikia standartinės „Acrobat“ formatavimo, tikrinimo ir skaičiavimo funkcijos.
 	Scripts run in a sandbox without file or network access. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	Scenarijai vykdomi izoliuotoje aplinkoje be prieigos prie failų ar tinklo. Išjungus „JavaScript“, vis tiek veikia standartinės „Acrobat“ formatavimo, tikrinimo ir skaičiavimo funkcijos.
 	Scroll long text	Slinkti ilgą tekstą
@@ -1946,6 +1972,7 @@ scroll speed	Slow	Lėtas
 	Source	Šaltinis
 key	Space	Tarpas
 	Space Audit	Vietos naudojimo analizė
+	Special	Specialusis
 	Split document	Skaidyti dokumentą
 	Split document…	Skaidyti dokumentą…
 	Split into files…	Skaidyti į failus…
@@ -1968,6 +1995,7 @@ action wizard	Start	Pradėti
 	Still rendering — this page is unusually complex…	Vis dar atvaizduojama — šis puslapis neįprastai sudėtingas…
 	Strength: {s}	Stiprumas: {s}
 	Strikethrough text	Perbraukti tekstą
+	Strong	Stiprus
 	Structure Info	Struktūros informacija
 calendar weekday	Su	Sk
 certificate	Subject	Sertifikato subjektas
@@ -2157,6 +2185,7 @@ calendar weekday	Th	Kt
 	There is no folder to save the digital ID in.	Nėra aplanko skaitmeniniam ID įrašyti.
 	These files can't be read, so they won't be in the combined PDF:	Šių failų nepavyksta perskaityti, todėl jie nebus įtraukti į sujungtą PDF:
 	These objects could not be moved. Select them again and try a smaller move.	Šių objektų nepavyko perkelti. Pasirinkite juos iš naujo ir pabandykite perkelti mažesniu atstumu.
+	Thick	Storas
 	Thin	Plonas
 	This area has too many overlapping paths; intersection snapping is limited.	Šioje srityje persidengia per daug kelių; pritraukimas prie sankirtų apribotas.
 	This certificate is in your list of trusted certificates.	Šis sertifikatas yra patikimų sertifikatų sąraše.
@@ -2285,6 +2314,7 @@ signature pad	Type	Tekstu
 	Use now	Naudoti dabar
 	Use overlay text	Naudoti perdangos tekstą
 	Use print production	Naudoti spaudos paruošimo įrankius
+	Use system setting	Naudoti sistemos nuostatą
 	Use system title bar	Naudoti sistemos pavadinimo juostą
 	Use {what}	Naudoti {what}
 	Used when a PDF doesn't ask for a layout or zoom. Continuous scrolling never snaps between pages.	Naudojama, kai PDF nenurodo išdėstymo ar mastelio. Nepertraukiamai slenkant puslapiai nesusiejami.
@@ -2356,6 +2386,7 @@ calendar weekday	We	Tr
 	You can pin up to {n} folders. Unpin one first.	Galite prisegti iki {n} aplankų. Pirmiausia atsekite vieną.
 	You have version {c}. All releases are listed at {page}.	Turite versiją {c}. Visos laidos išvardytos čia: {page}.
 	You have version {c}. Download the new version from its release page.	Turite versiją {c}. Atsisiųskite naują versiją iš jos laidos puslapio.
+	Your changes will be lost if you don't save them.	Jei pakeitimų neįrašysite, jie bus prarasti.
 	Your name	Jūsų vardas
 	yyyy or yy year · m or mm month · mmm or mmmm month name · d or dd day · ddd or dddd weekday. H, h, M, s and t are time letters and can't be used on their own: put {escape} before a letter to show it as is.	Metai: yyyy arba yy · mėnuo: m arba mm, pavadinimas: mmm arba mmmm · diena: d arba dd · savaitės diena: ddd arba dddd. H, h, M, s ir t yra laiko formato raidės, jų negalima naudoti atskirai: prieš raidę įrašykite {escape}, kad ji būtų rodoma kaip tekstas.
 	ZIP	ZIP

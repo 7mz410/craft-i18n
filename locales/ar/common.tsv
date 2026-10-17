@@ -23,23 +23,17 @@
 	All	الكل
 	All pages	كل الصفحات
 	Apply	تطبيق
-	Area	المساحة
 	Arrow	سهم
 	Author	المؤلف
 	Auto	تلقائي
 	Auto ({percent}%)	تلقائي ({percent}%)
 	Binary assets added	الأصول الثنائية المضافة
-	Binary assets removed	الأصول الثنائية المُزالة
 	Bold	غامق
 	Bottom	أسفل
 	Bottom:	الأسفل:
-	Box	المربع
 	Browse…	استعراض…
 	Cancel	إلغاء
-	Center	وسط
-	Character spacing	تباعد المحارف
 	Characters	الأحرف
-	Check	علامة صح
 	Circle	دائرة
 	Clear	مسح
 	Clear All	مسح الكل
@@ -49,7 +43,6 @@
 	Color	اللون
 	Color:	اللون:
 	Combine	دمج
-	Comment	تعليق
 	Comments	التعليقات
 	Commits	الإيداعات
 	Company	الشركة
@@ -58,7 +51,6 @@
 	Convert	تحويل
 	Copy	نسخ
 	Create	إنشاء
-	Create Link	إنشاء رابط
 	Current page	الصفحة الحالية
 	Custom	مخصص
 	Cut	قص
@@ -81,16 +73,13 @@
 	Eraser	ممحاة
 	Even pages only	الصفحات الزوجية فقط
 	Example: {sample}	مثال: {sample}
-	Expand	توسيع
 	Export	تصدير
 	Field	الحقل
 	Field properties	خصائص الحقل
 	Fields	الحقول
 	File	ملف
-	Fill	تعبئة
 	First	الأول
 	First commit	أول إيداع
-	Fit	ملاءمة
 	Flip Horizontal	قلب أفقي
 	Flip Vertical	قلب عمودي
 	Font	الخط
@@ -100,20 +89,16 @@
 	Format:	التنسيق:
 	Full Screen	ملء الشاشة
 	General	عام
-	Grab bag	متفرقات
 	Graphic	رسم
 	Headings	العناوين
 	Height:	الارتفاع:
 	Help	مساعدة
 	Hidden text	النص المخفي
-	Highlight	تمييز
 	Home	الرئيسية
 	Horizontal	أفقي
-	Indent	إزاحة للداخل
 	Index	فهرس
 	Insert	إدراج
 	Interface language	لغة الواجهة
-	Intersection	تقاطع
 	Italic	مائل
 	Justify	ضبط
 	Keywords	الكلمات المفتاحية
@@ -127,7 +112,6 @@
 	Left:	اليسار:
 	Light	فاتح
 	Line	خط
-	Line delta	فرق الأسطر
 	Line spacing	تباعد الأسطر
 	Lines +/−	الأسطر +/−
 	Lines added	الأسطر المضافة
@@ -136,10 +120,8 @@
 	List	قائمة
 	Location	الموقع
 	Margins	الهوامش
-	Maximum	القصوى
 	Medium	متوسطة
 	Merged PRs	طلبات السحب المدموجة
-	Minimum	الأدنى
 	Model	النموذج
 	Models	النماذج
 	Name	الاسم
@@ -147,11 +129,8 @@
 	Name:	الاسم:
 	Next	التالي
 	No	لا
-	No contributor data was built into this copy.	لم تُضمَّن بيانات المساهمين في هذه النسخة.
 	No limit	بلا حد
-	No model credits were built into this copy.	لم يُضمَّن ذكر النماذج في هذه النسخة.
 	None	لا شيء
-	Number	رقم
 	Odd pages only	الصفحات الفردية فقط
 	Off	متوقف
 	OK	موافق
@@ -159,17 +138,14 @@
 	Open	فتح
 	Options	الخيارات
 	Options…	خيارات…
-	Outline	مخطط
 	Oval	شكل بيضاوي
 	Page	صفحة
-	Page display	عرض الصفحات
 	Pages	الصفحات
 	Password	كلمة المرور
 	Paste	لصق
 	Portrait	عمودي
 	Position	الموضع
 	Preview	معاينة
-	Previous	السابق
 	Print	طباعة
 	Printing	الطباعة
 	Protect	حماية
@@ -185,14 +161,12 @@
 	Replace	استبدال
 	Reply	رد
 	Report	تقرير
-	Reverse the order	عكس الترتيب
 	Review	مراجعة
 	Right	يمين
 	Rotate	تدوير
 	Rotation	التدوير
 	Rotation:	التدوير:
 	Save	حفظ
-	Scripts	السكربتات
 	Search	بحث
 	Select All	تحديد الكل
 	Selected pages	الصفحات المحددة
@@ -201,13 +175,11 @@
 	Size	الحجم
 	Sort	فرز
 	Sort by	فرز حسب
-	Special	خاص
 	Split	تقسيم
 	Square	مربع
 	Standard	قياسي
 	Star	نجمة
 	Strikethrough	شطب
-	Strong	قوية
 	Style	النمط
 	Subject	الموضوع
 	System	النظام
@@ -215,7 +187,6 @@
 	Tables	الجداول
 	Text	نص
 	The passwords don't match.	كلمتا المرور غير متطابقتين.
-	Thick	سميك
 	Thickness	السماكة
 	This document has no bookmarks.	هذا المستند لا يحتوي على إشارات مرجعية.
 	Title	العنوان
@@ -228,7 +199,6 @@
 	Undo	تراجع
 	Undo {action}	التراجع عن {action}
 	Up	أعلى
-	Use system setting	استخدام إعداد النظام
 	Username	اسم المستخدم
 	Version	الإصدار
 	Vertical	عمودي
@@ -237,5 +207,4 @@
 	Width:	العرض:
 	Words	الكلمات
 	Yes	نعم
-	Your changes will be lost if you don't save them.	ستفقد تغييراتك إن لم تحفظها.
 	Zoom	التكبير

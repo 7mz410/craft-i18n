@@ -23,23 +23,17 @@
 	All	Усі
 	All pages	Усі сторінки
 	Apply	Застосувати
-	Area	Площа
 	Arrow	Стрілка
 	Author	Автор
 	Auto	Автоматично
 	Auto ({percent}%)	Автоматично ({percent}%)
 	Binary assets added	Додано бінарних ресурсів
-	Binary assets removed	Видалено бінарних ресурсів
 	Bold	Напівжирний
 	Bottom	Знизу
 	Bottom:	Знизу:
-	Box	Область
 	Browse…	Огляд…
 	Cancel	Скасувати
-	Center	По центру
-	Character spacing	Міжсимвольний інтервал
 	Characters	Символи
-	Check	Позначка
 	Circle	Коло
 	Clear	Очистити
 	Clear All	Очистити все
@@ -49,7 +43,6 @@
 	Color	Колір
 	Color:	Колір:
 	Combine	Об’єднати
-	Comment	Коментар
 	Comments	Коментарі
 	Commits	Коміти
 	Company	Компанія
@@ -58,7 +51,6 @@
 	Convert	Перетворення
 	Copy	Копіювати
 	Create	Створити
-	Create Link	Створити посилання
 	Current page	Поточна сторінка
 	Custom	Власний
 	Cut	Вирізати
@@ -81,16 +73,13 @@
 	Eraser	Гумка
 	Even pages only	Лише парні сторінки
 	Example: {sample}	Приклад: {sample}
-	Expand	Розгорнути
 	Export	Експортувати
 	Field	Поле
 	Field properties	Властивості поля
 	Fields	Поля
 	File	Файл
-	Fill	Заповнити
 	First	Перший
 	First commit	Перший коміт
-	Fit	Припасувати
 	Flip Horizontal	Віддзеркалити горизонтально
 	Flip Vertical	Віддзеркалити вертикально
 	Font	Шрифт
@@ -100,20 +89,16 @@
 	Format:	Формат:
 	Full Screen	Повний екран
 	General	Загальні
-	Grab bag	Добірка
 	Graphic	Графіка
 	Headings	Заголовки
 	Height:	Висота:
 	Help	Довідка
 	Hidden text	Прихований текст
-	Highlight	Виділення кольором
 	Home	Головна
 	Horizontal	Горизонтально
-	Indent	Збільшити відступ
 	Index	Індекс
 	Insert	Вставити
 	Interface language	Мова інтерфейсу
-	Intersection	Перетин
 	Italic	Курсив
 	Justify	За шириною
 	Keywords	Ключові слова
@@ -127,7 +112,6 @@
 	Left:	Зліва:
 	Light	Світлий
 	Line	Лінія
-	Line delta	Зміна кількості рядків
 	Line spacing	Міжрядковий інтервал
 	Lines +/−	Рядків +/−
 	Lines added	Додано рядків
@@ -136,10 +120,8 @@
 	List	Список
 	Location	Розташування
 	Margins	Поля
-	Maximum	Максимальна
 	Medium	Середній
 	Merged PRs	Злиті PR
-	Minimum	Мінімальна
 	Model	Модель
 	Models	Моделі
 	Name	Ім’я
@@ -147,11 +129,8 @@
 	Name:	Назва:
 	Next	Далі
 	No	Ні
-	No contributor data was built into this copy.	У цю копію не вбудовано даних про учасників.
 	No limit	Без обмежень
-	No model credits were built into this copy.	У цю копію не вбудовано відомостей про моделі.
 	None	Немає
-	Number	Число
 	Odd pages only	Лише непарні сторінки
 	Off	Вимкнено
 	OK	OK
@@ -159,17 +138,14 @@
 	Open	Відкрити
 	Options	Параметри
 	Options…	Параметри…
-	Outline	Контур
 	Oval	Овал
 	Page	Сторінка
-	Page display	Відображення сторінок
 	Pages	Сторінки
 	Password	Пароль
 	Paste	Вставити
 	Portrait	Книжкова
 	Position	Положення
 	Preview	Попередній перегляд
-	Previous	Назад
 	Print	Друк
 	Printing	Друк
 	Protect	Захистити
@@ -185,14 +161,12 @@
 	Replace	Замінити
 	Reply	Відповісти
 	Report	Звіт
-	Reverse the order	Зворотний порядок
 	Review	Рецензування
 	Right	Праворуч
 	Rotate	Повернути
 	Rotation	Поворот
 	Rotation:	Поворот:
 	Save	Зберегти
-	Scripts	Сценарії
 	Search	Пошук
 	Select All	Вибрати все
 	Selected pages	Вибрані сторінки
@@ -201,13 +175,11 @@
 	Size	Розмір
 	Sort	Сортувати
 	Sort by	Сортувати за
-	Special	Спеціальний
 	Split	Розділити
 	Square	Квадрат
 	Standard	Стандартні
 	Star	Зірка
 	Strikethrough	Закреслення
-	Strong	Надійний
 	Style	Стиль
 	Subject	Тема
 	System	Системні
@@ -215,7 +187,6 @@
 	Tables	Таблиці
 	Text	Текст
 	The passwords don't match.	Паролі не збігаються.
-	Thick	Товста
 	Thickness	Товщина
 	This document has no bookmarks.	Цей документ не має закладок.
 	Title	Заголовок
@@ -228,7 +199,6 @@
 	Undo	Скасувати
 	Undo {action}	Скасувати: {action}
 	Up	Угору
-	Use system setting	Використовувати системні налаштування
 	Username	Ім’я користувача
 	Version	Версія
 	Vertical	Вертикально
@@ -237,5 +207,4 @@
 	Width:	Ширина:
 	Words	Слова
 	Yes	Так
-	Your changes will be lost if you don't save them.	Якщо не зберегти зміни, їх буде втрачено.
 	Zoom	Масштаб

@@ -173,6 +173,7 @@
 	Arabic	Арабские
 	Arch Down	Арка вниз
 	Arch Up	Арка вверх
+	Area	С областями
 	Arrange	Упорядочить
 	Arrange\nAll	Упорядочить\nвсе
 	Arrows	Стрелки
@@ -240,6 +241,7 @@
 	Below the item	Под объектом
 	Between	Между абзацами
 	Bibliography	Список литературы
+	Binary assets removed	Удалены двоичные ресурсы
 	Binomial Coefficient	Биномиальный коэффициент
 	Binomial Coefficient (angle)	Биномиальный коэффициент (угловые скобки)
 	Binomial Coefficient with Angle Brackets	Биномиальный коэффициент в угловых скобках
@@ -269,6 +271,7 @@
 	Bottom Margin	Нижнее поле
 	Bottom of Page	Внизу страницы
 	Bottom Right Cell	Правая нижняя ячейка
+	Box	Рамка
 	Boxed Formula	Формула в рамке
 	Boxed Formula (example)	Формула в рамке (пример)
 	Boxed Formulas	Формулы в рамке
@@ -317,6 +320,7 @@
 	Cell Margins	Поля ячеек
 	Cell Size	Размер ячейки
 	Cell\nMargins	Поля\nячеек
+	Center	По центру
 	Centered	По центру
 	Centered as Group	По центру как группа
 	Centimeters	Сантиметры
@@ -354,6 +358,7 @@
 	Character Scale	Масштаб знаков
 	Character Shading	Заливка знаков
 	Character Spacing	Межзнаковый интервал
+	Character spacing	Межзнаковый интервал
 	Character style	Стиль знаков
 	Characters (no spaces)	Знаков (без пробелов)
 	Characters (with spaces)	Знаков (с пробелами)
@@ -362,6 +367,7 @@
 	Chart Design	Конструктор диаграмм
 	Chart Layouts	Макеты диаграмм
 	Chart Title	Название диаграммы
+	Check	Галка
 	Check Accessibility	Проверить доступность
 	Check Box Content Control	Элемент управления содержимым: флажок
 	Check Compatibility	Проверить совместимость
@@ -429,6 +435,7 @@
 	Combo Box Content Control	Элемент управления содержимым: поле со списком
 	Commands	Команды
 	Commands:	Команды:
+	Comment	Комментарий
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Примечания рядом с каждой страницей и отслеживаемые изменения в PDF, при печати и в изображениях; список примечаний в конце веб-страниц, Markdown и текста.
 	Comments Pane	Область комментариев
 	Common Accent Objects	Часто используемые объекты с диакритикой
@@ -506,6 +513,7 @@
 	Create a Style	Создать стиль
 	Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document.	Создайте интерактивную структуру документа.\n\nС ней легко понять, где вы находитесь, и быстро переставлять части текста.\n\nЧтобы начать, откройте вкладку «Главная» и примените к заголовкам документа стили заголовков.
 	Create Graphic	Создать графический элемент
+	Create Link	Создать связь
 	Create New Style	Создать новый стиль
 	Create Source	Создать источник
 	Croatian	Хорватский
@@ -763,6 +771,7 @@
 	Exceptions (optional)	Исключения (необязательно)
 	Exceptions…	Исключения…
 	Existing File or Web Page	Файл или веб-страница
+	Expand	Расширить
 	Expand or Collapse Heading	Развернуть или свернуть заголовок
 	Exponential	Экспонента
 	Exponential series	Ряд для экспоненты
@@ -785,6 +794,7 @@
 	Field…	Поле…
 	Figure	Рисунок
 	File name:	Имя файла:
+	Fill	Заливка
 	Fill color:	Цвет заливки:
 	Filling in forms	Заполнение форм
 	Film	Фильм
@@ -811,6 +821,7 @@
 	First line:	Первая строка:
 	First Name	Имя
 	First row of data contains column headers	Первая строка данных содержит заголовки столбцов
+	Fit	По размеру
 	Fix Position on Page	Зафиксировать положение на странице
 	Fixed Column Width	Фиксированная ширина столбцов
 	Floor	Округление вниз
@@ -868,6 +879,7 @@
 	Good afternoon	Добрый день
 	Good evening	Добрый вечер
 	Good morning	Доброе утро
+	Grab bag	Разное
 	Grave	Обратное ударение
 	Grayscale	Оттенки серого
 	Greater than	Больше
@@ -914,6 +926,7 @@
 	Hide White Space	Скрыть пустое место между страницами
 	Hide\nInk	Скрыть
 	Hierarchy	Иерархия
+	Highlight	Выделение цветом
 	Highlight Merge Fields	Выделить поля слияния
 	Highlight\nMerge Fields	Выделить\nполя слияния
 	Highlighter	Маркер
@@ -969,6 +982,7 @@
 	Include page numbers	Включить номера страниц
 	Increase Font Size	Увеличить размер шрифта
 	Increase Indent	Увеличить отступ
+	Indent	Отступ
 	Indent from left:	Отступ слева:
 	Indentation	Отступы
 	Indented	Со ступенчатым отступом
@@ -1050,6 +1064,7 @@
 	Interface theme:	Тема интерфейса:
 	Interface\nTheme	Тема\nинтерфейса
 	Internet addresses as links	Адреса в Интернете как ссылки
+	Intersection	Пересечение
 	Intersection with Limits	Пересечение с пределами
 	Intersection with Lower Limit	Пересечение с нижним пределом
 	Intersection with Subscript-Superscript Limits	Пересечение с пределами в индексах
@@ -1155,6 +1170,7 @@
 	Line between	Разделитель
 	Line Break	Разрыв строки
 	Line breaking	Перенос строк
+	Line delta	Изменение числа строк
 	Line End	Конец строки
 	Line Number	Номер строки
 	Line Numbering Options…	Параметры нумерации строк…
@@ -1234,6 +1250,7 @@
 	Math AutoCorrect	Автозамена математическими символами
 	Matrices with Brackets	Матрицы со скобками
 	Matrix	Матрица
+	Maximum	Максимум
 	Maximum Example	Пример максимума
 	Measured By	Единица измерения
 	Measurement units:	Единицы измерения:
@@ -1245,6 +1262,7 @@
 	Middle	По центру
 	Midline Dots	Многоточие по средней линии
 	Millimeters	Миллиметры
+	Minimum	Минимум
 	Minus Equal	Минус-равно
 	Mirror indents	Зеркальные отступы
 	Mirror margins	Зеркальные поля
@@ -1325,6 +1343,7 @@
 	No Border	Без границы
 	No changes (read only)	Без изменений (только чтение)
 	No Color	Без цвета
+	No contributor data was built into this copy.	В эту сборку не включены данные об участниках.
 	No document is open. Create a document or open one first.	Нет открытого документа. Сначала создайте или откройте документ.
 	No errors found: every merge field is in the recipient list.	Ошибок не найдено: все поля слияния есть в списке получателей.
 	No Fill	Нет заливки
@@ -1333,6 +1352,7 @@
 	No header row	Без строки заголовка
 	No icons match your search.	Нет значков, соответствующих поиску.
 	No Markup	Без исправлений
+	No model credits were built into this copy.	В эту сборку не включены сведения о моделях.
 	No Outline	Нет контура
 	No Paragraph Space	Без интервала между абзацами
 	No printers found. Configure a system printer or export a PDF.	Принтеры не найдены. Настройте системный принтер или экспортируйте PDF.
@@ -1374,6 +1394,7 @@
 	Now used by {command}	Сейчас используется: {command}
 	Nudge	Сдвинуть
 	Num Occurrences	Число вхождений
+	Number	Номер
 	Number alignment:	Выравнивание номера:
 	Number format	Формат номера
 	Number of columns:	Число столбцов:
@@ -1441,6 +1462,7 @@
 	Other Large Operators	Другие крупные операторы
 	Other styles and their TOC level:	Другие стили и их уровень в оглавлении:
 	Otherwise insert:	Иначе вставить:
+	Outline	Структура
 	Outline Level	Уровень структуры
 	Outline level	Уровень структуры
 	Outline levels	Уровни структуры
@@ -1464,6 +1486,7 @@
 	Page break before	С новой страницы
 	Page Breaks	Разрывы страниц
 	Page Color	Цвет страницы
+	Page display	Отображение страницы
 	Page Down	Страница вниз
 	Page image (*.png)	Изображение страницы (*.png)
 	Page Movement	Перелистывание страниц
@@ -1555,6 +1578,7 @@
 	Press a key combination	Нажмите сочетание клавиш
 	Preview Results	Просмотр результатов
 	Preview\nResults	Просмотр\nрезультатов
+	Previous	Назад
 	Previous 1 or More	Предыдущий знак 1 или более раз
 	Previous Change	Предыдущее изменение
 	Previous Comment	Предыдущий комментарий
@@ -1710,6 +1734,7 @@
 	Results	Результаты
 	Return address labels	Наклейки с обратным адресом
 	Return address:	Обратный адрес:
+	Reverse the order	В обратном порядке
 	Reviewing	Рецензирование
 	Reviewing Pane	Область рецензирования
 	Reviewing — edits become suggestions	Рецензирование — правки становятся предложениями
@@ -1767,6 +1792,7 @@
 	Scale Drawing	Масштабировать рисунок
 	Scatter	Точечная
 	Script	Индекс
+	Scripts	Индексы
 	Scroll ribbon left	Прокрутить ленту влево
 	Scroll ribbon right	Прокрутить ленту вправо
 	Search Commands	Поиск команд
@@ -1959,6 +1985,7 @@
 	Spanish (Mexico)	Испанский (Мексика)
 	Spanish (Spain)	Испанский (Испания)
 	Sparse Matrices	Разреженные матрицы
+	Special	Специальный
 	Special Characters	Специальные знаки
 	Specify height:	Высота:
 	Speech	Речь
@@ -1997,6 +2024,7 @@
 	Straight Arrow Connector	Прямая соединительная линия со стрелкой
 	Straight Connector	Прямая соединительная линия
 	Stroke {n} of {total}	Штрих {n} из {total}
+	Strong	Строгий
 	Structure Actions	Действия со структурой
 	Structures	Структуры
 	Studio	Студия
@@ -2129,6 +2157,7 @@
 	These marks show even when Show/Hide ¶ is off.	Эти знаки видны, даже когда «Показать все знаки» выключено.
 	These merge fields aren't in the recipient list:	Этих полей слияния нет в списке получателей:
 	These settings will be used for new documents.	Эти параметры будут использоваться для новых документов.
+	Thick	Толстый
 	This document	Этот документ
 	This field has no options.	У этого поля нет параметров.
 	This folder can't be read: {error}	Не удаётся прочитать папку: {error}
@@ -2247,6 +2276,7 @@ preview	Title	Пример
 	URGENT	СРОЧНО!
 	URL	URL
 	Use an Existing List…	Использовать существующий список…
+	Use system setting	Как в системе
 	Use the browser's full screen (F11)	Используйте полноэкранный режим браузера (F11)
 	Use the Insert key to switch overtype on and off	Клавиша Insert включает и выключает режим замены
 	Use wildcards	Подстановочные знаки
@@ -2322,6 +2352,7 @@ preview	Title	Пример
 	x bar	x с чертой
 	Year	Год
 	Yields	Выход
+	Your changes will be lost if you don't save them.	Если не сохранить изменения, они будут потеряны.
 	Your system doesn't report an animation setting, so animation effects stay on.	Система не сообщает о настройке анимации, поэтому эффекты анимации остаются включёнными.
 	Your system has animation effects turned off.	В системе эффекты анимации выключены.
 	Your system has animation effects turned on.	В системе эффекты анимации включены.
