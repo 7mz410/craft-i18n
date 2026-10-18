@@ -12,8 +12,8 @@ one per app, checked in CI and embedded by each app at build time. Vocabulary is
 | # | Milestone | Where | Status |
 |---|---|---|---|
 | 1 | TSV catalog format and strict checker; Fluent and the unusable library crate removed; translator and integration docs | this repo | done (PR #1) |
-| 2 | `craft-i18n` runtime crate: parser, lookup, fallback, plurals (`intl_pluralrules`), locale matching, pseudo locale | craft-libs | done on a fork; upstream PR pending |
-| 3a | Migrate WordCraft and PdfCraft (proves the runtime on the largest catalogs; seeds the shared catalog) | apps | catalogs moved here; app wiring waits on craft-libs |
+| 2 | `craft-i18n` runtime crate: parser, lookup, fallback, plurals (`intl_pluralrules`), locale matching, pseudo locale | craft-libs | in review upstream: [storytold/craft-libs#167](https://github.com/storytold/craft-libs/pull/167) |
+| 3a | Migrate WordCraft and PdfCraft (proves the runtime on the largest catalogs; seeds the shared catalog) | apps | catalogs moved here; app wiring waits on craft-libs#167 |
 | 3b | Migrate the other TSV apps: PhotoCraft, VectorCraft, FilmCraft, CADCraft, craft-launcher | apps | not started |
 | 3c | Convert and migrate FigCraft (TOML), LightCraft (JSON), DesignCraft, GridCraft, EffectCraft (Rust tables) | apps | not started |
 | 3d | Add translation to DeckCraft and SoundCraft | apps | not started |
@@ -63,3 +63,4 @@ As surveyed on 2026-10-16. Locale counts exclude English.
 |---|---|---|
 | 2026-10-16 | major | First roadmap: milestones 1–3d, per-app survey, open decisions |
 | 2026-10-17 | minor | Milestones 1 and 2 done; WordCraft and PdfCraft catalogs migrated (196 shared strings, 28 locales) |
+| 2026-10-17 | patch | Milestone 2 runtime crate opened upstream as storytold/craft-libs#167 |
