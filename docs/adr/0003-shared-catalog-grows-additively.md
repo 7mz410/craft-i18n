@@ -10,6 +10,13 @@ app's overrides each time an app moves.
 This narrows the spec's "most-used translation wins" (user story 41): for a string shared before
 an app migrated, the earlier apps' wording stays even when later apps agree on another.
 
+## Consequences
+
+An app can gain a shared translation for a string it showed in English in that locale. Where the
+app translates that string differently from the apps the shared row came from, in most locales
+both translate, the app keeps an override holding its English instead, so a homograph never
+shows another app's meaning.
+
 ## Considered options
 
 - **Re-seed `common.tsv` from every migrated app at each migration**: rejected, winners can flip,
