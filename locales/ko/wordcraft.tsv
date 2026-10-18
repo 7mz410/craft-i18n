@@ -88,7 +88,6 @@
 	Add tab stop at:	탭 위치 추가:
 	Add Text	텍스트 추가
 	Add the chapter number	장 번호 추가
-	Add to Dictionary	사전에 추가
 	Add to Document	문서에 추가
 	Add to Quick Access Toolbar	빠른 실행 도구 모음에 추가
 	Add to Style Gallery	스타일 갤러리에 추가
@@ -103,7 +102,6 @@
 	Address labels	주소 레이블
 	Address:	주소:
 	Address\nBlock	주소\n블록
-	Adjust	조정
 	Advanced Find	고급 찾기
 	Advanced Find…	고급 찾기…
 	After:	뒤쪽:
@@ -116,7 +114,6 @@
 	Align Center Right	가운데 오른쪽 맞춤
 	Align Left	왼쪽 맞춤
 	Align Right	오른쪽 맞춤
-	Align Text	텍스트 맞춤
 	Align Top Center	위쪽 가운데 맞춤
 	Align Top Left	위쪽 왼쪽 맞춤
 	Align Top Right	위쪽 오른쪽 맞춤
@@ -125,10 +122,8 @@
 	All - Linear	모두 - 선형
 	All - Professional	모두 - 전문
 	All Borders	모든 테두리
-	All Caps	모두 대문자
 	All caps	모두 대문자
 	All Commands	모든 명령
-	All files	모든 파일
 	All Levels	모든 수준
 	All Markup	모든 변경 내용
 	All pages in the range	범위의 모든 페이지
@@ -148,7 +143,6 @@
 	Angle Brackets with Separator	구분 기호 있는 꺾쇠 괄호
 	Angle Brackets with Two Separators	구분 기호 두 개 있는 꺾쇠 괄호
 	Animate the caret (it glides and fades)	커서 애니메이션 (부드럽게 이동하고 희미해짐)
-	Animation	애니메이션
 	Animation effects:	애니메이션 효과:
 	Annotation Reference	메모 참조
 	Annotation Subject	메모 주제
@@ -161,18 +155,15 @@
 	Anyone who opens the document will need this password.	문서를 여는 사람은 누구나 이 암호가 필요합니다.
 	Apply as you type	입력할 때 적용
 	Apply Asian line-breaking rules (kinsoku)	아시아 문자 줄 바꿈 규칙(금칙 처리) 적용
-	Apply Character Style	문자 스타일 적용
 	Apply formatting to:	서식 적용 대상:
 	Apply Style	스타일 적용
 	Apply Styles	스타일 적용
-	Apply to:	적용 대상:
 	Arabic	아라비아 숫자
 	Arch Down	아래쪽 아치
 	Arch Up	위쪽 아치
 	Area	영역형
 	Arrange	정렬
 	Arrange\nAll	모두\n정렬
-	Arrows	화살표
 	Artistic Effects	예술 효과
 	As Recommended	권장 순서
 	As you type	입력할 때
@@ -193,7 +184,6 @@
 	AutoFit Contents	내용에 맞게 자동 맞춤
 	AutoFit Window	창에 맞게 자동 맞춤
 	AutoFormat As You Type	입력할 때 자동 서식
-	Automatic	자동
 	Automatic ({language})	자동({language})
 	Automatic ({region})	자동({region})
 	Automatic bulleted lists	자동 글머리 기호 목록
@@ -216,7 +206,6 @@
 	Balloons	말풍선
 	Banded Columns	줄무늬 열
 	Banded Rows	줄무늬 행
-	Bar	세로줄
 	Base text:	기준 텍스트:
 	Based on: {style}	기준: {style}
 	Baseline Dots	기준선 점
@@ -236,7 +225,6 @@
 	Below the item	항목 아래
 	Between	사이
 	Bibliography	참고 문헌
-	Binary assets removed	삭제된 바이너리 에셋
 	Binomial Coefficient	이항 계수
 	Binomial Coefficient (angle)	이항 계수 (꺾쇠)
 	Binomial Coefficient with Angle Brackets	꺾쇠 괄호 이항 계수
@@ -257,7 +245,6 @@
 	Border lines	테두리 선
 	Border Painter	테두리 그리기
 	Border\nPainter	테두리\n그리기
-	Borders	테두리
 	Borders and Shading	테두리 및 음영
 	Borders and Shading…	테두리 및 음영…
 	Both Sides	양쪽
@@ -278,13 +265,11 @@
 	Break Link	연결 끊기
 	Breaks	나누기
 	Breve	브레베
-	Bring Forward	앞으로 가져오기
 	Browse in WordCraft…	WordCraft에서 찾아보기…
 	Building Block Gallery Content Control	문서 블록 갤러리 콘텐츠 컨트롤
 	Built-In	기본 제공
 	Built-in style	기본 제공 스타일
 	Built-in styles can't be deleted.	기본 제공 스타일은 삭제할 수 없습니다.
-	Bullet	글머리 기호
 	Bullet Library	글머리 기호 라이브러리
 	Bullets	글머리 기호
 	By author	작성자별
@@ -296,7 +281,6 @@
 	Capitalize first letter of table cells	표 셀의 첫 글자를 대문자로 바꾸기
 	Capitalize names of days	요일 이름을 대문자로 시작하기
 	Capitalize the first word of a sentence	문장의 첫 단어를 대문자로 시작하세요
-	Caption	캡션
 	Caption Numbering	캡션 번호 매기기
 	Caption text	캡션 텍스트
 	Caption:	캡션:
@@ -308,18 +292,13 @@
 	Cases and Stacks	경우 및 쌓기
 	Categories	범주
 	Categories:	범주:
-	Category	범주
 	Category {n}	범주 {n}
 	Ceiling	올림(천장 함수)
 	Cell	셀
 	Cell Margins	셀 여백
-	Cell Size	셀 크기
 	Cell\nMargins	셀\n여백
 	Center	가운데 맞춤
-	Centered	가운데 맞춤
 	Centered as Group	그룹으로 가운데 맞춤
-	Centimeters	센티미터
-	Change	변경
 	Change Case	대/소문자 바꾸기
 	Change Chart Type	차트 종류 변경
 	Change Colors	색 변경
@@ -348,7 +327,6 @@
 	Changes	변경 내용
 	Chapter in a book	도서의 장
 	Chapters begin at:	장 시작 번호:
-	Character	문자
 	Character Border	문자 테두리
 	Character code:	문자 코드:
 	Character in Range	범위 내 문자
@@ -391,7 +369,6 @@
 	Citation Style	인용 스타일
 	Citations	인용
 	Citations & Bibliography	인용 및 참고 문헌
-	City	도시
 	Clear All Formatting	모든 서식 지우기
 	Clear Character Formatting	문자 서식 지우기
 	Clear Character Style	문자 스타일 지우기
@@ -427,12 +404,9 @@
 	Column Selection	열 선택
 	Column {n}	열 {n}
 	Column:	열:
-	Columns	열
-	Columns:	열:
 	Combine Documents	문서 결합
 	Combo Box Content Control	콤보 상자 콘텐츠 컨트롤
 	Commands	명령
-	Commands:	명령:
 	Comment	댓글
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	PDF, 인쇄물, 이미지에서는 각 페이지 옆에 주석과 변경 내용 추적을 표시하고, 웹 페이지, Markdown, 텍스트에서는 끝에 주석 목록을 표시합니다.
 	Comments Pane	댓글 창
@@ -487,7 +461,6 @@
 	Copy of the text a bookmark marks	책갈피가 지정한 텍스트 사본
 	Copy Styles	스타일 복사
 	Copy to	다른 위치에 복사
-	Copyright	저작권
 	Copyright Sign	저작권 기호
 	Correct accidental usage of cAPS LOCK key	Caps Lock 키를 실수로 사용한 경우 바로잡기
 	Correct TWo INitial CApitals	연속된 두 대문자를 바로잡기
@@ -501,7 +474,6 @@
 	Couldn't open {path}: {error}	{path}을(를) 열 수 없습니다: {error}
 	Count by:	증가 단위:
 	Count words in text boxes and notes	텍스트 상자와 메모의 단어 수 포함
-	Country	국가/지역
 	Courtesy Title	호칭
 	Cover Page	표지
 	Craft	Craft
@@ -511,11 +483,9 @@
 	Create Link	연결 만들기
 	Create New Style	새 스타일 만들기
 	Create Source	원본 만들기
-	Crop	자르기
 	Cross-reference	상호 참조
 	Cross-reference:	상호 참조:
 	Cube Root	세제곱근
-	Current	현재
 	Current - Linear	현재 - 선형
 	Current - Professional	현재 - 전문
 	Current Position	현재 위치
@@ -535,7 +505,6 @@
 	Customize Quick Access Toolbar…	빠른 실행 도구 모음 사용자 지정…
 	Customize Ribbon	리본 사용자 지정
 	Customize the Ribbon…	리본 사용자 지정…
-	Customize…	사용자 지정…
 	Cycle	주기
 	Czech	체코어
 	Danish	덴마크어
@@ -543,16 +512,13 @@
 	Dark page (white text on black)	어두운 페이지(검은 배경에 흰색 텍스트)
 	Dark with Shadow	그림자가 있는 어두운색
 	Darkroom	Darkroom
-	Data	데이터
 	Data Labels	데이터 레이블
 	Date & Time	날짜 및 시간
-	Date and Time	날짜 및 시간
 	Date formats:	날짜 형식:
 	Date Picker Content Control	날짜 선택 콘텐츠 컨트롤
 	Day	일
 	Decimal	소수점
 	Decorative objects only add visual interest: screen readers skip them.	장식용 개체는 시각적 효과만 더하며, 화면 읽기 프로그램에서 건너뜁니다.
-	Decrease Font Size	글꼴 크기 줄이기
 	Decrease Indent	들여쓰기 줄이기
 	Default Paragraph Font	기본 단락 글꼴
 	Default tab stops:	기본 탭 위치:
@@ -573,7 +539,6 @@
 	Delete Previous Word	이전 단어 삭제
 	Delete Rows	행 삭제
 	Delete Selected Ink	선택한 잉크 삭제
-	Delete Style	스타일 삭제
 	Delete Table	표 삭제
 	Delete Table Style	표 스타일 삭제
 	Deletions:	삭제:
@@ -591,7 +556,6 @@
 	Detect language automatically	언어 자동 감지
 	Developer	개발 도구
 	development build	개발 빌드
-	Diagonal	대각선
 	Diagonal Dots	대각선 점
 	Dictate	받아쓰기
 	Different First Page	첫 페이지 다르게 지정
@@ -603,9 +567,7 @@
 	Differentials	미분
 	Direct formatting	직접 서식
 	Directory	디렉터리
-	Discord	Discord
 	Discord community	Discord 커뮤니티
-	Display	표시
 	Display for Review	검토용 표시
 	Display text	표시 텍스트
 	Distribute Columns	열 균등 분할
@@ -628,18 +590,14 @@
 	Document Text	문서 텍스트
 	Document1	문서1
 	Document\nPreferences	문서\n설정
-	Documents	문서
 	Documents you open will show up here.	열어 본 문서가 여기에 표시됩니다.
 	DOI	DOI
 	Don't add space between paragraphs of the same style	같은 스타일의 단락 사이에 간격을 추가하지 않음
 	Don't capitalize after:	다음 뒤에는 대문자로 바꾸지 않음:
 	Don't hyphenate	하이픈 넣지 않음
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Zotero, Mendeley 또는 EndNote의 인용 및 참고 문헌을 읽지 않음
-	Don't Save	저장 안 함
 	Dot dash	파선
 	Dot-dash	일점쇄선
-	Dots	점
-	Dotted	점선
 	Double	이중선
 	Double Bar	이중 막대
 	Double Closing Quote	닫는 큰따옴표
@@ -662,9 +620,7 @@
 	Double Underline	이중 밑줄
 	Double Vertical Bars	이중 세로선
 	Doughnut	도넛형
-	Down	아래로
 	DRAFT	초안
-	Draft	초안
 	Drag a rectangle to draw a table, or a line across cells to split them. Esc stops.	사각형을 끌어 표를 그리거나 셀을 가로지르는 선을 그어 셀을 나누세요. Esc 키를 누르면 중지됩니다.
 	Draw Ink	잉크 그리기
 	Draw Table	표 그리기
@@ -676,7 +632,6 @@
 	Drop cap	문단 첫 글자 장식
 	Drop-Down List Content Control	드롭다운 목록 콘텐츠 컨트롤
 	Drops all formatting and pastes plain text.	모든 서식을 제거하고 일반 텍스트로 붙여넣습니다.
-	Dutch	네덜란드어
 	E-mail Messages	전자 메일 메시지
 	Edit Comment	댓글 편집
 	Edit Data	데이터 편집
@@ -696,16 +651,13 @@
 	Editing — edit the document directly	편집 — 문서를 직접 편집합니다
 	Edition	판
 	Editor	편집기
-	Effects	효과
 	Elbow Arrow Connector	꺾은선 화살표 연결선
 	Elbow Connector	꺾은선 연결선
-	Ellipsis	줄임표
 	Em Dash	긴 대시
 	Em Space	전각 공백
 	Emboss	양각
 	Emphasis	강조
 	Empty Matrices	빈 행렬
-	En Dash	엔 대시
 	En Space	반각 공백
 	Enclose Characters	문자 둘러싸기
 	Enclosure	둘러싸기
@@ -754,15 +706,11 @@
 	Exactly {n}	정확히 {n}
 	Exceptions (optional)	예외(선택 사항)
 	Exceptions…	예외…
-	Expand	확장
 	Expand or Collapse Heading	제목 확장 또는 축소
 	Exponential	지수 함수
 	Exponential series	지수 급수
 	Export a copy to share (PDF, Word document)	공유할 사본 내보내기(PDF, Word 문서)
 	Export Page as PNG	페이지를 PNG로 내보내기
-	Export PDF	PDF 내보내기
-	Exported {path}	{path} 내보냄
-	Expression	식
 	Extend Selection	선택 영역 확장
 	Extend Selection by Units	단위별로 선택 영역 확장
 	Extra space	불필요한 공백
@@ -774,7 +722,6 @@
 	Field names must be different.	필드 이름은 서로 달라야 합니다.
 	Field names:	필드 이름:
 	Field:	필드:
-	Fields:	필드:
 	Field…	필드…
 	Figure	그림
 	File name:	파일 이름:
@@ -783,18 +730,13 @@
 	Filling in forms	양식 작성
 	Film	영화
 	Filter Recipients	받는 사람 필터
-	Find	찾기
-	Find and Replace	찾기 및 바꾸기
-	Find Next	다음 찾기
 	Find Next Editable Region	다음 편집 가능 영역 찾기
 	Find Previous	이전 찾기
 	Find Recipient	받는 사람 찾기
 	Find What Expression	찾을 식
 	Find What Text	찾을 텍스트
 	Find what:	찾을 내용:
-	Find:	찾기:
 	Finding printers…	프린터 검색 중…
-	Finish	마침
 	Finish & Merge	완료 및 병합
 	Finish &\nMerge	완료 및\n병합
 	Finished	완료됨
@@ -804,7 +746,6 @@
 	First line:	첫 줄:
 	First Name	이름
 	First row of data contains column headers	데이터의 첫 번째 행에 열 머리글이 포함됨
-	Fit	맞춤
 	Fix Position on Page	페이지에서 위치 고정
 	Fixed Column Width	고정 열 너비
 	Floor	내림(바닥 함수)
@@ -814,7 +755,6 @@
 	Font color	글꼴 색
 	Font color:	글꼴 색:
 	Font Dialog	글꼴 대화 상자
-	Font Size	글꼴 크기
 	Font: {font}	글꼴: {font}
 	Font…	글꼴…
 	Footer	바닥글
@@ -846,7 +786,6 @@
 	Function	함수
 	Functions	함수
 	Gallery	Gallery
-	Geometry	기하학
 	German (Germany)	독일어(독일)
 	getartcraft.com/apps/wordcraft	getartcraft.com/apps/wordcraft
 	Glow	광채
@@ -861,7 +800,6 @@
 	Good morning	좋은 아침입니다
 	Grab bag	모음
 	Grave	그레이브(`)
-	Grayscale	회색조
 	Greek	그리스어
 	Greek Letters	그리스 문자
 	Green:	초록:
@@ -873,7 +811,6 @@
 	Grid Table 4 – Orange	눈금 표 4 – 주황
 	Grid Table 4 – Purple	눈금 표 4 – 보라
 	Gridlines	눈금선
-	Group	그룹
 	Grouping Character Above	위 묶음 문자
 	Grouping Character Below	아래 묶음 문자
 	Grow Font 1 Point	글꼴 크기 1포인트 키우기
@@ -891,10 +828,8 @@
 	Heading 3	제목 3
 	Heading styles (levels 1–{n})	제목 스타일(수준 1–{n})
 	Heading {n}	제목 {n}
-	Heart	하트
 	Hebrew	히브리어
 	Hex:	16진수:
-	Hidden	숨김
 	Hide Codes	코드 숨기기
 	Hide from style lists	스타일 목록에서 숨기기
 	Hide Ink	잉크 숨기기
@@ -924,7 +859,6 @@
 	Hyperlink	하이퍼링크
 	Hyphenate at:	하이픈 넣는 위치:
 	Hyphenate words in CAPS	대문자 단어에 하이픈 넣기
-	Hyphenation	하이픈 넣기
 	Hyphenation Options…	하이픈 넣기 옵션…
 	Hyphenation zone:	하이픈 넣기 영역:
 	Hyphens (--) as dashes (—)	하이픈(--)을 대시(—)로 바꾸기
@@ -936,7 +870,6 @@
 	Identity Matrices	단위 행렬
 	If…Then…Else	조건문 (If…Then…Else)
 	If…Then…Else…	조건문 (If…Then…Else…)…
-	Ignore All	모두 무시
 	Ignore punctuation characters	문장 부호 무시
 	Ignore web and file addresses	웹 주소와 파일 주소 무시
 	Ignore white-space characters	공백 문자 무시
@@ -950,10 +883,8 @@
 	In equations, typing a name after a backslash replaces it with its symbol.	수식에서 역슬래시 뒤에 이름을 입력하면 해당 기호로 바뀝니다.
 	In Front of Text	텍스트 앞
 	In Line with Text	텍스트 줄 안
-	Inches	인치
 	Include level number from:	다음 수준 번호 포함:
 	Include page numbers	페이지 번호 포함
-	Increase Font Size	글꼴 크기 키우기
 	Increase Indent	들여쓰기 늘리기
 	Indent	들여쓰기
 	Indent from left:	왼쪽에서 들여쓰기:
@@ -964,8 +895,6 @@
 	Index and Tables	색인 및 목차
 	Index Heading	색인 제목
 	Index {n}	색인 {n}
-	Inflate	볼록하게
-	Info	정보
 	Initials:	이니셜:
 	Ink	잉크
 	Ink Replay	잉크 재생
@@ -1018,7 +947,6 @@
 	Inside Horizontal Border	안쪽 가로 테두리
 	Inside Vertical Border	안쪽 세로 테두리
 	Inside:	안쪽:
-	Inspect Document	문서 검사
 	Inspect Styles at Selection	선택 영역의 스타일 검사
 	Institution	기관
 	Integral	적분
@@ -1029,14 +957,11 @@
 	Intense Emphasis	강한 강조
 	Intense Quote	강한 인용
 	Intense Reference	강한 참조
-	Interface	인터페이스
 	Interface language:	인터페이스 언어:
 	Interface size:	인터페이스 크기:
-	Interface Theme	인터페이스 테마
 	Interface theme:	인터페이스 테마:
 	Interface\nTheme	인터페이스\n테마
 	Internet addresses as links	인터넷 주소를 링크로 바꾸기
-	Intersection	교집합
 	Intersection with Limits	교집합 (한계 포함)
 	Intersection with Lower Limit	교집합 (아래 한계 포함)
 	Intersection with Subscript-Superscript Limits	교집합 (아래·위 첨자 한계 포함)
@@ -1056,8 +981,6 @@
 	Inverse Tangent Function	역 탄젠트 함수
 	Ionosphere	전리층
 	Issue	호
-	Italian	이탈리아어
-	Japanese	일본어
 	Join the ArtCraft community on Discord	Discord에서 ArtCraft 커뮤니티에 참여하세요
 	Join us on Discord: discord.gg/artcraft	Discord에서 함께하세요: discord.gg/artcraft
 	Journal	학술지
@@ -1073,18 +996,15 @@
 	Keeps the fonts and formatting of the copied text.	복사한 텍스트의 글꼴과 서식을 유지합니다.
 	Keyboard shortcuts:	바로 가기 키:
 	Keys for this command:	이 명령의 키:
-	Korean	한국어
 	Label changes with:	변경 내용 작성자 표시:
 	Label:	레이블:
 	Large\nOperator	큰\n연산자
 	Largest Only	공간이 넓은 쪽만
-	Lasso	올가미
 	Lasso Select	올가미 선택
 	Last Column	마지막 열
 	Last Name	성
 	Last, First; Last, First	성, 이름; 성, 이름
 	Latin text font:	라틴 문자 글꼴:
-	Layout	레이아웃
 	Layout Summary	레이아웃 요약
 	Layouts	레이아웃
 	Leader	채움선
@@ -1110,7 +1030,6 @@
 	Leftwards Harpoon Above	위 왼쪽 작살 화살표
 	Legal style numbering	법률 형식 번호 매기기
 	Legend	범례
-	Letter	레터
 	Letter headings	문자별 제목
 	Letter-Like Symbols	문자형 기호
 	Letters	편지
@@ -1145,7 +1064,6 @@
 	Line Spacing Options…	줄 간격 옵션…
 	Line spacing:	줄 간격:
 	Line Start	줄 시작
-	Linear	선형
 	Linear Fraction	선형 분수
 	Lines	줄
 	Lines and characters	선 및 문자
@@ -1155,7 +1073,6 @@
 	Link level to style:	수준을 스타일에 연결:
 	Link to Previous	이전 머리글/바닥글과 연결
 	Linked style (paragraph and character)	연결된 스타일 (단락 및 문자)
-	Links	링크
 	Links and References	링크 및 참조
 	Link…	링크…
 	List Definition	목록 정의
@@ -1177,7 +1094,6 @@
 	Logical AND with Limits	논리곱 (한계 포함)
 	Logical OR	논리합
 	Logical OR with Limits	논리합 (한계 포함)
-	lowercase	소문자
 	Lum:	명도:
 	Macros	매크로
 	Made from the author and year when empty	비어 있으면 저자와 연도로 생성
@@ -1218,14 +1134,10 @@
 	Maximum Example	최댓값 예
 	Measured By	측정 기준
 	Measurement units:	측정 단위:
-	Merge	병합
-	Merge Cells	셀 병합
 	Merge Formatting	서식 병합
 	Merge Record #	병합 레코드 번호
 	Mesosphere	중간권
-	Middle	가운데
 	Midline Dots	가운데 점
-	Millimeters	밀리미터
 	Minimum	최솟값
 	Minus Equal	빼기 등호
 	Mirror indents	좌우 대칭 들여쓰기
@@ -1244,7 +1156,6 @@
 	More Commands…	명령 더 보기…
 	More Symbols…	기호 더 보기…
 	More templates →	템플릿 더 보기 →
-	Move Down	아래로 이동
 	Move in Equation	수식 내에서 이동
 	Move or Resize	이동 또는 크기 조정
 	Move Paragraph Down	단락 아래로 이동
@@ -1253,7 +1164,6 @@
 	Move Past\nCitation	인용\n뒤로 이동
 	Move Selected Ink	선택한 잉크 이동
 	Move Table by Dragging	드래그하여 표 이동
-	Move Up	위로 이동
 	Move with Text	텍스트와 함께 이동
 	Moved from	이동한 위치(시작)
 	Moved to	이동한 위치(끝)
@@ -1266,36 +1176,25 @@
 	Narrow  {size} all	좁게(모든 여백 {size})
 	Natural Logarithm	자연로그
 	Nature	자연
-	Navigation	탐색
 	Navigation Pane	탐색 창
 	Negated Relations	부정 관계
-	New	새로 만들기
 	New Comment	새 댓글
 	New comments and tracked changes are recorded under this name and these initials.	새 댓글과 변경 내용 추적은 이 이름과 이니셜로 기록됩니다.
-	New Document	새 문서
-	New document	새 문서
 	New Drawing Canvas	새 그리기 캔버스
 	New Entry	새 항목
-	New from Template	템플릿에서 새로 만들기
-	New Group	새 그룹
 	New Label	새 레이블
 	New Label…	새 레이블…
 	New Paragraph	새 단락
 	New shortcut:	새 바로 가기 키:
-	New Style…	새 스타일…
 	New Tab	새 탭
 	New Table Style	새 표 스타일
 	New Table Style…	새 표 스타일…
-	New Window	새 창
 	New word	새 단어
 	New\nComment	새\n댓글
 	New\nWindow	새\n창
-	New…	새로 만들기…
-	Next Change	다음 변경 내용
 	Next Comment	다음 댓글
 	Next Field	다음 필드
 	Next Footnote	다음 각주
-	Next Page	다음 페이지
 	Next Record	다음 레코드
 	Next Section	다음 구역
 	Next Sentence	다음 문장
@@ -1367,7 +1266,6 @@
 	Numerals:	숫자:
 	n×n Identity Matrix	n×n 단위 행렬
 	n×n Matrix	n×n 행렬
-	Object	개체
 	Odd Banded Columns	홀수 줄무늬 열
 	Odd Banded Rows	홀수 줄무늬 행
 	Odd Page	홀수 페이지
@@ -1383,7 +1281,6 @@
 	Offset: Top	오프셋: 위쪽
 	Offset: Top Left	오프셋: 왼쪽 위
 	Offset: Top Right	오프셋: 오른쪽 위
-	Omit	생략
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	사용: 입력하거나 방향키를 누르면 커서가 새 위치로 부드럽게 이동하고 깜박임이 서서히 사라집니다. 사용 안 함: 커서가 바로 이동하고 깜박임이 켜졌다 꺼집니다.
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	켜기: WordCraft를 실행하면 파일 › 홈에 빈 문서, 서식 파일 및 최근 문서가 표시됩니다. 끄기: 빈 문서가 열립니다.
 	One	하나
@@ -1410,9 +1307,7 @@
 	Ordinals (1st) as superscript	서수(1st)를 위 첨자로 바꾸기
 	Organizer	구성 도우미
 	Organizer…	관리자…
-	Orientation	방향
 	Original document	원본 문서
-	Other	기타
 	Other Large Operators	기타 대형 연산자
 	Other styles and their TOC level:	기타 스타일 및 목차 수준:
 	Otherwise insert:	그렇지 않으면 삽입:
@@ -1461,7 +1356,6 @@
 	Page\nNumber	페이지\n번호
 	Pages like 1-3, 5	페이지 범위(예: 1-3, 5)
 	Pages of bookmark:	책갈피 페이지:
-	Paragraph	단락
 	Paragraph Character	단락 문자
 	Paragraph Details	단락 세부 정보
 	Paragraph Down	단락 아래로
@@ -1483,23 +1377,18 @@
 	Paste Clipboard Item	클립보드 항목 붙여넣기
 	Paste Formatting	서식 붙여넣기
 	Paste function:	함수 붙여넣기:
-	Paste Special	선택하여 붙여넣기
 	Paste Special…	선택하여 붙여넣기…
 	Paste: Keep Text Only	붙여넣기: 텍스트만 유지
 	Paste: Merge Formatting	붙여넣기: 서식 병합
 	Pastes the clipboard's picture.	클립보드의 그림을 붙여넣습니다.
-	Pause	일시 정지
 	Paused	일시 정지됨
 	PDF document (*.pdf)	PDF 문서 (*.pdf)
-	Pen	펜
-	Pencil	연필
 	Pens	펜
 	People	사람
 	Periodical	정기간행물
 	Personalize	개인 설정
 	Phonetic Guide	윗주
 	Pi Over 2	2분의 파이
-	Picas	파이카
 	Pick a custom group (New Group makes one)	사용자 지정 그룹을 선택하세요(새 그룹을 만들려면 ‘새 그룹’을 선택)
 	Pick a field from the list	목록에서 필드 선택
 	Picture	그림
@@ -1513,29 +1402,22 @@
 	Plain Table 1	일반 표 1
 	Plain text (*.txt)	일반 텍스트 (*.txt)
 	Plain Text Content Control	일반 텍스트 콘텐츠 컨트롤
-	Play	재생
 	Play/Pause	재생/일시 정지
 	Plus Equal	더하기 등호
-	Points	포인트
 	Polish	폴란드어
 	Portuguese (Brazil)	포르투갈어(브라질)
 	Portuguese (Portugal)	포르투갈어(포르투갈)
-	Position:	위치:
 	Possible spelling mistake	맞춤법 오류 가능성
 	Postal Code	우편번호
 	Power series of (1+x)ⁿ	(1+x)ⁿ의 멱급수
 	Preferred width:	기본 너비:
 	Preserve formatting during updates	업데이트 중 서식 유지
-	Presets	사전 설정
 	Press a key combination	키 조합을 누르세요
 	Preview Results	결과 미리 보기
 	Preview\nResults	결과\n미리 보기
-	Previous	이전
 	Previous 1 or More	이전 항목 1개 이상
-	Previous Change	이전 변경 내용
 	Previous Comment	이전 댓글
 	Previous Field	이전 필드
-	Previous Page	이전 페이지
 	Previous Record	이전 레코드
 	Previous Section	이전 구역
 	Previous Sentence	이전 문장
@@ -1549,7 +1431,6 @@
 	Print the page color	페이지 배경색 인쇄
 	Print to PDF	PDF로 인쇄
 	Print\nLayout	인쇄\n레이아웃
-	Printer	프린터
 	Printer default	프린터 기본값
 	Printer discovery failed.	프린터 검색에 실패했습니다.
 	Privacy Options	개인 정보 옵션
@@ -1567,13 +1448,11 @@
 	Proofing	교정
 	Proofing Issues	교정 문제
 	Proofing language	교정 언어
-	Properties	속성
 	Protect Document	문서 보호
 	pt	pt
 	Publisher	출판사
 	Put the caret in a content control first.	먼저 콘텐츠 컨트롤 안에 커서를 놓으세요.
 	Put the default commands back on the Quick Access Toolbar?	빠른 실행 도구 모음에 기본 명령을 복원하시겠습니까?
-	Pyramid	피라미드
 	Quadratic Root	이차 근호
 	Quick Access Toolbar	빠른 실행 도구 모음
 	Quick Parts	빠른 문서 요소
@@ -1621,7 +1500,6 @@
 	Relationship	관계
 	Relaxed	여유 있게
 	Remove Added Font	추가된 글꼴 제거
-	Remove Background	배경 제거
 	Remove Content Control	콘텐츠 컨트롤 제거
 	Remove every custom shortcut and restore the built-in keys?	모든 사용자 지정 바로 가기 키를 제거하고 기본 키로 복원하시겠습니까?
 	Remove every custom tab and group and show all tabs again?	모든 사용자 지정 탭과 그룹을 제거하고 모든 탭을 다시 표시하시겠습니까?
@@ -1641,10 +1519,7 @@
 	Remove the space before the punctuation	문장 부호 앞의 공백을 제거하세요
 	Remove Watermark	워터마크 제거
 	Rename Document	문서 이름 바꾸기
-	Rename Style	스타일 이름 바꾸기
-	Rename…	이름 바꾸기…
 	Reopen	다시 열기
-	Repeat	반복
 	Repeat as header row on each page	각 페이지에서 머리글 행으로 반복
 	Repeat Header Rows	머리글 행 반복
 	Repeating Section Content Control	반복 구역 콘텐츠 컨트롤
@@ -1653,11 +1528,9 @@
 	Replace Document Text	문서 텍스트 바꾸기
 	Replace text as you type	입력할 때 텍스트 바꾸기
 	Replace with:	바꿀 내용:
-	Replace:	바꾸기:
 	Replay	다시 재생
 	Research	리서치
 	Researcher	리서치 도구
-	Reset	재설정
 	Reset All…	모두 초기화…
 	Reset Character Formatting	문자 서식 초기화
 	Reset Crop	자르기 재설정
@@ -1676,7 +1549,6 @@
 	Restart list after:	다음 항목 뒤에서 목록 다시 시작:
 	Restrict Editing	편집 제한
 	Restrict\nEditing	편집\n제한
-	Result	결과
 	Results	결과
 	Return address labels	반송 주소 레이블
 	Return address:	반송 주소:
@@ -1705,7 +1577,6 @@
 	Right-to-Left Section	오른쪽에서 왼쪽 구역
 	Right-to-Left Table	오른쪽에서 왼쪽 표
 	Right-to-Left Text Direction	오른쪽에서 왼쪽 텍스트 방향
-	Right:	오른쪽:
 	Rightwards Arrow Above	위 오른쪽 화살표
 	Rightwards Harpoon Above	위 오른쪽 작살 화살표
 	Roots of ax²+bx+c	ax²+bx+c의 근
@@ -1713,26 +1584,20 @@
 	Rotate all text 90°	텍스트를 90° 회전
 	Rotate Left 90°	왼쪽으로 90° 회전
 	Rotate Right 90°	오른쪽으로 90° 회전
-	Rounded Rectangle	둥근 사각형
 	Row	행
 	Row:	행:
 	Rows & Columns	행 및 열
 	Ruby text:	윗주 텍스트:
-	Ruler	눈금자
 	Rules	규칙
 	Run-in	한 줄 내 배치
-	Russian	러시아어
 	Résumé	이력서
 	SAMPLE	견본
 	Sat:	채도:
 	Save a copy in another format. Printing goes through a PDF you can print from any viewer.	다른 형식으로 사본을 저장합니다. 인쇄하려면 PDF로 저장한 뒤 원하는 뷰어에서 인쇄할 수 있습니다.
-	Save As	다른 이름으로 저장
-	Save as Template	템플릿으로 저장
 	Save documents	문서 저장
 	Save the document to turn on AutoSave	자동 저장을 사용하려면 문서를 저장하세요.
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	자동 저장을 사용하려면 문서를 저장하세요(열기만 한 파일은 저장할 때까지 다시 기록되지 않습니다).
 	Save these pages as PDF…	이 페이지를 PDF로 저장…
-	Saved	저장됨
 	Scale	배율
 	Scale Drawing	그리기 크기 조정
 	Scatter	분산형
@@ -1755,14 +1620,12 @@
 	Section Properties	구역 속성
 	Sections	구역
 	See	참조
-	Select	선택
 	Select a picture, shape, chart or table to describe it.	설명할 그림, 도형, 차트 또는 표를 선택하세요.
 	Select a printer	프린터 선택
 	Select Cell	셀 선택
 	Select Column	열 선택
 	Select Heading and Content	제목 및 내용 선택
 	Select Line	줄 선택
-	Select Objects	개체 선택
 	Select Paragraph	단락 선택
 	Select Range	범위 선택
 	Select Recipients	받는 사람 선택
@@ -1779,7 +1642,6 @@
 	Select\nRecipients	받는 사람\n선택
 	Selected Fields	선택한 필드
 	Selection Pane	선택 창
-	Send Backward	뒤로 보내기
 	Send the document straight to the system print dialog, or save a copy in another format below.	문서를 시스템 인쇄 대화 상자로 바로 보내거나, 아래에서 다른 형식으로 사본을 저장하세요.
 	Sentence	문장
 	Sentence case.	문장식 대소문자.
@@ -1789,9 +1651,7 @@
 	Serbian (Latin)	세르비아어(라틴 문자)
 	Series name	계열 이름
 	Series {n}	계열 {n}
-	Set	설정
 	Set As Default	기본값으로 설정
-	Set as Default	기본값으로 설정
 	Set Caret	커서 설정
 	Set Character Formatting	문자 서식 설정
 	Set Date	날짜 설정
@@ -1799,9 +1659,7 @@
 	Set Numbering Value	번호 값 설정
 	Set Paragraph Formatting	단락 서식 설정
 	Setting:	설정:
-	Settings…	설정…
 	Shading	음영
-	Shadow	그림자
 	Shadow, glow and soft edges	그림자, 광채 및 부드러운 가장자리
 	Shape Effects	도형 효과
 	Shape Fill	도형 채우기
@@ -1809,7 +1667,6 @@
 	Shape Outline	도형 윤곽선
 	Shape Styles	도형 스타일
 	Shapes	도형
-	Share	공유
 	Shift+Tab	Shift+Tab
 	Shipping labels	배송 레이블
 	Shortcut key:	바로 가기 키:
@@ -1839,7 +1696,6 @@
 	Show only comments and formatting in balloons	말풍선에 메모와 서식만 표시
 	Show or Hide Style	스타일 표시 또는 숨기기
 	Show revisions in balloons	말풍선에 변경 내용 표시
-	Show rulers	눈금자 표시
 	Show Text Formatting	텍스트 서식 표시
 	Show the community button in the title bar	제목 표시줄에 커뮤니티 단추 표시
 	Show the equation in the line of text	수식을 텍스트 줄 안에 표시
@@ -1883,7 +1739,6 @@
 	Site name	사이트 이름
 	Size (pt):	크기 (pt):
 	Size and Crop…	크기 및 자르기…
-	Size:	크기:
 	Sketchbook	Sketchbook
 	Skewed Fraction	비스듬한 분수
 	Skip citations & bibliography	인용 및 참고 문헌 건너뛰기
@@ -1892,7 +1747,6 @@
 	Skip Record If…	조건에 따라 레코드 건너뛰기…
 	Slant Down	아래쪽 기울임
 	Slant Up	위쪽 기울임
-	Small Caps	작은 대문자
 	Small caps	작은 대문자
 	Small change	작은 변화량
 	Smart quotes instead of straight quotes	곧은 따옴표 대신 스마트 따옴표 사용
@@ -1916,19 +1770,13 @@
 	Space before	단락 앞 간격
 	Space before/after:	앞/뒤 간격:
 	Space before: {pt} pt	단락 앞 간격: {pt} pt
-	Spaces	공백
-	Spacing	간격
 	Spacing (pt):	간격 (pt):
-	Spacing:	간격:
 	Spanish (Mexico)	스페인어(멕시코)
 	Spanish (Spain)	스페인어(스페인)
 	Sparse Matrices	희소 행렬
-	Special	특수
 	Special Characters	특수 문자
 	Specify height:	높이 지정:
 	Speech	음성
-	Speed	속도
-	Spelling	맞춤법
 	Spelling & Grammar	맞춤법 및 문법
 	Spelling &\nGrammar	맞춤법 및\n문법
 	Spelling and grammar are checked in English (United States).	맞춤법과 문법은 영어(미국)로 검사합니다.
@@ -1947,15 +1795,11 @@
 	Stacked Fraction	쌓은 분수
 	Stacked, no bar	쌓기, 분수선 없음
 	Standard Colors	표준 색
-	Start at:	시작 번호:
 	Start Enforcing Protection	보호 적용 시작
 	Start Mail Merge	편지 병합 시작
 	Start Mail\nMerge	편지 병합\n시작
 	Start-up	시작 화면
 	State	주/도
-	Statistics	통계
-	Status Bar	상태 표시줄
-	Stop	중지
 	Stop Protection	보호 중지
 	Stop Reading	읽기 중지
 	Stopped	중지됨
@@ -1971,18 +1815,14 @@
 	Style based on:	기준 스타일:
 	Style Inspector	스타일 검사기
 	Style Set	스타일 모음
-	Style:	스타일:
 	Style: {style}	스타일: {style}
-	Styles	스타일
 	Styles Pane	스타일 창
 	Styles:	스타일:
 	Subentry:	하위 항목:
 	Submitting print job…	인쇄 작업 전송 중…
-	Subscript	아래 첨자
 	Subscript-Superscript	아래·위 첨자
 	Subscripts and Superscripts	아래·위 첨자
 	Subset:	하위 집합:
-	Subtitle	부제
 	Subtle Emphasis	은은한 강조
 	Subtle Reference	은은한 참조
 	Sum	합계
@@ -1996,7 +1836,6 @@
 	Summation with Subscript Limit	합 (아래 첨자 한계 포함)
 	Summation with Subscript-Superscript Limits	합 (아래·위 첨자 한계 포함)
 	Summations	합
-	Superscript	위 첨자
 	Suppress line numbers	줄 번호 숨기기
 	Surface Integral	면적분
 	Surface Integral with Limits	면적분 (한계 포함)
@@ -2005,10 +1844,8 @@
 	Swedish	스웨덴어
 	Switch Modes	모드 전환
 	Switch\nModes	모드\n전환
-	Symbol	기호
 	Symbols	기호
 	Synonyms	유의어
-	Tab	탭
 	Tab Character	탭 문자
 	Tab character	탭 문자
 	Tab characters	탭 문자
@@ -2029,10 +1866,8 @@
 	Table Properties	표 속성
 	Table Properties…	표 속성…
 	Table Row Height	표 행 높이
-	Table style	표 스타일
 	Table Style Options	표 스타일 옵션
 	Table Styles	표 스타일
-	Tabs	탭
 	Tabs…	탭…
 	Tabular List	표 형식 목록
 	Tag	태그
@@ -2058,7 +1893,6 @@
 	Text snaps to characters	텍스트를 문자에 맞춤
 	Text to display:	표시할 텍스트:
 	Text Wrapping	텍스트 배치
-	Text:	텍스트:
 	Text\nBox	텍스트\n상자
 	Text\nDirection	텍스트\n방향
 	That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on.	이 형식은 모든 내용을 보존하지 못하므로 문서는 계속 열려 있습니다. 계속하려면 Word 문서 (.docx)로 저장하세요.
@@ -2117,7 +1951,6 @@ preview	Title	제목
 	Top Margin	위쪽 여백
 	Top of Page	페이지 위쪽
 	Top Right Cell	오른쪽 위 셀
-	Top:	위쪽:
 	Total Row	요약 행
 	Track Changes	변경 내용 추적
 	Track Changes Options	변경 내용 추적 옵션
@@ -2129,10 +1962,7 @@ preview	Title	제목
 	Tracking	추적
 	Trademark	상표
 	Trademark Sign	상표 기호
-	Transform	변형
-	Transparency	투명도
 	Transport	교통
-	Triangle	삼각형
 	Triangle Down	아래쪽 삼각형
 	Triangle Up	위쪽 삼각형
 	Trigonometric Functions	삼각 함수
@@ -2160,7 +1990,6 @@ preview	Title	제목
 	Type the field's name and its switches, for example PAGE \\* roman.	필드 이름과 스위치를 입력하세요. 예: PAGE \\* roman.
 	Type the password to stop the protection.	보호를 중지하려면 암호를 입력하세요.
 	Type the recipients, or load them from a file.	받는 사람을 입력하거나 파일에서 불러오세요.
-	Type:	유형:
 	Typing	입력
 	Typing replaces selected text	입력한 텍스트로 선택한 텍스트 바꾸기
 	Ukrainian	우크라이나어
@@ -2174,8 +2003,6 @@ preview	Title	제목
 	Undo History	실행 취소 기록
 	Undo {n} Actions	작업 {n}개 실행 취소
 	Unformatted Text	서식 없는 텍스트
-	Ungroup	그룹 해제
-	Union	합집합
 	Union of intersections	교집합들의 합집합
 	Union with Limits	합집합 (한계 포함)
 	Union with Lower Limit	합집합 (아래 한계 포함)
@@ -2196,7 +2023,6 @@ preview	Title	제목
 	Update Table of Figures	그림 목차 업데이트
 	Update to Match	선택 영역에 맞게 업데이트
 	Update to Match Selection	선택 영역에 맞게 업데이트
-	UPPERCASE	대문자
 	URGENT	긴급
 	URL	URL
 	Use "a" before a consonant sound	자음 소리 앞에는 "a"를 사용하세요
@@ -2207,7 +2033,6 @@ preview	Title	제목
 	Use wildcards	와일드카드 사용
 	User Name	사용자 이름
 	User name:	사용자 이름:
-	Value	값
 	Vector A	벡터 A
 	Vector AB	벡터 AB
 	Version History	버전 기록
@@ -2221,7 +2046,6 @@ preview	Title	제목
 	View State	보기 상태
 	Views	보기
 	Visual effects	시각 효과
-	Voice	음성
 	Volume	권
 	Volume Integral	체적분
 	Volume Integral with Limits	체적분 (한계 포함)
@@ -2235,7 +2059,6 @@ preview	Title	제목
 	Web Layout	웹 레이아웃
 	Web page (*.html)	웹 페이지 (*.html)
 	Web\nLayout	웹\n레이아웃
-	Website	웹 사이트
 	Wed	수
 	Weight	굵기
 	West	서쪽
@@ -2254,7 +2077,6 @@ preview	Title	제목
 	Widow/Orphan control	고아 줄 및 과부 줄 제어
 	Width and spacing	너비 및 간격
 	Wildcards (regex)	와일드카드 (정규식)
-	Window	창
 	With:	다음으로:
 	Word Count	단어 수
 	Word document	Word 문서
@@ -2280,8 +2102,6 @@ preview	Title	제목
 	Your system doesn't report an animation setting, so animation effects stay on.	시스템에서 애니메이션 설정을 확인할 수 없어 애니메이션 효과를 켜 둡니다.
 	Your system has animation effects turned off.	시스템에서 애니메이션 효과가 꺼져 있습니다.
 	Your system has animation effects turned on.	시스템에서 애니메이션 효과가 켜져 있습니다.
-	Zoom In	확대
-	Zoom Out	축소
 	Zotero	Zotero
 	Zotero: cancelled	Zotero: 취소됨
 	Zotero: done	Zotero: 완료

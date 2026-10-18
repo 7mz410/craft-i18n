@@ -23,7 +23,6 @@
 	+LOC	+LOC
 	, Expires: 	، تنتهي: 
 	1 difference found	عُثر على فرق واحد
-	1 file	ملف واحد
 	1 file done	اكتمل ملف واحد
 	1 file needs attention	ملف واحد يحتاج إلى انتباه
 	1 instance	موضع واحد
@@ -73,10 +72,7 @@
 	Action name:	اسم الإجراء:
 	Action Wizard	معالج الإجراءات
 	Action Wizard…	معالج الإجراءات…
-	Actions	الإجراءات
 	Actions list	قائمة الإجراءات
-	Active	نشط
-	Actual Size	الحجم الفعلي
 	Actual size	الحجم الفعلي
 	Actual text	النص الفعلي
 	Add a button	إضافة زر
@@ -173,8 +169,6 @@
 	AI assistant	مساعد الذكاء الاصطناعي
 	Algorithm	الخوارزمية
 	Align fields	محاذاة الحقول
-	Align left	محاذاة لليسار
-	Align right	محاذاة لليمين
 	All annotations are tagged	كل التعليقات التوضيحية موسومة
 	All document contents	كل محتويات المستند
 	All document contents except metadata	كل محتويات المستند عدا البيانات الوصفية
@@ -202,7 +196,6 @@
 	Alternate text on an element without page content is never reached. Remove it or attach the element to content.	النص البديل على عنصر بلا محتوى في الصفحة لا يُوصَل إليه أبدًا. أزله أو اربط العنصر بمحتوى.
 	Alternate text should not hide annotation	النص البديل ينبغي ألا يخفي تعليقًا توضيحيًا
 	Alternate text that will never be read	نص بديل لن يُقرأ أبدًا
-	Always	دائماً
 	An action is already running	يوجد إجراء قيد التشغيل بالفعل
 	An action with this name already exists.	يوجد إجراء بهذا الاسم بالفعل.
 	An embedded file has no AFRelationship	ملف مضمَّن ليس له AFRelationship
@@ -210,20 +203,15 @@
 	An image has alternates or OPI information	صورة لها بدائل أو معلومات OPI
 	An open-source PDF workbench — local, private, and scriptable.	منضدة عمل مفتوحة المصدر لملفات PDF — محلية وخاصة وقابلة للبرمجة.
 	and {n} more	و{n} أخرى
-	Angle	الزاوية
-	Animation effects	تأثيرات الحركة
 	Animation that flashes can cause seizures. Check scripts and media for flicker.	الحركة الوامضة قد تسبب نوبات. افحص السكربتات والوسائط بحثًا عن الوميض.
 	Annotations, form fill-in, and digital signatures	التعليقات وتعبئة النماذج والتوقيعات الرقمية
 	Another file dialog is still open. Finish with it first.	يوجد حوار ملفات آخر ما زال مفتوحًا. أنهِ العمل فيه أولًا.
-	Any	أي
 	Any except extracting pages	أي شيء عدا استخراج الصفحات
 	Anyone opening the document will need this password. It's applied when you save.	كل من يفتح المستند سيحتاج إلى كلمة المرور هذه. تُطبَّق عند الحفظ.
 	Appear behind page	الظهور خلف الصفحة
 	Appear on top of page	الظهور فوق الصفحة
-	Appearance	المظهر
 	Appearance mode	وضع المظهر
 	Appearance settings…	إعدادات المظهر…
-	Application	التطبيق
 	Applied 1 redaction mark. Save to remove the content from the file.	طُبِّقت علامة حجب واحدة. احفظ لإزالة المحتوى من الملف.
 	Applied {n} redaction marks. Save to remove the content from the file.	طُبِّقت {n} علامات حجب. احفظ لإزالة المحتوى من الملف.
 	Applies to 1 page	يُطبَّق على صفحة واحدة
@@ -237,8 +225,6 @@
 calendar date	April	أبريل
 	Arbitrary Mask	قناع حر
 	Archive documents	أرشفة المستندات
-	Area	المساحة
-	ArtCraft website	موقع ArtCraft
 	Ask about this document	اسأل عن هذا المستند
 	Asks GitHub for the latest release. Nothing is downloaded or installed automatically.	يسأل GitHub عن أحدث إصدار. لا يُنزَّل أو يُثبَّت شيء تلقائيًا.
 	Associated with content	مرتبط بمحتوى
@@ -258,15 +244,12 @@ calendar date	August	أغسطس
 	Auto portrait/landscape	عمودي/أفقي تلقائيًا
 	Auto-rotate pages	تدوير الصفحات تلقائيًا
 	Auto-size text to fit redaction region	تحجيم النص تلقائيًا ليلائم منطقة الحجب
-	Automatically	تلقائياً
 	Automatically tag PDF	وسم PDF تلقائيًا
-	Available	متاح
 	average	المتوسط
 	Back	رجوع
 	Back side only	الوجه الخلفي فقط
 	Back to all tools	العودة إلى كل الأدوات
 	Back to the document	العودة إلى المستند
-	Background	خلفية
 	background	خلفية
 	Basic constraints	القيود الأساسية
 certificate	Basic constraints	القيود الأساسية
@@ -275,14 +258,10 @@ certificate	Basic constraints	القيود الأساسية
 	Before the number	قبل الرقم
 	Beveled	مشطوف
 	Bicubic downsampling to	تقليل العينات بطريقة Bicubic إلى
-	Binary assets removed	الأصول الثنائية المُزالة
 	Binding	التجليد
 	Binding:	التجليد:
-	Black	أسود
-	Black and white	أبيض وأسود
 	Black on white	أسود على أبيض
 	Blank page	صفحة فارغة
-	Blue	أزرق
 	Booklet	كتيّب
 	Booklet subset:	جزء الكتيّب:
 	Bookmark options	خيارات الإشارات المرجعية
@@ -291,8 +270,6 @@ certificate	Basic constraints	القيود الأساسية
 	Bookmarks Panel and Page	لوحة الإشارات المرجعية والصفحة
 	Border Color:	لون الحد:
 	Borders and Colors	الحدود والألوان
-	Both	كلاهما
-	Both sides	الوجهان
 	Box	المربع
 	Bring your own model (off by default)	استخدم نموذجك الخاص (متوقف افتراضيًا)
 	Browser's print dialog	مربع حوار الطباعة في المتصفح
@@ -303,15 +280,12 @@ certificate	Basic constraints	القيود الأساسية
 	Button Style:	نمط الزر:
 	Buttons with the same name and value are selected in unison	الأزرار ذات الاسم والقيمة نفسيهما تُحدَّد معًا
 	Bytes	بايت
-	Calculate	الحساب
 	Calibrate from two points	المعايرة من نقطتين
 	Callout	وسيلة شرح
 	Can't be read: {e}	تتعذر قراءته: {e}
 	Cancelled	ملغى
 	Cancelling…	جارٍ الإلغاء…
 	Case-sensitive	مطابقة حالة الأحرف
-	Category:	الفئة:
-	Center	وسط
 	Center Footer Text	نص التذييل الأوسط
 	Center Header Text	نص الرأس الأوسط
 	Center horizontally	توسيط أفقي
@@ -360,7 +334,6 @@ certificate	Basic constraints	القيود الأساسية
 	Check Box Style:	نمط خانة الاختيار:
 	Check for accessibility	فحص إمكانية الوصول
 	Check for accessibility…	فحص إمكانية الوصول…
-	Check for updates	التحقق من التحديثات
 	Check for updates…	التحقق من التحديثات…
 	Check spelling	تدقيق إملائي
 	Check that the tags read in the order a sighted reader would. Use the Reading Order tool or the Tags panel to correct it.	تحقق من أن الوسوم تُقرأ بالترتيب الذي يتبعه القارئ المبصر. استخدم أداة ترتيب القراءة أو لوحة الوسوم لتصحيحه.
@@ -389,12 +362,10 @@ certificate	Basic constraints	القيود الأساسية
 	Choose image…	اختيار صورة…
 	Choose photo…	اختيار صورة…
 	Choose the digital ID that you want to use for signing:	اختر المعرّف الرقمي الذي تريد استخدامه للتوقيع:
-	Choose…	اختيار…
 	Clean Up	تنظيف
 	Clean-up	تنظيف
 	Clear all	مسح الكل
 	Clear form	مسح النموذج
-	Clear Recent Files	مسح الملفات الأخيرة
 	Clear redaction marks	مسح علامات الحجب
 	Clear selection / close find	مسح التحديد / إغلاق البحث
 	Click on the page to add a {tool}, or drag to set its size	انقر على الصفحة لإضافة {tool}، أو اسحب لتحديد حجمه
@@ -404,7 +375,6 @@ certificate	Basic constraints	القيود الأساسية
 	Click to sort, drag to move the column. Drag its edge to resize it.	انقر للفرز، واسحب لنقل العمود. اسحب حافته لتغيير حجمه.
 	Click vertices. Enter or double-click finishes a perimeter or area. Click the first point to close an area.	انقر لوضع الرؤوس. Enter أو النقر المزدوج ينهي محيطًا أو مساحة. انقر النقطة الأولى لإغلاق مساحة.
 	Clockwise 90 degrees	90 درجة مع عقارب الساعة
-	Close (Esc)	إغلاق (Esc)
 	Close all	إغلاق الكل
 	Close file	إغلاق الملف
 	Close panel	إغلاق اللوحة
@@ -415,11 +385,9 @@ certificate	Basic constraints	القيود الأساسية
 	Collapse all bookmarks	طي كل الإشارات المرجعية
 	Collapse all pages	طي كل الصفحات
 	Collapse tag	طي الوسم
-	Collate	ترتيب النسخ
 	Color contrast	تباين الألوان
 	Color Images	الصور الملونة
 	Color Spaces	فضاءات الألوان
-	Colour	اللون
 	Colours are remapped while rendering; the document itself never changes.	تُستبدل الألوان عند الرسم؛ المستند نفسه لا يتغير أبدًا.
 	Column select	تحديد عمود
 	Comb of	خانات عددها
@@ -431,8 +399,6 @@ certificate	Basic constraints	القيود الأساسية
 	Combo	قائمة منسدلة
 	Coming in milestone	قادم في المرحلة
 	Coming in milestone {m}. Items marked Ready work today.	قادم في المرحلة {m}. العناصر الموسومة بـ«جاهز» تعمل اليوم.
-	Command	أمر
-	Comment	تعليق
 	Comment and form data	بيانات التعليقات والنماذج
 	Comment and review	التعليق والمراجعة
 	Comment list	قائمة التعليقات
@@ -450,11 +416,9 @@ certificate	Basic constraints	القيود الأساسية
 	Compare files	مقارنة الملفات
 	Compare files…	مقارنة الملفات…
 	Compare this file with an older version: Compare files… in All tools.	قارن هذا الملف بنسخة أقدم: «مقارنة الملفات…» في كل الأدوات.
-	Compatibility	التوافق
 	Completed	مكتمل
 	Compress a PDF	ضغط ملف PDF
 	Compress document structure (object streams)	ضغط بنية المستند (تدفقات الكائنات)
-	Compression	الضغط
 	Configure a Digital ID for Signing	إعداد معرّف رقمي للتوقيع
 	Configure New Digital ID	إعداد معرّف رقمي جديد
 	Confirm Password	تأكيد كلمة المرور
@@ -464,13 +428,11 @@ certificate	Basic constraints	القيود الأساسية
 	Content copying	نسخ المحتوى
 	Content copying for accessibility	نسخ المحتوى لإمكانية الوصول
 	Content Streams	تدفقات المحتوى
-	Continue	متابعة
 	Continuous scrolling	تمرير متواصل
 	Convert colors	تحويل الألوان
 	Copied to clipboard	نُسخ إلى الحافظة
 	Copied {what}	تم نسخ {what}
 	Copies, two-sided printing and colour are chosen in the browser's print dialog.	يُختار عدد النسخ والطباعة على الوجهين والألوان في مربع حوار الطباعة في المتصفح.
-	Copies:	النسخ:
 	Copy Image	نسخ الصورة
 	Copy Image in Original Format	نسخ الصورة بتنسيقها الأصلي
 	Copy or cut pages first	انسخ صفحات أو قصها أولًا
@@ -494,7 +456,6 @@ certificate	Basic constraints	القيود الأساسية
 	Couldn't open the printer's preferences: {e}	تعذّر فتح تفضيلات الطابعة: {e}
 	Couldn't open the result: {e}	تعذّر فتح النتيجة: {e}
 	Couldn't open the signed version: {e}	تعذّر فتح النسخة الموقعة: {e}
-	Couldn't open {name}: {e}	تعذّر فتح {name}: {e}
 	Couldn't optimize the file	تعذّر تحسين الملف
 	Couldn't optimize the file: {e}	تعذّر تحسين الملف: {e}
 	Couldn't print from the browser ({e}); downloaded {name} to print instead	تعذّرت الطباعة من المتصفح ({e})؛ نُزّل {name} لطباعته بدلًا من ذلك
@@ -552,7 +513,6 @@ certificate	Basic constraints	القيود الأساسية
 	Crop Image	قص الصورة
 	Crop page	اقتصاص الصفحة
 	Crop pages	اقتصاص الصفحات
-	Cross	علامة خطأ
 key	Ctrl	Ctrl
 	Currency symbol:	رمز العملة:
 	Current page ({n})	الصفحة الحالية ({n})
@@ -570,14 +530,11 @@ key	Ctrl	Ctrl
 	Cut pages	قص الصفحات
 	Cut {what}	تم قص {what}
 	Cuts each page to its printed area, turns it upright and fits it to the sheet without stretching. One label per sheet.	يقص كل صفحة إلى المنطقة المطبوعة، ويديرها لتصبح مستقيمة ويلائمها مع الورقة دون تمديد. ملصق واحد لكل ورقة.
-	Dark gray	رمادي داكن
 	Dark gray theme	سمة رمادية داكنة
 	Dark theme	سمة داكنة
 	Data Encipherment	تشفير البيانات
-	Date	تاريخ
 	Date field	حقل تاريخ
 	Date: 	التاريخ: 
-	Dates	التواريخ
 	December	ديسمبر
 calendar date	December	ديسمبر
 	Decimal places:	المنازل العشرية:
@@ -609,9 +566,7 @@ key	Delete	Delete
 @plural	Delete {n} field|Delete {n} fields	حذف {n} حقل|حذف {n} حقل|حذف {n} حقلين|حذف {n} حقول|حذف {n} حقلاً|حذف {n} حقل
 	Delete {o}	حذف {o}
 	Describe the figure	صِف الشكل
-	Description	الوصف
 	Detailed Report	تقرير مفصل
-	Details	التفاصيل
 	Detect form fields	اكتشاف حقول النموذج
 	Detected 1 form field	اكتُشف حقل نموذج واحد
 	Detected {n} form fields	اكتُشف {n} حقول نموذج
@@ -628,7 +583,6 @@ key	Delete	Delete
 	Digitally sign	توقيع رقمي
 	Digitally signed by	موقع رقميا من
 	Disabled	معطّل
-	Discard	تجاهل
 	Discard all comments, forms and multimedia	تجاهل كل التعليقات والنماذج والوسائط المتعددة
 	Discard all links, actions and JavaScript	تجاهل كل الروابط والإجراءات وJavaScript
 	Discard all object data (file attachments)	تجاهل كل بيانات الكائنات (الملفات المرفقة)
@@ -644,11 +598,8 @@ key	Delete	Delete
 	Discard private data of other applications	تجاهل البيانات الخاصة بالتطبيقات الأخرى
 	Discard this text (Esc)	تجاهل هذا النص (Esc)
 	Discard User Data	تجاهل بيانات المستخدم
-	Dismiss	تجاهل
 	Display theme	سمة العرض
-	Distance	المسافة
 	Distinguished name	الاسم المميز
-	Distribute	توزيع
 	Distribute fields	توزيع الحقول
 	DN: 	DN: 
 	Document actions	إجراءات المستند
@@ -674,10 +625,7 @@ key	Delete	Delete
 	Documents and view	المستندات والعرض
 	Documents of more than 20 pages need bookmarks for navigation. Add bookmarks for the main sections.	المستندات التي تزيد على 20 صفحة تحتاج إلى إشارات مرجعية للتنقل. أضف إشارات مرجعية للأقسام الرئيسية.
 	Don't save	عدم الحفظ
-	Done	تم
 	Done adding text	إنهاء إضافة النص
-	Double-click	نقر مزدوج
-	Download	تنزيل
 	Downloaded {name}	تم تنزيل {name}
 @plural	Downloaded {n} PDF|Downloaded {n} PDFs	تم تنزيل {n} من ملفات PDF|تم تنزيل ملف PDF واحد ({n})|تم تنزيل ملفي PDF ({n})|تم تنزيل {n} ملفات PDF|تم تنزيل {n} ملف PDF|تم تنزيل {n} من ملفات PDF
 	Downloading attachments on the web arrives with M3.10 ({n} bytes ready)	تنزيل المرفقات على الويب سيتوفر مع M3.10 ({n} بايت جاهزة)
@@ -706,14 +654,11 @@ key	Delete	Delete
 	Drop PDFs, images, text files or folders here, or choose them.	أفلت ملفات PDF أو الصور أو الملفات النصية أو المجلدات هنا، أو اخترها.
 	Drop-down list	قائمة منسدلة
 	Dropdown Properties	خصائص القائمة المنسدلة
-	Duplicate	تكرار
 	Duplicate "{name}" onto:	تكرار "{name}" على:
 	Duplicate Field	تكرار الحقل
 	Duplicate field	تكرار الحقل
 	Duplicate page	تكرار الصفحة
 	Duplicate pages	تكرار الصفحات
-	Duplicate…	تكرار…
-	Dynamic	ديناميكي
 	Dynamic XFA form laid out from its template: {pages}, {fields}.	نموذج XFA ديناميكي رُتِّب من قالبه: {pages}، {fields}.
 	E-Sign	توقيع إلكتروني
 	e.g. en-US	مثلًا en-US
@@ -723,7 +668,6 @@ key	Delete	Delete
 	Each image is measured where pages draw it; an image is replaced only if the result is smaller.	تُقاس كل صورة حيث ترسمها الصفحات؛ ولا تُستبدل الصورة إلا إذا كانت النتيجة أصغر.
 	Each image once, named after the document and page. JPEG images are saved unchanged; others as PNG.	كل صورة مرة واحدة، تُسمى باسم المستند والصفحة. صور JPEG تُحفظ دون تغيير؛ والبقية بصيغة PNG.
 	Earlier in tab order	أبكر في ترتيب التنقل
-	Edit	تحرير
 comment menu	Edit	تحرير
 	Edit a PDF	تحرير ملف PDF
 	Edit Action	تحرير الإجراء
@@ -750,7 +694,6 @@ comment menu	Edit	تحرير
 	Encryption	التشفير
 key	End	End
 	End entity	كيان نهائي
-	Endpoint	نقطة نهاية
 	Endpoints	نقاط النهاية
 	English	إنجليزي
 	Enhance camera image	تحسين صورة الكاميرا
@@ -764,9 +707,7 @@ key	End	End
 	Enter the password that opens it	أدخل كلمة المرور التي تفتحه
 	Enter the permissions password to allow combining	أدخل كلمة مرور الأذونات للسماح بالدمج
 	Entire page	الصفحة كاملة
-	Erase	محو
 	Erase drawings	محو الرسومات
-	Error	خطأ
 key	Esc	Esc
 	Even and Odd Pages	الصفحات الزوجية والفردية
 	Even pages	الصفحات الزوجية
@@ -782,7 +723,6 @@ key	Esc	Esc
 	Exclude tagged tables	استبعاد الجداول الموسومة
 	Exclusions use PDF tags. Untagged tables and code remain included. Image exclusion also removes invisible text.	تعتمد الاستثناءات على وسوم PDF. تبقى الجداول والتعليمات البرمجية غير الموسومة ضمن العدد. يستبعد خيار الصور النص غير المرئي أيضًا.
 	Execute a menu item	تنفيذ عنصر قائمة
-	Expand	توسيع
 	Expand all	توسيع الكل
 	Expand all bookmarks	توسيع كل الإشارات المرجعية
 	Expand all pages	توسيع كل الصفحات
@@ -804,7 +744,6 @@ key	Esc	Esc
 	Export measurements	تصدير القياسات
 	Export measurements as CSV	تصدير القياسات بصيغة CSV
 	Export stopped: {e}	توقف التصدير: {e}
-	Export to	تصدير إلى
 	Export to HTML…	تصدير إلى HTML…
 	Export to Image	تصدير إلى صورة
 	Export to image…	تصدير إلى صورة…
@@ -817,12 +756,9 @@ key	Esc	Esc
 	Exported 1 image	صُدِّرت صورة واحدة
 	Exported the text of 1 page	صُدِّر نص صفحة واحدة
 	Exported the text of {n} pages	صُدِّر نص {n} صفحات
-	Exported to {path}	تم التصدير إلى {path}
 	Exported {n} images	صُدِّرت {n} صور
 	Exporting… {d} of {t}	جارٍ التصدير… {d} من {t}
-	Export…	تصدير…
 	Extended Graphics States	حالات الرسوم الموسَّعة
-	Extract	استخراج
 	Extract pages	استخراج صفحات
 	Extract pages as separate files	استخراج الصفحات كملفات منفصلة
 	Extract pages to a new document	استخراج الصفحات إلى مستند جديد
@@ -849,7 +785,6 @@ calendar date	February	فبراير
 	Figures require alternate text	الأشكال تتطلب نصًا بديلًا
 	File (.p12, .pfx)	ملف (.p12, .pfx)
 	File attachments	الملفات المرفقة
-	File Name	اسم الملف
 	File name	اسم الملف
 	File size	حجم الملف
 @id	file.word_count	عدد الكلمات…
@@ -859,7 +794,6 @@ calendar date	February	فبراير
 	Files are combined in this order. Leave Pages empty to take every page.	تُدمج الملفات بهذا الترتيب. اترك «الصفحات» فارغًا لأخذ كل الصفحات.
 	Files for {name}	ملفات {name}
 	Files you open in PdfCraft appear here. Drop a PDF anywhere to open it.	الملفات التي تفتحها في PdfCraft تظهر هنا. أفلت ملف PDF في أي مكان لفتحه.
-	Fill	تعبئة
 	Fill & Sign	تعبئة وتوقيع
 	Fill & Sign dates	تواريخ التعبئة والتوقيع
 	Fill & Sign signature	توقيع «تعبئة وتوقيع»
@@ -892,10 +826,8 @@ calendar date	February	فبراير
 	Find tools and commands…	البحث عن الأدوات والأوامر…
 	Find untagged content	العثور على محتوى غير مُعلَّم
 	Finding document fonts…	جارٍ البحث عن خطوط المستند…
-	Find…	بحث…
 	Finish or discard the text being edited before selecting several objects.	أكمل تحرير النص أو تجاهله قبل تحديد عدة عناصر.
 	First / last page	الصفحة الأولى / الأخيرة
-	Fit	ملاءمة
 	Fit Height	ملاءمة الارتفاع
 	Fit one full page	ملاءمة صفحة كاملة واحدة
 	Fit Page	ملاءمة الصفحة
@@ -911,7 +843,6 @@ calendar date	February	فبراير
 	Fix reading order	إصلاح ترتيب القراءة
 	Fixed what could be fixed; 1 problem remains	أُصلح ما أمكن إصلاحه؛ بقيت مشكلة واحدة
 	Fixed what could be fixed; {n} problems remain	أُصلح ما أمكن إصلاحه؛ بقيت {n} مشكلات
-	Flatten	تسطيح
 	Flatten comments	تسطيح التعليقات
 	Flatten Fill & Sign	تسطيح التعبئة والتوقيع
 	Flatten Fill & Sign when saving	تسطيح التعبئة والتوقيع عند الحفظ
@@ -922,13 +853,10 @@ calendar date	February	فبراير
 	Flip on short edge	قلب على الحافة القصيرة
 	Flip vertical	قلب عمودي
 	Float panel	تعويم اللوحة
-	Folder	مجلد
 	Folders	المجلدات
 	Font (unnamed) on page {p} doesn't map its characters to Unicode	الخط (غير المسمى) في الصفحة {p} لا يربط محارفه بيونيكود
 	Font colour:	لون الخط:
-	Font size	حجم الخط
 	Font size 0 uses automatic sizing.	حجم الخط 0 يستخدم التحجيم التلقائي.
-	Font Size:	حجم الخط:
 	Font size:	حجم الخط:
 	Font {} on page {p} doesn't map its characters to Unicode	الخط {} في الصفحة {p} لا يربط محارفه بيونيكود
 	Font: Helvetica	الخط: Helvetica
@@ -949,7 +877,6 @@ calendar date	February	فبراير
 	Formulas and similar non-text elements need alternate text. Add alternate text to them.	الصيغ الرياضية والعناصر غير النصية المماثلة تحتاج إلى نص بديل. أضف نصًا بديلًا لها.
 	Found {n} untagged content problems.	تم العثور على {n} مشكلة في محتوى غير معلَّم.
 calendar weekday	Fr	جمعة
-	From	من
 	From a PDF page or an image	من صفحة PDF أو صورة
 	From colour	من لون
 	From {file}	من {file}
@@ -964,12 +891,9 @@ calendar weekday	Fr	جمعة
 	Go to the page	الانتقال إلى الصفحة
 	Go to this result	الانتقال إلى هذه النتيجة
 	Grab bag	متفرقات
-	Gray	رمادي
 	Grayscale Images	الصور الرمادية
-	Green	أخضر
 	Green on black	أخضر على أسود
 	Greyscale	تدرج رمادي
-	Grid view	عرض الشبكة
 	H / Space (hold)	H / مسافة (مع الضغط المستمر)
 	Hand (H)	يد (H)
 	Has JavaScript actions (run in M6)	له إجراءات JavaScript (تُشغَّل في M6)
@@ -978,7 +902,6 @@ calendar weekday	Fr	جمعة
 	header or footer	رأس أو تذييل
 	Headers	الرؤوس
 	Heading levels shouldn't skip (an H1 followed by an H3). Retag the headings.	مستويات العناوين ينبغي ألا تتخطى مستوى (H1 يتبعه H3). أعد وسم العناوين.
-	Height	الارتفاع
 	Help…	تعليمات…
 	Hidden layers	الطبقات المخفية
 	Hide a field	إخفاء حقل
@@ -991,9 +914,6 @@ calendar weekday	Fr	جمعة
 	Hide toolbars	إخفاء أشرطة الأدوات
 	Hide window controls	إخفاء عناصر تحكم النافذة
 	Hides annotation	يخفي تعليقًا توضيحيًا
-	High	عالية
-	High Resolution	دقة عالية
-	High resolution	دقة عالية
 	Highlight	تمييز
 	Highlight fields	تمييز الحقول
 	Highlight Style:	نمط التمييز:
@@ -1001,20 +921,14 @@ calendar weekday	Fr	جمعة
 key	Home	Home
 	Home / End	Home / End
 	Horizontal reversed	أفقي معكوس
-	Horizontal scale	المقياس الأفقي
-	Horizontally	أفقيًا
 	HTML web page	صفحة ويب HTML
 	H{n} follows an H{d}; headings should not skip levels	يتبع H{n} عنوان H{d}؛ لا ينبغي للعناوين تخطي المستويات
-	Icon	الأيقونة
 	Identity	الهوية
-	Image	صورة
 	Image (PNG)	صورة (PNG)
 	Image field	حقل صورة
 	Image-only PDF	PDF من صور فقط
-	Images	صور
 	Images and text	صور ونص
 	Images and text (converted to PDF)	صور ونص (تُحوَّل إلى PDF)
-	Import	استيراد
 	Import comments…	استيراد التعليقات…
 	Import data	استيراد البيانات
 	Import form data…	استيراد بيانات النموذج…
@@ -1053,9 +967,7 @@ key	Home	Home
 	Intended usage	الاستخدام المقصود
 certificate	Intended usage	الاستخدام المقصود
 	Interface size	حجم الواجهة
-	Intersection	تقاطع
 	Intersections	التقاطعات
-	Invert	عكس
 	Invisible Rectangle	مستطيل غير مرئي
 	Irregular tables confuse cell navigation. Give every row the same number of cells (counting spans).	الجداول غير المنتظمة تربك التنقل بين الخلايا. اجعل لكل صف العدد نفسه من الخلايا (مع احتساب الامتدادات).
 	is available	متاح
@@ -1079,14 +991,11 @@ calendar date	January	يناير
 	JavaScript console…	وحدة تحكم JavaScript…
 	JavaScript is turned off (Preferences ▸ JavaScript).	JavaScript متوقف (التفضيلات > JavaScript).
 	JavaScript, e.g. getField("total").value	JavaScript، مثلًا getField("total").value
-	Join our Discord	انضم إلى خادمنا على Discord
 	Join the ArtCraft community	انضم إلى مجتمع ArtCraft
-	Join the ArtCraft Discord	انضم إلى خادم ArtCraft على Discord
 	July	يوليو
 calendar date	July	يوليو
 	June	يونيو
 calendar date	June	يونيو
-	just now	الآن
 	Keep source fonts	الاحتفاظ بالخطوط الأصلية
 	Keep tool selected	إبقاء الأداة محددة
 	Keep tool selected: on	إبقاء الأداة محددة: مفعَّل
@@ -1097,15 +1006,12 @@ calendar date	June	يونيو
 certificate	Key usage	استخدام المفتاح
 	Keyboard shortcuts	اختصارات لوحة المفاتيح
 	Keychain  ·  	سلسلة المفاتيح  ·  
-	Label	التسمية
 	Labels: {preview}. Later pages keep their labels.	التسميات: {preview}. الصفحات اللاحقة تحتفظ بتسمياتها.
 	Landscape and Portrait Pages	الصفحات الأفقية والعمودية
 	Landscape Pages	الصفحات الأفقية
 	Landscape pages	الصفحات الأفقية
 	Larger pages	صفحات أكبر
-	Later	لاحقًا
 	Later in tab order	أبعد في ترتيب التنقل
-	Layers	الطبقات
 	Layers Panel and Page	لوحة الطبقات والصفحة
 	Layout and Magnification	التخطيط والتكبير
 	Lbl and LBody	Lbl و LBody
@@ -1117,10 +1023,8 @@ certificate	Key usage	استخدام المفتاح
 	Left out: {names}	تم استبعاد: {names}
 	LI must be a child of L	LI يجب أن يكون ابنًا لـ L
 	Light blue	أزرق فاتح
-	Light gray	رمادي فاتح
 	Light theme	سمة فاتحة
 	Limit of	حد أقصى
-	Line delta	فرق الأسطر
 	Line ending	نهاية الخط
 	Line Style:	نمط الخط:
 	Line thickness	سماكة الخط
@@ -1136,7 +1040,6 @@ certificate	Key usage	استخدام المفتاح
 	List items	عناصر القائمة
 	List items belong in a list. Fix the list's tags.	عناصر القائمة مكانها داخل قائمة. أصلح وسوم القائمة.
 	List labels and bodies belong in a list item. Fix the list's tags.	تسميات القائمة ومتونها مكانها داخل عنصر قائمة. أصلح وسوم القائمة.
-	List view	عرض القائمة
 	Lists	القوائم
 	Load document font	تحميل خط المستند
 	Load font…	تحميل خط…
@@ -1144,14 +1047,11 @@ certificate	Key usage	استخدام المفتاح
 	Local cross-PDF links require the desktop app	تتطلب الروابط المحلية بين ملفات PDF تطبيق سطح المكتب
 	Location: 	الموقع: 
 	Lock comment	قفل التعليق
-	Locked	مقفل
 	Logical Reading Order	ترتيب القراءة المنطقي
 	Looking for PDFs…	جارٍ البحث عن ملفات PDF…
 	Looking for printers…	جارٍ البحث عن الطابعات…
-	Low	منخفضة
 	Low resolution	دقة منخفضة
 	Low Resolution (150 dpi)	دقة منخفضة (150 dpi)
-	Magnification	التكبير
 	Make accessible	جعل المستند سهل الوصول
 	Make Current Properties Default	جعل الخصائص الحالية افتراضية
 	Make Properties Default	جعل الخصائص افتراضية
@@ -1178,12 +1078,9 @@ calendar date	March	مارس
 	Mask:	القناع:
 	Match field sizes	مطابقة أحجام الحقول
 	Match page at 100%	مطابقة الورق للصفحة بنسبة 100%
-	Maximize	تكبير
-	Maximum	القصوى
 	maximum	الحد الأقصى
 	May	مايو
 calendar date	May	مايو
-	Measure	قياس
 	Measure area	قياس المساحة
 	Measure distance	قياس المسافة
 	Measure objects	قياس الكائنات
@@ -1197,20 +1094,13 @@ calendar date	May	مايو
 	Merged 1 file into {path}	دُمج ملف واحد في {path}
 	Merged {n} files into {path}	دُمج {n} ملفات في {path}
 	Merging data files needs the desktop app	دمج ملفات البيانات يتطلب تطبيق سطح المكتب
-	Metadata	البيانات الوصفية
 	metadata	بيانات وصفية
 	Microsoft Word (.docx)	Microsoft Word (.docx)
-	Midpoint	نقطة منتصف
 	Midpoints	نقاط المنتصف
-	Minimize	تصغير
-	Minimum	الأدنى
 	minimum	الحد الأدنى
 	Mixed	متباين
 calendar weekday	Mo	إثنين
-	Mobile	الهاتف المحمول
-	Modified	تاريخ التعديل
 	Modify page	تعديل الصفحة
-	More	المزيد
 	More options	خيارات أخرى
 	More options:	خيارات أخرى:
 	More ways to add files	طرق أخرى لإضافة الملفات
@@ -1218,7 +1108,6 @@ calendar weekday	Mo	إثنين
 	Mouse Enter	دخول الفأرة
 	Mouse Exit	خروج الفأرة
 	Mouse Up	رفع زر الفأرة
-	Move	نقل
 	Move bookmark	نقل الإشارة المرجعية
 	Move comment	نقل التعليق
 	Move down	نقل لأسفل
@@ -1247,7 +1136,6 @@ calendar weekday	Mo	إثنين
 	Needs manual check	يحتاج إلى فحص يدوي
 	Negative number style:	نمط الأرقام السالبة:
 	Nested alternate text	نص بديل متداخل
-	Never	أبداً
 	New Action	إجراء جديد
 	New Action…	إجراء جديد…
 	New blank PDF	ملف PDF فارغ جديد
@@ -1264,7 +1152,6 @@ calendar weekday	Mo	إثنين
 	Next / previous match	التطابق التالي / السابق
 	Next figure	الشكل التالي
 	Next month	الشهر التالي
-	Next page	الصفحة التالية
 	Next sheet	الورقة التالية
 	Next tab	علامة التبويب التالية
 	Next view	العرض التالي
@@ -1291,7 +1178,6 @@ calendar weekday	Mo	إثنين
 	No issues found	لم يُعثر على مشكلات
 	No links to remove	لا توجد روابط لإزالتها
 	No matches	لا توجد تطابقات
-	No matches.	لا توجد تطابقات.
 	No matching tools	لا توجد أدوات مطابقة
 	No model credits were built into this copy.	لم يُضمَّن ذكر النماذج في هذه النسخة.
 	No openly licensed document fonts found. Load a font file.	لم يُعثر على خطوط ذات ترخيص مفتوح. حمّل ملف خط.
@@ -1306,8 +1192,6 @@ calendar weekday	Mo	إثنين
 	No preview	لا معاينة
 	No printers were found. Check that the printer is installed and the print spooler is running, then open Print again.	لم يُعثر على أي طابعة. تحقّق من أن الطابعة مثبّتة وأن خدمة التخزين المؤقت للطباعة تعمل، ثم افتح «طباعة» مرة أخرى.
 	No problems found: the document conforms to {level}.	لم يُعثر على مشكلات: المستند مطابق لـ {level}.
-	No recent files	لا توجد ملفات أخيرة
-	No results	لا نتائج
 	No security	بلا أمان
 	No sheets	لا أوراق
 	No signature was found in the frame. Move the frame over the signature or raise the ink sensitivity.	لم يُعثر على توقيع داخل الإطار. حرّك الإطار فوق التوقيع أو ارفع حساسية الحبر.
@@ -1339,7 +1223,6 @@ scroll speed	Normal	عادية
 	nothing to undo	لا شيء للتراجع عنه
 	November	نوفمبر
 calendar date	November	نوفمبر
-	Number	رقم
 	Number every page in the footer.	ترقيم كل صفحة في التذييل.
 	Number of pages	عدد الصفحات
 	Number pages	ترقيم الصفحات
@@ -1369,8 +1252,6 @@ animation effects	On	مفعّلة
 	Only continue if you trust this document. An address can carry information from the document, such as what you typed into its form.	تابع فقط إن كنت تثق بهذا المستند. العنوان قد يحمل معلومات من المستند، مثل ما كتبته في نموذجه.
 	Only the document's owner can change its security (open it with the permissions password)	مالك المستند وحده يستطيع تغيير أمانه (افتحه بكلمة مرور الأذونات)
 	Only the page content changes: links, comments, form fields and bookmarks on the original pages stay.	يتغير محتوى الصفحة فقط: الروابط والتعليقات وحقول النموذج والإشارات المرجعية على الصفحات الأصلية تبقى.
-	Opacity	العتامة
-	Opacity:	العتامة:
 	Open a document first	افتح مستندًا أولًا
 	Open a PDF ({key})	فتح ملف PDF ({key})
 	Open a PDF (⌘O)	فتح PDF‏ (⌘O)
@@ -1385,8 +1266,6 @@ animation effects	On	مفعّلة
 	Open in a new tab	فتح في تبويب جديد
 	Open in Full Screen mode	الفتح في وضع ملء الشاشة
 	Open in Full Screen mode?	فتح في وضع ملء الشاشة؟
-	Open link	فتح الرابط
-	Open Recent	فتح الملفات الأخيرة
 	Open the file as it was saved then	فتح الملف كما حُفظ حينها
 	Open the older version first	افتح النسخة الأقدم أولًا
 	Open this local PDF?	هل تريد فتح ملف PDF المحلي هذا؟
@@ -1397,7 +1276,6 @@ animation effects	On	مفعّلة
 	Opened, but its security settings don't allow combining. Enter the permissions password.	فُتح، لكن إعدادات أمانه لا تسمح بالدمج. أدخل كلمة مرور الأذونات.
 	Opening the browser's print dialog…	جارٍ فتح مربع حوار الطباعة في المتصفح…
 	Opens the printer driver's preferences. They are saved for every print from this computer; the copies, two-sided, grayscale and paper chosen here still apply.	يفتح تفضيلات تعريف الطابعة. تُحفظ لكل طباعة من هذا الحاسوب؛ عدد النسخ والطباعة على الوجهين وتدرج الرمادي والورق المختارة هنا تبقى سارية.
-	Open…	فتح…
 	Optimization cancelled	أُلغي التحسين
 	Optimization is already running	التحسين قيد التشغيل بالفعل
 	Optimize	تحسين
@@ -1413,26 +1291,20 @@ animation effects	On	مفعّلة
 	Optimizing… writing the copy	جارٍ التحسين… كتابة النسخة
 	Optional	اختياري
 	Optional: needs an AI provider you configure	اختياري: يتطلب مزوّد ذكاء اصطناعي تضبطه أنت
-	Orange	برتقالي
 	Organization Name	اسم المؤسسة
 	Organizational Unit	الوحدة التنظيمية
 	Organize	تنظيم
 	Organize pages	تنظيم الصفحات
-	Orientation:	الاتجاه:
-	Original	الأصل
 	Original: replace pages	الأصل: استبدال الصفحات
 	other changes	تغييرات أخرى
 	Other colour…	لون آخر…
 	Other elements alternate text	النص البديل للعناصر الأخرى
 	Other elements that require alternate text	عناصر أخرى تتطلب نصًا بديلًا
 	Outdent	إزاحة للخارج
-	Outline	مخطط
 	Outline colour:	لون الحد الخارجي:
-	Output	الناتج
 	Output appears here.	يظهر الناتج هنا.
 	Output intent: {list}	هدف الإخراج: {list}
 	Output preview	معاينة الإخراج
-	Overlap:	التداخل:
 	Owner password (no restrictions apply)	كلمة مرور المالك (لا تنطبق أي قيود)
 	Page background	خلفية الصفحة
 	Page Content	محتوى الصفحة
@@ -1481,7 +1353,6 @@ animation effects	On	مفعّلة
 	Pages: {k} of {n}	الصفحات: {k} من {n}
 	Panel layout could not be restored: {error}	تعذرت استعادة تخطيط اللوحات: {error}
 	Panel move was not applied: {error}	لم يُطبَّق نقل اللوحة: {error}
-	Panels	اللوحات
 	Paper:	الورق:
 	Part of	جزء من
 	Passed	ناجح
@@ -1491,9 +1362,6 @@ animation effects	On	مفعّلة
 	Password-protected	محمي بكلمة مرور
 	Paste after	لصق بعد
 	Paste pages	لصق الصفحات
-	Path	مسار
-	Paths	المسارات
-	Pattern	النمط
 	Patterns	الأنماط
 	Patterns (graphics objects)	الأنماط (كائنات رسومية)
 	PDF Optimizer	محسِّن PDF
@@ -1513,13 +1381,10 @@ animation effects	On	مفعّلة
 	PdfCraft {c} is up to date.	PdfCraft {c} محدَّث.
 	PdfCraft {v} is available.	PdfCraft {v} متاح.
 	People may need more time to respond. Check that nothing has a time limit.	قد يحتاج الناس إلى وقت أطول للاستجابة. تحقق من أن لا شيء له مهلة زمنية.
-	Percentage	نسبة مئوية
-	Perimeter	المحيط
 	Permissions password	كلمة مرور الأذونات
 	Permitted actions after certifying	الإجراءات المسموح بها بعد التصديق
 	Phone Number	رقم الهاتف
 	Phone Numbers	أرقام الهواتف
-	Photo	صورة
 	Pick a tool in the quick bar, or type above.	اختر أداة من الشريط السريع، أو اكتب أعلاه.
 	Pictures need alternate text that describes them, or must be marked decorative. Add alternate text to each figure.	الصور تحتاج إلى نص بديل يصفها، أو يجب تعليمها كزخرفية. أضف نصًا بديلًا لكل شكل.
 	Pictures on those pages are recognized too; words already in the page's text are not added again	يُتعرَّف على الصور في هذه الصفحات أيضًا، ولا تُضاف مرة أخرى الكلمات الموجودة بالفعل في نص الصفحة
@@ -1527,7 +1392,6 @@ animation effects	On	مفعّلة
 	Pin a folder to list its newest PDFs here, such as where your scanner or a synced cloud drive saves them.	ثبّت مجلدًا لعرض أحدث ملفات PDF فيه هنا، مثل المجلد الذي يحفظ فيه الماسح الضوئي أو قرص سحابي مُزامَن.
 	Pin a folder…	تثبيت مجلد…
 	Pin folder to Home…	تثبيت مجلد في الصفحة الرئيسية…
-	Pink	وردي
 	Pinned folders need the desktop app	المجلدات المثبتة تتطلب تطبيق سطح المكتب
 	Pinned {folder} to Home	تم تثبيت {folder} في الصفحة الرئيسية
 	Place saved {what}	وضع {what} المحفوظ
@@ -1537,18 +1401,12 @@ animation effects	On	مفعّلة
 	Planned for milestone {m} — open to see what it will include	مخطط له في المرحلة {m} — افتح لترى ما سيتضمنه
 	Planned · {m}	مخطط له · {m}
 	Points from the page's bottom-left corner.	بالنقاط من الزاوية السفلية اليسرى للصفحة.
-	Polygon	مضلع
-	Polyline	خط متعدد
 	Portable mode is off: {folder} can't be written ({error}). Settings are kept in your user folder instead.	الوضع المحمول متوقف: تتعذر الكتابة في {folder} ({error}). تُحفظ الإعدادات في مجلد المستخدم بدلًا منه.
 	Portrait Pages	الصفحات العمودية
 	Portrait pages	الصفحات العمودية
 	Post	نشر
-	Poster	ملصق
 	PostScript / EPS	PostScript / EPS
 	PostScript XObjects aren't allowed	كائنات PostScript XObject غير مسموح بها
-	Preferences	التفضيلات
-	Preferences…	التفضيلات…
-	Prefix	البادئة
 	Preflight	فحص ما قبل الطباعة
 	Prepare a form	تجهيز نموذج
 	Prepare for accessibility	التجهيز لإمكانية الوصول
@@ -1560,13 +1418,11 @@ animation effects	On	مفعّلة
 	Presentation (.pptx)	عرض تقديمي (.pptx)
 	Preview unavailable: {e}	المعاينة غير متاحة: {e}
 	Preview: page {p} of {n}	معاينة: صفحة {p} من {n}
-	Previous	السابق
 	Previous ({key})	السابق ({key})
 	Previous (⇧⌘G)	السابق (⇧⌘G)
 	Previous / next page	الصفحة السابقة / التالية
 	Previous figure	الشكل السابق
 	Previous month	الشهر السابق
-	Previous page	الصفحة السابقة
 	Previous sheet	الورقة السابقة
 	Previous tab	علامة التبويب السابقة
 	Previous view	العرض السابق
@@ -1581,9 +1437,7 @@ animation effects	On	مفعّلة
 	Print, NextPage, PrevPage, FirstPage or LastPage	Print أو NextPage أو PrevPage أو FirstPage أو LastPage
 	Printer paper and scaling may differ. Check driver settings.	قد يختلف ورق الطابعة ومقياس الطباعة. تحقق من إعدادات برنامج التشغيل.
 	Printer properties	خصائص الطابعة
-	Printer:	الطابعة:
 	Printing allowed	الطباعة المسموح بها
-	Print…	طباعة…
 	Privacy	الخصوصية
 	Private data of other applications	البيانات الخاصة بالتطبيقات الأخرى
 	Producer	المنتج
@@ -1596,9 +1450,7 @@ animation effects	On	مفعّلة
 	Protected: the combined file won't keep its security settings	محمي: الملف المدموج لن يحتفظ بإعدادات أمانه
 	Public key	المفتاح العام
 certificate	Public key	المفتاح العام
-	Purple	بنفسجي
 	PushButton	زر ضغط
-	Quality	الجودة
 	Radio	زر اختيار
 	Radio button	زر اختيار
 	Radio Button Properties	خصائص زر الاختيار
@@ -1607,7 +1459,6 @@ certificate	Public key	المفتاح العام
 	Read mode	وضع القراءة
 	Read Only	للقراءة فقط
 	Reading colours	ألوان القراءة
-	Ready	جاهز
 	Reason	السبب
 	Reason: 	السبب: 
 	Recent colours	الألوان الأخيرة
@@ -1624,7 +1475,6 @@ certificate	Public key	المفتاح العام
 	Recognizing text… page {d} of {t}	جارٍ التعرف على النص… الصفحة {d} من {t}
 	Recommended tools	أدوات مقترحة
 	Recover unsaved documents?	استعادة المستندات غير المحفوظة؟
-	Red	أحمر
 	Redact	حجب
 	Redact a PDF	حجب محتوى ملف PDF
 	Redact all	حجب الكل
@@ -1644,7 +1494,6 @@ certificate	Public key	المفتاح العام
 	Regularity	الانتظام
 	Rejected	مرفوض
 	Reliable character encoding is provided	ترميز محارف موثوق متوفر
-	Reload	إعادة تحميل
 	Reload documents when their files change on disk	إعادة تحميل المستندات عند تغيّر ملفاتها على القرص
 	Remove "{name}" from this list? The file itself is not deleted.	إزالة "{name}" من هذه القائمة؟ لن يُحذف الملف نفسه.
 	Remove all links	إزالة كل الروابط
@@ -1708,12 +1557,7 @@ certificate	Public key	المفتاح العام
 	Reset panel layout	إعادة تعيين تخطيط اللوحات
 	Reset to printer defaults	إعادة الضبط إلى افتراضيات الطابعة
 	Resize comment	تغيير حجم التعليق
-	Resize panel window	تغيير حجم نافذة اللوحة
-	Resize panels	تغيير حجم اللوحات
 	Resize window to initial page	تغيير حجم النافذة ليلائم الصفحة الأولى
-	Resolution	الدقة
-	Resolution:	الدقة:
-	Restore	استعادة
 	Restrictions	القيود
 	Restrictions lifted	رُفعت القيود
 	Retain existing	الإبقاء على الحالي
@@ -1722,12 +1566,9 @@ certificate	Public key	المفتاح العام
 	Rev. {rev}: Signed by an unknown signer	المراجعة {rev}: موقع من موقع مجهول
 	Rev. {rev}: Signed by {name}	المراجعة {rev}: موقع من {name}
 	Reveal in File Explorer	إظهار في مستكشف الملفات
-	Reveal in Finder	إظهار في Finder
 	Reverse closed arrow	سهم مغلق معكوس
 	Reverse open arrow	سهم مفتوح معكوس
 	Reverse pages	عكس ترتيب الصفحات
-	Reverse the order	عكس الترتيب
-	Revert	استرجاع
 	Revert changes	التراجع عن التغييرات
 	Revert to the previously saved version of “{name}”? Changes since then can't be undone afterwards.	هل تريد الرجوع إلى آخر نسخة محفوظة من «{name}»؟ لا يمكن التراجع بعدها عن التغييرات التي أُجريت منذ ذلك الحين.
 	Reverted to the last saved version	تم الرجوع إلى آخر نسخة محفوظة
@@ -1755,8 +1596,6 @@ certificate	Public key	المفتاح العام
 	Rotate view clockwise ({key})	تدوير العرض مع عقارب الساعة ({key})
 	Rotate view clockwise (⇧⌘+)	تدوير العرض مع عقارب الساعة (⇧⌘+)
 	Rotate view counterclockwise	تدوير العرض عكس عقارب الساعة
-	Rotate:	تدوير:
-	Rows	الصفوف
 	rows have between {min} and {max} columns	للصفوف بين {min} و{max} عموداً
 	Rule Name	اسم القاعدة
 	Run	تشغيل
@@ -1775,7 +1614,6 @@ calendar weekday	Sa	سبت
 	Save (M4)	حفظ (M4)
 	Save ({key})	حفظ ({key})
 	Save anyway	الحفظ على أي حال
-	Save as PDF	حفظ بصيغة PDF
 	Save as PDF/A	حفظ بصيغة PDF/A
 	Save as PDF/A-1b	حفظ بصيغة PDF/A-1b
 	Save as PDF/A-2b	حفظ بصيغة PDF/A-2b
@@ -1814,7 +1652,6 @@ calendar weekday	Sa	سبت
 	Script Name:	اسم السكربت:
 	Script:	السكربت:
 	Scripted content must be usable with a keyboard and assistive technology. Check the document's scripts.	المحتوى المبرمج يجب أن يكون قابلًا للاستخدام بلوحة المفاتيح والتقنيات المساعدة. افحص سكربتات المستند.
-	Scripts	السكربتات
 	Scripts run in a sandbox without file or network access. A script that asks to open a web page needs your permission first. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	تعمل السكربتات في بيئة معزولة دون وصول إلى الملفات أو الشبكة. السكربت الذي يطلب فتح صفحة ويب يحتاج إلى إذنك أولًا. عند إيقاف JavaScript تبقى دوال Acrobat القياسية للتنسيق والتحقق والحساب تعمل.
 	Scripts run in a sandbox without file or network access. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	تعمل السكربتات في بيئة معزولة دون وصول إلى الملفات أو الشبكة. عند إيقاف JavaScript تبقى دوال Acrobat القياسية للتنسيق والتحقق والحساب تعمل.
 	Scroll long text	تمرير النص الطويل
@@ -1827,7 +1664,6 @@ calendar weekday	Sa	سبت
 	Searchable Image (Exact)	صورة قابلة للبحث (مطابقة)
 	Searching… {s} of {p} pages	جارٍ البحث… {s} من {p} صفحات
 	Searching… {s}/{p}	جارٍ البحث… {s}/{p}
-	Security	الأمان
 	Security method	طريقة الأمان
 	Security properties	خصائص الأمان
 	Security properties…	خصائص الأمان…
@@ -1856,8 +1692,6 @@ calendar weekday	Sa	سبت
 certificate	Self-signed	ذاتي التوقيع
 	Sending sheet {s} of {n} to {printer}…	جارٍ إرسال الورقة {s} من {n} إلى {printer}…
 	Sending to {printer}…	جارٍ الإرسال إلى {printer}…
-	Sensitivity	الحساسية
-	Sent to {printer}	أُرسل إلى {printer}
 	Sent to {printer}: {msg}	أُرسل إلى {printer}: {msg}
 	Separate PDFs	ملفات PDF منفصلة
 	Separator style:	نمط الفاصل:
@@ -1888,7 +1722,6 @@ certificate	Serial number	الرقم التسلسلي
 	Set the image of {name}	تعيين صورة {name}
 	Set to current page ({n})	تعيين إلى الصفحة الحالية ({n})
 	Set to zero	تصفير
-	Settings	الإعدادات
 	SHA-1 digest	بصمة SHA-1
 certificate	SHA-1 digest	بصمة SHA-1
 	SHA-256 digest	بصمة SHA-256
@@ -1914,7 +1747,6 @@ key	Shift	Shift
 	Show the accessibility report	إظهار تقرير إمكانية الوصول
 	Show this dialog when the Checker starts	إظهار هذا الحوار عند بدء المدقق
 	Show {n} more	عرض {n} أخرى
-	Show:	إظهار:
 	Shown while the pointer is over a mark.	يظهر أثناء وجود المؤشر فوق علامة.
 	Shrink oversized pages	تصغير الصفحات الزائدة الحجم
 	Side by side	جنبًا إلى جنب
@@ -1967,10 +1799,8 @@ scroll speed	Slow	بطيئة
 	Sort items	فرز العناصر
 	sorted ascending	مفروز تصاعديًا
 	sorted descending	مفروز تنازليًا
-	Source	المصدر
 key	Space	مسافة
 	Space Audit	تدقيق المساحة
-	Special	خاص
 	Split document	تقسيم المستند
 	Split document…	تقسيم المستند…
 	Split into files…	تقسيم إلى ملفات…
@@ -1978,7 +1808,6 @@ key	Space	مسافة
 	Squiggly	متعرج
 	Squiggly underline	تسطير متعرج
 	Squiggly underline text	تسطير النص بخط متعرج
-	Stamp	ختم
 	Stamp palette	لوحة الأختام
 	Stamps	الأختام
 	Standard Business	أعمال قياسية
@@ -1987,7 +1816,6 @@ key	Space	مسافة
 action wizard	Start	بدء
 	Start Checking	بدء الفحص
 	Start page number	رقم صفحة البداية
-	Status	الحالة
 	Steps	الخطوات
 	Sticky note	ملاحظة لاصقة
 	Still rendering — this page is unusually complex…	لا يزال العرض جارياً — هذه الصفحة معقدة على غير العادة…
@@ -1998,13 +1826,11 @@ action wizard	Start	بدء
 calendar weekday	Su	أحد
 certificate	Subject	صاحب الشهادة
 	Submit a form	إرسال نموذج
-	Subset	مجموعة جزئية
 	Success	نجاح
 	sum (+)	المجموع (+)
 	Summarize	تلخيص
 	Summarize comments	تلخيص التعليقات
 	Summarize Options	خيارات التلخيص
-	Summary	الملخص
 	Switch light / dark theme	التبديل بين السمة الفاتحة والداكنة
 	Switch to List view to change the pages it takes.	انتقل إلى عرض القائمة لتغيير الصفحات التي يأخذها.
 	Switch to two-page view first to show the cover page	انتقل أولًا إلى عرض الصفحتين لإظهار صفحة الغلاف
@@ -2174,7 +2000,6 @@ calendar weekday	Th	خميس
 	The window should show a meaningful title rather than the file name. Set a title and Initial View > Show: Document Title.	ينبغي أن تعرض النافذة عنوانًا ذا معنى لا اسم الملف. عيّن عنوانًا واختر العرض الأولي > إظهار: عنوان المستند.
 	The window shows the file name, not the title (Initial View > Show)	تُظهر النافذة اسم الملف لا العنوان (العرض الأولي > إظهار)
 	The Windows store's digital IDs couldn't be listed: {e}	تعذّر سرد المعرّفات الرقمية في مخزن Windows: {e}
-	Theme	السمة
 	there are no pages to print	لا توجد صفحات للطباعة
 	There are no redaction marks (mark text, areas or pages first)	لا توجد علامات حجب (علّم نصًا أو مناطق أو صفحات أولًا)
 	There are no redaction marks to apply	لا توجد علامات حجب لتطبيقها
@@ -2235,9 +2060,7 @@ calendar weekday	Th	خميس
 	This signature uses SHA-1, a weak hash algorithm: collisions in it have been demonstrated. It still validates because many documents signed years ago use it, but it should not be relied on.	يستخدم هذا التوقيع SHA-1، خوارزمية هضم ضعيفة: أُثبتت تصادمات فيها. لا يزال يصح لأن مستندات كثيرة وقّعت قبل سنوات تستخدمه، لكن لا ينبغي الاعتماد عليه.
 	This web address mixes letters from different alphabets, a common way to imitate another site's name.	عنوان الويب هذا يخلط حروفًا من أبجديات مختلفة، وهي طريقة شائعة لانتحال اسم موقع آخر.
 	This web address uses letters from another alphabet, which can look like familiar ones.	عنوان الويب هذا يستخدم حروفًا من أبجدية أخرى قد تشبه الحروف المألوفة.
-	Thumbnails	المصغرات
 	Tile scale:	مقياس التجانب:
-	Time	وقت
 	Timed responses	الاستجابات المؤقتة
 	Timestamp	ختم زمني
 	to	إلى
@@ -2246,7 +2069,6 @@ calendar weekday	Th	خميس
 	To:	إلى:
 	Today: {date}	اليوم: {date}
 	Toggle fit page / fit width	التبديل بين ملاءمة الصفحة وملاءمة العرض
-	Tool	أداة
 	Tools panel side	جانب لوحة الأدوات
 	Tooltip:	تلميح:
 	Top-level bookmarks ({n})	إشارات المستوى الأعلى ({n})
@@ -2268,15 +2090,11 @@ signature pad	Type	كتابة
 	Type text	اكتب نصًا
 	Type the web address.	اكتب عنوان الويب.
 	Type your {what}.	اكتب {what}.
-	Typewriter	آلة كاتبة
 	Unchecked	غير محدد
 	Underline text	تسطير النص
 	Undid {label}	تم التراجع عن {label}
 	Unit	الوحدة
-	Units	الوحدات
-	Unknown	غير معروف
 	Unknown author	مؤلف غير معروف
-	Unlock	إلغاء القفل
 	Unlock comment	إلغاء قفل التعليق
 	Unlock {name}	إلغاء قفل {name}
 	Unlock {n} files	إلغاء قفل {n} ملفات
@@ -2289,7 +2107,6 @@ signature pad	Type	كتابة
 	Unsigned signature field	حقل توقيع غير موقع
 	Unsigned signature field: {name}	حقل توقيع غير موقع: {name}
 	Unsupported measurements	قياسات غير مدعومة
-	Update	تحديث
 	Update background	تحديث الخلفية
 	Update background…	تحديث الخلفية…
 	Update header & footer	تحديث الرأس والتذييل
@@ -2332,14 +2149,12 @@ certificate	Validity ends	تنتهي الصلاحية
 certificate	Validity starts	تبدأ الصلاحية
 	Value is not calculated	القيمة غير محسوبة
 	Value is the	القيمة هي
-	Value:	القيمة:
 	Verify	تحقق
 	Verify to see what the document needs.	تحقّق لترى ما يحتاجه المستند.
 certificate	Version	الإصدار
 	Version {v}	الإصدار {v}
 	Vertical reversed	عمودي معكوس
 	Vertical text cannot be moved with this selection.	لا يمكن نقل النص العمودي مع هذا التحديد.
-	Vertically	عموديًا
 	Video, sound and rich media must be tagged to be announced. Tag the multimedia annotations.	الفيديو والصوت والوسائط الغنية يجب أن تكون موسومة كي تُعلَن. وسّم تعليقات الوسائط المتعددة.
 	View less	عرض أقل
 	View more	عرض المزيد
@@ -2350,8 +2165,6 @@ certificate	Version	الإصدار
 	Viewport rectangle in page points (x, y, width, height)	مستطيل منفذ العرض بنقاط الصفحة (x, y, العرض, الارتفاع)
 	Visible Rectangle	مستطيل مرئي
 	Visual	بصري
-	Warning	تحذير
-	Warnings	التحذيرات
 	watermark	علامة مائية
 calendar weekday	We	أربعاء
 	Weak	ضعيفة
@@ -2360,7 +2173,6 @@ calendar weekday	We	أربعاء
 	What word or phrase would you like to search for?	ما الكلمة أو العبارة التي تريد البحث عنها؟
 	White on black	أبيض على أسود
 	Whole words only	كلمات كاملة فقط
-	Width	العرض
 	Window Options	خيارات النافذة
 	Windows store  ·  	مخزن Windows  ·  
 	Word count	عدد الكلمات
@@ -2372,9 +2184,7 @@ calendar weekday	We	أربعاء
 	Wrote {n} files to {dir}	كُتب {n} ملفات في {dir}
 	X Object Forms	نماذج X Object
 	XFA form: its fields and its XFA data are kept in step, so other viewers show what you fill in.	نموذج XFA: حقوله وبيانات XFA فيه تبقى متطابقة، فتعرض العارضات الأخرى ما تعبئه.
-	Yellow	أصفر
 	Yellow on black	أصفر على أسود
-	yesterday	أمس
 	You are about to apply 1 redaction mark. Text, images and drawings under the marks, and comments and form fields that overlap them, are removed permanently.	أنت على وشك تطبيق علامة حجب واحدة. النصوص والصور والرسومات تحت العلامات، والتعليقات وحقول النموذج المتداخلة معها، تُزال نهائيًا.
 	You are about to apply {n} redaction marks. Text, images and drawings under the marks, and comments and form fields that overlap them, are removed permanently.	أنت على وشك تطبيق {n} علامات حجب. النصوص والصور والرسومات تحت العلامات، والتعليقات وحقول النموذج المتداخلة معها، تُزال نهائيًا.
 	You are viewing revision {rev} of “{from}”. It is a snapshot: changes here won't affect the original.	أنت تعرض المراجعة {rev} من “{from}”. هذه لقطة: التغييرات هنا لن تؤثر على الأصل.
@@ -2382,18 +2192,15 @@ calendar weekday	We	أربعاء
 	You can pin up to {n} folders. Unpin one first.	يمكنك تثبيت {n} مجلدات كحد أقصى. ألغِ تثبيت أحدها أولًا.
 	You have version {c}. All releases are listed at {page}.	لديك الإصدار {c}. كل الإصدارات مدرجة في {page}.
 	You have version {c}. Download the new version from its release page.	لديك الإصدار {c}. نزّل الإصدار الجديد من صفحة إصداره.
-	Your changes will be lost if you don't save them.	ستفقد تغييراتك إن لم تحفظها.
 	Your name	اسمك
 	yyyy or yy year · m or mm month · mmm or mmmm month name · d or dd day · ddd or dddd weekday. H, h, M, s and t are time letters and can't be used on their own: put {escape} before a letter to show it as is.	yyyy أو yy السنة · m أو mm الشهر · mmm أو mmmm اسم الشهر · d أو dd اليوم · ddd أو dddd يوم الأسبوع. H و h و M و s و t أحرف الوقت ولا يمكن استخدامها وحدها: ضع {escape} قبل الحرف لإظهاره كما هو.
 	ZIP	ZIP
 	Zip Code	الرمز البريدي
 	Zip Code + 4	الرمز البريدي + 4
-	Zoom in	تكبير
 	Zoom in ({key})	تكبير ({key})
 	Zoom in (⌘+)	تكبير (⌘+)
 	Zoom in / out (also pinch or {key}-scroll)	تكبير / تصغير (أيضًا بالقرص أو التمرير مع {key})
 	Zoom in / out (also pinch or ⌘-scroll)	تكبير / تصغير (أيضاً قرص أو ⌘-تمرير)
-	Zoom out	تصغير
 	Zoom out ({key})	تصغير ({key})
 	Zoom out (⌘−)	تصغير (⌘−)
 	Zoom to page level	تكبير بمستوى الصفحة
@@ -2432,11 +2239,9 @@ calendar weekday	We	أربعاء
 @plural	{n} field name collides with earlier files and will be renamed: {list}|{n} field names collide with earlier files and will be renamed: {list}	يتعارض {n} من أسماء الحقول مع الملفات السابقة وسيتم تغيير أسمائها: {list}|يتعارض اسم {n} حقل مع الملفات السابقة وسيتم تغيير اسمه: {list}|يتعارض اسما {n} حقل مع الملفات السابقة وسيتم تغيير اسميهما: {list}|تتعارض أسماء {n} حقول مع الملفات السابقة وسيتم تغيير أسمائها: {list}|يتعارض {n} اسم حقل مع الملفات السابقة وسيتم تغيير أسمائها: {list}|يتعارض {n} من أسماء الحقول مع الملفات السابقة وسيتم تغيير أسمائها: {list}
 	{n} fields selected	{n} حقول محددة
 @plural	{n} field|{n} fields	{n} حقل|{n} حقل|{n} حقلان|{n} حقول|{n} حقلًا|{n} حقل
-	{n} files	{n} ملفات
 	{n} files done	اكتمل {n} ملفات
 	{n} files need attention	{n} ملفات تحتاج إلى انتباه
 @plural	{n} file|{n} files	{n} ملف|{n} ملف|{n} ملفان|{n} ملفات|{n} ملفاً|{n} ملف
-	{n} h ago	قبل {n} ساعة
 @plural	{n} image optimized|{n} images optimized	{n} صورة محسّنة|{n} صورة محسّنة|{n} صورتان محسّنتان|{n} صور محسّنة|{n} صورة محسّنة|{n} صورة محسّنة
 	{n} instances	{n} مواضع
 	{n} issues	{n} مشكلات
@@ -2444,7 +2249,6 @@ calendar weekday	We	أربعاء
 	{n} marks	{n} علامات
 	{n} match(es) marked for redaction.	عُلِّم {n} تطابق للحجب.
 	{n} measurements use an unsupported format and are left out.	{n} قياسات تستخدم صيغة غير مدعومة واستُبعدت.
-	{n} min ago	قبل {n} دقيقة
 @plural	{n} object selected|{n} objects selected	تم تحديد {n} عنصر|تم تحديد {n} عنصر|تم تحديد {n} عنصرين|تم تحديد {n} عناصر|تم تحديد {n} عنصرًا|تم تحديد {n} عنصر
 	{n} pages	{n} صفحات
 	{n} pages and no bookmarks	{n} صفحات ولا إشارات مرجعية
@@ -2481,5 +2285,4 @@ calendar weekday	We	أربعاء
 	“{name}” has security restrictions. Enter its permissions password to lift them.	«{name}» عليه قيود أمان. أدخل كلمة مرور الأذونات الخاصة به لرفعها.
 	“{name}” is protected. Enter a password to open it.	«{name}» محمي. أدخل كلمة مرور لفتحه.
 	… and {n} more	… و{n} أخرى
-	−Bin	−Bin
 	−LOC	−LOC

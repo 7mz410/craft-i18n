@@ -22,7 +22,6 @@
 	+LOC	+LOC
 	, Expires: 	, Жарамдылық мерзімі: 
 	1 difference found	1 айырмашылық табылды
-	1 file	1 файл
 	1 file done	1 файл өңделді
 	1 file needs attention	1 файл назар аударуды қажет етеді
 	1 instance	1 сәйкестік
@@ -66,10 +65,7 @@
 	Action name:	Әрекет атауы:
 	Action Wizard	Әрекеттер шебері
 	Action Wizard…	Әрекеттер шебері…
-	Actions	Әрекеттер
 	Actions list	Әрекеттер тізімі
-	Active	Белсенді
-	Actual Size	Нақты өлшем
 	Actual size	Нақты өлшем
 	Actual text	Нақты мәтін
 	Add a button	Түйме қосу
@@ -166,8 +162,6 @@
 	AI assistant	ЖИ көмекшісі
 	Algorithm	Алгоритм
 	Align fields	Өрістерді туралау
-	Align left	Солға туралау
-	Align right	Оңға туралау
 	All annotations are tagged	Барлық белгілеулер тегтелген
 	All document contents	Құжаттың барлық мазмұны
 	All document contents except metadata	Метадеректерден басқа құжаттың барлық мазмұны
@@ -200,20 +194,15 @@
 	An image has alternates or OPI information	Кескінде баламалар немесе OPI ақпараты бар
 	An open-source PDF workbench — local, private, and scriptable.	Ашық бастапқы кодты PDF жұмыс орны — жергілікті, жеке әрі скрипттерді қолдайтын.
 	and {n} more	және тағы {n}
-	Angle	Бұрыш
-	Animation effects	Анимация әсерлері
 	Animation that flashes can cause seizures. Check scripts and media for flicker.	Жыпылықтаған анимация құрыс ұстамаларын тудыруы мүмкін. Скрипттер мен медианы жыпылықтауға тексеріңіз.
 	Annotations, form fill-in, and digital signatures	Белгілеулер, форманы толтыру және цифрлық қолтаңбалар
 	Another file dialog is still open. Finish with it first.	Басқа файл сұхбат терезесі әлі ашық тұр. Алдымен оны аяқтаңыз.
-	Any	Кез келген
 	Any except extracting pages	Беттерді шығарып алудан басқа барлығы
 	Anyone opening the document will need this password. It's applied when you save.	Құжатты ашатын кез келген адамға осы құпиясөз қажет болады. Ол сақтау кезінде қолданылады.
 	Appear behind page	Беттің артында көріну
 	Appear on top of page	Беттің үстінде көріну
-	Appearance	Сыртқы түрі
 	Appearance mode	Көрініс режимі
 	Appearance settings…	Көрініс параметрлері…
-	Application	Қолданба
 	Applied 1 redaction mark. Save to remove the content from the file.	1 жасыру белгісі қолданылды. Мазмұнды файлдан алып тастау үшін сақтаңыз.
 	Applied {n} redaction marks. Save to remove the content from the file.	{n} жасыру белгісі қолданылды. Мазмұнды файлдан алып тастау үшін сақтаңыз.
 	Applies to 1 page	1 бетке қолданылады
@@ -227,8 +216,6 @@
 calendar date	April	Сәуір
 	Arbitrary Mask	Еркін маска
 	Archive documents	Құжаттарды мұрағаттау
-	Area	Аудан
-	ArtCraft website	ArtCraft веб-сайты
 	Ask about this document	Осы құжат туралы сұрау
 	Asks GitHub for the latest release. Nothing is downloaded or installed automatically.	GitHub-тан соңғы шығарылымды сұрайды. Ештеңе автоматты түрде жүктелмейді немесе орнатылмайды.
 	Associated with content	Мазмұнмен байланысқан
@@ -249,13 +236,11 @@ calendar date	August	Тамыз
 	Auto-rotate pages	Беттерді автоматты бұру
 	Auto-size text to fit redaction region	Мәтін өлшемін жасыру аймағына автоматты бейімдеу
 	Automatically tag PDF	PDF-ке тегтерді автоматты қосу
-	Available	Қолжетімді
 	average	орташа
 	Back	Артқа
 	Back side only	Тек артқы жағы
 	Back to all tools	Барлық құралдарға оралу
 	Back to the document	Құжатқа оралу
-	Background	Фон
 	background	фон
 	Basic constraints	Негізгі шектеулер
 	Bates numbering	Бейтс нөмірлеу
@@ -263,14 +248,10 @@ calendar date	August	Тамыз
 	Before the number	Сан алдында
 	Beveled	Қиғаш
 	Bicubic downsampling to	Бикубтық төмендету
-	Binary assets removed	Жойылған бинарлы ресурстар
 	Binding	Тігілуі
 	Binding:	Тігу жағы:
-	Black	Қара
-	Black and white	Ақ-қара
 	Black on white	Ақ фонда қара
 	Blank page	Бос бет
-	Blue	Көк
 	Booklet	Буклет
 	Booklet subset:	Буклеттің бөлігі:
 	Bookmark options	Бетбелгі параметрлері
@@ -279,8 +260,6 @@ calendar date	August	Тамыз
 	Bookmarks Panel and Page	Бетбелгілер панелі және бет
 	Border Color:	Жиек түсі:
 	Borders and Colors	Жиектер мен түстер
-	Both	Екеуі де
-	Both sides	Екі жақ та
 	Box	Аумақ
 	Bring your own model (off by default)	Өз моделіңізді пайдаланыңыз (әдепкіде өшірулі)
 	Browser's print dialog	Браузердің басып шығару терезесі
@@ -291,15 +270,12 @@ calendar date	August	Тамыз
 	Button Style:	Түйме стилі:
 	Buttons with the same name and value are selected in unison	Атауы мен мәні бірдей түймелер бірге таңдалады
 	Bytes	Байт
-	Calculate	Есептеу
 	Calibrate from two points	Екі нүктеден калибрлеу
 	Callout	Көрсетпе
 	Can't be read: {e}	Оқу мүмкін емес: {e}
 	Cancelled	Бас тартылды
 	Cancelling…	Бас тартылуда…
 	Case-sensitive	Регистрді ескеру
-	Category:	Санаты:
-	Center	Ортаға
 	Center Footer Text	Ортаңғы астыңғы колонтитул мәтіні
 	Center Header Text	Ортаңғы үстіңгі колонтитул мәтіні
 	Center horizontally	Көлденең бойынша ортаға
@@ -343,7 +319,6 @@ calendar date	August	Тамыз
 	Check Box Style:	Құсбелгі стилі:
 	Check for accessibility	Қолжетімділікті тексеру
 	Check for accessibility…	Қолжетімділікті тексеру…
-	Check for updates	Жаңартуларды тексеру
 	Check for updates…	Жаңартуларды тексеру…
 	Check spelling	Емлені тексеру
 	Check that the tags read in the order a sighted reader would. Use the Reading Order tool or the Tags panel to correct it.	Тегтер көретін оқырман оқитын ретпен оқылатынын тексеріңіз. Түзету үшін «Оқу реті» құралын немесе «Тегтер» панелін пайдаланыңыз.
@@ -373,7 +348,6 @@ calendar date	August	Тамыз
 	Clean-up	Тазалау
 	Clear all	Барлығын тазарту
 	Clear form	Форманы тазалау
-	Clear Recent Files	Соңғы файлдарды тазарту
 	Clear redaction marks	Жасыру белгілерін тазалау
 	Clear selection / close find	Таңдауды тазалау / іздеуді жабу
 	Click on the page to add a {tool}, or drag to set its size	{tool} қосу үшін бетке шертіңіз немесе өлшемін орнату үшін сүйреңіз
@@ -383,7 +357,6 @@ calendar date	August	Тамыз
 	Click to sort, drag to move the column. Drag its edge to resize it.	Сұрыптау үшін шертіңіз, бағанды жылжыту үшін сүйреңіз. Өлшемін өзгерту үшін бағанның шетін сүйреңіз.
 	Click vertices. Enter or double-click finishes a perimeter or area. Click the first point to close an area.	Шыңдарды шертіңіз. Enter немесе қос шерту периметр мен ауданды аяқтайды. Ауданды жабу үшін бірінші нүктені шертіңіз.
 	Clockwise 90 degrees	Сағат тілінің бағытымен 90 градус
-	Close (Esc)	Жабу (Esc)
 	Close all	Барлығын жабу
 	Close file	Файлды жабу
 	Close panel	Панельді жабу
@@ -394,11 +367,9 @@ calendar date	August	Тамыз
 	Collapse all bookmarks	Барлық бетбелгілерді жию
 	Collapse all pages	Барлық беттерді жию
 	Collapse tag	Тегті жинау
-	Collate	Даналар бойынша реттеу
 	Color contrast	Түс контрасты
 	Color Images	Түсті кескіндер
 	Color Spaces	Түс кеңістіктері
-	Colour	Түс
 	Colours are remapped while rendering; the document itself never changes.	Түстер көрсету кезінде қайта белгіленеді; құжаттың өзі ешқашан өзгермейді.
 	Column select	Баған бойынша таңдау
 	Comb of	Ұяшықтар саны:
@@ -410,7 +381,6 @@ calendar date	August	Тамыз
 	Combo	Ашылатын тізім
 	Coming in milestone	Кезеңде пайда болады
 	Coming in milestone {m}. Items marked Ready work today.	{m} кезеңінде шығады. «Дайын» деп белгіленген элементтер қазір жұмыс істейді.
-	Command	Команда
 	Comment and form data	Түсініктеме және форма деректері
 	Comment list	Түсініктемелер тізімі
 	Commenting	Түсініктемелер қалдыру
@@ -426,11 +396,9 @@ calendar date	August	Тамыз
 	Compare files	Файлдарды салыстыру
 	Compare files…	Файлдарды салыстыру…
 	Compare this file with an older version: Compare files… in All tools.	Бұл файлды ескірек нұсқасымен салыстырыңыз: «Барлық құралдар» ішіндегі «Файлдарды салыстыру…».
-	Compatibility	Үйлесімділік
 	Completed	Аяқталды
 	Compress a PDF	PDF сығу
 	Compress document structure (object streams)	Құжат құрылымын сығу (нысан ағындары)
-	Compression	Сығымдау
 	Configure a Digital ID for Signing	Қол қоюға арналған цифрлық ID теңшеу
 	Configure New Digital ID	Жаңа цифрлық ID теңшеу
 	Confirm Password	Құпиясөзді растау
@@ -440,12 +408,10 @@ calendar date	August	Тамыз
 	Content copying	Мазмұнды көшіру
 	Content copying for accessibility	Мазмұнды қолжетімділік үшін көшіру
 	Content Streams	Мазмұн ағындары
-	Continue	Жалғастыру
 	Continuous scrolling	Үздіксіз айналдыру
 	Convert colors	Түстерді түрлендіру
 	Copied {what}	Көшірілді: {what}
 	Copies, two-sided printing and colour are chosen in the browser's print dialog.	Көшірмелер саны, екі жақты басып шығару және түс браузердің басып шығару терезесінде таңдалады.
-	Copies:	Даналар:
 	Copy Image	Суретті көшіру
 	Copy Image in Original Format	Суретті бастапқы пішімде көшіру
 	Copy or cut pages first	Алдымен беттерді көшіріңіз немесе кесіңіз
@@ -468,7 +434,6 @@ calendar date	August	Тамыз
 	Couldn't open the printer's preferences: {e}	Принтердің параметрлерін ашу мүмкін болмады: {e}
 	Couldn't open the result: {e}	Нәтижені ашу мүмкін болмады: {e}
 	Couldn't open the signed version: {e}	Қол қойылған нұсқаны ашу мүмкін болмады: {e}
-	Couldn't open {name}: {e}	{name} файлын ашу мүмкін болмады: {e}
 	Couldn't optimize the file	Файлды оңтайландыру мүмкін болмады
 	Couldn't optimize the file: {e}	Файлды оңтайландыру мүмкін болмады: {e}
 	Couldn't print from the browser ({e}); downloaded {name} to print instead	Браузерден басып шығару мүмкін болмады ({e}); оның орнына басып шығару үшін {name} жүктелді
@@ -522,7 +487,6 @@ calendar date	August	Тамыз
 	Crop Image	Суретті қию
 	Crop page	Бетті қиып алу
 	Crop pages	Беттерді қиып алу
-	Cross	Крест
 key	Ctrl	Ctrl
 	Currency symbol:	Валюта таңбасы:
 	Current page ({n})	Ағымдағы бет ({n})
@@ -539,13 +503,10 @@ key	Ctrl	Ctrl
 	Cut pages	Беттерді кесу
 	Cut {what}	Кесілді: {what}
 	Cuts each page to its printed area, turns it upright and fits it to the sheet without stretching. One label per sheet.	Әр бетті басылған аймағына дейін қиып, тік бұрып, созбай параққа сыйғызады. Әр параққа бір жапсырма.
-	Dark gray	Қою сұр
 	Dark gray theme	Қою сұр тема
 	Dark theme	Күңгірт тақырып
-	Date	Күн
 	Date field	Күн өрісі
 	Date: 	Күні: 
-	Dates	Күндер
 	December	Желтоқсан
 calendar date	December	Желтоқсан
 	Decimal places:	Ондық таңба саны:
@@ -575,8 +536,6 @@ key	Delete	Delete
 	Delete stamp	Мөрді жою
 	Delete {o}	{o} жою
 	Describe the figure	Суретті сипаттаңыз
-	Description	Сипаттама
-	Details	Мәліметтер
 	Detect form fields	Форма өрістерін анықтау
 	Detected 1 form field	1 форма өрісі анықталды
 	Detected {n} form fields	{n} форма өрісі анықталды
@@ -589,7 +548,6 @@ key	Delete	Delete
 	Digital Signature Properties	Цифрлық қолтаңбаның сипаттары
 	Digitally sign	Цифрлық түрде қол қою
 	Digitally signed by	Цифрлық қолтаңба қойған
-	Discard	Елемеу
 	Discard all comments, forms and multimedia	Барлық түсініктемелерді, формаларды және мультимедияны алып тастау
 	Discard all links, actions and JavaScript	Барлық сілтемелерді, әрекеттерді және JavaScript-ті алып тастау
 	Discard all object data (file attachments)	Барлық нысан деректерін (файл тіркемелерін) алып тастау
@@ -605,11 +563,8 @@ key	Delete	Delete
 	Discard private data of other applications	Басқа қосымшалардың жеке деректерін алып тастау
 	Discard this text (Esc)	Бұл мәтіннен бас тарту (Esc)
 	Discard User Data	Пайдаланушы деректерін алып тастау
-	Dismiss	Жабу
 	Display theme	Көрсету темасы
-	Distance	Қашықтық
 	Distinguished name	Ажырататын атау
-	Distribute	Бірдей тарату
 	Distribute fields	Өрістерді біркелкі орналастыру
 	DN: 	DN: 
 	Document actions	Құжат әрекеттері
@@ -632,10 +587,7 @@ key	Delete	Delete
 	Documents and view	Құжаттар және көрініс
 	Documents of more than 20 pages need bookmarks for navigation. Add bookmarks for the main sections.	20 беттен асатын құжаттарда навигация үшін бетбелгілер қажет. Негізгі бөлімдерге бетбелгілер қосыңыз.
 	Don't save	Сақтамау
-	Done	Дайын
 	Done adding text	Мәтін қосу аяқталды
-	Double-click	Қос шерту
-	Download	Жүктеп алу
 	Downloaded {name}	«{name}» жүктеп алынды
 @plural	Downloaded {n} PDF|Downloaded {n} PDFs	{n} PDF жүктелді|{n} PDF жүктелді
 	Downloading attachments on the web arrives with M3.10 ({n} bytes ready)	Тіркемелерді веб-нұсқада жүктеп алу M3.10-мен келеді ({n} байт дайын)
@@ -669,8 +621,6 @@ key	Delete	Delete
 	Duplicate field	Өрістің көшірмесін жасау
 	Duplicate page	Бетті көшіру
 	Duplicate pages	Беттерді көшірмелеу
-	Duplicate…	Көшірмесін жасау…
-	Dynamic	Динамикалық
 	Dynamic XFA form laid out from its template: {pages}, {fields}.	Ұлгісі бойынша құрылған динамикалық XFA формасы: {pages}, {fields}.
 	E-Sign	Электронды қол қою
 	e.g. en-US	мысалы: kk-KZ
@@ -680,7 +630,6 @@ key	Delete	Delete
 	Each image is measured where pages draw it; an image is replaced only if the result is smaller.	Әр кескін беттер оны сызатын жерде өлшенеді; кескін нәтиже кіші болғанда ғана ауыстырылады.
 	Each image once, named after the document and page. JPEG images are saved unchanged; others as PNG.	Әр сурет бір рет, құжат пен бет атауымен аталады. JPEG суреттері өзгеріссіз сақталады; қалғандары PNG болып сақталады.
 	Earlier in tab order	Табуляция реті бойынша алдыңғы
-	Edit	Түзету
 comment menu	Edit	Түзету
 	Edit a PDF	PDF түзету
 	Edit Action	Әрекетті түзету
@@ -705,7 +654,6 @@ comment menu	Edit	Түзету
 	Encryption	Шифрлау
 key	End	End
 	End entity	Соңғы субъект
-	Endpoint	Шеткі нүкте
 	Endpoints	Шеткі нүктелер
 	Enhance camera image	Камера суретін жақсарту
 	Enhance page	Бетті жақсарту
@@ -714,7 +662,6 @@ key	End	End
 	Enter the password that opens it	Оны ашатын құпиясөзді енгізіңіз
 	Enter the permissions password to allow combining	Біріктіруге рұқсат ету үшін рұқсаттар құпиясөзін енгізіңіз
 	Entire page	Толық бет
-	Erase	Өшіру
 	Erase drawings	Суреттерді өшіру
 key	Esc	Esc
 	Even and Odd Pages	Жұп және тақ беттер
@@ -731,7 +678,6 @@ key	Esc	Esc
 	Exclude tagged tables	Белгіленген кестелерді есепке алмау
 	Exclusions use PDF tags. Untagged tables and code remain included. Image exclusion also removes invisible text.	Есептен шығару PDF тегтерін пайдаланады. Тегсіз кестелер мен код есепте қалады. Суреттерді алып тастау көрінбейтін мәтінді де алып тастайды.
 	Execute a menu item	Мәзір пунктін орындау
-	Expand	Жаю
 	Expand all	Барлығын жаю
 	Expand all bookmarks	Барлық бетбелгілерді жаю
 	Expand all pages	Барлық беттерді жаю
@@ -753,7 +699,6 @@ key	Esc	Esc
 	Export measurements	Өлшемдерді экспорттау
 	Export measurements as CSV	Өлшеулерді CSV ретінде экспорттау
 	Export stopped: {e}	Экспорт тоқтатылды: {e}
-	Export to	Мынаған экспорттау
 	Export to HTML…	HTML-ге экспорттау…
 	Export to Image	Суретке экспорттау
 	Export to image…	Суретке экспорттау…
@@ -766,12 +711,9 @@ key	Esc	Esc
 	Exported 1 image	1 сурет экспортталды
 	Exported the text of 1 page	1 беттің мәтіні экспортталды
 	Exported the text of {n} pages	{n} беттің мәтіні экспортталды
-	Exported to {path}	Экспортталды: {path}
 	Exported {n} images	{n} сурет экспортталды
 	Exporting… {d} of {t}	Экспортталуда… {d}/{t}
-	Export…	Экспорттау…
 	Extended Graphics States	Кеңейтілген графикалық күйлер
-	Extract	Шығарып алу
 	Extract pages	Беттерді шығарып алу
 	Extract pages as separate files	Беттерді бөлек файлдар ретінде шығарып алу
 	Extract pages to a new document	Беттерді жаңа құжатқа шығарып алу
@@ -797,7 +739,6 @@ calendar date	February	Ақпан
 	Figures require alternate text	Суреттерге балама мәтін қажет
 	File (.p12, .pfx)	Файл (.p12, .pfx)
 	File attachments	Файл тіркемелері
-	File Name	Файл атауы
 	File name	Файл атауы
 	File size	Файл өлшемі
 @id	file.word_count	Сөздер саны…
@@ -806,7 +747,6 @@ calendar date	February	Ақпан
 	Files are combined in this order. Leave Pages empty to take every page.	Файлдар осы ретпен біріктіріледі. Барлық бетті алу үшін «Беттер» өрісін бос қалдырыңыз.
 	Files for {name}	{name} үшін файлдар
 	Files you open in PdfCraft appear here. Drop a PDF anywhere to open it.	PdfCraft-те ашқан файлдарыңыз осында көрсетіледі. PDF файлын ашу үшін оны кез келген жерге апарып тастаңыз.
-	Fill	Толтыру
 	Fill & Sign	Толтыру және қол қою
 	Fill & Sign dates	«Толтыру және қол қою» күндері
 	Fill & Sign signature	«Толтыру және қол қою» қолтаңбасы
@@ -839,10 +779,8 @@ calendar date	February	Ақпан
 	Find tools and commands…	Құралдар мен командаларды іздеу…
 	Find untagged content	Тегтелмеген мазмұнды табу
 	Finding document fonts…	Құжат қаріптері ізделуде…
-	Find…	Іздеу…
 	Finish or discard the text being edited before selecting several objects.	Бірнеше объектіні таңдамас бұрын түзетіліп жатқан мәтінді аяқтаңыз немесе алып тастаңыз.
 	First / last page	Бірінші / соңғы бет
-	Fit	Сыйдыру
 	Fit Height	Биіктігіне сыйдыру
 	Fit one full page	Бір толық бетке сыйдыру
 	Fit Page	Бетке сыйдыру
@@ -858,7 +796,6 @@ calendar date	February	Ақпан
 	Fix reading order	Оқу ретін түзету
 	Fixed what could be fixed; 1 problem remains	Түзетуге болатынының бәрі түзетілді; 1 мәселе қалды
 	Fixed what could be fixed; {n} problems remain	Түзетуге болатынының бәрі түзетілді; {n} мәселе қалды
-	Flatten	Жазықтау
 	Flatten comments	Түсініктемелерді жазықтау
 	Flatten Fill & Sign when saving	Сақтау кезінде «Толтыру және қол қою» мазмұнын жазықтау
 	Flatten form fields	Форма өрістерін жазықтау
@@ -870,9 +807,7 @@ calendar date	February	Ақпан
 	Float panel	Панельді бөлек терезеге шығару
 	Folders	Қалталар
 	Font colour:	Қаріп түсі:
-	Font size	Қаріп өлшемі
 	Font size 0 uses automatic sizing.	Қаріп өлшемі 0 автоматты өлшемді қолданады.
-	Font Size:	Қаріп өлшемі:
 	Font size:	Қаріп өлшемі:
 	Font: Helvetica	Қаріп: Helvetica
 	Fonts must map their characters to Unicode so text can be read and copied. Fix the fonts or recreate the PDF.	Қаріптер таңбаларын Unicode-қа сәйкестендіруі тиіс, сонда мәтінді оқуға және көшіруге болады. Қаріптерді жөндеңіз немесе PDF-ті қайта жасаңыз.
@@ -889,7 +824,6 @@ calendar date	February	Ақпан
 	Forms	Формалар
 	Formulas and similar non-text elements need alternate text. Add alternate text to them.	Формулалар мен ұқсас мәтінге жатпайтын элементтерге балама мәтін қажет. Оларға балама мәтін қосыңыз.
 	Found {n} untagged content problems.	Тегтелмеген мазмұнға қатысты {n} мәселе табылды.
-	From	Бастап
 	From a PDF page or an image	PDF бетінен немесе суреттен
 	From colour	Түстен
 	From {file}	{file} файлынан
@@ -904,12 +838,9 @@ calendar date	February	Ақпан
 	Go to the page	Бетке өту
 	Go to this result	Осы нәтижеге өту
 	Grab bag	Әр түрлі
-	Gray	Сұр
 	Grayscale Images	Сұр реңкті кескіндер
-	Green	Жасыл
 	Green on black	Қара фонда жасыл
 	Greyscale	Сұр реңктер
-	Grid view	Тор көрінісі
 	H / Space (hold)	H / Space (ұстап тұру)
 	Hand (H)	Қол (H)
 	Has JavaScript actions (run in M6)	JavaScript әрекеттері бар (M6-да орындалады)
@@ -918,7 +849,6 @@ calendar date	February	Ақпан
 	header or footer	үстіңгі/астыңғы колонтитул
 	Headers	Тақырыптар
 	Heading levels shouldn't skip (an H1 followed by an H3). Retag the headings.	Тақырып деңгейлері үзілмеуі тиіс (H1-ден кейін H3 келмеуі керек). Тақырыптарды қайта тегтеңіз.
-	Height	Биіктік
 	Hidden layers	Жасырын қабаттар
 	Hide a field	Өрісті жасыру
 	Hide all comments	Барлық түсініктемелерді жасыру
@@ -930,9 +860,6 @@ calendar date	February	Ақпан
 	Hide toolbars	Құралдар тақталарын жасыру
 	Hide window controls	Терезе басқару элементтерін жасыру
 	Hides annotation	Белгілеуді жасырады
-	High	Жоғары
-	High Resolution	Жоғары ажыратымдылық
-	High resolution	Жоғары ажыратымдылық
 	Highlight	Бояп белгілеу
 	Highlight fields	Өрістерді бояп белгілеу
 	Highlight Style:	Ерекшелеу стилі:
@@ -940,16 +867,11 @@ calendar date	February	Ақпан
 key	Home	Home
 	Home / End	Home / End
 	Horizontal reversed	Көлденең (кері ретпен)
-	Horizontal scale	Жатық масштаб
-	Horizontally	Көлденең
 	HTML web page	HTML веб-беті
-	Icon	Таңбаша
 	Identity	Жеке деректер
-	Image	Кескін
 	Image (PNG)	Кескін (PNG)
 	Image field	Кескін өрісі
 	Image-only PDF	Тек суреттерден тұратын PDF
-	Images	Кескіндер
 	Images and text	Кескіндер мен мәтін
 	Images and text (converted to PDF)	Кескіндер мен мәтін (PDF-ке түрлендірілген)
 	Import comments…	Түсініктемелерді импорттау…
@@ -988,9 +910,7 @@ key	Home	Home
 	Installed fonts…	Орнатылған қаріптер…
 	Intended usage	Пайдалану мақсаты
 	Interface size	Интерфейс өлшемі
-	Intersection	Қиылыс
 	Intersections	Қиылыстар
-	Invert	Терістеу
 	Invisible Rectangle	Көрінбейтін тіктөртбұрыш
 	Irregular tables confuse cell navigation. Give every row the same number of cells (counting spans).	Біркелкі емес кестелер ұяшықтар арасындағы навигацияны шатастырады. Әр жолдағы ұяшықтар санын бірдей етіңіз (біріктіруді есептегенде).
 	is available	қолжетімді
@@ -1010,14 +930,11 @@ calendar date	January	Қаңтар
 	JavaScript console…	JavaScript консолі…
 	JavaScript is turned off (Preferences ▸ JavaScript).	JavaScript өшірулі (Параметрлер > JavaScript).
 	JavaScript, e.g. getField("total").value	JavaScript, мысалы getField("total").value
-	Join our Discord	Discord-қа қосылыңыз
 	Join the ArtCraft community	ArtCraft қауымдастығына қосылыңыз
-	Join the ArtCraft Discord	ArtCraft Discord-ына қосылыңыз
 	July	Шілде
 calendar date	July	Шілде
 	June	Маусым
 calendar date	June	Маусым
-	just now	жаңа ғана
 	Keep source fonts	Бастапқы қаріптерді сақтау
 	Keep tool selected	Құрал таңдалып тұрсын
 	Keep tool selected: on	Құрал таңдалып тұрсын: қосулы
@@ -1025,15 +942,12 @@ calendar date	June	Маусым
 	Key usage	Кілтті пайдалану
 	Keyboard shortcuts	Пернетақта тіркесімдері
 	Keychain  ·  	Кілттер бауы  ·  
-	Label	Белгі
 	Labels: {preview}. Later pages keep their labels.	Белгілер: {preview}. Кейінгі беттер өз белгілерін сақтайды.
 	Landscape and Portrait Pages	Жатық және тік беттер
 	Landscape Pages	Жатық беттер
 	Landscape pages	Жатық беттер
 	Larger pages	Үлкенірек беттер
-	Later	Кейінірек
 	Later in tab order	Табуляция реті бойынша кейінгі
-	Layers	Қабаттар
 	Layers Panel and Page	Қабаттар панелі және бет
 	Layout and Magnification	Орналасу және масштаб
 	Lbl and LBody	Lbl және LBody
@@ -1045,10 +959,8 @@ calendar date	June	Маусым
 	Left out: {names}	Қалдырылды: {names}
 	LI must be a child of L	LI L ішінде болуы тиіс
 	Light blue	Ашық көк
-	Light gray	Ашық сұр
 	Light theme	Ашық тема
 	Limit of	Шегі:
-	Line delta	Жолдар айырмасы
 	Line ending	Сызық ұшы
 	Line Style:	Сызық стилі:
 	Line thickness	Сызық жуандығы
@@ -1063,21 +975,17 @@ calendar date	June	Маусым
 	List items	Тізім элементтері
 	List items belong in a list. Fix the list's tags.	Тізім элементтері тізімде болуы тиіс. Тізімнің тегтерін жөндеңіз.
 	List labels and bodies belong in a list item. Fix the list's tags.	Тізім белгілері мен денелері тізім элементінде болуы тиіс. Тізімнің тегтерін жөндеңіз.
-	List view	Тізім көрінісі
 	Lists	Тізімдер
 	Load document font	Құжат қаріпін жүктеу
 	Load font…	Қаріпті жүктеу…
 	Local cross-PDF links require the desktop app	PDF файлдары арасындағы жергілікті сілтемелер үшін жұмыс үстелі қолданбасы қажет
 	Location: 	Орны: 
 	Lock comment	Түсініктемені құлыптау
-	Locked	Құлыпталған
 	Logical Reading Order	Логикалық оқу реті
 	Looking for PDFs…	PDF файлдары ізделуде…
 	Looking for printers…	Принтерлер ізделуде…
-	Low	Төмен
 	Low resolution	Төмен ажыратымдылық
 	Low Resolution (150 dpi)	Төмен ажыратымдылық (150 dpi)
-	Magnification	Масштаб
 	Make accessible	Қолжетімді ету
 	Make Current Properties Default	Ағымдағы сипаттарды әдепкі етіп орнату
 	Make Properties Default	Сипаттарды әдепкі етіп орнату
@@ -1104,12 +1012,9 @@ calendar date	March	Наурыз
 	Mask:	Маска:
 	Match field sizes	Өріс өлшемдерін теңестіру
 	Match page at 100%	Бетке 100% сәйкестендіру
-	Maximize	Жаю
-	Maximum	Максимум
 	maximum	максимум
 	May	Мамыр
 calendar date	May	Мамыр
-	Measure	Өлшеу
 	Measure area	Ауданды өлшеу
 	Measure distance	Қашықтықты өлшеу
 	Measure objects	Нысандарды өлшеу
@@ -1123,18 +1028,11 @@ calendar date	May	Мамыр
 	Merged 1 file into {path}	1 файл {path} ішіне біріктірілді
 	Merged {n} files into {path}	{n} файл {path} ішіне біріктірілді
 	Merging data files needs the desktop app	Деректер файлдарын біріктіруге жұмыс үстелі қолданбасы қажет
-	Metadata	Метадеректер
 	Microsoft Word (.docx)	Microsoft Word (.docx)
-	Midpoint	Орта нүкте
 	Midpoints	Орта нүктелер
-	Minimize	Жию
-	Minimum	Минимум
 	minimum	минимум
 	Mixed	Аралас
-	Mobile	Мобильді құрылғы
-	Modified	Өзгертілген
 	Modify page	Бетті өзгерту
-	More	Қосымша
 	More options	Қосымша параметрлер
 	More options:	Қосымша параметрлер:
 	More ways to add files	Файлдарды қосудың басқа жолдары
@@ -1184,7 +1082,6 @@ calendar date	May	Мамыр
 	Next / previous match	Келесі / алдыңғы сәйкестік
 	Next figure	Келесі сурет
 	Next month	Келесі ай
-	Next page	Келесі бет
 	Next sheet	Келесі парақ
 	Next tab	Келесі қойынды
 	Next view	Келесі көрініс
@@ -1208,7 +1105,6 @@ calendar date	May	Мамыр
 	No issues found	Мәселе табылмады
 	No links to remove	Жоятын сілтеме жоқ
 	No matches	Сәйкестік жоқ
-	No matches.	Сәйкестік жоқ.
 	No matching tools	Сәйкес құралдар жоқ
 	No model credits were built into this copy.	Бұл көшірмеге модельдер туралы деректер ендірілмеген.
 	No openly licensed document fonts found. Load a font file.	Ашық лицензиялы құжат қаріптері табылмады. Қаріп файлын жүктеңіз.
@@ -1222,7 +1118,6 @@ calendar date	May	Мамыр
 	No preview	Алдын ала қарау жоқ
 	No printers were found. Check that the printer is installed and the print spooler is running, then open Print again.	Принтерлер табылмады. Принтердің орнатылғанын және басып шығару кезегі қызметінің жұмыс істеп тұрғанын тексеріп, «Басып шығару» терезесін қайта ашыңыз.
 	No problems found: the document conforms to {level}.	Мәселер табылмады: құжат {level} деңгейіне сәйкес.
-	No recent files	Соңғы файлдар жоқ
 	No security	Қауіпсіздік жоқ
 	No sheets	Парақтар жоқ
 	No signature was found in the frame. Move the frame over the signature or raise the ink sensitivity.	Жақтауда қолтаңба табылмады. Жақтауды қолтаңбаның үстіне жылжытыңыз немесе сия сезімталдығын арттырыңыз.
@@ -1248,7 +1143,6 @@ scroll speed	Normal	Қалыпты
 	nothing to undo	болдырмауға ештеңе жоқ
 	November	Қараша
 calendar date	November	Қараша
-	Number	Сан
 	Number every page in the footer.	Әр бетті төменгі колонтитулда нөмірлейді.
 	Number of pages	Беттер саны
 	Number pages	Беттерді нөмірлеу
@@ -1277,8 +1171,6 @@ animation effects	On	Қосулы
 	Only continue if you trust this document. An address can carry information from the document, such as what you typed into its form.	Тек осы құжатқа сенетін болсаңыз ғана жалғастырыңыз. Адрес құжаттан ақпарат алып жүруі мүмкін, мысалы формаға енгізгендеріңіз.
 	Only the document's owner can change its security (open it with the permissions password)	Қауіпсіздікті тек құжат иесі өзгерте алады (оны рұқсаттар құпиясөзімен ашыңыз)
 	Only the page content changes: links, comments, form fields and bookmarks on the original pages stay.	Тек бет мазмұны өзгереді: түпнұсқа беттердегі сілтемелер, түсініктемелер, форма өрістері мен бетбелгілер сақталады.
-	Opacity	Мөлдірсіздік
-	Opacity:	Мөлдірсіздік:
 	Open a document first	Алдымен құжатты ашыңыз
 	Open a PDF ({key})	PDF ашу ({key})
 	Open a PDF to measure it.	Өлшеу үшін PDF құжатын ашыңыз.
@@ -1291,8 +1183,6 @@ animation effects	On	Қосулы
 	Open in a new tab	Жаңа қойындыда ашу
 	Open in Full Screen mode	Толық экран режимінде ашу
 	Open in Full Screen mode?	Толық экран режимінде ашу керек пе?
-	Open link	Сілтемені ашу
-	Open Recent	Соңғы файлдарды ашу
 	Open the file as it was saved then	Файлды сол сақтау сәтіндегі күйінде ашу
 	Open the older version first	Алдымен ескірек нұсқаны ашыңыз
 	Open this local PDF?	Осы жергілікті PDF файлын ашу керек пе?
@@ -1303,7 +1193,6 @@ animation effects	On	Қосулы
 	Opened, but its security settings don't allow combining. Enter the permissions password.	Ашылды, бірақ оның қауіпсіздік параметрлері біріктіруге рұқсат бермейді. Рұқсаттар құпиясөзін енгізіңіз.
 	Opening the browser's print dialog…	Браузердің басып шығару терезесі ашылуда…
 	Opens the printer driver's preferences. They are saved for every print from this computer; the copies, two-sided, grayscale and paper chosen here still apply.	Принтер драйверінің параметрлерін ашады. Олар осы компьютерден жасалатын әр басып шығару үшін сақталады; мұнда таңдалған дана саны, екі жақты басу, сұр түс режимі мен қағаз түрі әлі де қолданылады.
-	Open…	Ашу…
 	Optimization cancelled	Оңтайландырудан бас тартылды
 	Optimization is already running	Оңтайландыру әлдеқашан орындалуда
 	Optimize	Оңтайландыру
@@ -1319,24 +1208,18 @@ animation effects	On	Қосулы
 	Optimizing… writing the copy	Оңтайландыру… көшірмені жазу
 	Optional	Міндетті емес
 	Optional: needs an AI provider you configure	Міндетті емес: сіз теңшейтін ЖИ провайдері қажет
-	Orange	Қызғылт сары
 	Organization Name	Ұйым атауы
 	Organizational Unit	Ұйымдық бөлімше
 	Organize pages	Беттерді ұйымдастыру
-	Orientation:	Бағдар:
-	Original	Түпнұсқа
 	Original: replace pages	Түпнұсқа: ауыстырылатын беттер
 	Other colour…	Басқа түс…
 	Other elements alternate text	Басқа элементтердің балама мәтіні
 	Other elements that require alternate text	Балама мәтінді қажет ететін басқа элементтер
 	Outdent	Шегіністі азайту
-	Outline	Контур
 	Outline colour:	Контур түсі:
-	Output	Шығыс
 	Output appears here.	Шығыс осында пайда болады.
 	Output intent: {list}	Шығыс профилі: {list}
 	Output preview	Шығысты алдын ала көру
-	Overlap:	Қабаттасу:
 	Owner password (no restrictions apply)	Иелік құпиясөзі (шектеулер қолданылмайды)
 	Page background	Бет фоны
 	Page Content	Бет мазмұны
@@ -1374,7 +1257,6 @@ animation effects	On	Қосулы
 	Pages with links, comments or fields should tab in structure order. The fix sets each page's tab order to Use Document Structure.	Сілтемелері, түсініктемелері немесе өрістері бар беттер құрылым ретімен табуляциялануы тиіс. Түзету әр беттің Tab ретін «Құжат құрылымын пайдалану» деп орнатады.
 	Pages:	Беттер:
 	Pages: {k} of {n}	Беттер: {k}, барлығы {n}
-	Panels	Панельдер
 	Paper:	Қағаз:
 	Part of	Бөлігі
 	Passed	Сәтті
@@ -1384,9 +1266,6 @@ animation effects	On	Қосулы
 	Password-protected	Құпиясөзбен қорғалған
 	Paste after	Артына қою
 	Paste pages	Беттерді қою
-	Path	Контур
-	Paths	Контурлар
-	Pattern	Шаблон
 	Patterns	Үлгілер
 	Patterns (graphics objects)	Үлгілер (графикалық нысандар)
 	PDF Optimizer	PDF оңтайландырғышы
@@ -1405,13 +1284,10 @@ animation effects	On	Қосулы
 	PdfCraft {c} is up to date.	PdfCraft {c} нұсқасы ең соңғы.
 	PdfCraft {v} is available.	PdfCraft {v} қолжетімді.
 	People may need more time to respond. Check that nothing has a time limit.	Адамдарға жауап беру үшін қосымша уақыт қажет болуы мүмкін. Уақыт шектеулері жоқ екенін тексеріңіз.
-	Percentage	Пайыз
-	Perimeter	Периметр
 	Permissions password	Рұқсаттар құпиясөзі
 	Permitted actions after certifying	Куәландырғаннан кейінгі рұқсат етілген әрекеттер
 	Phone Number	Телефон нөмірі
 	Phone Numbers	Телефон нөмірлері
-	Photo	Сурет
 	Pick a tool in the quick bar, or type above.	Жылдам тақтадан құрал таңдаңыз немесе жоғарыда енгізіңіз.
 	Pictures need alternate text that describes them, or must be marked decorative. Add alternate text to each figure.	Суреттерге оларды сипаттайтын балама мәтін қажет немесе декоративті деп белгіленуі тиіс. Әр суретке балама мәтін қосыңыз.
 	Pictures on those pages are recognized too; words already in the page's text are not added again	Бұл беттердегі суреттер де танылады; беттің мәтінінде бұрыннан бар сөздер қайта қосылмайды
@@ -1419,7 +1295,6 @@ animation effects	On	Қосулы
 	Pin a folder to list its newest PDFs here, such as where your scanner or a synced cloud drive saves them.	Қалтаны бекітіңіз — оның ең жаңа PDF файлдары осында көрсетіледі, мысалы, сканер немесе синхрондалатын бұлт дискісі файлдарды сақтайтын қалта.
 	Pin a folder…	Қалтаны бекіту…
 	Pin folder to Home…	Қалтаны Басты бетке бекіту…
-	Pink	Қызғылт
 	Pinned folders need the desktop app	Бекітілген қалталар үшін жұмыс үстелі қосымшасы қажет
 	Pinned {folder} to Home	{folder} Басты бетке бекітілді
 	Place saved {what}	Орналастыру: сақталған {what}
@@ -1429,18 +1304,12 @@ animation effects	On	Қосулы
 	Planned for milestone {m} — open to see what it will include	{m} кезеңіне жоспарланған — не қамтитынын көру үшін ашыңыз
 	Planned · {m}	Жоспарланған · {m}
 	Points from the page's bottom-left corner.	Беттің төменгі сол жақ бұрышынан (пункттермен).
-	Polygon	Көпбұрыш
-	Polyline	Сынық сызық
 	Portable mode is off: {folder} can't be written ({error}). Settings are kept in your user folder instead.	Портативті режим өшірулі: {folder} ішіне жазу мүмкін емес ({error}). Параметрлер орнына пайдаланушы қалтаңызда сақталады.
 	Portrait Pages	Тік беттер
 	Portrait pages	Тік беттер
 	Post	Жариялау
-	Poster	Плакат
 	PostScript / EPS	PostScript / EPS
 	PostScript XObjects aren't allowed	PostScript XObject нысандарына рұқсат етілмейді
-	Preferences	Параметрлер
-	Preferences…	Параметрлер…
-	Prefix	Префикс
 	Preflight	Басу алдындағы тексеру
 	Prepare a form	Форманы дайындау
 	Prepare for accessibility	Қолжетімділікке дайындау
@@ -1456,7 +1325,6 @@ animation effects	On	Қосулы
 	Previous / next page	Алдыңғы / келесі бет
 	Previous figure	Алдыңғы сурет
 	Previous month	Алдыңғы ай
-	Previous page	Алдыңғы бет
 	Previous sheet	Алдыңғы парақ
 	Previous tab	Алдыңғы қойынды
 	Previous view	Алдыңғы көрініс
@@ -1470,9 +1338,7 @@ animation effects	On	Қосулы
 	Print, NextPage, PrevPage, FirstPage or LastPage	Print, NextPage, PrevPage, FirstPage немесе LastPage
 	Printer paper and scaling may differ. Check driver settings.	Принтер қағазы мен масштабы өзгеше болуы мүмкін. Драйвер параметрлерін тексеріңіз.
 	Printer properties	Принтер сипаттары
-	Printer:	Принтер:
 	Printing allowed	Басып шығаруға рұқсат етілген
-	Print…	Басып шығару…
 	Privacy	Жекелік
 	Private data of other applications	Басқа қосымшалардың жеке деректері
 	product (x)	көбейтіндісі (x)
@@ -1483,9 +1349,7 @@ animation effects	On	Қосулы
 	Protect with password	Құпиясөзбен қорғау
 	Protected: the combined file won't keep its security settings	Қорғалған: біріктірілген файл өз қауіпсіздік параметрлерін сақтамайды
 	Public key	Ашық кілт
-	Purple	Күлгін
 	PushButton	Түйме
-	Quality	Сапа
 	Radio	Радио түймесі
 	Radio button	Ауыстырғыш
 	Radio Button Properties	Радио түймесінің сипаттары
@@ -1494,7 +1358,6 @@ animation effects	On	Қосулы
 	Read mode	Оқу режимі
 	Read Only	Тек оқуға арналған
 	Reading colours	Оқу түстері
-	Ready	Дайын
 	Reason	Себеп
 	Reason: 	Себебі: 
 	Recent colours	Соңғы түстер
@@ -1511,7 +1374,6 @@ animation effects	On	Қосулы
 	Recognizing text… page {d} of {t}	Мәтінді тану… бет {d}/{t}
 	Recommended tools	Ұсынылған құралдар
 	Recover unsaved documents?	Сақталмаған құжаттарды қалпына келтіру керек пе?
-	Red	Қызыл
 	Redact	Жасыру
 	Redact a PDF	PDF мазмұнын жасыру
 	Redact all	Барлығын жасыру
@@ -1531,7 +1393,6 @@ animation effects	On	Қосулы
 	Regularity	Біркелкілік
 	Rejected	Қабылданбады
 	Reliable character encoding is provided	Сенімді таңбаларды кодтау қамтамасыз етілген
-	Reload	Қайта жүктеу
 	Reload documents when their files change on disk	Дискідегі файлдары өзгергенде құжаттарды қайта жүктеу
 	Remove "{name}" from this list? The file itself is not deleted.	«{name}» осы тізімнен алып тасталсын ба? Файлдың өзі жойылмайды.
 	Remove all links	Барлық сілтемелерді алып тастау
@@ -1593,22 +1454,14 @@ animation effects	On	Қосулы
 	Reset panel layout	Панельдер орналасуын қалпына келтіру
 	Reset to printer defaults	Принтердің әдепкі параметрлеріне келтіру
 	Resize comment	Түсініктеме өлшемін өзгерту
-	Resize panel window	Панель терезесінің өлшемін өзгерту
-	Resize panels	Панельдер өлшемін өзгерту
 	Resize window to initial page	Терезені бастапқы бетке сай өлшемдеу
-	Resolution	Ажыратымдылық
-	Resolution:	Ажыратымдылық:
-	Restore	Қалпына келтіру
 	Restrictions	Шектеулер
 	Restrictions lifted	Шектеулер алынды
 	Retain existing	Бар тұрғанын сақтау
 	Reveal in File Explorer	Файл шолғышында көрсету
-	Reveal in Finder	Finder ішінде көрсету
 	Reverse closed arrow	Кері жабық көрсеткі
 	Reverse open arrow	Кері ашық көрсеткі
 	Reverse pages	Беттерді кері ретпен
-	Reverse the order	Ретін кері өзгерту
-	Revert	Сақталған нұсқаға қайту
 	Revert changes	Өзгерістерді қайтару
 	Revert to the previously saved version of “{name}”? Changes since then can't be undone afterwards.	«{name}» бұрын сақталған нұсқасына оралу керек пе? Осы уақыттан кейінгі өзгерістерді кейін болдырмауға болмайды.
 	Reverted to the last saved version	Соңғы сақталған нұсқаға қайтарылды
@@ -1635,8 +1488,6 @@ animation effects	On	Қосулы
 	Rotate view clockwise	Көріністі сағат тілінің бағытымен бұру
 	Rotate view clockwise ({key})	Көріністі сағат тілінің бағытымен бұру ({key})
 	Rotate view counterclockwise	Көріністі сағат тіліне қарсы бұру
-	Rotate:	Бұру:
-	Rows	Жолдар
 	Run	Орындау
 	Run a JavaScript	JavaScript орындау
 	Run form script	Форма сценарийін орындау
@@ -1652,7 +1503,6 @@ animation effects	On	Қосулы
 	Save (M4)	Сақтау (M4)
 	Save ({key})	Сақтау ({key})
 	Save anyway	Бәрібір сақтау
-	Save as PDF	PDF ретінде сақтау
 	Save as PDF/A	PDF/A ретінде сақтау
 	Save as PDF/A-1b	PDF/A-1b ретінде сақтау
 	Save as PDF/A-2b	PDF/A-2b ретінде сақтау
@@ -1688,7 +1538,6 @@ animation effects	On	Қосулы
 	Script Name:	Сценарийдің атауы:
 	Script:	Скрипт:
 	Scripted content must be usable with a keyboard and assistive technology. Check the document's scripts.	Сценарий арқылы жасалған мазмұн перентақта және көмекші технологиялар арқылы қолданылуға жарамды болуы тиіс. Құжаттың сценарийлерін тексеріңіз.
-	Scripts	Скрипттер
 	Scripts run in a sandbox without file or network access. A script that asks to open a web page needs your permission first. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	Сценарийлер файлдар мен желіге қатынасы жоқ оқшауланған ортада орындалады. Веб-бет ашуды сұрайтын сценарий алдымен сіздің рұқсатыңызды талап етеді. JavaScript өшірілген кезде де Acrobat-тың стандартты форматтау, тексеру және есептеу функциялары жұмыс істейді.
 	Scripts run in a sandbox without file or network access. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	Скрипттер файлға да, желіге де қатынасы жоқ құмсалғышта орындалады. JavaScript өшірулі тұрса да, Acrobat-тың стандартты пішімдеу, тексеру және есептеу функциялары әлі де жұмыс істейді.
 	Scroll long text	Ұзын мәтінді айналдыру
@@ -1700,7 +1549,6 @@ animation effects	On	Қосулы
 	Searchable Image (Exact)	Іздеуге болатын сурет (дәл)
 	Searching… {s} of {p} pages	Ізделуде… {s}/{p} бет
 	Searching… {s}/{p}	Ізделуде… {s}/{p}
-	Security	Қауіпсіздік
 	Security method	Қауіпсіздік әдісі
 	Security properties	Қауіпсіздік сипаттары
 	Security properties…	Қорғаныс сипаттары…
@@ -1727,8 +1575,6 @@ animation effects	On	Қосулы
 	Self-signed	Өзіне-өзі қол қойылған
 	Sending sheet {s} of {n} to {printer}…	{n} парақтың {s}-парағы {printer} құрылғысына жіберілуде…
 	Sending to {printer}…	{printer} құрылғысына жіберілуде…
-	Sensitivity	Сезімталдық
-	Sent to {printer}	{printer} принтеріне жіберілді
 	Sent to {printer}: {msg}	{printer} принтеріне жіберілді: {msg}
 	Separate PDFs	Бөлек PDF файлдары
 	Separator style:	Бөлгіш стилі:
@@ -1758,7 +1604,6 @@ calendar date	September	Қыркүйек
 	Set the image of {name}	{name} кескінін орнату
 	Set to current page ({n})	Ағымдағы бетке орнату ({n})
 	Set to zero	Нөлге орнату
-	Settings	Параметрлер
 	SHA-1 digest	SHA-1 хеші
 	SHA-256 digest	SHA-256 хеші
 	Shadings	Градиенттер
@@ -1782,7 +1627,6 @@ key	Shift	Shift
 	Show the accessibility report	Қолжетімділік есебін көрсету
 	Show this dialog when the Checker starts	Тексеру басталғанда бұл терезені көрсету
 	Show {n} more	Тағы {n} көрсету
-	Show:	Көрсету:
 	Shown while the pointer is over a mark.	Меңзер белгінің үстінде тұрғанда көрсетіледі.
 	Shrink oversized pages	Тым үлкен беттерді кішірейту
 	Side by side	Қатар
@@ -1831,10 +1675,8 @@ scroll speed	Slow	Баяу
 	Sort items	Элементтерді сұрыптау
 	sorted ascending	өсу ретімен сұрыпталған
 	sorted descending	кему ретімен сұрыпталған
-	Source	Дереккөз
 key	Space	Бос орын
 	Space Audit	Кеңістікті пайдалану аудиті
-	Special	Арнайы
 	Split document	Құжатты бөлу
 	Split document…	Құжатты бөлу…
 	Split into files…	Файлдарға бөлу…
@@ -1842,7 +1684,6 @@ key	Space	Бос орын
 	Squiggly	Толқынды
 	Squiggly underline	Толқынды астын сызу
 	Squiggly underline text	Мәтінді толқын сызықпен астын сызу
-	Stamp	Мөр
 	Stamp palette	Мөрлер палитрасы
 	Stamps	Мөрлер
 	Standard Business	Стандартты іскерлік
@@ -1851,7 +1692,6 @@ key	Space	Бос орын
 action wizard	Start	Бастау
 	Start Checking	Тексеруді бастау
 	Start page number	Бастапқы бет нөмірі
-	Status	Күй
 	Steps	Қадамдар
 	Sticky note	Жапсырма жазба
 	Strength: {s}	Беріктігі: {s}
@@ -1860,12 +1700,10 @@ action wizard	Start	Бастау
 	Structure Info	Құрылым ақпараты
 certificate	Subject	Субъект
 	Submit a form	Форманы жіберу
-	Subset	Ішкі жиын
 	sum (+)	қосындысы (+)
 	Summarize	Түйіндеу
 	Summarize comments	Түсініктемелерді қорытындылау
 	Summarize Options	Қорытындылау параметрлері
-	Summary	Түйіндеме
 	Switch light / dark theme	Ашық / қараңғы теманы ауыстыру
 	Switch to List view to change the pages it takes.	Қамтитын беттерін өзгерту үшін Тізім көрінісіне ауысыңыз.
 	Switch to two-page view first to show the cover page	Мұқабаны көрсету үшін алдымен екі беттік көрініске ауысыңыз
@@ -2026,9 +1864,7 @@ certificate	Subject	Субъект
 	This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…	Бұл принтердің драйвері басқа бағдарламалардан екі жақты басып шығару баптауларын қабылдамайды, сондықтан өз баптауы қолданылады. Оны мына жерден өзгертіңіз: Сипаттар…
 	This web address mixes letters from different alphabets, a common way to imitate another site's name.	Бұл веб-адрес әртүрлі әліпбилердің әріптерін араластырады — бұл басқа сайт атауына еліктеудің жиі кездесетін тәсілі.
 	This web address uses letters from another alphabet, which can look like familiar ones.	Бұл веб-адрес басқа әліпбидің әріптерін қолданады, олар таныс әріптер сияқты көрінуі мүмкін.
-	Thumbnails	Миниатюралар
 	Tile scale:	Фрагменттердің масштабы:
-	Time	Уақыт
 	Timed responses	Уақытпен шектеулі жауаптар
 	Timestamp	Уақыт белгісі
 	to	дейін
@@ -2037,7 +1873,6 @@ certificate	Subject	Субъект
 	To:	Дейін:
 	Today: {date}	Бүгін: {date}
 	Toggle fit page / fit width	Бетке / еніне сыйдыруды ауыстыру
-	Tool	Құрал
 	Tools panel side	Құралдар панелінің жағы
 	Tooltip:	Қалтқы:
 	Top-level bookmarks ({n})	Жоғарғы деңгейдегі бетбелгілер ({n})
@@ -2058,15 +1893,11 @@ signature pad	Type	Теру
 	Type text	Мәтін теру
 	Type the web address.	Веб-мекенжайын енгізіңіз.
 	Type your {what}.	{what} теріңіз.
-	Typewriter	Баспа машинасы
 	Unchecked	Белгіленбеген
 	Underline text	Мәтінді астын сызу
 	Undid {label}	Болдырылды: {label}
 	Unit	Өлшем бірлігі
-	Units	Өлшем бірліктері
-	Unknown	Белгісіз
 	Unknown author	Белгісіз автор
-	Unlock	Блоктан шығару
 	Unlock comment	Түсініктеменің құлпын ашу
 	Unlock {name}	{name} файлын блоктан шығару
 	Unlock {n} files	{n} файлды блоктан шығару
@@ -2077,7 +1908,6 @@ signature pad	Type	Теру
 	Unpin {folder}	{folder} бекітпесін алып тастау
 	Unplaced	Орналастырылмаған
 	Unsupported measurements	Қолдау көрсетілмейтін өлшемдер
-	Update	Жаңарту
 	Update background	Фонды жаңарту
 	Update background…	Фонды жаңарту…
 	Update header & footer	Үстіңгі және астыңғы колонтитулдарды жаңарту
@@ -2116,13 +1946,11 @@ signature pad	Type	Теру
 	Validity starts	Жарамдылық басы
 	Value is not calculated	Мән есептелмейді
 	Value is the	Мән —
-	Value:	Мәні:
 	Verify	Тексеру
 	Verify to see what the document needs.	Құжатқа не қажет екенін көру үшін тексеріңіз.
 	Version {v}	Нұсқа {v}
 	Vertical reversed	Тік (кері ретпен)
 	Vertical text cannot be moved with this selection.	Тік мәтінді бұл таңдаумен жылжытуға болмайды.
-	Vertically	Тік
 	Video, sound and rich media must be tagged to be announced. Tag the multimedia annotations.	Видео, дыбыс және интерактивті медиа дауыстап хабарлануы үшін тегтелуі тиіс. Мультимедиа белгілеулерін тегтеңіз.
 	View less	Азырақ көру
 	View more	Көбірек көру
@@ -2133,7 +1961,6 @@ signature pad	Type	Теру
 	Viewport rectangle in page points (x, y, width, height)	Көрініс аймағының тіктөртбұрышы бет пункттерінде (x, y, ені, биіктігі)
 	Visible Rectangle	Көрінетін тіктөртбұрыш
 	Visual	Көрнекі
-	Warnings	Ескертулер
 	watermark	су белгісі
 	Weak	Әлсіз
 	Welcome to PdfCraft	PdfCraft-ге қош келдіңіз
@@ -2141,7 +1968,6 @@ signature pad	Type	Теру
 	What word or phrase would you like to search for?	Қандай сөзді немесе тіркесті іздегіңіз келеді?
 	White on black	Қара фонда ақ
 	Whole words only	Тек толық сөздер
-	Width	Ені
 	Window Options	Терезе параметрлері
 	Windows store  ·  	Windows қоймасы  ·  
 	Word count	Сөздер саны
@@ -2153,9 +1979,7 @@ signature pad	Type	Теру
 	Wrote {n} files to {dir}	{n} файл {dir} ішіне жазылды
 	X Object Forms	XObject формалары
 	XFA form: its fields and its XFA data are kept in step, so other viewers show what you fill in.	XFA формасы: өрістері мен XFA деректері өзара синхрондалып тұрады, сондықтан басқа қарау құралдары да сіз енгізген мәндерді көрсетеді.
-	Yellow	Сары
 	Yellow on black	Қара фонда сары
-	yesterday	кеше
 	You are about to apply 1 redaction mark. Text, images and drawings under the marks, and comments and form fields that overlap them, are removed permanently.	Сіз қазір 1 жасыру белгісін қолданасыз. Белгілердің астындағы мәтін, кескіндер мен сызбалар, сондай-ақ олармен қабаттасқан түсініктемелер мен форма өрістері мәңгілікке жойылады.
 	You are about to apply {n} redaction marks. Text, images and drawings under the marks, and comments and form fields that overlap them, are removed permanently.	Сіз қазір {n} жасыру белгісін қолданасыз. Белгілердің астындағы мәтін, кескіндер мен сызбалар, сондай-ақ олармен қабаттасқан түсініктемелер мен форма өрістері мәңгілікке жойылады.
 	You are viewing revision {rev} of “{from}”. It is a snapshot: changes here won't affect the original.	Сіз „{from}“ құжатының {rev} нұсқасын қарап отырсыз. Бұл сақталған көшірме: мұндағы өзгерістер түпнұсқаға әсер етпейді.
@@ -2163,16 +1987,13 @@ signature pad	Type	Теру
 	You can pin up to {n} folders. Unpin one first.	Ең көбі {n} қалта бекітуге болады. Алдымен біреуінің бекітпесін алып тастаңыз.
 	You have version {c}. All releases are listed at {page}.	Сізде {c} нұсқасы бар. Барлық шығарылымдар {page} бетінде көрсетілген.
 	You have version {c}. Download the new version from its release page.	Сізде {c} нұсқасы бар. Жаңа нұсқаны шығарылым бетінен жүктеп алыңыз.
-	Your changes will be lost if you don't save them.	Сақтамасаңыз, өзгерістеріңіз жоғалады.
 	Your name	Атыңыз
 	yyyy or yy year · m or mm month · mmm or mmmm month name · d or dd day · ddd or dddd weekday. H, h, M, s and t are time letters and can't be used on their own: put {escape} before a letter to show it as is.	yyyy немесе yy — жыл · m немесе mm — ай · mmm немесе mmmm — ай атауы · d немесе dd — күн · ddd немесе dddd — аптаның күні. H, h, M, s және t — уақыт әріптері, оларды жеке қолдануға болмайды: әріпті сол күйінде көрсету үшін оның алдына {escape} қойыңыз.
 	ZIP	ZIP
 	Zip Code	Пошталық индекс
 	Zip Code + 4	Пошталық индекс + 4
-	Zoom in	Үлкейту
 	Zoom in ({key})	Үлкейту ({key})
 	Zoom in / out (also pinch or {key}-scroll)	Үлкейту / кішірейту (сонымен қатар қысу немесе {key}-айналдыру)
-	Zoom out	Кішірейту
 	Zoom out ({key})	Кішірейту ({key})
 	Zoom to page level	Бет деңгейіне масштабтау
 	{0}: {1}	{0}: {1}
@@ -2208,16 +2029,13 @@ signature pad	Type	Теру
 @plural	{n} field name collides with earlier files and will be renamed: {list}|{n} field names collide with earlier files and will be renamed: {list}	{n} өріс атауы алдыңғы файлдармен қайшы келеді және қайта аталады: {list}|{n} өріс атауы алдыңғы файлдармен қайшы келеді және қайта аталады: {list}
 	{n} fields selected	{n} өріс таңдалды
 @plural	{n} field|{n} fields	{n} өріс|{n} өріс
-	{n} files	{n} файл
 	{n} files done	{n} файл өңделді
 	{n} files need attention	{n} файл назар аударуды қажет етеді
-	{n} h ago	{n} сағат бұрын
 	{n} instances	{n} сәйкестік
 	{n} issues	{n} мәселе
 	{n} marks	{n} белгі
 	{n} match(es) marked for redaction.	{n} сәйкестік жасыруға белгіленді.
 	{n} measurements use an unsupported format and are left out.	{n} өлшем қолдау көрсетілмейтін пішімде; олар ескерілмейді.
-	{n} min ago	{n} минут бұрын
 @plural	{n} object selected|{n} objects selected	{n} объект таңдалды|{n} объект таңдалды
 	{n} pages	{n} бет
 	{n} pages selected	{n} бет таңдалды
@@ -2243,5 +2061,4 @@ signature pad	Type	Теру
 	“{name}” changed on disk after it was opened or last saved. Saving now replaces that newer version with this one.	«{name}» ашылғаннан немесе соңғы сақталғаннан кейін дискіде өзгертілді. Қазір сақтау сол жаңарақ нұсқаны осымен алмастырады.
 	“{name}” has security restrictions. Enter its permissions password to lift them.	«{name}» құжатында қауіпсіздік шектеулері бар. Оларды алып тастау үшін рұқсаттар құпиясөзін енгізіңіз.
 	“{name}” is protected. Enter a password to open it.	«{name}» қорғалған. Ашу үшін құпиясөзді енгізіңіз.
-	−Bin	−Bin
 	−LOC	−LOC

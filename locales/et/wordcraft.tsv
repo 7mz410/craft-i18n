@@ -12,7 +12,6 @@
 # consulted or copied; add entries the same way.
 
 	(All)	(Kõik)
-	(Custom)	(Kohandatud)
 	(no style)	(stiil puudub)
 	(no suggestions)	(soovitused puuduvad)
 	(normal text)	(tavatekst)
@@ -69,7 +68,6 @@
 	Add tab stop at:	Lisa tabelduskoht kohal:
 	Add Text	Lisa tekst
 	Add the chapter number	Lisa peatüki number
-	Add to Dictionary	Lisa sõnastikku
 	Add to Document	Lisa dokumenti
 	Add to Quick Access Toolbar	Lisa kiirpääsuribale
 	Add to Style Gallery	Lisa stiilivalikusse
@@ -85,7 +83,6 @@
 	Address labels	Aadressisildid
 	Address:	Aadress:
 	Address\nBlock	Aadressi\nplokk
-	Adjust	Kohanda
 	Advanced Find	Täpsem otsing
 	Advanced Find…	Täpsem otsing…
 	After:	Pärast:
@@ -96,19 +93,13 @@
 	Align Center	Joonda keskele
 	Align Center Left	Joonda keskele vasakule
 	Align Center Right	Joonda keskele paremale
-	Align Left	Joonda vasakule
-	Align Right	Joonda paremale
-	Align Text	Joonda tekst
 	Align Top Center	Joonda üles keskele
 	Align Top Left	Joonda üles vasakule
 	Align Top Right	Joonda üles paremale
 	Aligned at:	Joondatud kohal:
-	Alignment	Joondus
 	All Borders	Kõik äärised
-	All Caps	Suurtähed
 	All caps	Suurtähed
 	All Commands	Kõik käsud
-	All files	Kõik failid
 	All Levels	Kõik tasemed
 	All Markup	Kõik märgistused
 	All pages in the range	Kõik vahemiku leheküljed
@@ -126,7 +117,6 @@
 	Alt\nText	Asendus-\ntekst
 	And	Ja
 	Animate the caret (it glides and fades)	Animeeri tekstikursorit (libiseb ja hajub)
-	Animation	Animatsioon
 	Animation effects:	Animatsiooniefektid:
 	Another file	Muu fail
 	Any Character	Suvaline märk
@@ -136,25 +126,18 @@
 	Anyone who opens the document will need this password.	Igaüks, kes dokumendi avab, vajab seda parooli.
 	Apply as you type	Rakenda tippimise ajal
 	Apply Asian line-breaking rules (kinsoku)	Rakenda Aasia reamurdmisreegleid (kinsoku)
-	Apply Character Style	Rakenda märgistiil
 	Apply formatting to:	Rakenda vormindus:
 	Apply Style	Rakenda stiil
 	Apply Styles	Rakenda stiilid
-	Apply to:	Rakenda:
 	Arabic	Araabia
 	Arch Down	Kaar alla
 	Arch Up	Kaar üles
-	Area	Pind
-	Arrange	Paiguta
 	Arrange\nAll	Paiguta\nkõik
-	Arrows	Nooled
 	Artistic Effects	Kunstilised efektid
 	As Recommended	Soovitatud järjestuses
 	As you type	Kirjutamise ajal
-	Ascending	Kasvavalt
 	Asian text font:	Aasia teksti font:
 	Asian Typography	Aasia tüpograafia
-	Assign	Määra
 	At least	Vähemalt
 	At least {n}	Vähemalt {n}
 	Atelier	Ateljee
@@ -168,7 +151,6 @@
 	AutoFit Contents	Sobita sisuga
 	AutoFit Window	Sobita aknaga
 	AutoFormat As You Type	Automaatvorming tippimisel
-	Automatic	Automaatne
 	Automatic ({language})	Automaatne ({language})
 	Automatic ({region})	Automaatne ({region})
 	Automatic bulleted lists	Automaatsed täpploendid
@@ -187,11 +169,9 @@
 	AutoSave saves every change to the file (needs a saved document)	Automaatsalvestus salvestab iga muudatuse faili (dokument peab olema salvestatud)
 	AutoSave writes your changes to the file a moment after you stop typing.	Automaatsalvestus kirjutab muudatused faili veidi pärast seda, kui lõpetad kirjutamise.
 	AutoText	Automaattekst
-	Backspace	Tagasilüke
 	Balloons	Mullid
 	Banded Columns	Vahelduvad veerud
 	Banded Rows	Vahelduvad read
-	Bar	Joon
 	Base text:	Alustekst:
 	Based on: {style}	Põhineb stiilil: {style}
 	Basic Cycle	Lihtne tsükkel
@@ -208,7 +188,6 @@
 	Below the item	Objekti all
 	Between	Vahel
 	Bibliography	Allikaloend
-	Binary assets removed	Eemaldatud binaarvarad
 	Blank	Tühi
 	Blank (Three Columns)	Tühi (kolm veergu)
 	Blank document	Tühi dokument
@@ -224,7 +203,6 @@
 	Border lines	Äärisjooned
 	Border Painter	Äärisepintsel
 	Border\nPainter	Äärise-\npintsel
-	Borders	Äärised
 	Borders and Shading	Äärised ja varjustus
 	Borders and Shading…	Äärised ja varjustus…
 	Both Sides	Mõlemal küljel
@@ -235,15 +213,12 @@
 	Bottom Right Cell	Alumine parem lahter
 	Box	Kast
 	Bracket	Sulg
-	Break Link	Katkesta link
 	Breaks	Piirid
-	Bring Forward	Too ettepoole
 	Browse in WordCraft…	Sirvi WordCraftis…
 	Building Block Gallery Content Control	Ehitusplokkide galerii sisujuhtelement
 	Built-In	Sisseehitatud
 	Built-in style	Sisseehitatud stiil
 	Built-in styles can't be deleted.	Sisseehitatud stiile ei saa kustutada.
-	Bullet	Täpp
 	Bullet Library	Täpitähiste kogu
 	Bullets	Täpploend
 	By author	Autori järgi
@@ -255,7 +230,6 @@
 	Capitalize first letter of sentences	Lausete esitäht suureks
 	Capitalize first letter of table cells	Tabelilahtrite esitäht suureks
 	Capitalize names of days	Nädalapäevade nimed suure algustähega
-	Caption	Pealdis
 	Caption Numbering	Pealdiste nummerdamine
 	Caption text	Pealdise tekst
 	Caption:	Pealdis:
@@ -264,17 +238,10 @@
 	Case changes	Tähesuuruse muutused
 	Categories	Kategooriad
 	Categories:	Kategooriad:
-	Category	Kategooria
 	Category {n}	Kategooria {n}
 	Cell	Lahter
 	Cell Margins	Lahtri veerised
-	Cell Size	Lahtri suurus
 	Cell\nMargins	Lahtri\nveerised
-	Center	Keskele
-	Centered	Keskele joondatud
-	Centimeters	Sentimeetrid
-	Change	Muuda
-	Change Case	Muuda tähesuurust
 	Change Chart Type	Muuda diagrammi tüüpi
 	Change Colors	Muuda värve
 	Change Layout	Muuda paigutust
@@ -292,7 +259,6 @@
 	Changes	Muudatused
 	Chapter in a book	Peatükk raamatus
 	Chapters begin at:	Peatükid algavad:
-	Character	Märk
 	Character Border	Märgi ääris
 	Character code:	Märgikood:
 	Character in Range	Märk vahemikus
@@ -330,7 +296,6 @@
 	Citation Style	Viitamisstiil
 	Citations	Viited
 	Citations & Bibliography	Viited ja allikaloend
-	City	Linn
 	Clear All Formatting	Eemalda kogu vormindus
 	Clear Character Formatting	Eemalda märgivormindus
 	Clear Character Style	Eemalda märgistiil
@@ -358,21 +323,14 @@
 	Color only	Ainult värv
 	Color: {color}	Värv: {color}
 	Colorful	Värviline
-	Colors	Värvid
-	Colors:	Värvid:
 	Column	Veerg
 	Column Break	Veerupiir
 	Column Selection	Veeruvalik
-	Column width	Veeru laius
 	Column {n}	Veerg {n}
 	Column:	Veerg:
-	Columns	Veerud
-	Columns:	Veerud:
 	Combine Documents	Ühenda dokumendid
 	Combo Box Content Control	Liitboksi sisujuhtelement
 	Commands	Käsud
-	Commands:	Käsud:
-	Comment	Kommentaar
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Kommentaarid iga lehe kõrval ja jälitatud muudatused PDF-ides, väljatrükkides ja piltides; kommentaaride loend veebilehtede, Markdowni ja teksti lõpus.
 	Comments Pane	Kommentaaripaan
 	Communication	Suhtlus
@@ -382,7 +340,6 @@
 	Compare to	Võrdle väärtusega
 	Compared: {changes} changes	Võrreldud: {changes} muudatust
 	Comparing with another file needs the desktop app.	Teise failiga võrdlemiseks on vaja töölauarakendust.
-	Comparison	Võrdlus
 	Comparison settings	Võrdlemise sätted
 	Compress Pictures	Tihenda pildid
 	Compress punctuation at the start of a line	Tihenda kirjavahemärke rea alguses
@@ -391,7 +348,6 @@
 	Confirm password:	Kinnita parool:
 	Connect Shapes	Ühenda kujundid
 	Container Title	Kogumiku pealkiri
-	Contains	Sisaldab
 	Content Control at Selection	Valiku sisujuhtelement
 	Content Control Properties	Sisujuhtelemendi atribuudid
 	Contents can't be edited	Sisu ei saa redigeerida
@@ -405,12 +361,10 @@
 	Convert Text to Table…	Teisenda tekst tabeliks…
 	Convert to Shapes	Teisenda kujunditeks
 	Convert to Text	Teisenda tekstiks
-	Copies	Koopiad
 	Copy Formatting	Kopeeri vormindus
 	Copy of the text a bookmark marks	Järjehoidjaga märgitud teksti koopia
 	Copy Styles	Kopeeri stiilid
 	Copy to	Kopeeri asukohta
-	Copyright	Autoriõigus
 	Copyright Sign	Autoriõiguse märk
 	Correct accidental usage of cAPS LOCK key	Paranda kogemata sisse jäänud cAPS LOCK
 	Correct TWo INitial CApitals	Paranda KAks SUurt algustähte
@@ -420,7 +374,6 @@
 	Couldn't open {path}: {error}	Faili {path} avamine ebaõnnestus: {error}
 	Count by:	Samm:
 	Count words in text boxes and notes	Loenda sõnad ka tekstiväljadel ja märkustes
-	Country	Riik
 	Courtesy Title	Pöördumisvorm
 	Cover Page	Esileht
 	Craft	Käsitöö
@@ -431,10 +384,8 @@
 	Create New Style	Loo uus stiil
 	Create Source	Loo allikas
 	Croatian	Horvaadi
-	Crop	Kärbi
 	Cross-reference	Ristviide
 	Cross-reference:	Ristviide:
-	Current	Praegune
 	Current Position	Praegune asukoht
 	Current style: {style}	Praegune stiil: {style}
 	Curved Arrow Connector	Kaardus noolega ühendusjoon
@@ -453,7 +404,6 @@
 	Customize Quick Access Toolbar…	Kohanda kiirpääsuriba…
 	Customize Ribbon	Kohanda linti
 	Customize the Ribbon…	Kohanda linti…
-	Customize…	Kohanda…
 	Cycle	Tsükkel
 	Czech	Tšehhi
 	Danish	Taani
@@ -461,16 +411,13 @@
 	Dark page (white text on black)	Tume leht (valge tekst mustal taustal)
 	Dark with Shadow	Tume varjuga
 	Darkroom	Pimik
-	Data	Andmed
 	Data Labels	Andmesildid
 	Date & Time	Kuupäev ja kellaaeg
-	Date and Time	Kuupäev ja kellaaeg
 	Date formats:	Kuupäevavormingud:
 	Date Picker Content Control	Kuupäevavalija sisujuhtelement
 	Day	Päev
 	Decimal	Kümnendkoht
 	Decorative objects only add visual interest: screen readers skip them.	Dekoratiivsed objektid lisavad ainult visuaalset huvi: ekraanilugerid jätavad need vahele.
-	Decrease Font Size	Vähenda fondi suurust
 	Decrease Indent	Vähenda taanet
 	Default tab stops:	Vaikimisi tabelduskohad:
 	Define New Bullet	Määra uus täpitähis
@@ -490,14 +437,12 @@
 	Delete Previous Word	Kustuta eelmine sõna
 	Delete Rows	Kustuta read
 	Delete Selected Ink	Kustuta valitud tint
-	Delete Style	Kustuta stiil
 	Delete Table	Kustuta tabel
 	Delete Table Style	Kustuta tabelistiil
 	Deletions:	Kustutused:
 	Delivery address:	Saaja aadress:
 	Demote	Langeta taset
 	Demote to Body Text	Langeta põhitekstiks
-	Descending	Kahanevalt
 	Describe what this object shows, for people who can't see it.	Kirjeldage, mida see objekt näitab, neile, kes seda ei näe.
 	Describe what this table shows, for people who can't see it.	Kirjeldage, mida see tabel näitab, neile, kes seda ei näe.
 	Design	Kujundus
@@ -506,7 +451,6 @@
 	Detect language automatically	Tuvasta keel automaatselt
 	Developer	Arendaja
 	development build	Arendusversioon
-	Diagonal	Diagonaal
 	Dictate	Dikteeri
 	Dictionaries	Sõnastikud
 	Dictionaries folder:	Sõnastike kaust:
@@ -514,9 +458,7 @@
 	Different Odd & Even Pages	Erinevad paaris- ja paaritud lehed
 	Direct formatting	Otsevormindus
 	Directory	Kataloog
-	Discord	Discord
 	Discord community	Discordi kogukond
-	Display	Kuva
 	Display for Review	Kuva läbivaatuseks
 	Display text	Kuvatav tekst
 	Distribute Columns	Jaota veerud ühtlaselt
@@ -539,7 +481,6 @@
 	Document Text	Dokumendi tekst
 	Document1	Dokument1
 	Document\nPreferences	Dokumendi\neelistused
-	Documents	Dokumendid
 	Documents you open will show up here.	Avatud dokumendid kuvatakse siin.
 	Does not contain	Ei sisalda
 	DOI	DOI
@@ -547,10 +488,8 @@
 	Don't capitalize after:	Ära muuda suureks pärast:
 	Don't hyphenate	Ära poolita
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Ära loe ette Zotero, Mendeley ega EndNote'i viiteid ja allikaloendeid
-	Don't Save	Ära salvesta
 	Dot dash	Punktkriips
 	Dot-dash	Punkt-kriipsjoon
-	Dotted	Punktiir
 	Double	Kahekordne
 	Double Closing Quote	Kahekordne lõpujutumärk
 	Double Opening Quote	Kahekordne algusjutumärk
@@ -559,8 +498,6 @@
 	Double strikethrough	Kahekordne läbikriipsutus
 	Double Underline	Kahekordne allajoon
 	Doughnut	Rõngas
-	Down	Alla
-	Draft	Mustand
 	Drag a rectangle to draw a table, or a line across cells to split them. Esc stops.	Lohista ristkülik, et joonistada tabel, või joon üle lahtrite, et need tükeldada. Esc lõpetab.
 	Draw Ink	Joonista tindiga
 	Draw Table	Joonista tabel
@@ -572,7 +509,6 @@
 	Drop cap	Süvisinitsiaal
 	Drop-Down List Content Control	Ripploendi sisujuhtelement
 	Drops all formatting and pastes plain text.	Eemaldab kogu vorminduse ja kleebib lihtteksti.
-	Dutch	Hollandi
 	E-mail Messages	E-kirjad
 	Edit Comment	Muuda kommentaari
 	Edit Data	Redigeeri andmeid
@@ -593,16 +529,9 @@
 	Editing — edit the document directly	Redigeerimine — muuda dokumenti otse
 	Edition	Väljaanne
 	Editor	Toimetaja
-	Effects	Efektid
 	Elbow Arrow Connector	Nurgeline noolega ühendusjoon
 	Elbow Connector	Nurgeline ühendusjoon
-	Ellipsis	Kolmikpunkt
-	Em Dash	Mõttekriips (em)
-	Em Space	Em-tühik
-	Emboss	Reljeef
 	Emphasis	Rõhutus
-	En Dash	Lühike mõttekriips (en)
-	En Space	En-tühik
 	Enclose Characters	Ümbritsetud märgid
 	Enclosure	Ümbris
 	Encrypt with Password	Krüpti parooliga
@@ -623,7 +552,6 @@
 	Enter page number:	Sisesta leheküljenumber:
 	Entry marked.	Kirje märgitud.
 	Envelope #10	Ümbrik nr 10
-	Envelope DL	Ümbrik DL
 	Envelope size:	Ümbriku suurus:
 	Envelopes	Ümbrikud
 	Equal column width	Võrdne veerulaius
@@ -649,13 +577,9 @@
 	Exceptions (optional)	Erandid (valikuline)
 	Exceptions…	Erandid…
 	Existing File or Web Page	Olemasolev fail või veebileht
-	Expand	Laienda
 	Expand or Collapse Heading	Laienda või ahenda pealkiri
 	Export a copy to share (PDF, Word document)	Ekspordi koopia jagamiseks (PDF, Wordi dokument)
 	Export Page as PNG	Ekspordi leht PNG-na
-	Export PDF	Ekspordi PDF
-	Exported {path}	Eksporditud: {path}
-	Expression	Avaldis
 	Extend Selection	Laienda valikut
 	Extend Selection by Units	Laienda valikut ühikute kaupa
 	Field code:	Väljakood:
@@ -666,28 +590,21 @@
 	Field names must be different.	Väljade nimed peavad olema erinevad.
 	Field names:	Väljade nimed:
 	Field:	Väli:
-	Fields:	Väljad:
 	Field…	Väli…
 	Figure	Joonis
 	File name:	Faili nimi:
-	Fill	Täide
 	Fill color:	Täitevärv:
 	Filling in forms	Vormide täitmine
 	Film	Film
 	Filter and Sort	Filtreerimine ja sortimine
 	Filter Recipients	Filtreeri adressaate
-	Find	Otsi
-	Find and Replace	Otsi ja asenda
-	Find Next	Otsi järgmine
 	Find Next Editable Region	Leia järgmine muudetav piirkond
 	Find Previous	Otsi eelmine
 	Find Recipient	Otsi adressaat
 	Find What Expression	Otsitav avaldis
 	Find What Text	Otsitav tekst
 	Find what:	Otsitav tekst:
-	Find:	Otsi:
 	Finding printers…	Printerite otsimine…
-	Finish	Lõpeta
 	Finish & Merge	Lõpeta ja ühenda
 	Finish &\nMerge	Lõpeta ja\nühenda
 	Finished	Valmis
@@ -697,16 +614,13 @@
 	First line:	Esimene rida:
 	First Name	Eesnimi
 	First row of data contains column headers	Andmete esimene rida sisaldab veerupäiseid
-	Fit	Sobita
 	Fix Position on Page	Fikseeri asukoht lehel
 	Fixed Column Width	Fikseeritud veerulaius
-	Focus	Keskendu
 	Follow number with:	Numbrile järgneb:
 	Font Color	Fondi värv
 	Font color	Fondi värv
 	Font color:	Fondi värv:
 	Font Dialog	Fondi dialoog
-	Font Size	Fondi suurus
 	Font: {font}	Font: {font}
 	Font…	Font…
 	Footer	Jalus
@@ -740,7 +654,6 @@
 	Gallery	Galerii
 	German (Germany)	Saksa (Saksamaa)
 	getartcraft.com/apps/wordcraft	getartcraft.com/apps/wordcraft
-	Glow	Kuma
 	Glow Colors	Kuma värvid
 	Go Back	Mine tagasi
 	Go To	Mine
@@ -749,7 +662,6 @@
 	Go to what:	Mine:
 	Go To…	Mine…
 	Grab bag	Koondvaade
-	Grayscale	Halltoonid
 	Greater than	Suurem kui
 	Greater than or equal	Suurem või võrdne
 	Greek	Kreeka
@@ -757,7 +669,6 @@
 	Greeting Line	Tervitusrida
 	Greeting\nLine	Tervitus-\nrida
 	Gridlines	Ruudujooned
-	Group	Rühmita
 	Grow Font 1 Point	Suurenda fonti 1 punkti võrra
 	H:	K:
 	Hanging Indent	Eenduv taane
@@ -772,10 +683,8 @@
 	Heading 3	Pealkiri 3
 	Heading styles (levels 1–{n})	Pealkirjalaadid (tasemed 1–{n})
 	Heading {n}	Pealkiri {n}
-	Heart	Süda
 	Hebrew	Heebrea
 	Hex:	Hex:
-	Hidden	Peidetud
 	Hidden bookmarks	Peidetud järjehoidjad
 	Hide Codes	Peida koodid
 	Hide from style lists	Peida stiililoenditest
@@ -787,8 +696,6 @@
 	Highlight Merge Fields	Tõsta ühendamisväljad esile
 	Highlight\nMerge Fields	Tõsta ühendamis-\nväljad esile
 	Highlighter	Marker
-	Hindi	Hindi
-	Hollow	Õõnes
 	Home folder	Kodukaust
 	Horizontal Line	Rõhtjoon
 	How many pages the whole document has	Kogu dokumendi lehekülgede arv
@@ -800,7 +707,6 @@
 	Hyperlink	Hüperlink
 	Hyphenate at:	Poolita kohast:
 	Hyphenate words in CAPS	Poolita SUURTÄHTEDES sõnu
-	Hyphenation	Poolitus
 	Hyphenation Options…	Poolitussätted…
 	Hyphenation zone:	Poolitusala:
 	Hyphens (--) as dashes (—)	Sidekriipsud (--) mõttekriipsudena (—)
@@ -810,7 +716,6 @@
 	Icons	Ikoonid
 	If…Then…Else	Kui…Siis…Muidu
 	If…Then…Else…	Kui…Siis…Muidu…
-	Ignore All	Eira kõiki
 	Ignore punctuation characters	Eira kirjavahemärke
 	Ignore web and file addresses	Eira veebi- ja failiaadresse
 	Ignore white-space characters	Eira tühikumärke
@@ -825,10 +730,8 @@
 	In Front of Text	Teksti ees
 	In Line with Text	Tekstiga reas
 	In the margin	Veerisel
-	Inches	Tollid
 	Include level number from:	Kaasa taseme number tasemelt:
 	Include page numbers	Lisa leheküljenumbrid
-	Increase Font Size	Suurenda fondi suurust
 	Increase Indent	Suurenda taanet
 	Indent	Taane
 	Indent from left:	Taane vasakult:
@@ -837,8 +740,6 @@
 	Indents	Taanded
 	Indents and Spacing	Taanded ja vahed
 	Index and Tables	Register ja tabelid
-	Inflate	Paisutus
-	Info	Teave
 	Initials:	Initsiaalid:
 	Ink	Tint
 	Ink Replay	Esita käsikiri
@@ -891,17 +792,14 @@
 	Inside Horizontal Border	Sisemine horisontaalne ääris
 	Inside Vertical Border	Sisemine vertikaalne ääris
 	Inside:	Sisemine:
-	Inspect Document	Kontrolli dokumenti
 	Inspect Styles at Selection	Kontrolli valiku stiile
 	Institution	Asutus
 	Integral	Integraal
 	Intense Emphasis	Intensiivne rõhutus
 	Intense Quote	Intensiivne tsitaat
 	Intense Reference	Intensiivne viide
-	Interface	Kasutajaliides
 	Interface language:	Kasutajaliidese keel:
 	Interface size:	Kasutajaliidese suurus:
-	Interface Theme	Kasutajaliidese kujundus
 	Interface theme:	Kasutajaliidese kujundus:
 	Interface\nTheme	Kasutajaliidese\nkujundus
 	Internet addresses as links	Internetiaadressid linkidena
@@ -909,12 +807,9 @@
 	Is blank	On tühi
 	Is not blank	Pole tühi
 	Issue	Number
-	Italian	Itaalia
-	Japanese	Jaapani
 	Join the ArtCraft community on Discord	Liitu ArtCrafti kogukonnaga Discordis
 	Join us on Discord: discord.gg/artcraft	Liitu meiega Discordis: discord.gg/artcraft
 	Journal	Ajakiri
-	Justification	Joondus
 	Justified	Rööpjoondatud
 	Keep Lines Together	Hoia read koos
 	Keep lines together	Hoia read koos
@@ -925,19 +820,16 @@
 	Keeps the fonts and formatting of the copied text.	Säilitab kopeeritud teksti fondid ja vorminduse.
 	Keyboard shortcuts:	Kiirklahvid:
 	Keys for this command:	Selle käsu klahvid:
-	Korean	Korea
 	Label changes with:	Muudatuste silt:
 	Label:	Silt:
 	Language Preferences…	Keele-eelistused…
 	Large\nOperator	Suur\noperaator
 	Largest Only	Ainult laiemal küljel
-	Lasso	Lasso
 	Lasso Select	Lassoga valimine
 	Last Column	Viimane veerg
 	Last Name	Perekonnanimi
 	Last, First; Last, First	Perenimi, Eesnimi; Perenimi, Eesnimi
 	Latin text font:	Ladina teksti font:
-	Layout	Paigutus
 	Layout Summary	Paigutuse kokkuvõte
 	Layouts	Paigutused
 	Leader	Juhtmärgid
@@ -957,7 +849,6 @@
 	Legend	Legend
 	Less than	Väiksem kui
 	Less than or equal	Väiksem või võrdne
-	Letter	Kiri
 	Letter headings	Tähepealkirjad
 	Letters	Kirjad
 	Level {n}	Tase {n}
@@ -971,7 +862,6 @@
 	Line between	Joon vahel
 	Line Break	Reapiir
 	Line breaking	Reamurdmine
-	Line delta	Ridade muutus
 	Line End	Rea lõpp
 	Line Numbering Options…	Reanummerduse sätted…
 	Line Numbers	Reanumbrid
@@ -979,8 +869,6 @@
 	Line Spacing Options…	Reavahe valikud…
 	Line spacing:	Reavahe:
 	Line Start	Rea algus
-	Linear	Lineaarne
-	Lines	Read
 	Lines and characters	Read ja märgid
 	Lines only	Ainult read
 	Lines per page:	Ridu lehel:
@@ -989,7 +877,6 @@
 	Link to Previous	Seo eelmisega
 	Link to:	Link:
 	Linked style (paragraph and character)	Lingitud stiil (lõik ja märgid)
-	Links	Lingid
 	Links and References	Lingid ja viited
 	Link…	Link…
 	List Definition	Loendi määratlus
@@ -1001,7 +888,6 @@
 	Local font access was denied.	Juurdepääs kohalikele fontidele keelati.
 	Location: {path}	Asukoht: {path}
 	Lock Fields	Lukusta väljad
-	lowercase	väiketähed
 	Lum:	Heledus:
 	Macros	Makrod
 	Made from the author and year when empty	Tühjana tehakse autorist ja aastast
@@ -1039,13 +925,9 @@
 	Math AutoCorrect	Matemaatika automaatparandus
 	Matrix	Maatriks
 	Measurement units:	Mõõtühikud:
-	Merge	Ühenda
-	Merge Cells	Ühenda lahtrid
 	Merge Formatting	Ühenda vormindus
 	Merge Record #	Ühendatava kirje nr
 	Mesosphere	Mesosfäär
-	Middle	Keskel
-	Millimeters	Millimeetrid
 	Mirror indents	Peegelda taanded
 	Mirror margins	Peegelveerised
 	Mirrored	Peegeldatud
@@ -1064,7 +946,6 @@
 	More Paper Sizes…	Rohkem paberisuurusi…
 	More Symbols…	Rohkem sümboleid…
 	More templates →	Veel malle →
-	Move Down	Teisalda alla
 	Move in Equation	Liigu võrrandis
 	Move or Resize	Teisalda või muuda suurust
 	Move Paragraph Down	Teisalda lõik alla
@@ -1073,7 +954,6 @@
 	Move Past\nCitation	Liigu viite\njärele
 	Move Selected Ink	Teisalda valitud tint
 	Move Table by Dragging	Tabeli teisaldamine lohistades
-	Move Up	Teisalda üles
 	Move with Text	Liigu tekstiga
 	Moved from	Teisaldatud kohast
 	Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely.	Teisaldatavad objektid haakuvad lehe servade ja keskkoha, veeriste ja teiste objektide külge. Vabaks teisaldamiseks hoia all Alt-klahvi.
@@ -1086,35 +966,24 @@
 	Narrow	Kitsas
 	Narrow  {size} all	Kitsas  {size} kõigil külgedel
 	Nature	Loodus
-	Navigation	Navigeerimine
 	Navigation Pane	Navigeerimispaan
-	New	Uus
 	New Comment	Uus kommentaar
 	New comments and tracked changes are recorded under this name and these initials.	Uued kommentaarid ja jälitatud muudatused salvestatakse selle nime ja nende initsiaalidega.
-	New Document	Uus dokument
-	New document	Uus dokument
 	New Drawing Canvas	Uus joonistuslõuend
 	New Entry	Uus kirje
-	New from Template	Uus mallist
-	New Group	Uus rühm
 	New Label	Uus silt
 	New Label…	Uus silt…
 	New Paragraph	Uus lõik
 	New shortcut:	Uus kiirklahv:
-	New Style…	Uus stiil…
 	New Tab	Uus vahekaart
 	New Table Style	Uus tabelistiil
 	New Table Style…	Uus tabelistiil…
-	New Window	Uus aken
 	New word	Uus sõna
 	New\nComment	Uus\nkommentaar
 	New\nWindow	Uus\naken
-	New…	Uus…
-	Next Change	Järgmine muudatus
 	Next Comment	Järgmine kommentaar
 	Next Field	Järgmine väli
 	Next Footnote	Järgmine allmärkus
-	Next Page	Järgmine leht
 	Next Record	Järgmine kirje
 	Next Section	Järgmine jaotis
 	Next Sentence	Järgmine lause
@@ -1122,7 +991,6 @@
 	No accessibility issues found.	Ligipääsetavuse probleeme ei leitud.
 	No Border	Ääriseta
 	No changes (read only)	Muudatusi pole (kirjutuskaitstud)
-	No Color	Värvita
 	No contributor data was built into this copy.	Selles versioonis pole kaasautorite andmeid.
 	No document is open. Create a document or open one first.	Ükski dokument pole avatud. Looge või avage kõigepealt dokument.
 	No errors found: every merge field is in the recipient list.	Vigu ei leitud: kõik ühendamisväljad on adressaatide loendis.
@@ -1148,7 +1016,6 @@
 	No-Width Non Break	Nullaiusega mittemurduv
 	No-Width Optional Break	Nullaiusega valikuline murdekoht
 	Nonbreaking Hyphen	Poolitamatu sidekriips
-	Nonbreaking Space	Poolitamatu tühik
 	Normal  {size} all	Tavaline  {size} kõigil külgedel
 	Normal speed	Tavaline kiirus
 	Normal Style	Tavaline stiil
@@ -1170,7 +1037,6 @@
 	Now used by {command}	Praegu kasutab: {command}
 	Nudge	Nihuta
 	Num Occurrences	Korduste arv
-	Number	Number
 	Number alignment:	Numbri joondus:
 	Number format	Numbri vorming
 	Number of columns:	Veergude arv:
@@ -1184,7 +1050,6 @@
 	Numbering…	Nummerdamine…
 	Numerals	Numbrid
 	Numerals:	Numbrid:
-	Object	Objekt
 	Odd Banded Columns	Paaritud vahelduvad veerud
 	Odd Banded Rows	Paaritud vahelduvad read
 	Odd Page	Paaritu leht
@@ -1200,7 +1065,6 @@
 	Offset: Top	Nihe: üles
 	Offset: Top Left	Nihe: üles vasakule
 	Offset: Top Right	Nihe: üles paremale
-	Omit	Jäta välja
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	Sees: tekstikursor libiseb tippimisel või nooleklahvide kasutamisel uude kohta ja selle vilkumine hajub sujuvalt. Väljas: kursor hüppab ja vilgub järsult.
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	Sees: WordCraft avaneb vaates Fail › Avaleht, kus on tühi dokument, mallid ja hiljutised dokumendid. Väljas: avaneb tühi dokument.
 	One	Üks
@@ -1226,12 +1090,9 @@
 	Ordinals (1st) as superscript	Järgarvud (1st) ülaindeksina
 	Organizer	Korraldaja
 	Organizer…	Korraldaja…
-	Orientation	Suund
 	Original document	Algdokument
-	Other	Muu
 	Other styles and their TOC level:	Muud laadid ja nende sisukorratase:
 	Otherwise insert:	Muidu lisa:
-	Outline	Liigendus
 	Outline Level	Liigendustase
 	Outline level	Liigendustase
 	Outline levels	Liigendustasemed
@@ -1266,15 +1127,12 @@
 	Page width	Lehe laius
 	Page X of Y	Leht X / Y
 	Page {page}	Leht {page}
-	Page {page} of {pages}	Leht {page} / {pages}
 	Page\nBorders	Lehe\näärised
 	Page\nColor	Lehe\nvärv
 	Page\nNumber	Lehekülje-\nnumber
 	Pages like 1-3, 5	Leheküljed, nt 1-3, 5
 	Pages of bookmark:	Järjehoidja leheküljed:
-	Paper	Paber
 	Paper size:	Paberi suurus:
-	Paragraph	Lõik
 	Paragraph Character	Lõigu sümbol
 	Paragraph Details	Lõigu üksikasjad
 	Paragraph Down	Lõigu võrra alla
@@ -1293,22 +1151,17 @@
 	Paste Clipboard Item	Kleebi lõikelaua üksus
 	Paste Formatting	Kleebi vormindus
 	Paste function:	Kleebi funktsioon:
-	Paste Special	Erikleepimine
 	Paste Special…	Erikleepimine…
 	Paste: Keep Text Only	Kleebi: säilita ainult tekst
 	Paste: Merge Formatting	Kleebi: ühenda vormindus
 	Pastes the clipboard's picture.	Kleebib lõikelaual oleva pildi.
-	Pause	Peata
 	Paused	Peatatud
 	PDF document (*.pdf)	PDF-dokument (*.pdf)
-	Pen	Pliiats
-	Pencil	Grafiitpliiats
 	Pens	Pliiatsid
 	People	Inimesed
 	Periodical	Perioodika
 	Personalize	Isikupärastamine
 	Phonetic Guide	Foneetiline juhend
-	Picas	Piikad
 	Pick a custom group (New Group makes one)	Vali kohandatud rühm (nupp Uus rühm loob selle)
 	Pick a field from the list	Vali loendist väli
 	Picture	Pilt
@@ -1322,26 +1175,19 @@
 	Placeholder text	Kohatäite tekst
 	Plain text (*.txt)	Lihttekst (*.txt)
 	Plain Text Content Control	Lihtteksti sisujuhtelement
-	Play	Esita
 	Play/Pause	Esita/peata
-	Points	Punktid
 	Polish	Poola
 	Portuguese (Brazil)	Portugali (Brasiilia)
 	Portuguese (Portugal)	Portugali (Portugal)
-	Position:	Asukoht:
 	Postal Code	Sihtnumber
 	Preferred width:	Eelistatud laius:
 	Preserve formatting during updates	Säilita värskendamisel vorming
-	Presets	Eelseadistused
 	Press a key combination	Vajuta klahvikombinatsiooni
 	Preview Results	Tulemuste eelvaade
 	Preview\nResults	Tulemuste\neelvaade
-	Previous	Eelmine
 	Previous 1 or More	Eelmine 1 või rohkem korda
-	Previous Change	Eelmine muudatus
 	Previous Comment	Eelmine kommentaar
 	Previous Field	Eelmine väli
-	Previous Page	Eelmine lehekülg
 	Previous Record	Eelmine kirje
 	Previous Section	Eelmine jaotis
 	Previous Sentence	Eelmine lause
@@ -1356,7 +1202,6 @@
 	Print the page color	Prindi lehe värv
 	Print to PDF	Prindi PDF-i
 	Print\nLayout	Prindi-\npaigutus
-	Printer	Printer
 	Printer default	Printeri vaikesäte
 	Printer discovery failed.	Printerite otsimine nurjus.
 	Privacy for this document	Selle dokumendi privaatsus
@@ -1369,13 +1214,11 @@
 	Proofing	Keelekontroll
 	Proofing Issues	Keelekontrolli probleemid
 	Proofing language	Keelekontrolli keel
-	Properties	Atribuudid
 	Protect Document	Kaitse dokumenti
 	pt	pt
 	Publisher	Kirjastus
 	Put the caret in a content control first.	Pange kursor esmalt sisujuhtelementi.
 	Put the default commands back on the Quick Access Toolbar?	Kas panna vaikekäsud kiirpääsuribale tagasi?
-	Pyramid	Püramiid
 	Quick Access Toolbar	Kiirpääsuriba
 	Quick Parts	Kiirplokid
 	Quick Tables	Kiirtabelid
@@ -1396,7 +1239,6 @@
 	Reading Text Size	Lugemisteksti suurus
 	Reads the clipboard's rich text and keeps its formatting.	Loeb lõikelaualt vormindatud teksti ja säilitab vorminduse.
 	Reads the clipboard's web content and keeps its formatting.	Loeb lõikelaualt veebisisu ja säilitab vorminduse.
-	Recent Colors	Viimati kasutatud värvid
 	Recent documents to show:	Kuvatavad hiljutised dokumendid:
 	Recently used symbols:	Hiljuti kasutatud sümbolid:
 	Recipient List	Adressaatide loend
@@ -1419,9 +1261,7 @@
 	Reject All Changes	Lükka kõik muudatused tagasi
 	Reject Change	Lükka muudatus tagasi
 	Relationship	Seos
-	Relaxed	Hõre
 	Remove Added Font	Eemalda lisatud font
-	Remove Background	Eemalda taust
 	Remove condition	Eemalda tingimus
 	Remove Content Control	Eemalda sisujuhtelement
 	Remove every custom shortcut and restore the built-in keys?	Kas eemaldada kõik kohandatud kiirklahvid ja taastada sisseehitatud klahvid?
@@ -1442,10 +1282,7 @@
 	Remove the control once edited	Eemalda juhtelement pärast redigeerimist
 	Remove Watermark	Eemalda vesimärk
 	Rename Document	Nimeta dokument ümber
-	Rename Style	Nimeta stiil ümber
-	Rename…	Nimeta ümber…
 	Reopen	Ava uuesti
-	Repeat	Korda
 	Repeat as header row on each page	Korda päisereana igal lehel
 	Repeat Header Rows	Korda päiseridu
 	Repeating Section Content Control	Korduva jaotise sisujuhtelement
@@ -1454,12 +1291,10 @@
 	Replace Document Text	Asenda dokumendi tekst
 	Replace text as you type	Asenda tekst tippimise ajal
 	Replace with:	Asendav tekst:
-	Replace:	Asenda:
 	Replay	Esita uuesti
 	Research	Uurimine
 	Researcher	Uurija
 	Researcher needs an online service; WordCraft keeps your documents offline.	Uurija vajab võrguteenust; WordCraft hoiab teie dokumendid võrguühenduseta.
-	Reset	Lähtesta
 	Reset All…	Lähtesta kõik…
 	Reset Character Formatting	Lähtesta märgivorming
 	Reset Crop	Lähtesta kärpimine
@@ -1468,7 +1303,6 @@
 	Reset Picture	Lähtesta pilt
 	Reset to Normal	Lähtesta tavaliseks
 	Reset\nGraphic	Lähtesta\ngraafika
-	Reset…	Lähtesta…
 	Resize Table by Dragging	Tabeli suuruse muutmine lohistades
 	Resolve	Lahenda
 	Resolved	Lahendatud
@@ -1478,11 +1312,9 @@
 	Restart list after:	Alusta loendit uuesti pärast:
 	Restrict Editing	Piira muutmist
 	Restrict\nEditing	Piira\nmuutmist
-	Result	Tulemus
 	Results	Tulemused
 	Return address labels	Saatja aadressi sildid
 	Return address:	Saatja aadress:
-	Reverse the order	Pööra järjestus ümber
 	Reviewing	Läbivaatus
 	Reviewing Pane	Läbivaatuspaan
 	Reviewing — edits become suggestions	Läbivaatus — muudatused muutuvad soovitusteks
@@ -1504,32 +1336,24 @@
 	Right-to-Left Section	Paremalt vasakule jaotis
 	Right-to-Left Table	Paremalt vasakule tabel
 	Right-to-Left Text Direction	Teksti suund paremalt vasakule
-	Right:	Paremal:
 	Rotate all text 270°	Pööra kogu teksti 270°
 	Rotate all text 90°	Pööra kogu teksti 90°
 	Rotate Left 90°	Pööra vasakule 90°
 	Rotate Right 90°	Pööra paremale 90°
-	Rounded Rectangle	Ümarnurkadega ristkülik
 	Row	Rida
 	Row:	Rida:
 	Rows & Columns	Read ja veerud
 	Ruby text:	Ruby-tekst:
-	Ruler	Joonlaud
 	Rules	Reeglid
 	Run-in	Jooksev
-	Russian	Vene
 	Résumé	Elulookirjeldus
 	Sat:	Küllastus:
 	Save a copy in another format. Printing goes through a PDF you can print from any viewer.	Salvesta koopia teises vormingus. Printimiseks luuakse PDF, mille saad printida PDF-vaaturist.
-	Save As	Salvesta nimega
-	Save as Template	Salvesta mallina
 	Save documents	Dokumentide salvestamine
 	Save the document to turn on AutoSave	Automaatsalvestuse sisselülitamiseks salvesta dokument
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	Automaatsalvestuse sisselülitamiseks salvesta dokument (ainult avatud faili ei kirjutata üle enne, kui selle salvestad)
 	Save these pages as PDF…	Salvesta need leheküljed PDF-ina…
-	Saved	Salvestatud
 	Saving {name} was cancelled, so it is still open and nothing was lost.	Faili {name} salvestamine tühistati, see on endiselt avatud ja midagi ei läinud kaotsi.
-	Scale	Mõõtkava
 	Scale Drawing	Muuda joonise mõõtkava
 	Scatter	Hajuvus
 	Script	Indeks
@@ -1549,14 +1373,12 @@
 	Section Properties	Jaotise atribuudid
 	Sections	Jaotised
 	See	Vt
-	Select	Vali
 	Select a picture, shape, chart or table to describe it.	Valige pilt, kujund, diagramm või tabel, et seda kirjeldada.
 	Select a printer	Vali printer
 	Select Cell	Vali lahter
 	Select Column	Vali veerg
 	Select Heading and Content	Vali pealkiri koos sisuga
 	Select Line	Vali rida
-	Select Objects	Vali objektid
 	Select Paragraph	Vali lõik
 	Select Range	Vali vahemik
 	Select Recipients	Vali adressaadid
@@ -1574,7 +1396,6 @@
 	Select\nRecipients	Vali\nadressaadid
 	Selected Fields	Valitud väljad
 	Selection Pane	Valikupaan
-	Send Backward	Saada tahapoole
 	Send the document straight to the system print dialog, or save a copy in another format below.	Ava süsteemi prindidialoog või salvesta koopia mõnes allolevas vormingus.
 	Sentence	Lause
 	Sentence case.	Lause alguses suurtäht.
@@ -1584,9 +1405,7 @@
 	Serbian (Latin)	Serbia (ladina)
 	Series name	Sarja nimi
 	Series {n}	Sari {n}
-	Set	Määra
 	Set As Default	Määra vaikeväärtuseks
-	Set as Default	Määra vaikevalikuks
 	Set Caret	Määra tekstikursor
 	Set Character Formatting	Määra märgivormindus
 	Set Date	Määra kuupäev
@@ -1595,17 +1414,12 @@
 	Set Paragraph Formatting	Määra lõiguvormindus
 	Set Proofing Language…	Määra õigekeelsuskontrolli keel…
 	Setting:	Säte:
-	Settings…	Sätted…
 	Shading	Taustavärv
-	Shadow	Vari
 	Shadow, glow and soft edges	Vari, kuma ja pehmed servad
-	Shape Effects	Kujundi efektid
 	Shape Fill	Kujundi täide
 	Shape Format	Kujundi vorming
 	Shape Outline	Kujundi kontuur
 	Shape Styles	Kujundistiilid
-	Shapes	Kujundid
-	Share	Jaga
 	Shift+Tab	Shift+Tab
 	Shipping labels	Saatmissildid
 	Shortcut key:	Kiirklahv:
@@ -1639,7 +1453,6 @@
 	Show only comments and formatting in balloons	Kuva mullides ainult kommentaarid ja vorming
 	Show or Hide Style	Kuva või peida stiil
 	Show revisions in balloons	Kuva redaktsioonid mullides
-	Show rulers	Kuva joonlauad
 	Show Text Formatting	Kuva teksti vorming
 	Show the community button in the title bar	Kuva tiitliribal kogukonna nupp
 	Show the mini toolbar when text is selected	Kuva teksti valimisel minitööriistariba
@@ -1668,7 +1481,6 @@
 	Site name	Saidi nimi
 	Size (pt):	Suurus (pt):
 	Size and Crop…	Suurus ja kärpimine…
-	Size:	Suurus:
 	Sketchbook	Visandivihik
 	Skip citations & bibliography	Jäta viited ja allikaloend vahele
 	Skip Citations and Bibliography	Jäta viited ja allikaloend vahele
@@ -1676,7 +1488,6 @@
 	Skip Record If…	Jäta kirje vahele, kui…
 	Slant Down	Kalle alla
 	Slant Up	Kalle üles
-	Small Caps	Kapiteelkiri
 	Small caps	Kapiteelkiri
 	Smart quotes instead of straight quotes	Nutikad jutumärgid sirgete asemel
 	SmartArt	SmartArt
@@ -1700,18 +1511,12 @@
 	Space before	Vahe enne
 	Space before/after:	Vahe enne/pärast:
 	Space before: {pt} pt	Vahe enne: {pt} pt
-	Spaces	Tühikud
-	Spacing	Vahe
 	Spacing (pt):	Vahe (pt):
-	Spacing:	Vahe:
 	Spanish (Mexico)	Hispaania (Mehhiko)
 	Spanish (Spain)	Hispaania (Hispaania)
-	Special	Erimärgid
 	Special Characters	Erimärgid
 	Specify height:	Määra kõrgus:
 	Speech	Kõne
-	Speed	Kiirus
-	Spelling	Õigekiri
 	Spelling & Grammar	Õigekiri ja grammatika
 	Spelling &\nGrammar	Õigekiri ja\ngrammatika
 	Spelling and grammar are checked in English (United States).	Õigekirja ja grammatikat kontrollitakse inglise keeles (Ameerika Ühendriigid).
@@ -1719,19 +1524,14 @@
 	Split Cells	Tükelda lahtrid
 	Split Table	Tükelda tabel
 	Spreadsheet Table	Arvutustabel
-	Stacked	Virnas
 	Stacked Bar	Virnastatud ribad
 	Stacked Column	Virnastatud tulbad
 	Standard Colors	Standardvärvid
-	Start at:	Alusta kohalt:
 	Start Enforcing Protection	Jõusta kaitse
 	Start Mail Merge	Alusta kirjakoostet
 	Start Mail\nMerge	Alusta\nkirjakoostet
 	Start-up	Käivitamine
 	State	Maakond või osariik
-	Statistics	Statistika
-	Status Bar	Olekuriba
-	Stop	Lõpeta
 	Stop Protection	Lõpeta kaitse
 	Stop Reading	Lõpeta ettelugemine
 	Stopped	Lõpetatud
@@ -1741,38 +1541,29 @@
 	Strong	Tugev
 	Structure Actions	Struktuuritoimingud
 	Structures	Struktuurid
-	Studio	Stuudio
 	Studio cover	Stuudio esileht
 	Studio handbook (sample)	Stuudio käsiraamat (näidis)
 	Style based on:	Stiili alus:
 	Style Inspector	Stiilikontroll
 	Style name:	Stiili nimi:
 	Style Set	Stiilikomplekt
-	Style:	Laad:
 	Style: {style}	Stiil: {style}
-	Styles	Stiilid
 	Styles Pane	Stiilipaan
 	Styles:	Laadid:
 	Subentry:	Alamkirje:
 	Submit print job	Saada prinditöö
 	Submitting print job…	Prinditöö saatmine…
-	Subscript	Allindeks
 	Subset:	Alamhulk:
-	Subtitle	Alapealkiri
 	Subtle Emphasis	Tagasihoidlik rõhutus
 	Subtle Reference	Tagasihoidlik viide
 	Suggested	Soovitused
 	Sum	Summa
-	Superscript	Ülaindeks
 	Suppress line numbers	Peida reanumbrid
 	Swap footnotes and endnotes	Vaheta all- ja lõpumärkused
 	Swedish	Rootsi
 	Switch Modes	Vaheta režiimi
 	Switch\nModes	Vaheta\nrežiimi
-	Symbol	Sümbol
-	Symbols	Sümbolid
 	Synonyms	Sünonüümid
-	Tab	Tabeldus
 	Tab Character	Tabeldusmärk
 	Tab character	Tabeldusmärk
 	Tab characters	Tabeldusmärgid
@@ -1791,17 +1582,14 @@
 	Table Properties	Tabeli atribuudid
 	Table Properties…	Tabeli atribuudid…
 	Table Row Height	Tabeli reakõrgus
-	Table style	Tabelistiil
 	Table Style Options	Tabelistiili valikud
 	Table Styles	Tabelistiilid
-	Tabs	Tabelduskohad
 	Tabs…	Tabelduskohad…
 	Tabular List	Tabeliloend
 	Tag	Silt
 	Take the last match on the page	Võta lehe viimane vaste
 	TC entry fields	TC-kirjeväljad
 	Technology	Tehnoloogia
-	Templates	Mallid
 	Templates and Add-ins	Mallid ja lisandmoodulid
 	Text Box	Tekstiväli
 	Text boxes	Tekstiväljad
@@ -1819,7 +1607,6 @@
 	Text snaps to characters	Tekst joondub märkide ruudustikku
 	Text to display:	Kuvatav tekst:
 	Text Wrapping	Tekstimähkimine
-	Text:	Tekst:
 	Text\nBox	Teksti-\nväli
 	Text\nDirection	Teksti\nsuund
 	That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on.	See vorming ei säilita kõike. Dokument on endiselt avatud. Jätkamiseks salvesta see Wordi dokumendina (.docx).
@@ -1880,7 +1667,6 @@
 	Top Margin	Ülemine veeris
 	Top of Page	Lehe ülaserv
 	Top Right Cell	Ülemine parem lahter
-	Top:	Ülal:
 	Total Row	Kokkuvõtterida
 	Track Changes	Jälita muudatusi
 	Track Changes Options	Muudatuste jälitamise suvandid
@@ -1889,13 +1675,9 @@
 	Track\nChanges	Jälita\nmuudatusi
 	Track\nChanges ✓	Jälita\nmuudatusi ✓
 	Tracked changes	Jälitatud muudatused
-	Tracking	Jälitus
 	Trademark	Kaubamärk
 	Trademark Sign	Kaubamärgi märk
-	Transform	Teisenda
-	Transparency	Läbipaistvus
 	Transport	Transport
-	Triangle	Kolmnurk
 	Triangle Down	Kolmnurk alla
 	Triangle Up	Kolmnurk üles
 	Triple	Kolmekordne
@@ -1917,7 +1699,6 @@
 	Type the field's name and its switches, for example PAGE \\* roman.	Sisesta välja nimi ja lülitid, näiteks PAGE \\* roman.
 	Type the password to stop the protection.	Kaitse lõpetamiseks sisesta parool.
 	Type the recipients, or load them from a file.	Sisesta adressaadid või laadi need failist.
-	Type:	Tüüp:
 	Typing replaces selected text	Kirjutatu asendab valitud teksti
 	Ukrainian	Ukraina
 	Unchecked symbol	Märkimata sümbol
@@ -1928,7 +1709,6 @@
 	Undo History	Tagasivõtmise ajalugu
 	Undo {n} Actions	Võta tagasi {n} toimingut
 	Unformatted Text	Vormindamata tekst
-	Ungroup	Tühista rühmitus
 	Unlink Fields	Eemalda väljade link
 	Unlink\nCitations	Eemalda\nviidete seosed
 	Unlock Fields	Ava väljade lukk
@@ -1942,7 +1722,6 @@
 	Update Table of Figures	Uuenda illustratsioonide loendit
 	Update to Match	Uuenda vastavaks
 	Update to Match Selection	Uuenda valiku järgi
-	UPPERCASE	SUURTÄHED
 	URL	URL
 	Use an Existing List…	Kasuta olemasolevat loendit…
 	Use system setting	Kasuta süsteemi seadistust
@@ -1951,31 +1730,24 @@
 	Use wildcards	Kasuta metamärke
 	User Name	Kasutajanimi
 	User name:	Kasutajanimi:
-	Value	Väärtus
 	Version History	Versiooniajalugu
 	Version {version} ({build})	Versioon {version} ({build})
-	Vertical Alignment	Püstjoondus
 	Vertical alignment:	Püstjoondus:
 	View Alt Text…	Kuva asendustekst…
 	View Gridlines	Kuva ruudujooned
 	View State	Vaate olek
 	Views	Vaated
 	Visual effects	Visuaalefektid
-	Voice	Hääl
 	Volume	Köide
-	W:	L:
 	Waiting for the save to finish…	Ootan salvestamise lõppu…
 	Waiting for Zotero…	Zotero ootel…
 	Warm Gradient with Outline	Soe üleminek kontuuriga
 	Warnings ({n})	Hoiatused ({n})
-	Wave	Laineline
 	Weather	Ilm
 	Web Layout	Veebipaigutus
 	Web page (*.html)	Veebileht (*.html)
 	Web\nLayout	Veebi-\npaigutus
-	Website	Veebisait
 	Wed	K
-	Weight	Jämedus
 	West	Lääs
 	When this document was first created	Millal dokument loodi
 	When this document was most recently printed	Millal dokument viimati prinditi
@@ -1991,7 +1763,6 @@
 	Widow/Orphan Control	Üksikridade vältimine
 	Widow/Orphan control	Üksikridade vältimine
 	Width and spacing	Laius ja vahe
-	Window	Aken
 	With:	Millega:
 	Word 2003 XML Document (*.xml)	Word 2003 XML-dokument (*.xml)
 	Word Count	Sõnade arv
@@ -2012,12 +1783,9 @@
 	Write & Insert Fields	Kirjuta ja lisa väljad
 	Write a reply	Kirjuta vastus
 	Year	Aasta
-	Your changes will be lost if you don't save them.	Salvestamata muudatused lähevad kaotsi.
 	Your system doesn't report an animation setting, so animation effects stay on.	Süsteem ei teata animatsiooniseadet, seega jäävad animatsiooniefektid sisse.
 	Your system has animation effects turned off.	Süsteemis on animatsiooniefektid välja lülitatud.
 	Your system has animation effects turned on.	Süsteemis on animatsiooniefektid sisse lülitatud.
-	Zoom In	Suurenda
-	Zoom Out	Vähenda
 	Zotero	Zotero
 	Zotero: cancelled	Zotero: tühistatud
 	Zotero: done	Zotero: valmis

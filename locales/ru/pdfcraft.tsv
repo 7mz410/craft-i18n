@@ -20,7 +20,6 @@
 	 · password-protected	  · защищён паролем
 	, Expires: 	, Истекает:
 	1 difference found	Найдено 1 отличие
-	1 file	1 файл
 	1 file done	Обработан 1 файл
 	1 file needs attention	1 файл требует внимания
 	1 instance	1 вхождение
@@ -61,7 +60,6 @@
 	Action name:	Название действия:
 	Action Wizard	Мастер действий
 	Action Wizard…	Мастер действий…
-	Actions	Действия
 	Actions list	Список действий
 	Active	Активно
 	Actual Size	Фактический размер
@@ -191,19 +189,14 @@
 	An image has alternates or OPI information	У изображения есть альтернативы или информация OPI
 	An open-source PDF workbench — local, private, and scriptable.	Открытый PDF-редактор — локальный, приватный и программируемый.
 	and {n} more	и ещё {n}
-	Angle	Угол
-	Animation effects	Эффекты анимации
 	Animation that flashes can cause seizures. Check scripts and media for flicker.	Анимация, которая мигает, может вызвать припадки. Проверьте скрипты и медиа на мерцание.
 	Annotations, form fill-in, and digital signatures	Аннотации, заполнение форм и цифровые подписи
-	Any	Любое
 	Any except extracting pages	Любые, кроме извлечения страниц
 	Anyone opening the document will need this password. It's applied when you save.	Любой, кто открывает документ, будет нуждаться в этом пароле. Он применяется при сохранении.
 	Appear behind page	Позади страницы
 	Appear on top of page	Поверх страницы
-	Appearance	Внешний вид
 	Appearance mode	Режим оформления
 	Appearance settings…	Настройки оформления…
-	Application	Приложение
 	Applied 1 redaction mark. Save to remove the content from the file.	Применена 1 метка сокрытия. Сохраните, чтобы удалить содержимое из файла.
 	Applied {n} redaction marks. Save to remove the content from the file.	Применено {n} меток сокрытия. Сохраните, чтобы удалить содержимое из файла.
 	Applies to 1 page	Применяется к 1 странице
@@ -216,8 +209,6 @@
 	April	Апрель
 	Arbitrary Mask	Произвольная маска
 	Archive documents	Архивировать документы
-	Area	Площадь
-	ArtCraft website	Веб-сайт ArtCraft
 	Ask about this document	Спросить об этом документе
 	Asks GitHub for the latest release. Nothing is downloaded or installed automatically.	Запрашивает у GitHub последний релиз. Ничего не скачивается и не устанавливается автоматически.
 	Associated with content	Связан с содержимым
@@ -237,13 +228,11 @@
 	Auto-rotate pages	Автоповорот страниц
 	Auto-size text to fit redaction region	Автоподбор размера текста по области сокрытия
 	Automatically tag PDF	Автоматически разметить PDF
-	Available	Доступно
 	average	среднее
 	Back	Назад
 	Back side only	Только оборотная сторона
 	Back to all tools	Назад ко всем инструментам
 	Back to the document	Вернуться к документу
-	Background	Фон
 	background	фон
 	Bates numbering	Нумерация Бейтса
 	Before each selected page (select pages in Organize)	Перед каждой выделенной страницей (выделите страницы в Организации)
@@ -252,11 +241,8 @@
 	Bicubic downsampling to	Бикубическое уменьшение до
 	Binding	Переплёт
 	Binding:	Переплёт:
-	Black	Чёрный
-	Black and white	Чёрно-белый
 	Black on white	Чёрный на белом
 	Blank page	Пустая страница
-	Blue	Синий
 	Booklet	Брошюра
 	Booklet subset:	Подмножество брошюры:
 	Bookmark options	Параметры закладок
@@ -265,7 +251,6 @@
 	Bookmarks Panel and Page	Панель закладок и страница
 	Border Color:	Цвет границы:
 	Borders and Colors	Границы и цвета
-	Both	Оба
 	Both sides	Обе стороны
 	Bottom	Низ
 	Box	Поле
@@ -278,15 +263,12 @@
 	Button Style:	Стиль кнопки:
 	Buttons with the same name and value are selected in unison	Кнопки с одинаковыми именем и значением отмечаются синхронно
 	Bytes	Байты
-	Calculate	Вычислить
 	Calibrate from two points	Калибровать по двум точкам
 	Callout	Выноска
 	Can't be read: {e}	Нельзя прочитать: {e}
 	Cancelled	Отменено
 	Cancelling…	Отмена…
 	Case-sensitive	С учётом регистра
-	Category:	Категория:
-	Center	По центру
 	Center Footer Text	Текст нижнего центрального колонтитула
 	Center Header Text	Текст центрального колонтитула
 	Center horizontally	По центру горизонтально
@@ -329,7 +311,6 @@
 	Check Box Style:	Стиль флажка:
 	Check for accessibility	Проверить доступности
 	Check for accessibility…	Проверить доступность…
-	Check for updates	Проверить обновления
 	Check for updates…	Проверить обновления…
 	Check spelling	Проверить орфографию
 	Check that the tags read in the order a sighted reader would. Use the Reading Order tool or the Tags panel to correct it.	Проверьте, что теги читаются в порядке, который ожидает зрячий читатель. Используйте инструмент «Порядок чтения» или панель «Теги» для исправления.
@@ -370,7 +351,6 @@
 	Click to sort, drag to move the column. Drag its edge to resize it.	Щёлкните для сортировки, перетащите, чтобы переместить столбец. Перетащите край, чтобы изменить размер.
 	Click vertices. Enter or double-click finishes a perimeter or area. Click the first point to close an area.	Щёлкайте вершины. Enter или двойной щелчок завершает периметр или площадь. Щёлкните первую точку, чтобы замкнуть площадь.
 	Clockwise 90 degrees	По часовой стрелке 90 градусов
-	Close (Esc)	Закрыть (Esc)
 	Close all	Закрыть все
 	Close file	Закрыть файл
 	Close panel	Закрыть панель
@@ -385,7 +365,6 @@
 	Color contrast	Цветовой контраст
 	Color Images	Цветные изображения
 	Color Spaces	Цветовые пространства
-	Colour	Цвет
 	Colours are remapped while rendering; the document itself never changes.	Цвета меняются при отрисовке; сам документ никогда не изменяется.
 	Column select	Выделение столбца
 	Comb of	Шахматка из
@@ -397,7 +376,6 @@
 	Combo	Комбинированный
 	Coming in milestone	Появится на этапе
 	Coming in milestone {m}. Items marked Ready work today.	Появится на этапе {m}. Пункты с пометкой «Готово» работают сегодня.
-	Command	Команда
 	Comment and form data	Комментарии и данные формы
 	Comment list	Список комментариев
 	Commenting	Комментирование
@@ -413,11 +391,9 @@
 	Compare files	Сравнить файлы
 	Compare files…	Сравнить файлы…
 	Compare this file with an older version: Compare files… in All tools.	Сравните этот файл с более старой версией: Сравнить файлы… во Всех инструментах.
-	Compatibility	Совместимость
 	Completed	Завершено
 	Compress a PDF	Сжать PDF
 	Compress document structure (object streams)	Сжать структуру документа (потоки объектов)
-	Compression	Сжатие
 	Configure a Digital ID for Signing	Настроить цифровой идентификатор для подписи
 	Configure New Digital ID	Настроить новый цифровой идентификатор
 	Confirm Password	Подтвердите пароль
@@ -427,13 +403,11 @@
 	Content copying	Копирование содержимого
 	Content copying for accessibility	Копирование содержимого для доступности
 	Content Streams	Потоки содержимого
-	Continue	Продолжить
 	Continuous scrolling	Непрерывная прокрутка
 	Convert	Конвертация
 	Convert colors	Преобразовать цвета
 	Copied {what}	Скопировано: {what}
 	Copies, two-sided printing and colour are chosen in the browser's print dialog.	Число копий, двустороннюю печать и цвет выбирают в диалоге печати браузера.
-	Copies:	Копии:
 	Copy Image	Копировать изображение
 	Copy Image in Original Format	Копировать изображение в исходном формате
 	Copy or cut pages first	Сначала скопируйте или вырежьте страницы
@@ -456,7 +430,6 @@
 	Couldn't open the printer's preferences: {e}	Не удалось открыть настройки принтера: {e}
 	Couldn't open the result: {e}	Не удалось открыть результат: {e}
 	Couldn't open the signed version: {e}	Не удалось открыть подписанную версию: {e}
-	Couldn't open {name}: {e}	Не удалось открыть {name}: {e}
 	Couldn't optimize the file: {e}	Не удалось оптимизировать файл: {e}
 	Couldn't print from the browser ({e}); downloaded {name} to print instead	Не удалось напечатать из браузера ({e}); вместо этого для печати скачан файл {name}
 	Couldn't read {name}: {e}	Не удалось прочитать {name}: {e}
@@ -508,7 +481,6 @@
 	Crop Image	Обрезать изображение
 	Crop page	Обрезать страницу
 	Crop pages	Обрезать страницы
-	Cross	Крестик
 key	Ctrl	Ctrl
 	Currency symbol:	Символ валюты:
 	Current page ({n})	Текущая страница ({n})
@@ -531,10 +503,8 @@ key	Ctrl	Ctrl
 	Dark gray theme	Тёмно-серая тема
 	Dark theme	Тёмная тема
 	Dashed	Пунктирная
-	Date	Дата
 	Date field	Поле даты
 	Date: 	Дата: 
-	Dates	Даты
 	December	Декабрь
 	Decimal places:	Десятичные знаки:
 	Decimals	Десятичные знаки
@@ -563,8 +533,6 @@ key	Delete	Delete
 	Delete stamp	Удалить штамп
 	Delete {o}	Удалить {o}
 	Describe the figure	Опишите фигура
-	Description	Описание
-	Details	Подробности
 	Detect form fields	Определить поля формы
 	Detected 1 form field	Обнаружено 1 поле формы
 	Detected {n} form fields	Обнаружено {n} полей формы
@@ -593,11 +561,8 @@ key	Delete	Delete
 	Discard private data of other applications	Удалить личные данные других приложений
 	Discard this text (Esc)	Отклонить этот текст (Esc)
 	Discard User Data	Удалить пользовательские данные
-	Dismiss	Закрыть
 	Display theme	Тема оформления
-	Distance	Расстояние
 	Distinguished name	Уникальное имя
-	Distribute	Распределить
 	DN: 	DN: 
 	Document actions	Действия документа
 	Document and markups	Документ и разметка
@@ -619,10 +584,7 @@ key	Delete	Delete
 	Documents and view	Документы и вид
 	Documents of more than 20 pages need bookmarks for navigation. Add bookmarks for the main sections.	Документам более 20 страниц нужны закладки для навигации. Добавьте закладки для основных разделов.
 	Don't save	Не сохранять
-	Done	Готово
 	Done adding text	Завершить добавление текста
-	Double-click	Двойной щелчок
-	Download	Скачать
 	Downloaded {name}	Скачано: {name}
 @plural	Downloaded {n} PDF|Downloaded {n} PDFs	Скачан {n} PDF-файл|Скачано {n} PDF-файла|Скачано {n} PDF-файлов
 	Downloading attachments on the web arrives with M3.10 ({n} bytes ready)	Скачивание вложений в веб-версии появится с M3.10 ({n} байт .ready)
@@ -656,8 +618,6 @@ key	Delete	Delete
 	Duplicate field	Дублировать поле
 	Duplicate page	Дублировать страницу
 	Duplicate pages	Дублировать страницы
-	Duplicate…	Дублировать…
-	Dynamic	Динамический
 	Dynamic XFA form laid out from its template: {pages}, {fields}.	Динамическая форма XFA, сверстанная по шаблону: {pages}, {fields}.
 	E-Sign	Электронная подпись
 	e.g. en-US	например, en-US
@@ -667,7 +627,6 @@ key	Delete	Delete
 	Each image is measured where pages draw it; an image is replaced only if the result is smaller.	Каждое изображение измеряется там, где страницы его рисуют; изображение заменяется только если результат меньше.
 	Each image once, named after the document and page. JPEG images are saved unchanged; others as PNG.	Каждое изображение один раз, по имени документа и страницы. JPEG сохраняются без изменений, остальные — как PNG.
 	Earlier in tab order	Раньше в порядке табуляции
-	Edit	Редактирование
 	Edit a PDF	Редактировать PDF
 	Edit Action	Редактировать действие
 	Edit comment	Редактировать комментарий
@@ -692,7 +651,6 @@ key	Delete	Delete
 	Encrypt with certificate	Шифровать сертификатом
 	Encryption	Шифрование
 key	End	End
-	Endpoint	Конечная точка
 	Endpoints	Конечные точки
 	Enhance camera image	Улучшить снимок с камеры
 	Enhance page	Улучшить страницу
@@ -701,7 +659,6 @@ key	End	End
 	Enter the password that opens it	Введите пароль для открытия
 	Enter the permissions password to allow combining	Введите пароль разрешений, чтобы разрешить объединение
 	Entire page	Вся страница
-	Erase	Стереть
 	Erase drawings	Стереть рисунки
 key	Esc	Esc
 	Even and Odd Pages	Чётные и нечётные страницы
@@ -716,7 +673,6 @@ key	Esc	Esc
 	Exclude tagged tables	Исключить таблицы с тегами
 	Exclusions use PDF tags. Untagged tables and code remain included. Image exclusion also removes invisible text.	Исключения используют теги PDF. Таблицы и код без тегов остаются в подсчёте. Исключение изображений также удаляет невидимый текст.
 	Execute a menu item	Выполнить пункт меню
-	Expand	Развернуть
 	Expand all	Развернуть все
 	Expand all bookmarks	Развернуть все закладки
 	Expand all pages	Развернуть все страницы
@@ -739,7 +695,6 @@ key	Esc	Esc
 	Export measurements	Экспортировать измерения
 	Export measurements as CSV	Экспортировать измерения в CSV
 	Export stopped: {e}	Экспорт остановлен: {e}
-	Export to	Экспортировать в
 	Export to HTML…	Экспортировать в HTML…
 	Export to Image	Экспортировать в изображение
 	Export to image…	Экспортировать в изображение…
@@ -752,12 +707,9 @@ key	Esc	Esc
 	Exported 1 image	Экспортировано 1 изображение
 	Exported the text of 1 page	Экспортирован текст 1 страницы
 	Exported the text of {n} pages	Экспортирован текст {n} страниц
-	Exported to {path}	Экспортировано в {path}
 	Exported {n} images	Экспортировано {n} изображений
 	Exporting… {d} of {t}	Экспорт… {d} из {t}
-	Export…	Экспортировать…
 	Extended Graphics States	Расширенные графические состояния
-	Extract	Извлечь
 	Extract pages	Извлечь страницы
 	Extract pages as separate files	Извлечь страницы как отдельные файлы
 	Extract pages to a new document	Извлечь страницы в новый документ
@@ -782,7 +734,6 @@ scroll speed	Fast	Высокая
 	Figures require alternate text	Фигурам нужен альтернативный текст
 	File (.p12, .pfx)	Файл (.p12, .pfx)
 	File attachments	Вложенные файлы
-	File Name	Имя файла
 	File name	Имя файла
 	File size	Размер файла
 @id	file.word_count	Количество слов…
@@ -823,10 +774,8 @@ scroll speed	Fast	Высокая
 	Find tools and commands…	Найти инструменты и команды…
 	Find untagged content	Найти нетегированный контент
 	Finding document fonts…	Поиск шрифтов для документа…
-	Find…	Найти…
 	Finish or discard the text being edited before selecting several objects.	Завершите или отмените редактирование текста, прежде чем выбирать несколько объектов.
 	First / last page	Первая / последняя страница
-	Fit	По размеру
 	Fit Height	По высоте
 	Fit one full page	По одной полной странице
 	Fit Page	По странице
@@ -856,7 +805,6 @@ scroll speed	Fast	Высокая
 	Float panel	Сделать панель плавающей
 	Folders	Папки
 	Font colour:	Цвет шрифта:
-	Font size	Размер шрифта
 	Font size 0 uses automatic sizing.	Размер шрифта 0 включает автоматический подбор размера.
 	Font Size:	Размер шрифта:
 	Font size:	Размер шрифта:
@@ -875,7 +823,6 @@ scroll speed	Fast	Высокая
 	Forms	Формы
 	Formulas and similar non-text elements need alternate text. Add alternate text to them.	Формулы и подобные нетекстовые элементы нуждаются в альтернативном тексте. Добавьте им альтернативный текст.
 	Found {n} untagged content problems.	Найдено проблем с нетегированным контентом: {n}.
-	From	С
 	From a PDF page or an image	Из страницы PDF или изображения
 	From colour	Из цвета
 	From {file}	Из {file}
@@ -891,12 +838,9 @@ scroll speed	Fast	Высокая
 	Go to the page	Перейти на страницу
 	Go to this result	Перейти к этому результату
 	Graphic	Графика
-	Gray	Серый
 	Grayscale Images	Изображения в оттенках серого
-	Green	Зелёный
 	Green on black	Зелёный на чёрном
 	Greyscale	Оттенки серого
-	Grid view	Вид сеткой
 	Hand (H)	Рука (H)
 	Has JavaScript actions (run in M6)	Имеет действия JavaScript (выполняются в M6)
 	Header and footer	Колонтитулы
@@ -904,7 +848,6 @@ scroll speed	Fast	Высокая
 	header or footer	колонтитул
 	Headers	Заголовки
 	Heading levels shouldn't skip (an H1 followed by an H3). Retag the headings.	Уровни заголовков не должны пропускать (H1, за которым следует H3). Переразметьте заголовки.
-	Height	Высота
 	Hidden layers	Скрытые слои
 	Hide a field	Скрыть поле
 	Hide all comments	Скрыть все комментарии
@@ -917,8 +860,6 @@ scroll speed	Fast	Высокая
 	Hide window controls	Скрыть элементы управления окном
 	Hides annotation	Скрывает аннотацию
 	High	Высокое
-	High Resolution	Высокое разрешение
-	High resolution	Высокое разрешение
 	Highlight	Выделить
 	Highlight fields	Выделять поля
 	Highlight Style:	Стиль выделения:
@@ -926,16 +867,11 @@ scroll speed	Fast	Высокая
 key	Home	Home
 	Horizontal	По горизонтали
 	Horizontal reversed	По горизонтали в обратном порядке
-	Horizontal scale	Горизонтальный масштаб
-	Horizontally	По горизонтали
 	HTML web page	Веб-страница HTML
-	Icon	Значок
 	Identity	Идентификация
-	Image	Изображение
 	Image (PNG)	Изображение (PNG)
 	Image field	Поле изображения
 	Image-only PDF	PDF только с изображениями
-	Images	Изображения
 	Images and text	Изображения и текст
 	Images and text (converted to PDF)	Изображения и текст (конвертированные в PDF)
 	Import comments…	Импортировать комментарии…
@@ -975,9 +911,7 @@ key	Home	Home
 	Installed fonts…	Установленные шрифты…
 	Intended usage	Назначение
 	Interface size	Размер интерфейса
-	Intersection	Пересечение
 	Intersections	Пересечения
-	Invert	Инверсия
 	Invisible Rectangle	Невидимый прямоугольник
 	Irregular tables confuse cell navigation. Give every row the same number of cells (counting spans).	Нерегулярные таблицы запутывают навигацию по ячейкам. Дайте каждой строке одинаковое число ячеек (с учётом диапазонов).
 	is available	доступно
@@ -996,12 +930,9 @@ key	Home	Home
 	JavaScript console…	Консоль JavaScript…
 	JavaScript is turned off (Preferences ▸ JavaScript).	JavaScript выключен (Настройки > JavaScript).
 	JavaScript, e.g. getField("total").value	JavaScript, например getField("total").value
-	Join our Discord	Присоединяйтесь к нашему Discord
 	Join the ArtCraft community	Присоединяйтесь к сообществу ArtCraft
-	Join the ArtCraft Discord	Присоединяйтесь к Discord ArtCraft
 	July	Июль
 	June	Июнь
-	just now	только что
 	Keep source fonts	Сохранить исходные шрифты
 	Keep tool selected	Оставлять инструмент выбранным
 	Keep tool selected: on	Оставлять инструмент выбранным: вкл
@@ -1009,16 +940,13 @@ key	Home	Home
 	Key usage	Использование ключа
 	Keyboard shortcuts	Горячие клавиши
 	Keychain  ·  	Keychain  ·
-	Label	Метка
 	Labels	Метки
 	Labels: {preview}. Later pages keep their labels.	Метки: {preview}. Последующие страницы сохраняют свои метки.
 	Landscape and Portrait Pages	Альбомные и книжные страницы
 	Landscape Pages	Альбомные страницы
 	Landscape pages	Альбомные страницы
 	Larger pages	Крупнее страницы
-	Later	Позже
 	Later in tab order	Позже в порядке табуляции
-	Layers	Слои
 	Layers Panel and Page	Панель слоёв и страница
 	Layout and Magnification	Макет и масштаб
 	Lbl and LBody	Lbl и LBody
@@ -1048,7 +976,6 @@ key	Home	Home
 	List items	Элементы списка
 	List items belong in a list. Fix the list's tags.	Элементы списка принадлежат списку. Исправьте теги списка.
 	List labels and bodies belong in a list item. Fix the list's tags.	Метки и тела списков принадлежат элементу списка. Исправьте теги списка.
-	List view	Вид списком
 	Lists	Списки
 	Load document font	Загрузить шрифт документа
 	Load font…	Загрузить шрифт…
@@ -1063,7 +990,6 @@ key	Home	Home
 	Low	Низкое
 	Low resolution	Низкое разрешение
 	Low Resolution (150 dpi)	Низкое разрешение (150 dpi)
-	Magnification	Масштаб
 	Make accessible	Сделать доступным
 	Make Current Properties Default	Сделать текущие свойства по умолчанию
 	Make Properties Default	Сделать свойства по умолчанию
@@ -1084,11 +1010,9 @@ key	Home	Home
 	Marquee zoom	Масштаб выделением
 	Mask:	Маска:
 	Match page at 100%	Подобрать бумагу, масштаб 100%
-	Maximize	Развернуть
 	Maximum	Максимальное
 	maximum	максимум
 	May	Май
-	Measure	Измерить
 	Measure area	Измерить площадь
 	Measure distance	Измерить расстояние
 	Measure objects	Измерить объекты
@@ -1102,16 +1026,13 @@ key	Home	Home
 	Merged 1 file into {path}	Объединён 1 файл в {path}
 	Merged {n} files into {path}	Объединено {n} файлов в {path}
 	Merging data files needs the desktop app	Объединение файлов данных требует настольное приложение
-	Metadata	Метаданные
 	Microsoft Word (.docx)	Microsoft Word (.docx)
 	Midpoint	Середина отрезка
 	Midpoints	Середины отрезков
-	Minimize	Свернуть
 	Minimum	Минимальное
 	minimum	минимум
 	Mixed	Разные значения
 	Mobile	Мобильные устройства
-	Modified	Изменено
 	Modify page	Изменить страницу
 	More	Ещё
 	More options	Ещё
@@ -1163,7 +1084,6 @@ key	Home	Home
 	Next / previous match	Следующее / предыдущее совпадение
 	Next figure	Следующая фигура
 	Next month	Следующий месяц
-	Next page	Следующая страница
 	Next sheet	Следующий лист
 	Next tab	Следующая вкладка
 	Next view	Следующий вид
@@ -1187,7 +1107,6 @@ key	Home	Home
 	No limit	Без ограничений
 	No links to remove	Нет ссылок для удаления
 	No matches	Совпадений нет
-	No matches.	Совпадений нет.
 	No matching tools	Нет подходящих инструментов
 	No openly licensed document fonts found. Load a font file.	Шрифты с открытой лицензией не найдены. Загрузите файл шрифта.
 	no output folder was chosen	не выбрана папка для вывода
@@ -1199,7 +1118,6 @@ key	Home	Home
 	No preview	Нет предпросмотра
 	No printers were found. Check that the printer is installed and the print spooler is running, then open Print again.	Принтеры не найдены. Проверьте, что принтер установлен, а диспетчер печати запущен, и снова откройте «Печать».
 	No problems found: the document conforms to {level}.	Проблем не найдено: документ соответствует {level}.
-	No recent files	Нет недавних файлов
 	No security	Без безопасности
 	No sheets	Нет листов
 	No signature was found in the frame. Move the frame over the signature or raise the ink sensitivity.	В рамке не найдена подпись. Наведите рамку на подпись или увеличьте чувствительность к чернилам.
@@ -1251,8 +1169,6 @@ animation effects	On	Вкл
 	Only change the colour of black text or line art	Менять только цвет чёрного текста и линий
 	Only checked properties will change. Mixed means the selected fields have different values.	Изменятся только отмеченные свойства. «Разные значения» означает, что значения выбранных полей различаются.
 	Only the page content changes: links, comments, form fields and bookmarks on the original pages stay.	Меняется только содержимое страницы: ссылки, комментарии, поля формы и закладки на исходных страницы остаются.
-	Opacity	Непрозрачность
-	Opacity:	Непрозрачность:
 	Open a document first	Сначала откройте документ
 	Open a PDF ({key})	Открыть PDF ({key})
 	Open a PDF to measure it.	Откройте PDF для измерения.
@@ -1265,8 +1181,6 @@ animation effects	On	Вкл
 	Open in a new tab	Открыть в новой вкладке
 	Open in Full Screen mode	Открывать в полноэкранном режиме
 	Open in Full Screen mode?	Открыть в полноэкранном режиме?
-	Open link	Открыть ссылку
-	Open Recent	Открыть недавние
 	Open the file as it was saved then	Открыть файл, как он был сохранён тогда
 	Open the older version first	Сначала откройте более старую версию
 	Open this local PDF?	Открыть этот локальный PDF?
@@ -1277,7 +1191,6 @@ animation effects	On	Вкл
 	Opened, but its security settings don't allow combining. Enter the permissions password.	Открыто, но настройки безопасности не разрешают объединение. Введите пароль разрешений.
 	Opening the browser's print dialog…	Открывается диалог печати браузера…
 	Opens the printer driver's preferences. They are saved for every print from this computer; the copies, two-sided, grayscale and paper chosen here still apply.	Открывает настройки драйвера принтера. Они сохраняются для всей печати с этого компьютера; выбранные здесь копии, двусторонняя печать, оттенки серого и бумага по-прежнему применяются.
-	Open…	Открыть…
 	Optimize	Оптимизировать
 	Optimize PDF…	Оптимизировать PDF…
 	Optimize Scanned Documents	Оптимизировать отсканированные документы
@@ -1295,20 +1208,15 @@ animation effects	On	Вкл
 	Organization Name	Название организации
 	Organizational Unit	Организационное подразделение
 	Organize pages	Организовать страницы
-	Orientation:	Ориентация:
-	Original	Оригинал
 	Original: replace pages	Оригинал: заменить страницы
 	Other colour…	Другой цвет…
 	Other elements alternate text	Альтернативный текст других элементов
 	Other elements that require alternate text	Другие элементы, которым нужен альтернативный текст
 	Outdent	Убрать отступ
-	Outline	Контур
 	Outline colour:	Цвет контура:
-	Output	Вывод
 	Output appears here.	Вывод появляется здесь.
 	Output intent: {list}	Выходное намерение: {list}
 	Output preview	Предварительный просмотр вывода
-	Overlap:	Перекрытие:
 	Owner password (no restrictions apply)	Пароль владельца (ограничения не применяются)
 	Page background	Фон страницы
 	Page Content	Содержимое страницы
@@ -1346,7 +1254,6 @@ animation effects	On	Вкл
 	Pages with links, comments or fields should tab in structure order. The fix sets each page's tab order to Use Document Structure.	Страницы со ссылками, комментариями или полями должны табулировать в порядке структуры. Исправление устанавливает порядок табуляции страницы на «По структуре документа».
 	Pages:	Страницы:
 	Pages: {k} of {n}	Страницы: {k} из {n}
-	Panels	Панели
 	Paper:	Бумага:
 	Part of	Часть
 	Passed	Пройдено
@@ -1356,8 +1263,6 @@ animation effects	On	Вкл
 	Password-protected	Защищён паролем
 	Paste after	Вставить после
 	Paste pages	Вставить страницы
-	Path	Контур
-	Paths	Контуры
 	Pattern	Шаблон
 	Patterns	Шаблоны
 	Patterns (graphics objects)	Узоры (графические объекты)
@@ -1376,13 +1281,10 @@ animation effects	On	Вкл
 	PdfCraft {c} is up to date.	У вас последняя версия PdfCraft {c}.
 	PdfCraft {v} is available.	Доступна PdfCraft {v}.
 	People may need more time to respond. Check that nothing has a time limit.	Людям может понадобиться больше времени для ответа. Проверьте, что ничего не имеет ограничения времени.
-	Percentage	Процент
-	Perimeter	Периметр
 	Permissions password	Пароль разрешений
 	Permitted actions after certifying	Разрешённые действия после сертификации
 	Phone Number	Номер телефона
 	Phone Numbers	Номера телефонов
-	Photo	Фото
 	Pick a tool in the quick bar, or type above.	Выберите инструмент на быстрой панели или введите выше.
 	Pictures need alternate text that describes them, or must be marked decorative. Add alternate text to each figure.	Изображениям нужен альтернативный текст, описывающий их, или их нужно пометить как декоративные. Добавьте альтернативный текст к каждой фигуре.
 	Pictures on those pages are recognized too; words already in the page's text are not added again	Изображения на этих страницах тоже распознаются; слова, которые уже есть в тексте страницы, повторно не добавляются
@@ -1390,7 +1292,6 @@ animation effects	On	Вкл
 	Pin a folder to list its newest PDFs here, such as where your scanner or a synced cloud drive saves them.	Закрепите папку, чтобы видеть здесь её новые PDF, например папку, куда сохраняет файлы сканер или синхронизируемый облачный диск.
 	Pin a folder…	Закрепить папку…
 	Pin folder to Home…	Закрепить папку на главной…
-	Pink	Розовый
 	Pinned folders need the desktop app	Для закреплённых папок нужно настольное приложение
 	Pinned {folder} to Home	Папка {folder} закреплена на главной
 	Plain text in reading order; pages are separated by form feeds.	Обычный текст в порядке чтения; страницы разделены переводами формата.
@@ -1399,17 +1300,11 @@ animation effects	On	Вкл
 	Planned for milestone {m} — open to see what it will include	Запланировано на этап {m} — откройте, чтобы увидеть содержимое
 	Planned · {m}	Запланировано · {m}
 	Points from the page's bottom-left corner.	Точки от левого нижнего угла страницы.
-	Polygon	Многоугольник
-	Polyline	Полилиния
 	Portrait Pages	Книжные страницы
 	Portrait pages	Книжные страницы
 	Post	Опубликовать
-	Poster	Постер
 	PostScript / EPS	PostScript / EPS
 	PostScript XObjects aren't allowed	PostScript XObjects не разрешены
-	Preferences	Настройки
-	Preferences…	Настройки…
-	Prefix	Префикс
 	Preflight	Проверка перед печатью
 	Prepare a form	Подготовить форму
 	Prepare for accessibility	Подготовить к проверке доступности
@@ -1425,7 +1320,6 @@ animation effects	On	Вкл
 	Previous / next page	Предыдущая / следующая страница
 	Previous figure	Предыдущая фигура
 	Previous month	Предыдущий месяц
-	Previous page	Предыдущая страница
 	Previous sheet	Предыдущий лист
 	Previous tab	Предыдущая вкладка
 	Previous view	Предыдущий вид
@@ -1438,9 +1332,7 @@ animation effects	On	Вкл
 	Print, NextPage, PrevPage, FirstPage or LastPage	Print, NextPage, PrevPage, FirstPage или LastPage
 	Printer paper and scaling may differ. Check driver settings.	Бумага и масштаб принтера могут отличаться. Проверьте настройки драйвера.
 	Printer properties	Свойства принтера
-	Printer:	Принтер:
 	Printing allowed	Печать разрешена
-	Print…	Печать…
 	Privacy	Конфиденциальность
 	Private data of other applications	Личные данные других приложения
 	product (x)	произведение (x)
@@ -1454,7 +1346,6 @@ animation effects	On	Вкл
 	Public key	Открытый ключ
 	Purple	Фиолетовый
 	PushButton	Кнопка
-	Quality	Качество
 	Radio	Переключатель
 	Radio button	Переключатель
 	Radio Button Properties	Свойства переключателя
@@ -1463,7 +1354,6 @@ animation effects	On	Вкл
 	Read mode	Режим чтения
 	Read Only	Только для чтения
 	Reading colours	Цвета для чтения
-	Ready	Готово
 	Reason	Причина
 	Reason: 	Причина: 
 	Recent	Недавние
@@ -1481,7 +1371,6 @@ animation effects	On	Вкл
 	Recognizing text… page {d} of {t}	Распознавание текста… стр. {d} из {t}
 	Recommended tools	Рекомендуемые инструменты
 	Recover unsaved documents?	Восстановить несохранённые документы?
-	Red	Красный
 	Redact	Скрыть
 	Redact a PDF	Скрыть в PDF
 	Redact all	Скрыть все
@@ -1501,7 +1390,6 @@ animation effects	On	Вкл
 	Regularity	Регулярность
 	Rejected	Отклонено
 	Reliable character encoding is provided	Обеспечена надёжная кодировка символов
-	Reload	Перезагрузить
 	Reload documents when their files change on disk	Перезагружать документы при изменении их файлов на диске
 	Remove "{name}" from this list? The file itself is not deleted.	Убрать «{name}» из этого списка? Сам файл не удаляется.
 	Remove all links	Удалить все ссылки
@@ -1562,21 +1450,15 @@ animation effects	On	Вкл
 	Reset panel layout	Сбросить расположение панелей
 	Reset to printer defaults	Вернуть параметры принтера по умолчанию
 	Resize comment	Изменить размер комментария
-	Resize panel window	Изменить размер окна панели
 	Resize panels	Изменить размеры панелей
 	Resize window to initial page	Изменять размер окна по начальной странице
-	Resolution	Разрешение
-	Resolution:	Разрешение:
-	Restore	Восстановить
 	Restrictions	Ограничения
 	Restrictions lifted	Ограничения сняты
 	Retain existing	Сохранить существующее
 	Reveal in File Explorer	Показать в проводнике
-	Reveal in Finder	Показать в Finder
 	Reverse closed arrow	Обратная закрытая стрелка
 	Reverse open arrow	Обратная открытая стрелка
 	Reverse pages	Страницы в обратном порядке
-	Revert	Восстановить
 	Revert changes	Отменить изменения
 	Revert to the previously saved version of “{name}”? Changes since then can't be undone afterwards.	Вернуть к ранее сохранённой версии «{name}»? Изменения с тех пор нельзя будет отменить.
 	Reverted to the last saved version	Восстановлено к последней сохранённой версии
@@ -1605,7 +1487,6 @@ animation effects	On	Вкл
 	Rotate view clockwise ({key})	Повернуть вид по часовой стрелке ({key})
 	Rotate view counterclockwise	Повернуть вид против часовой стрелки
 	Rotate:	Повернуть:
-	Rows	Строки
 	Run	Запустить
 	Run a JavaScript	Запустить JavaScript
 	Run JavaScript	Запустить JavaScript
@@ -1619,7 +1500,6 @@ animation effects	On	Вкл
 	Save & Close	Сохранить и закрыть
 	Save ({key})	Сохранить ({key})
 	Save anyway	Всё равно сохранить
-	Save as PDF	Сохранить как PDF
 	Save as PDF/A	Сохранить как PDF/A
 	Save as PDF/A-1b	Сохранить как PDF/A-1b
 	Save as PDF/A-2b	Сохранить как PDF/A-2b
@@ -1666,7 +1546,6 @@ animation effects	On	Вкл
 	Searchable Image (Exact)	Доступное для поиска изображение (точное)
 	Searching… {s} of {p} pages	Поиск… {s} из {p} страниц
 	Searching… {s}/{p}	Поиск… {s}/{p}
-	Security	Безопасность
 	Security method	Метод безопасности
 	Security properties	Свойства безопасности
 	Security properties…	Свойства безопасности…
@@ -1695,8 +1574,6 @@ animation effects	On	Вкл
 	Self-signed	Самоподписанный
 	Sending sheet {s} of {n} to {printer}…	Отправка листа {s} из {n} на {printer}…
 	Sending to {printer}…	Отправка на {printer}…
-	Sensitivity	Чувствительность
-	Sent to {printer}	Отправлено на {printer}
 	Sent to {printer}: {msg}	Отправлено на {printer}: {msg}
 	Separate PDFs	Отдельные PDF
 	Separator style:	Стиль разделителя:
@@ -1725,7 +1602,6 @@ animation effects	On	Вкл
 	Set the image of {name}	Задать изображение: {name}
 	Set to current page ({n})	Установить текущей страницей ({n})
 	Set to zero	Установить в ноль
-	Settings	Настройки
 	Shadings	Теневые
 	Shared Field Properties	Общие свойства полей
 	Sheet {s} of {n}	Лист {s} из {n}
@@ -1747,7 +1623,6 @@ key	Shift	Shift
 	Show the accessibility report	Показать отчёт о доступности
 	Show this dialog when the Checker starts	Показывать этот диалог при запуске проверки
 	Show {n} more	Показать ещё {n}
-	Show:	Показать:
 	Shown while the pointer is over a mark.	Показывается, пока указатель над меткой.
 	Shrink oversized pages	Уменьшать страницы больше формата
 	Side by side	Рядом
@@ -1796,17 +1671,14 @@ scroll speed	Slow	Низкая
 	Sort items	Сортировать пункты
 	sorted ascending	отсортировано по возрастанию
 	sorted descending	отсортировано по убыванию
-	Source	Источник
 key	Space	Пробел
 	Space Audit	Анализ места
-	Special	Специальный
 	Split document	Разделить документ
 	Split document…	Разделить документ…
 	Split into files…	Разделить на файлы…
 	Spreadsheet (.xlsx)	Электронная таблица (.xlsx)
 	Squiggly underline	Волнистое подчеркивание
 	Squiggly underline text	Волнистое подчеркивание
-	Stamp	Штамп
 	Stamp palette	Палитра штампов
 	Stamps	Штампы
 	Standard	Стандартные
@@ -1824,12 +1696,10 @@ key	Space	Пробел
 	Strong	Высокая
 	Structure Info	Информация о структуре
 	Submit a form	Отправить форму
-	Subset	Подмножество
 	sum (+)	сумма (+)
 	Summarize	Суммировать
 	Summarize comments	Суммировать комментарии
 	Summarize Options	Параметры суммирования
-	Summary	Сводка
 	Switch light / dark theme	Переключить светлую / тёмную тему
 	Switch to List view to change the pages it takes.	Переключитесь на вид списком, чтобы изменить, какие страницы взять.
 	Switch to two-page view first to show the cover page	Сначала переключитесь в двухстраничный вид, чтобы показать титульную страницу
@@ -1985,9 +1855,7 @@ key	Space	Пробел
 	This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…	Драйвер этого принтера не принимает настройки двусторонней печати от других программ, поэтому действует его собственная настройка. Измените её в окне Свойства…
 	This web address mixes letters from different alphabets, a common way to imitate another site's name.	Этот веб-адрес смешивает буквы из разных алфавитов, распространённый способ имитировать имя другого сайта.
 	This web address uses letters from another alphabet, which can look like familiar ones.	Этот веб-адрес использует буквы из другого алфавита, которые могут выглядеть как знакомые.
-	Thumbnails	Миниатюры
 	Tile scale:	Масштаб плитки:
-	Time	Время
 	Timed responses	Ответы с ограничением времени
 	Timestamp	Метка времени
 	Title	заголовок
@@ -1997,7 +1865,6 @@ key	Space	Пробел
 	To:	До:
 	Today: {date}	Сегодня: {date}
 	Toggle fit page / fit width	Переключить по странице / по ширине
-	Tool	Инструмент
 	Tools panel side	Сторона панели инструментов
 	Tooltip:	Подсказка:
 	Top	Верх
@@ -2019,16 +1886,12 @@ key	Space	Пробел
 	Type text	Ввести текст
 	Type the web address.	Введите веб-адрес.
 	Type your {what}.	Введите: {what}.
-	Typewriter	Печатная машинка
 	Unchecked	Не отмечено
 	Underline	Подчеркивание
 	Underline text	Подчеркнуть текст
 	Undid {label}	Отменили: {label}
 	Unit	Единица
-	Units	Единицы
-	Unknown	Неизвестно
 	Unknown author	Неизвестный автор
-	Unlock	Разблокировать
 	Unlock comment	Разблокировать комментарий
 	Unlock {name}	Разблокировать {name}
 	Unlock {n} files	Разблокировать {n} файлов
@@ -2039,7 +1902,6 @@ key	Space	Пробел
 	Unpin {folder}	Открепить {folder}
 	Unplaced	Не размещено
 	Unsupported measurements	Неподдерживаемые измерения
-	Update	Обновить
 	Update background	Обновить фон
 	Update background…	Обновить фон…
 	Update header & footer	Обновить колонтитулы
@@ -2077,14 +1939,12 @@ key	Space	Пробел
 	Validity starts	Действительность начинается
 	Value is not calculated	Значение не вычисляется
 	Value is the	Значение — это
-	Value:	Значение:
 	Verify	Проверить
 	Verify to see what the document needs.	Проверьте, что нужно документу.
 	Version {v}	Версия {v}
 	Vertical	По вертикали
 	Vertical reversed	По вертикали в обратном порядке
 	Vertical text cannot be moved with this selection.	Вертикальный текст нельзя переместить вместе с этим выделением.
-	Vertically	По вертикали
 	Video, sound and rich media must be tagged to be announced. Tag the multimedia annotations.	Видео, звук и богатые медиа должны быть размечены, чтобы озвучиваться. Разметьте мультимедиа-аннотации.
 	View	Просмотр
 	View less	Показать меньше
@@ -2096,7 +1956,6 @@ key	Space	Пробел
 	Viewport rectangle in page points (x, y, width, height)	Прямоугольник области просмотра в точках страницы (x, y, ширина, высота)
 	Visible Rectangle	Видимый прямоугольник
 	Visual	Визуально
-	Warnings	Предупреждения
 	Watermark	Водяной знак
 	watermark	водяной знак
 	Weak	Низкая
@@ -2105,7 +1964,6 @@ key	Space	Пробел
 	What word or phrase would you like to search for?	Какое слово или фразу вы хотите найти?
 	White on black	Белый на чёрном
 	Whole words only	Только целые слова
-	Width	Ширина
 	Window Options	Параметры окна
 	Windows store  ·  	Хранилище Windows  ·
 	Word count	Количество слов
@@ -2117,9 +1975,7 @@ key	Space	Пробел
 	Wrote {n} files to {dir}	Записано {n} файлов в {dir}
 	X Object Forms	Формы X Object
 	XFA form: its fields and its XFA data are kept in step, so other viewers show what you fill in.	Форма XFA: её поля и данные XFA синхронизированы, поэтому другие просмотрщики показывают то, что вы заполняете.
-	Yellow	Жёлтый
 	Yellow on black	Жёлтый на чёрном
-	yesterday	вчера
 	You are about to apply 1 redaction mark. Text, images and drawings under the marks, and comments and form fields that overlap them, are removed permanently.	Вы собираетесь применить 1 метку сокрытия. Текст, изображения и рисунки под метками, а также комментарии и поля формы, которые с ними пересекаются, удаляются безвозвратно.
 	You are about to apply {n} redaction marks. Text, images and drawings under the marks, and comments and form fields that overlap them, are removed permanently.	Вы собираетесь применить {n} меток сокрытия. Текст, изображения и рисунки под метками, а также комментарии и поля формы, которые с ними пересекаются, удаляются безвозвратно.
 	You are viewing revision {rev} of “{from}”. It is a snapshot: changes here won't affect the original.	Вы просматриваете ревизию {rev} документа «{from}». Это снимок: изменения здесь не затронут оригинал.
@@ -2127,16 +1983,13 @@ key	Space	Пробел
 	You can pin up to {n} folders. Unpin one first.	Можно закрепить не более {n} папок. Сначала открепите одну из них.
 	You have version {c}. All releases are listed at {page}.	У вас версия {c}. Все релизы перечислены на {page}.
 	You have version {c}. Download the new version from its release page.	У вас версия {c}. Скачайте новую версию со страницы релизов.
-	Your changes will be lost if you don't save them.	Если не сохранить, изменения будут потеряны.
 	Your name	Ваше имя
 	yyyy or yy year · m or mm month · mmm or mmmm month name · d or dd day · ddd or dddd weekday. H, h, M, s and t are time letters and can't be used on their own: put {escape} before a letter to show it as is.	yyyy или yy — год · m или mm — месяц · mmm или mmmm — название месяца · d или dd — день · ddd или dddd — день недели. H, h, M, s и t — буквы времени, их нельзя использовать отдельно: поставьте {escape} перед буквой, чтобы показать её как есть.
 	ZIP	ZIP
 	Zip Code	Почтовый индекс
 	Zip Code + 4	Почтовый индекс + 4
-	Zoom in	Увеличить
 	Zoom in ({key})	Увеличить ({key})
 	Zoom in / out (also pinch or {key}-scroll)	Масштаб (также щипок или {key}-прокрутка)
-	Zoom out	Уменьшить
 	Zoom out ({key})	Уменьшить ({key})
 	Zoom to page level	Масштаб страницы
 	{0}: {1}	{0}: {1}
@@ -2171,16 +2024,13 @@ key	Space	Пробел
 @plural	{n} field name collides with earlier files and will be renamed: {list}|{n} field names collide with earlier files and will be renamed: {list}	Имя {n} поля конфликтует с предыдущими файлами и будет переименовано: {list}|Названия {n} полей конфликтуют с предыдущими файлами и будут переименованы: {list}|Названия {n} полей конфликтуют с предыдущими файлами и будут переименованы: {list}
 	{n} fields selected	Выбрано полей: {n}
 @plural	{n} field|{n} fields	{n} поле|{n} поля|{n} полей
-	{n} files	{n} файлов
 	{n} files done	Обработано {n} файлов
 	{n} files need attention	{n} файлов требуют внимания
-	{n} h ago	{n} ч назад
 	{n} instances	{n} вхождений
 	{n} issues	{n} проблем
 	{n} marks	{n} меток
 	{n} match(es) marked for redaction.	Отмечено для сокрытия: {n} совпад.
 	{n} measurements use an unsupported format and are left out.	{n} измерений используют неподдерживаемый формат и исключаются.
-	{n} min ago	{n} мин назад
 @plural	{n} object selected|{n} objects selected	Выделен {n} объект|Выделено {n} объекта|Выделено {n} объектов
 	{n} pages	{n} страниц
 	{n} pages selected	Выбрано {n} страницы
