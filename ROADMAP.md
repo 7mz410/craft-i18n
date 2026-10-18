@@ -1,7 +1,6 @@
 # craft-i18n roadmap
 
-> **Last updated:** 2026-10-17 · **Change:** minor (milestones 1 and 2 done; WordCraft and PdfCraft
-> catalogs migrated)
+> **Last updated:** 2026-10-18 · **Change:** patch (known homograph: WordCraft's "Open" spacing preset)
 
 Shared translations for the storytold Crafting Apps: one catalog per locale for shared strings,
 one per app, checked in CI and embedded by each app at build time. Vocabulary is in
@@ -26,6 +25,12 @@ i18n module, and add the app-side stale/missing string report.
 Known migration fixes: PdfCraft's Turkish `@plural` rows listed one form, CLDR (and CI) need two;
 done in 3a by repeating the form (Turkish nouns stay singular after numerals). The runtime crate
 must pin the same `intl_pluralrules` version as the checker, or their plural form counts can disagree.
+
+Known homograph, not yet fixed: WordCraft's Paragraph Spacing menu has an "Open" preset
+(`crates/ui-egui/src/ribbon.rs`, the spacing next to Tight and Relaxed). It shares the key
+`("", "Open")` with File > Open, so every locale shows the verb (`es` Abrir, `de` Öffnen). The fix is
+app-side in WordCraft's 3a wiring: give the preset a context (`spacing`) and add rows with context `spacing` to
+`wordcraft.tsv`. Found by FredApps/craftlingo#1.
 
 ## Apps
 
@@ -64,3 +69,4 @@ As surveyed on 2026-10-16. Locale counts exclude English.
 | 2026-10-16 | major | First roadmap: milestones 1–3d, per-app survey, open decisions |
 | 2026-10-17 | minor | Milestones 1 and 2 done; WordCraft and PdfCraft catalogs migrated (196 shared strings, 28 locales) |
 | 2026-10-17 | patch | Milestone 2 runtime crate opened upstream as storytold/craft-libs#167 |
+| 2026-10-18 | patch | Recorded WordCraft's "Open" spacing preset translated as the verb |
