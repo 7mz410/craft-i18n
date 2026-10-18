@@ -44,8 +44,10 @@ Use an **absolute** path: Cargo runs build scripts in the crate's own directory.
 
 ## What the app shows
 
-The app passes `CRAFT_I18N` to the craft-libs crate. For `pt-br` it looks up: `pt-br` app catalog
-→ `pt-br` shared → `pt` app → `pt` shared → the English source text. An app catalog's row wins over
+The app passes `CRAFT_I18N` to the craft-libs crate, with the codes of its own language list: only
+those are offered (an embedded locale the app isn't ready for, such as a right-to-left one, stays a
+fallback only). For `pt-br` it looks up: `pt-br` app catalog → `pt-br` shared → `pt` app → `pt`
+shared → the English source text. An app catalog's row wins over
 the shared one in its own locale only. A row the crate doesn't understand (a newer `@` context) is
 skipped and logged, and that string shows in English.
 
