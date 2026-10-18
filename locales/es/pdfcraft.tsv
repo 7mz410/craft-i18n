@@ -394,6 +394,7 @@
 	Combo	Lista desplegable
 	Coming in milestone	Llegará en el hito
 	Coming in milestone {m}. Items marked Ready work today.	Llegará en el hito {m}. Los elementos marcados como Listo ya funcionan.
+	Comment	Comment
 	Comment and form data	Datos de comentarios y formularios
 	Comment list	Lista de comentarios
 	Commenting	Comentarios
@@ -2091,6 +2092,7 @@ signature pad	Type	Escribir
 	Viewport rectangle in page points (x, y, width, height)	Rectángulo de la ventana gráfica en puntos de página (x, y, ancho, alto)
 	Visible Rectangle	Rectángulo visible
 	Visual	Visual
+	Warning	Warning
 	watermark	marca de agua
 	Weak	Débil
 	Welcome to PdfCraft	Te damos la bienvenida a PdfCraft

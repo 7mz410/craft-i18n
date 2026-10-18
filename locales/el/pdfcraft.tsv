@@ -1989,6 +1989,7 @@ signature pad	Type	Πληκτρολόγηση
 	Viewport rectangle in page points (x, y, width, height)	Ορθογώνιο προβολής σε σημεία σελίδας (x, y, πλάτος, ύψος)
 	Visible Rectangle	Ορατό ορθογώνιο
 	Visual	Οπτικό
+	Warning	Warning
 	watermark	υδατογράφημα
 	Weak	Αδύναμος
 	Welcome to PdfCraft	Καλώς ορίσατε στο PdfCraft

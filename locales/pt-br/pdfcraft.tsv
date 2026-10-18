@@ -383,6 +383,7 @@ calendar date	August	agosto
 	Combo	Caixa de combinação
 	Coming in milestone	Previsto para o marco
 	Coming in milestone {m}. Items marked Ready work today.	Previsto para o marco {m}. Itens marcados como Pronto já funcionam hoje.
+	Comment	Comment
 	Comment and form data	Dados de comentário e formulário
 	Comment list	Lista de comentários
 	Commenting	Comentários
@@ -1967,6 +1968,7 @@ signature pad	Type	Digitar
 	Viewport rectangle in page points (x, y, width, height)	Retângulo da janela de visualização em pontos da página (x, y, largura, altura)
 	Visible Rectangle	Retângulo visível
 	Visual	Visual
+	Warning	Warning
 	watermark	marca-d'água
 	Weak	Fraca
 	Welcome to PdfCraft	Bem-vindo ao PdfCraft

@@ -174,6 +174,7 @@
 	Current Scale Only	Solo la escala actual
 	Current selection	Selección actual
 	Current: {color}	Actual: {color}
+	Custom	Custom
 	Cylinder	Cilindro
 	Data Extraction...	Extracción de datos...
 	Data Link...	Vínculo de datos...
@@ -400,6 +401,7 @@
 	Isometric snap	Forzar cursor isométrico
 	Jogged	Con recodo
 	Jogged Linear	Lineal con recodo
+	Justify	Justify
 	Keep an editable copy of this table in the drawing	Guardar una copia editable de esta tabla en el dibujo
 	Keep the system cursor visible over the drawing area	Mantener visible el cursor del sistema sobre el área de dibujo
 	Largest array	Matriz más grande
@@ -766,6 +768,7 @@
 	Set Variable	Establecer variable
 	Set View	Establecer vista
 	Settings...	Configuración...
+	Shape	Shape
 	Show All Constraint Bars	Mostrar todas las barras de restricciones
 	Show All Dynamic Dimensions	Mostrar todas las cotas dinámicas
 	Show and hide the tools of this category	Mostrar y ocultar las herramientas de esta categoría
@@ -949,6 +952,7 @@
 	Table Cell Style	Estilo de celda de tabla
 	Table Style...	Estilo de tabla...
 	Table...	Tabla...
+	Tables	Tables
 	Tan, Tan, Radius	Tangente, tangente, radio
 	Tan, Tan, Tan	Tangente, tangente, tangente
 	Tangent	Tangente

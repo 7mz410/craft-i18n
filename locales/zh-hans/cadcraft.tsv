@@ -121,6 +121,7 @@
 	Changes apply at once and are kept for next time.	更改立即生效并将为下次保留。
 	Circle	圆
 	Circumference	圆周
+	Clear History	Clear History
 	Clip	剪裁
 	Closed	已关闭
 	Coincident	重合
@@ -161,6 +162,7 @@
 	Current Scale Only	仅当前比例
 	Current selection	当前选择
 	Current: {color}	当前: {color}
+	Custom	Custom
 	Cylinder	圆柱体
 	Data Extraction...	数据提取...
 	Data Link...	数据链接...
@@ -356,6 +358,7 @@
 	Inspect Constraints	检查约束
 	Inspect Drawing	检查图形
 	Inspection	检查
+	Interface language	Interface language
 	Interface theme	界面主题
 	Isolate Layer	隔离图层
 	Isolate Objects	隔离对象
@@ -364,6 +367,7 @@
 	Jogged	折弯
 	Jogged Linear	折弯线性
 	Join	合并
+	Justify	Justify
 	Keep an editable copy of this table in the drawing	在此图形中保留此表的编辑副本
 	Keep the system cursor visible over the drawing area	在绘图区域保持系统光标可见
 	Largest array	最大阵列数
@@ -470,6 +474,7 @@
 	No saved layer states	没有保存的图层状态
 	No supported 3D mouse found	未找到支持的 3D 鼠标
 	Node	节点
+	Normal	Normal
 	Not a number or distance: {text}	不是数字或距离：{text}
 	Not available yet	暂不可用
 	Object Snap	对象捕捉
@@ -489,6 +494,7 @@
 	Open (⌘O)	打开 (⌘O)
 	Open a drawing first.	请先打开一个图形。
 	Open and Save	打开和保存
+	Open Recent	Open Recent
 	Open Sample Drawing	打开示例图形
 	Open sample drawing	打开示例图形
 	Open Xref	打开外部参照
@@ -502,6 +508,7 @@
 	Ortho Mode (F8)	正交模式 (F8)
 	Osnap Settings...	捕捉设置...
 	Out	缩小
+	Overlay	Overlay
 	Override	替代
 	Page Setup Manager	页面设置管理器
 	Page Setup Manager...	页面设置管理器...
@@ -698,6 +705,7 @@
 	Set Table Cell	设置表格单元格
 	Set Variable	设置变量
 	Set View	设置视图
+	Shape	Shape
 	Show All Constraint Bars	显示所有约束栏
 	Show All Dynamic Dimensions	显示所有动态标注
 	Show Annotative Objects	显示注释性对象
@@ -873,6 +881,7 @@
 	Synchronize Multiple-scale Positions	同步多比例位置
 	Table Style...	表格样式...
 	Table...	表格...
+	Tables	Tables
 	Tan, Tan, Radius	相切、相切、半径
 	Tan, Tan, Tan	相切、相切、相切
 	Tangent	相切
@@ -889,6 +898,7 @@
 	There is nothing here yet.	这里什么也没有。
 	Thickness	厚度
 	Time-sensitive right-click: a quick click is Enter, holding opens the menu	时间敏感右键：快速点击相当于回车，按住不放打开菜单
+	To	To
 	To get started, create or open a drawing.	若要开始，请创建或打开一个图形。
 	Toggle PICKADD (off: each pick replaces the selection)	切换 PICKADD（关闭：每次点击替换当前选择）
 	Toggle PICKADD (on: picks add to the selection)	切换 PICKADD（开启：点击会添加到选择集）

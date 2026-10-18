@@ -14,6 +14,7 @@
 	% of all commits	Tüm taahhütlerin yüzdesi
 	(coming soon)	(yakında)
 	(No neutral color exists for {mode} mode.)	({mode} modu için nötr renk bulunmuyor.)
+	(none)	(none)
 	(print to the printer)	(yazıcıya yazdırın)
 	+ Add variable	+ Değişken ekle
 	0 turns this threshold off; SVG groups nested deeper than 100 levels are always rasterized.	0 bu eşiği kapatır; 100 düzeyden daha derine yerleştirilmiş SVG grupları her zaman rasterleştirilir.
@@ -620,6 +621,7 @@ cameraRaw	Color Grading	Renk Derecelendirme
 	Control port	Kontrol portu
 	Control:	Kontrol:
 	Conté Crayon	Conte Crayon
+	Convert	Convert
 	Convert for Smart Filters	Akıllı Filtreler için Dönüştürme
 	Convert Frames > Video Layers	Çerçeveleri Dönüştür > Video Katmanları
 	Convert Point Tool	Nokta Dönüştürme Aracı
@@ -1565,6 +1567,7 @@ cameraRaw	Lights	Açıklar
 	Lines +/−	Çizgiler +/−
 	Lines added	Satırlar eklendi
 	Lines deleted	Satırlar silindi
+	Link	Link
 	Link Layer Mask	Bağlantı Katmanı Maskesi
 	Link Layers	Katmanları Bağla
 	Link layers	Katmanları bağlayın
@@ -2756,6 +2759,7 @@ fontWeight	Thin	İnce
 cameraRaw	Tint	Renk Tonu
 	Tiny	minik
 	Tiny Lens	Minik Mercek
+	Title	Title
 	Titling Alternates	Başlık Alternatifleri
 	To Center	Merkeze
 	To drop files, start PhotoCraft under XWayland: `{command}`	Dosyaları bırakmak için XWayland altında PhotoCraft'ı başlatın: `{command}`
@@ -2834,6 +2838,7 @@ cameraRaw	Tint	Renk Tonu
 	Unsupported format	Desteklenmeyen biçim
 	Untagged {mode}	Etiketlenmemiş {mode}
 	Untitled-1	İsimsiz-1
+	Up	Up
 	Update All Modified Content	Değiştirilen Tüm İçeriği Güncelle
 	Update All Text Layers	Tüm Metin Katmanlarını Güncelle
 	Update Layer Comp	Katman Kompozisyonunu Güncelle

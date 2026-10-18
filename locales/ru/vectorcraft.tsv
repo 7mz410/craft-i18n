@@ -335,6 +335,7 @@ file-filter	All readable files	Все читаемые файлы
 	Arrange by Row	Расположить в строку
 	Arrange Intertwine Area	Упорядочить область переплетения
 	Arrange: Bring to Front	Монтаж: на передний план
+	Arrow	Arrow
 	Arrowheads:	Стрелки:
 	Art	Рисунок
 	Art Brush Options	Параметры художественной кисти
@@ -1223,6 +1224,7 @@ axis	Both	Оба
 	Eyedropper Picks Up:	Пипетка берёт:
 	Eyedropper: click the art to sample the stop's colour	Пипетка: щёлкните рисунок, чтобы взять цвет точки перехода
 	Farsi	Фарси
+	Feather	Feather
 	Feather…	Растушёвка…
 	Feet	Футы
 	Feet & Inches	Футы и дюймы
@@ -2363,6 +2365,7 @@ imageTrace	Outline	Контур
 	Output White	Выходной белый
 	Output › Mode	Вывод › Режим
 	Outside the document	Вне документа
+	Oval	Oval
 	Overlapping	Перекрывающийся
 	Overlay Edge	Наложение краёв
 	Overprint	Наложение

@@ -380,6 +380,7 @@
 	Combo	Liste déroulante
 	Coming in milestone	Arrivera dans le jalon
 	Coming in milestone {m}. Items marked Ready work today.	Arrivera dans le jalon {m}. Les éléments marqués Prêt fonctionnent déjà.
+	Comment	Comment
 	Comment and form data	Données de commentaires et de formulaires
 	Comment list	Liste des commentaires
 	Commenting	Commentaires
@@ -1965,6 +1966,7 @@ signature pad	Type	Saisir
 	Viewport rectangle in page points (x, y, width, height)	Rectangle de la fenêtre d'affichage en points de page (x, y, largeur, hauteur)
 	Visible Rectangle	Rectangle visible
 	Visual	Visuel
+	Warning	Warning
 	watermark	filigrane
 	Weak	Faible
 	Welcome to PdfCraft	Bienvenue dans PdfCraft

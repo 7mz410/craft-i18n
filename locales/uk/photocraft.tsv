@@ -13,6 +13,7 @@
 
 	(coming soon)	(незабаром)
 	(No neutral color exists for {mode} mode.)	(Для режиму «{mode}» немає нейтрального кольору.)
+	(none)	(none)
 	(print to the printer)	(друк на принтері)
 	+ Add variable	+ Додати змінну
 	0 turns this threshold off; SVG groups nested deeper than 100 levels are always rasterized.	0 вимикає цей поріг; групи SVG із вкладеністю понад 100 рівнів завжди растеризуються.
@@ -597,6 +598,7 @@ cameraRaw	Color Grading	Колірне тонування
 	Commit transform (↩)	Підтвердити трансформацію (↩)
 	Commit warp ({key})	Підтвердити деформацію ({key})
 	Commit warp (↩)	Підтвердити деформацію (↩)
+	Compare	Compare
 	Compose	Компонування
 	Concise	Стислий
 	Condensed	Вузький
@@ -632,6 +634,7 @@ cameraRaw	Color Grading	Колірне тонування
 	Control port	Порт керування
 	Control:	Керування:
 	Conté Crayon	Олівець Конте
+	Convert	Convert
 	Convert for Smart Filters	Перетворити для смартфільтрів
 	Convert Frames > Video Layers	Перетворити кадри > Відеошари
 	Convert Point Tool	Інструмент «Перетворення вузла»
@@ -897,6 +900,7 @@ cameraData	Date Taken	Дата зйомки
 	Disks	Диски
 	Displace	Зміщення
 	Displace…	Зміщення…
+	Display	Display
 	Display name	Відображуване ім'я
 	Display P3	Display P3
 	Display p3	Display P3
@@ -1207,6 +1211,7 @@ cameraData	Focal Length (35 mm)	Фокусна відстань (35 мм)
 	From Transparency	Із прозорості
 	Front Image	Зображення переднього плану
 	Fuchsia	Фуксія
+	Full Screen	Full Screen
 	Full Screen Mode With Menu Bar	Повноекранний режим із рядком меню
 	Full size tip	Кінчик повного розміру
 	Full Spherical	Повна сфера
@@ -1590,6 +1595,7 @@ cameraRaw	Lights	Світлі тони
 	Lines +/−	Рядки +/−
 	Lines added	Додані рядки
 	Lines deleted	Видалені рядки
+	Link	Link
 	Link Layer Mask	Зв'язати маску шару
 	Link Layers	Зв'язати шари
 	Link layers	Зв'язати шари
@@ -1633,6 +1639,7 @@ cameraRaw	Lights	Світлі тони
 	Lock Workspace	Заблокувати робочий простір
 	Lock:	Блокування:
 	Lock: keep these settings when picking another preset	Заблокувати: зберігати ці параметри під час вибору іншого набору
+	Locked	Locked
 	Log Errors To File	Записувати помилки у файл
 	Logical Length:	Логічна довжина:
 	Logical Units:	Логічні одиниці:
@@ -2674,6 +2681,7 @@ curves	Smooth	Згладити
 	Strength:	Сила:
 	Strikethrough	Закреслений
 	Stroke Catch-up	Наздоганяння мазка
+	Stroke Color	Stroke Color
 	Stroke color	Колір обведення
 	Stroke Detail	Деталі мазка
 	Stroke Direction	Напрямок мазка
@@ -2790,6 +2798,7 @@ fontWeight	Thin	Тонкий
 cameraRaw	Tint	Відтінок
 	Tiny	Крихітний
 	Tiny Lens	Малий об'єктив
+	Title	Title
 	Titling Alternates	Заголовкові альтернативи
 	To Center	До центру
 	To drop files, start PhotoCraft under XWayland: `{command}`	Щоб перетягувати файли, запустіть PhotoCraft під XWayland: `{command}`
@@ -2856,6 +2865,7 @@ cameraRaw	Tint	Відтінок
 	Underpainting	Підмальовок
 	Underwater	Під водою
 	Undo Changes	Скасувати зміни
+	Ungroup	Ungroup
 	Ungroup Layers	Розгрупувати шари
 	Unite Shapes	Об'єднати фігури
 	Units & Rulers	Одиниці та лінійки

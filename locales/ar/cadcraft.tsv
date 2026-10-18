@@ -168,6 +168,7 @@
 	Current Scale Only	المقياس الحالي فقط
 	Current selection	التحديد الحالي
 	Current: {color}	الحالي: {color}
+	Custom	Custom
 	Cylinder	أسطوانة
 	Data Extraction...	استخراج البيانات...
 	Data Link...	ربط البيانات...
@@ -386,8 +387,10 @@ menu	Draw	رسم
 	Isometric Drafting	صياغة متساوية القياس
 	Isometric Plane	المستوى متساوي القياس
 	Isometric snap	التقاط متساوي القياس
+	Italic	Italic
 	Jogged	متعرج
 	Jogged Linear	خطي متعرج
+	Justify	Justify
 	Keep an editable copy of this table in the drawing	الإبقاء على نسخة قابلة للتحرير من هذا الجدول في الرسم
 	Keep the system cursor visible over the drawing area	إبقاء مؤشر النظام مرئياً فوق منطقة الرسم
 	Largest array	أكبر مصفوفة
@@ -582,6 +585,7 @@ menu	Modify	تعديل
 	Position X	الموضع X
 	Position Y	الموضع Y
 	Position Z	الموضع Z
+	Preview	Preview
 	Previous Layer	الطبقة السابقة
 	Primitives	العناصر الأولية
 	Print...	طباعة...
@@ -922,6 +926,7 @@ menu	Modify	تعديل
 	Table Cell Style	نمط خلية الجدول
 	Table Style...	نمط الجدول...
 	Table...	جدول...
+	Tables	Tables
 	Tan, Tan, Radius	مماس، مماس، نصف قطر
 	Tan, Tan, Tan	مماس، مماس، مماس
 	Tangent	مماس
@@ -960,6 +965,7 @@ menu	Modify	تعديل
 	Type a command	اكتب أمراً
 	Type text; Enter starts a new paragraph	اكتب النص؛ يبدأ Enter فقرة جديدة
 	UCS Icon	أيقونة UCS
+	Underline	Underline
 	Undo (⌘Z)	تراجع (⌘Z)
 	Unisolate Layer	إلغاء عزل الطبقة
 	Units Conversion	تحويل الوحدات

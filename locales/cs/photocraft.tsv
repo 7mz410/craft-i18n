@@ -2661,6 +2661,7 @@ fontWeight	Thin	Jemná
 cameraRaw	Tint	Nádech
 	Tiny	Drobná
 	Tiny Lens	Drobné čočky
+	Title	Title
 	Titling Alternates	Titulkové varianty
 	To Center	Ke středu
 	To drop files, start PhotoCraft under XWayland: `{command}`	Chcete-li soubory přetahovat, spusťte PhotoCraft v XWayland: `{command}`

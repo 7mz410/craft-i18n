@@ -13,6 +13,7 @@
 
 	(coming soon)	(bientôt disponible)
 	(No neutral color exists for {mode} mode.)	(Il n’existe aucune couleur neutre pour le mode {mode}.)
+	(none)	(none)
 	(print to the printer)	(imprimer sur l'imprimante)
 	+ Add variable	+ Ajouter une variable
 	0 turns this threshold off; SVG groups nested deeper than 100 levels are always rasterized.	0 désactive ce seuil ; les groupes SVG imbriqués sur plus de 100 niveaux sont toujours pixellisés.
@@ -518,6 +519,7 @@ fontWeight	Bold	Gras
 	Commit transform (↩)	Valider la transformation (↩)
 	Commit warp ({key})	Valider la déformation ({key})
 	Commit warp (↩)	Valider la déformation (↩)
+	Compare	Compare
 	Compose	Composition
 	Concise	Concis
 	Condensed	Étroit
@@ -767,6 +769,7 @@ cameraData	Date Taken	Date de prise de vue
 	Discontiguous	Non contigu
 	Disks	Disques
 	Displace…	Déplacement…
+	Display	Display
 	Display P3	Display P3
 	Display p3	Display P3
 	Display Text	Texte affiché
@@ -1025,6 +1028,7 @@ cameraData	Focal Length (35 mm)	Focale (35 mm)
 	Front Image	Image de premier plan
 	Fuchsia	Fuchsia
 	Full	Totale
+	Full Screen	Full Screen
 	Full Screen Mode	Mode plein écran
 	Full Screen Mode With Menu Bar	Mode plein écran avec barre de menus
 	Full size tip	Pointe en taille réelle
@@ -1322,6 +1326,7 @@ cameraRaw	Lights	Tons clairs
 	Linear Burn	Densité linéaire +
 	Linear Dodge (Add)	Densité linéaire − (Addition)
 	Linear Height	Hauteur linéaire
+	Link	Link
 	Link Layer Mask	Lier le masque de calque
 	Link Layers	Lier les calques
 	Link layers	Lier les calques
@@ -1363,6 +1368,7 @@ cameraRaw	Lights	Tons clairs
 	Lock Workspace	Verrouiller l'espace de travail
 	Lock:	Verrouiller :
 	Lock: keep these settings when picking another preset	Verrouiller : conserver ces paramètres en choisissant un autre préréglage
+	Locked	Locked
 	Log Errors To File	Consigner les erreurs dans un fichier
 	Logical Length:	Longueur logique :
 	Logical Units:	Unités logiques :
@@ -1577,6 +1583,7 @@ cameraData	Model	Modèle
 	Offset…	Décalage…
 	Oil Paint…	Peinture à l'huile…
 	Oldstyle	Chiffres anciens
+	On	On
 	On Black	Sur fond noir
 	On Layers	Sur les calques
 	On White	Sur fond blanc
@@ -1619,6 +1626,7 @@ cameraData	Model	Modèle
 	Output Levels:	Niveaux de sortie :
 	Output Settings	Paramètres de sortie
 	Output To	Sortie vers
+	Oval	Oval
 	Overlay Color	Couleur de superposition
 	Overlay Opacity	Opacité de superposition
 	Overlay: Rule of Thirds	Superposition : règle des tiers
@@ -2374,6 +2382,7 @@ cameraRaw	Tint	Teinte
 	Uncoated CMYK	CMJN papier non couché
 	Underline	Souligné
 	Undo Changes	Annuler les modifications
+	Ungroup	Ungroup
 	Ungroup Layers	Dissocier les calques
 	Unite Shapes	Réunir les formes
 	Units & Rulers	Unités et règles
@@ -2383,9 +2392,11 @@ cameraRaw	Tint	Teinte
 	Unlink the mask from the layer	Délier le masque du calque
 	Unlock: picking a preset replaces these settings	Déverrouiller : choisir un préréglage remplace ces paramètres
 	Unnamed {mode} profile	Profil {mode} sans nom
+	Unsharp Mask	Unsharp Mask
 	Unsharp Mask…	Masque flou…
 	Untagged {mode}	{mode} sans profil
 	Untitled-1	Sans titre-1
+	Up	Up
 	Update All Modified Content	Mettre à jour tout le contenu modifié
 	Update All Text Layers	Mettre à jour tous les calques de texte
 	Update Layer Comp	Mettre à jour la composition de calques

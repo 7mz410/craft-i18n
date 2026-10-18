@@ -374,6 +374,7 @@
 	Combo	下拉列表
 	Coming in milestone	计划推出的里程碑
 	Coming in milestone {m}. Items marked Ready work today.	{m} 里程碑推出。标记为就绪的项目现已可用。
+	Comment	Comment
 	Comment and form data	注释和表单数据
 	Comment list	注释列表
 	Commenting	注释
@@ -1936,6 +1937,7 @@ key	Space	空格
 	Viewport rectangle in page points (x, y, width, height)	以页面点数指定视口矩形（x、y、宽度、高度）
 	Visible Rectangle	可见矩形
 	Visual	视觉
+	Warning	Warning
 	watermark	水印
 	Weak	弱
 	Welcome to PdfCraft	欢迎使用 PdfCraft

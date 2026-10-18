@@ -344,6 +344,7 @@
 	Choose image…	Resim seç…
 	Choose photo…	Fotoğraf seç…
 	Choose the digital ID that you want to use for signing:	İmzalamak için kullanmak istediğiniz dijital kimliği seçin:
+	Choose…	Choose…
 	Clean Up	Temizle
 	Clean-up	Temizleme
 	Clear all	Tümünü temizle
@@ -382,6 +383,7 @@
 	Combo	AçılırKutu
 	Coming in milestone	Kilometre taşında gelecek
 	Coming in milestone {m}. Items marked Ready work today.	Kilometre taşı {m} ile gelecek. Hazır olarak işaretlenen öğeler bugün çalışmaktadır.
+	Comment	Comment
 	Comment and form data	Yorum ve form verileri
 	Comment list	Yorum listesi
 	Commenting	Yorum yapma
@@ -1341,6 +1343,7 @@ animation effects	On	Açık
 	Presentation (.pptx)	Sunum (.pptx)
 	Preview unavailable: {e}	Önizleme kullanılamıyor: {e}
 	Preview: page {p} of {n}	Önizleme: Sayfa {p} / {n}
+	Previous	Previous
 	Previous ({key})	Önceki ({key})
 	Previous / next page	Önceki / sonraki sayfa
 	Previous figure	Önceki şekil
@@ -1996,6 +1999,7 @@ signature pad	Type	Yaz
 	Viewport rectangle in page points (x, y, width, height)	Sayfa noktalarında görünüm penceresi dikdörtgeni (x, y, genişlik, yükseklik)
 	Visible Rectangle	Görünür Dikdörtgen
 	Visual	Görsel
+	Warning	Warning
 	watermark	filigran
 	Weak	Zayıf
 	Welcome to PdfCraft	PdfCraft'a Hoş Geldiniz

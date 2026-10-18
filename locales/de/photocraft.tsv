@@ -13,6 +13,7 @@
 
 	(coming soon)	(erscheint bald)
 	(No neutral color exists for {mode} mode.)	(Für den Modus {mode} gibt es keine neutrale Farbe.)
+	(none)	(none)
 	(print to the printer)	(an den Drucker senden)
 	+ Add variable	+ Variable hinzufügen
 	0 turns this threshold off; SVG groups nested deeper than 100 levels are always rasterized.	0 schaltet diese Schwelle aus; SVG-Gruppen, die tiefer als 100 Ebenen verschachtelt sind, werden immer gerastert.
@@ -488,6 +489,7 @@ fontWeight	Bold	Fett
 	Commit transform ({key})	Transformation übernehmen ({key})
 	Commit warp ({key})	Verkrümmung übernehmen ({key})
 	Company	Firma
+	Compare	Compare
 	Concise	Kompakt
 	Conditional Mode Change…	Bedingter Moduswechsel…
 	Cone (Inverted)	Kegel (umgekehrt)
@@ -730,6 +732,7 @@ cameraData	Date Taken	Aufnahmedatum
 	Discretionary Ligatures	Optionale Ligaturen
 	Disks	Festplatten
 	Displace…	Verschieben…
+	Display	Display
 	Display P3	Display P3
 	Display p3	Display P3
 	Display Text	Text anzeigen
@@ -988,6 +991,7 @@ cameraData	Focal Length (35 mm)	Brennweite (35 mm)
 	From Transparency	Aus Transparenz
 	Front Image	Vorderes Bild
 	Fuchsia	Fuchsia
+	Full Screen	Full Screen
 	Full Screen Mode With Menu Bar	Vollbildmodus mit Menüleiste
 	Full size tip	Spitze in voller Größe
 	Full Spherical	Vollständig sphärisch
@@ -1200,6 +1204,7 @@ fontWeight	Italic	Kursiv
 	Jpeg quality	JPEG-Qualität
 	Jpg	JPG
 	Justification	Blocksatz
+	Justify	Justify
 	Justify all	Alles im Blocksatz
 	Justify last centered	Letzte Zeile zentriert
 	Justify last left	Letzte Zeile links
@@ -1260,6 +1265,7 @@ cameraData	Lens	Objektiv
 	Levels	Tonwertkorrektur
 cameraRaw	Light	Licht
 fontWeight	Light	Leicht
+	Light Intensity	Light Intensity
 	Light Red	Hellrot
 	Light X	Licht X
 	Light Y	Licht Y
@@ -1286,6 +1292,7 @@ fontWeight	Light	Leicht
 	Linux display server	Linux-Anzeigeserver
 	Liquify is not open	Verflüssigen ist nicht geöffnet
 	Liquify…	Verflüssigen…
+	List	List
 	Load	Laden
 	Load 3D LUT…	3D-LUT laden…
 	Load a keyboard shortcut set saved as .kys	Einen als .kys gespeicherten Tastaturbefehlssatz laden
@@ -1555,6 +1562,7 @@ layerLabel	No Color	Keine Farbe
 	Output Levels:	Ausgabe-Tonwerte:
 	Output Settings	Ausgabeeinstellungen
 	Output To	Ausgabe in
+	Oval	Oval
 	Overlay	Überlagern
 	Overlay Color	Überlagerungsfarbe
 	Overlay Edge	Kante überlagern
@@ -1729,6 +1737,7 @@ layerLabel	No Color	Keine Farbe
 	Quick Selection found nothing there	Die Schnellauswahl hat dort nichts gefunden
 	Quick Selection Tool	Schnellauswahl-Werkzeug
 	R G B	RGB
+	Radial Blur	Radial Blur
 	Radial Blur…	Radiale Unschärfe…
 	Randomize Length	Länge zufällig variieren
 	Randomize Shapes	Formen zufällig variieren
@@ -2081,6 +2090,7 @@ fontWeight	SemiBold	Halbfett
 curves	Smooth	Glätten
 	Smooth the curve values	Kurvenwerte glätten
 	Smoothing	Glättung
+	Smoothness	Smoothness
 	Smooth…	Glätten…
 	Smudge	Wischfinger
 	Smudge Tool	Wischfinger-Werkzeug
@@ -2154,6 +2164,7 @@ curves	Smooth	Glätten
 	Strength:	Stärke:
 	Strikethrough	Durchgestrichen
 	Stroke Catch-up	Strich nachführen
+	Stroke Color	Stroke Color
 	Stroke color	Konturfarbe
 	Stroke Path	Pfad nachziehen
 	Stroke path with brush	Pfad mit Pinsel nachziehen
@@ -2303,6 +2314,7 @@ fontWeight	Thin	Haarfein
 	Underline	Unterstrichen
 	Underlying Layer:	Darunterliegende Ebene:
 	Undo Changes	Änderungen rückgängig machen
+	Ungroup	Ungroup
 	Ungroup Layers	Ebenengruppe auflösen
 	Unite Shapes	Formen vereinigen
 	Units & Rulers	Einheiten & Lineale
@@ -2311,6 +2323,7 @@ fontWeight	Thin	Haarfein
 	Unlink the mask from the layer	Maskenverknüpfung mit der Ebene lösen
 	Unlock: picking a preset replaces these settings	Entsperren: das Wählen einer Vorgabe ersetzt diese Einstellungen
 	Unnamed {mode} profile	Unbenanntes {mode}-Profil
+	Unsharp Mask	Unsharp Mask
 	Unsharp Mask…	Unscharf maskieren…
 	Untagged {mode}	{mode} ohne Farbprofil
 	Untitled-1	Unbenannt-1

@@ -91,6 +91,7 @@
 	Change Space	Changer d'espace
 	Change to Current Layer	Déplacer vers le calque courant
 	Circumference	Circonférence
+	Clear History	Clear History
 	Closed	Fermé
 	Coincident	Coïncidence
 	Collapse Tool Sets	Réduire les jeux d'outils
@@ -123,6 +124,7 @@
 	Current layer	Calque courant
 	Current selection	Sélection actuelle
 	Current: {color}	Actuel : {color}
+	Custom	Custom
 	Cylinder	Cylindre
 	Default Save Format	Format d'enregistrement par défaut
 	Define Attributes	Définir les attributs
@@ -303,10 +305,12 @@
 	Insertion Z	Insertion Z
 	Inspect Constraints	Inspecter les contraintes
 	Inspect Drawing	Inspecter le dessin
+	Interface language	Interface language
 	Interface Theme	Thème de l'interface
 	Isolate Layer	Isoler le calque
 	Isometric Drafting	Dessin isométrique
 	Join	Rejoindre
+	Justify	Justify
 	Keep an editable copy of this table in the drawing	Conserver une copie modifiable de cette table dans le dessin
 	Last commit	Dernière révision
 	Layer contains objects (double-click to make current)	Le calque contient des objets (double-cliquez pour le rendre courant)
@@ -422,6 +426,7 @@
 	Ortho Mode (F8)	Mode Ortho (F8)
 	Osnap Settings...	Paramètres d'accrochage aux objets...
 	Out	Zoom arrière
+	Overlay	Overlay
 	Override	Outrepasser
 	Page Setup Manager	Gestionnaire des mises en page
 	Page Setup Manager...	Gestionnaire des mises en page...
@@ -597,6 +602,7 @@
 	Set Table Cell	Définir la cellule de tableau
 	Set Variable	Définir la variable
 	Set View	Définir la vue
+	Shape	Shape
 	Show All	Afficher tout
 	Show All Constraint Bars	Afficher toutes les barres de contrainte
 	Show All Dynamic Dimensions	Afficher toutes les cotes dynamiques
@@ -768,6 +774,7 @@
 	Synchronize Attributes	Synchroniser les attributs
 	Table Style...	Style de tableau...
 	Table...	Tableau...
+	Tables	Tables
 	Tan, Tan, Radius	Tangente, Tangente, Rayon
 	Tan, Tan, Tan	Tangente, Tangente, Tangente
 	Tangent	Tangente
@@ -779,6 +786,7 @@
 	Text Style...	Style de texte...
 	Thaw All Layers	Dégeler tous les calques
 	There is nothing here yet.	Il n'y a encore rien ici.
+	To	To
 	To get started, create or open a drawing.	Pour commencer, créez ou ouvrez un dessin.
 	Toggle PICKADD (off: each pick replaces the selection)	Basculer PICKADD (désactivé : chaque sélection remplace la sélection existante)
 	Toggle PICKADD (on: picks add to the selection)	Basculer PICKADD (activé : les sélections s'ajoutent à la sélection existante)
@@ -795,6 +803,7 @@
 	Type a command	Tapez une commande
 	Type text; Enter starts a new paragraph	Saisissez le texte ; Entrée crée un nouveau paragraphe
 	UCS Icon	Icône du SCU
+	Underline	Underline
 	Undo (⌘Z)	Annuler (⌘Z)
 	Unisolate Layer	Annuler l'isolement des calques
 	Units...	Unités...

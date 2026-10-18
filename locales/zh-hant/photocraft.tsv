@@ -14,6 +14,7 @@
 	% of all commits	佔全部提交的 %
 	(coming soon)	(即將推出)
 	(No neutral color exists for {mode} mode.)	（{mode}模式沒有中性色。）
+	(none)	(none)
 	(print to the printer)	(列印至印表機)
 	+ Add variable	+ 新增變數
 	0 turns this threshold off; SVG groups nested deeper than 100 levels are always rasterized.	設為 0 可關閉此臨界值；巢狀超過 100 層的 SVG 群組一律會點陣化。
@@ -172,6 +173,7 @@ cameraRaw	Amount	強度
 	Ask before saving layered tiff	儲存多圖層 TIFF 前詢問
 	Assign working space	指定工作空間
 	Attempt to Automatically Align Source Images	嘗試自動對齊來源影像
+	Author	Author
 	Auto Add/Delete	自動增加/刪除
 	Auto Adjust Opacity	自動調整不透明度
 	Auto Center Preview	自動置中預視
@@ -434,6 +436,7 @@ fontWeight	Bold	粗體
 	Commit transform ({key})	確認變形 ({key})
 	Commit warp ({key})	確認彎曲 ({key})
 	Commits	提交
+	Compare	Compare
 	Concise	簡潔
 	Conditional Mode Change…	條件式模式變更…
 	Cone (Inverted)	錐形（反轉）
@@ -654,6 +657,7 @@ cameraData	Date Taken	拍攝日期
 	Discontiguous	不連續
 	Disks	磁碟
 	Displace…	位移…
+	Display	Display
 	Display P3	Display P3
 	Display p3	Display P3
 	Display Text	顯示文字
@@ -676,6 +680,7 @@ cameraData	Date Taken	拍攝日期
 	Don't also tick Mirror Image in Print Settings…: the two flips cancel out.	請勿同時勾選列印設定中的鏡像：兩次翻轉會互相抵消。
 	Don't Import	不匯入
 	Don't show again	不再顯示
+	Dot	Dot
 	Double click layer mask launches select and mask	按兩下圖層遮色片時開啟選取並遮住
 	Drag a box or click four corners · drag the corners onto the edges of a skewed shape · {commit} commits · Esc cancels	拖曳方框或按一下四個角 · 將角拖曳到傾斜形狀的邊緣 · {commit} 確認 · Esc 取消
 	Drag a crop box · drag inside to move · edges resize ({ratio} ratio, {centre} centre) · Space moves while drawing · arrows nudge · X swaps orientation · {commit} commits · Esc cancels	拖移繪製裁切框 · 在框內拖移以移動 · 拖移邊緣調整大小（{ratio} 比例，{centre} 中心）· 繪製時按 Space 移動 · 方向鍵微移 · X 切換方向 · {commit} 確認 · Esc 取消
@@ -855,6 +860,7 @@ cameraData	F-Stop	光圈值
 	Focal Length	焦距
 cameraData	Focal Length	焦距
 cameraData	Focal Length (35 mm)	焦距（35 公釐等效）
+	Focus	Focus
 	Focus Area…	焦點區域…
 	Follows only edges this close to the pointer ([ and ] change it)	只追蹤離指標這麼近的邊緣（用 [ 和 ] 調整）
 	Font	字體
@@ -877,6 +883,7 @@ cameraData	Focal Length (35 mm)	焦距（35 公釐等效）
 	From Transparency	從透明度
 	Front Image	前面的影像
 	Fuchsia	紫紅色
+	Full Screen	Full Screen
 	Full Screen Mode With Menu Bar	含選單列的全螢幕模式
 	Full size tip	完整大小筆尖
 	Full Spherical	完整球面
@@ -1052,6 +1059,7 @@ fontWeight	Italic	斜體
 	Its layers need {needed} of GPU memory; the budget leaves them {budget}.	其圖層需要 {needed} GPU 記憶體；預算只留給它們 {budget}。
 	Jpeg quality	JPEG 品質
 	Jpg	JPG
+	Justify	Justify
 	Justify all	全部齊行
 	Justify last centered	最後一行置中齊行
 	Justify last left	最後一行靠左齊行
@@ -1060,6 +1068,7 @@ fontWeight	Italic	斜體
 	Keep Using CPU	繼續使用 CPU
 	Keyboard Shortcuts and Menus	鍵盤快速鍵和選單
 	Keyboard shortcuts imported	已匯入鍵盤快速鍵
+	Keywords	Keywords
 	Kind	種類
 	Knockout	去底色
 	Kurtosis	峰度
@@ -1105,6 +1114,7 @@ cameraData	Lens	鏡頭
 	Levels	色階
 cameraRaw	Light	光線
 fontWeight	Light	細體
+	Light Intensity	Light Intensity
 	Light Red	淺紅色
 	Lighten Interface	介面變亮
 	Lighting Effects…	光照效果…
@@ -1115,6 +1125,7 @@ cameraRaw	Lights	亮調
 	Line Tool	直線工具
 	Linear Dodge (Add)	線性加亮 (增加)
 	Linear Height	線性高度
+	Link	Link
 	Link Layer Mask	連結圖層遮色片
 	Link Layers	連結圖層
 	Link layers	連結圖層
@@ -1126,6 +1137,7 @@ cameraRaw	Lights	亮調
 	Linux display server	Linux 顯示伺服器
 	Liquify is not open	液化未開啟
 	Liquify…	液化…
+	List	List
 	Load	載入
 	Load 3D LUT…	載入 3D LUT…
 	Load a keyboard shortcut set saved as .kys	載入儲存為 .kys 的鍵盤快速鍵集
@@ -1364,6 +1376,7 @@ cameraData	Model	型號
 	Output Settings	輸出設定
 	Output To	輸出至
 	Outside	外部
+	Oval	Oval
 	Overlay Color	覆蓋顏色
 	Overlay Opacity	覆蓋不透明度
 	Overlay: Rule of Thirds	覆蓋：三分法
@@ -1519,6 +1532,7 @@ cameraData	Model	型號
 	Quick Mask	快速遮色片
 	Quick Selection found nothing there	快速選取在該處找不到任何內容
 	Quick Selection Tool	快速選取工具
+	Radial Blur	Radial Blur
 	Rasterize Fill Content	點陣化填滿內容
 	Rasterize Layer	點陣化圖層
 	Rasterize Layer Style	點陣化圖層樣式
@@ -1835,6 +1849,7 @@ fontWeight	SemiBold	半粗
 curves	Smooth	平滑
 	Smooth the curve values	平滑曲線數值
 	Smoothing	平滑化
+	Smoothness	Smoothness
 	Smooth…	平滑…
 	Smudge	指尖
 	Smudge Tool	指尖工具
@@ -1891,6 +1906,7 @@ curves	Smooth	平滑
 	Straighten the image by drawing a line on it	在影像上繪製一條線以拉直影像
 	Strength:	強度：
 	Stroke Catch-up	筆畫追補
+	Stroke Color	Stroke Color
 	Stroke color	筆畫顏色
 	Stroke path with brush	以筆刷為路徑加上筆畫
 	Stroke Path…	筆畫路徑…
@@ -1953,6 +1969,7 @@ curves	Smooth	平滑
 	There are too many sets: delete one first.	組合太多：請先刪除一個。
 	There is no crop size or ratio to save	沒有可儲存的裁切尺寸或比例
 	These settings aren't available in PhotoCraft yet.	這些設定在 PhotoCraft 中尚未提供。
+	Thickness	Thickness
 	Thin	極細
 fontWeight	Thin	極細
 	This document's layers need {needed} but may hold {budget}: whole-document redraws use the CPU	此文件的圖層需要 {needed}，但只能佔用 {budget}：整份文件的重繪使用 CPU
@@ -1971,6 +1988,7 @@ fontWeight	Thin	極細
 	Tilt-Shift…	傾斜偏移…
 cameraRaw	Tint	色偏
 	Tiny	極小
+	Title	Title
 	Titling Alternates	標題替代字
 	To drop files, start PhotoCraft under XWayland: `{command}`	若要拖放檔案，請在 XWayland 下啟動 PhotoCraft：`{command}`
 	Toggle count group visibility	切換計算群組可見度
@@ -2004,6 +2022,7 @@ cameraRaw	Tint	色偏
 	Trim…	修剪…
 	Turn the prompt back on with Ask On Mismatch in Edit › Color Settings.	可在 編輯 › 色彩設定 中開啟 Ask On Mismatch，重新顯示此提示。
 	Twirl…	旋轉效果…
+	Twist	Twist
 	Type	文字
 	Type Layer	文字圖層
 	Type Options	文字選項
@@ -2021,9 +2040,11 @@ cameraRaw	Tint	色偏
 	Unlink the mask from the layer	取消遮色片與圖層的連結
 	Unlock: picking a preset replaces these settings	解除鎖定：選擇預設集會取代這些設定
 	Unnamed {mode} profile	未命名的 {mode} 描述檔
+	Unsharp Mask	Unsharp Mask
 	Unsharp Mask…	遮色片銳利化調整…
 	Untagged {mode}	未標記的 {mode}
 	Untitled-1	未命名-1
+	Up	Up
 	Update All Modified Content	更新所有修改過的內容
 	Update All Text Layers	更新所有文字圖層
 	Update layer comp (visibility, position and appearance)	更新圖層構圖 (可見度、位置和外觀)
@@ -2075,6 +2096,7 @@ cameraRaw	Tint	色偏
 	W x H x Resolution	寬 x 高 x 解析度
 	Warp Text…	彎曲文字…
 	Warp:	彎曲：
+	Wave	Wave
 	Web Large	網頁 (大)
 	Web Minimum	網頁 (最小)
 	Web Most Common	網頁 (最常用)

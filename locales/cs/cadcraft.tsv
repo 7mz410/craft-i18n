@@ -166,6 +166,7 @@
 	Current Scale Only	Pouze aktuální měřítko
 	Current selection	Aktuální výběr
 	Current: {color}	Aktuální: {color}
+	Custom	Custom
 	Cylinder	Válec
 	Dark	Tmavé
 	Data Extraction...	Extrahovat data...
@@ -399,6 +400,7 @@ menu	Draw	Kreslení
 	Jogged Linear	Zalomená lineární
 	Join the ArtCraft Discord…	Připojit se na Discord ArtCraft…
 	Join us on Discord	Připojte se k nám na Discordu
+	Justify	Justify
 	Keep an editable copy of this table in the drawing	Uchovat upravitelnou kopii této tabulky ve výkresu
 	Keep the system cursor visible over the drawing area	Ponechat systémový kurzor viditelný nad kreslicí plochou
 	Largest array	Největší pole
@@ -515,6 +517,7 @@ menu	Modify	Modifikace
 	No saved layer states	Žádné uložené stavy hladin
 	No selection	Žádný výběr
 	Node	Bod
+	Normal	Normal
 	Not a number or distance: {text}	Není číslo ani vzdálenost: {text}
 	Not available yet	Zatím není k dispozici
 	Not Found	Nenalezeno
@@ -539,6 +542,7 @@ menu	Modify	Modifikace
 	Open (⌘O)	Otevřít (⌘O)
 	Open a drawing first.	Nejprve otevřete výkres.
 	Open and Save	Otevírání a ukládání
+	Open Recent	Open Recent
 	Open Sample Drawing	Otevřít ukázkový výkres
 	Open sample drawing	Otevřít ukázku výkresu
 	Open Xref	Otevřít externí referenci
@@ -773,6 +777,7 @@ menu	Modify	Modifikace
 	Set Variable	Nastavit proměnnou
 	Set View	Nastavit pohled
 	Settings...	Nastavení...
+	Shape	Shape
 	Show All Constraint Bars	Zobrazit všechny lišty vazeb
 	Show All Dynamic Dimensions	Zobrazit všechny dynamické kóty
 	Show Annotative Objects	Zobrazit objekty popisů
@@ -954,6 +959,7 @@ menu	Modify	Modifikace
 	Table Cell Style	Styl buňky tabulky
 	Table Style...	Styl tabulky...
 	Table...	Tabulka...
+	Tables	Tables
 	Tan, Tan, Radius	Tečna, tečna, poloměr
 	Tan, Tan, Tan	Tečna, tečna, tečna
 	Tangent	Tečna
@@ -989,6 +995,7 @@ menu	Modify	Modifikace
 	Type a command	Zadejte příkaz
 	Type text; Enter starts a new paragraph	Pište text; Enter začne nový odstavec
 	UCS Icon	Ikona USS
+	Underline	Underline
 	Undo (⌘Z)	Zpět (⌘Z)
 	Ungroup	Zrušit skupinu
 	Unisolate Layer	Zrušit izolaci hladiny

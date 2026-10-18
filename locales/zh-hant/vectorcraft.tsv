@@ -249,6 +249,7 @@ file-filter	All readable files	所有可讀取的檔案
 	Arrange by Row	排成一列
 	Arrange Intertwine Area	排列交織區域
 	Arrange: Bring to Front	排列順序：移至最前
+	Arrow	Arrow
 	Arrowheads:	箭頭：
 	Art	圖稿
 	Art Brush Options	藝術筆刷選項
@@ -1026,6 +1027,7 @@ axis	Both	兩者
 	Eyedropper Picks Up:	滴管擷取：
 	Eyedropper: click the art to sample the stop's colour	滴管：點擊圖稿以取樣色標的顏色
 	Farsi	波斯數字
+	Feather	Feather
 	Feather…	羽化…
 	Feet	英呎
 	Feet & Inches	英呎與英吋
@@ -1384,6 +1386,7 @@ mark-style	Japanese	日式
 	Join Tool	連接工具
 	Joins	轉角
 	Justification…	對齊設定…
+	Justify	Justify
 	Justify all lines	兩端對齊所有行
 	Justify with last line aligned center	兩端對齊，最後一行置中
 	Justify with last line aligned left	兩端對齊，最後一行靠左
@@ -1922,6 +1925,7 @@ imageTrace	Outline	輪廓
 	Output White	輸出白色
 	Output › Mode	輸出 › 模式
 	Outside the document	文件以外
+	Oval	Oval
 	Overlapping	重疊
 	Overlay Edge	覆蓋邊緣
 	Overprint	疊印

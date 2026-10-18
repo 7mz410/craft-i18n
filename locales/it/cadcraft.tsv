@@ -172,6 +172,7 @@
 	Current Scale Only	Solo scala corrente
 	Current selection	Selezione corrente
 	Current: {color}	Corrente: {color}
+	Custom	Custom
 	Cylinder	Cilindro
 	Data Extraction...	Estrazione dati...
 	Data Link...	Collegamento dati...
@@ -397,6 +398,7 @@
 	Isometric snap	Snap isometrico
 	Jogged	Spezzata
 	Jogged Linear	Lineare spezzata
+	Justify	Justify
 	Keep an editable copy of this table in the drawing	Conserva una copia modificabile di questa tabella nel disegno
 	Keep the system cursor visible over the drawing area	Mantieni visibile il cursore di sistema sull'area di disegno
 	Largest array	Serie più grande
@@ -510,6 +512,7 @@ menu	Modify	Edita
 	No saved layer states	Nessuno stato layer salvato
 	No supported 3D mouse found	Nessun mouse 3D supportato trovato
 	Node	Nodo
+	Normal	Normal
 	Not available yet	Non ancora disponibile
 	Not Found	Non trovato
 	Not loaded	Non caricato
@@ -760,6 +763,7 @@ menu	Modify	Edita
 	Set Variable	Imposta variabile
 	Set View	Imposta vista
 	Settings...	Impostazioni...
+	Shape	Shape
 	Show All Constraint Bars	Mostra tutte le barre dei vincoli
 	Show All Dynamic Dimensions	Mostra tutte le quote dinamiche
 	Show and hide the tools of this category	Mostra e nascondi gli strumenti di questa categoria
@@ -944,6 +948,7 @@ menu	Modify	Edita
 	Table Cell Style	Stile cella tabella
 	Table Style...	Stile tabella...
 	Table...	Tabella...
+	Tables	Tables
 	Tan, Tan, Radius	Tan, tan, raggio
 	Tan, Tan, Tan	Tan, tan, tan
 	Tangent	Tangente

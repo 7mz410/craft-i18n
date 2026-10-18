@@ -2973,6 +2973,7 @@ fontWeight	Thin	Hajszálvékony
 cameraRaw	Tint	Színezet
 	Tiny	Apró
 	Tiny Lens	Apró lencsék
+	Title	Title
 	Titling Alternates	Címbetű-változatok
 	To Center	Középre
 	To drop files, start PhotoCraft under XWayland: `{command}`	Fájlok behúzásához indítsd a PhotoCraftot XWayland alatt: `{command}`

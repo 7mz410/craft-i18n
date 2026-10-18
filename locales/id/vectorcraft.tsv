@@ -1166,6 +1166,7 @@ swatch	Cyan Green	Hijau sian
 	Each page prints as one image, at the document's raster effects resolution.	Setiap halaman dicetak sebagai satu gambar, dengan resolusi efek raster dokumen.
 	Earth Tones	Warna tanah
 	East Asian Type	Teks Asia Timur
+	Edge Thickness	Edge Thickness
 	Edit Artboards	Edit artboard
 	Edit Clipping Path	Edit jalur kliping
 	Edit Color Group	Edit grup warna
@@ -1517,6 +1518,7 @@ file-filter	Flattener presets	Preset perata
 	Global Process Color	Warna proses global
 	Global Process Color, CMYK	Warna proses global, CMYK
 	Glow Amount	Jumlah pendaran
+	Glow Brightness	Glow Brightness
 	Glowing Edges	Tepi berpendar
 	Glowing Edges…	Tepi berpendar…
 	Glyph Scaling:	Penskalaan Glif:

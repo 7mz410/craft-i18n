@@ -336,6 +336,7 @@ file-filter	All readable files	읽을 수 있는 모든 파일
 	Arrange by Row	행 방향 배열
 	Arrange Intertwine Area	교차 영역 정렬
 	Arrange: Bring to Front	배열: 맨 앞으로 가져오기
+	Arrow	Arrow
 	Arrowheads:	화살촉:
 	Art	아트워크
 	Art Brush Options	아트 브러시 옵션
@@ -1224,6 +1225,7 @@ axis	Both	양쪽
 	Eyedropper Picks Up:	스포이드 추출 대상:
 	Eyedropper: click the art to sample the stop's colour	스포이드: 아트웍을 클릭해 정지점의 색상 추출
 	Farsi	페르시아어
+	Feather	Feather
 	Feather…	페더…
 	Feet	피트
 	Feet & Inches	피트 및 인치
@@ -1656,6 +1658,7 @@ mark-style	Japanese	일본식
 	Join Tool	결합 도구
 	Joins	연결
 	Justification…	양끝 맞춤…
+	Justify	Justify
 	Justify all lines	모든 줄 양끝 맞춤
 	Justify with last line aligned center	마지막 줄 가운데 정렬 양끝 맞춤
 	Justify with last line aligned left	마지막 줄 왼쪽 정렬 양끝 맞춤

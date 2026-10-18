@@ -336,6 +336,7 @@ file-filter	All readable files	Усі файли, які можна прочит
 	Arrange by Row	Розмістити у рядок
 	Arrange Intertwine Area	Упорядкувати ділянку переплетення
 	Arrange: Bring to Front	Упорядкувати: на передній план
+	Arrow	Arrow
 	Arrowheads:	Стрілки:
 	Art	Малюнок
 	Art Brush Options	Параметри художнього пензля
@@ -1230,6 +1231,7 @@ axis	Both	Обидві
 	Eyedropper Picks Up:	Піпетка бере:
 	Eyedropper: click the art to sample the stop's colour	Піпетка: натисніть на малюнок, щоб взяти колір точки переходу
 	Farsi	Фарсі
+	Feather	Feather
 	Feather…	Розтушування…
 	Feet	Фути
 	Feet & Inches	Фути та дюйми
@@ -1662,6 +1664,7 @@ mark-style	Japanese	Японський
 	Join Tool	Інструмент «З’єднання»
 	Joins	З’єднання
 	Justification…	Вирівнювання за шириною…
+	Justify	Justify
 	Justify all lines	Вирівняти всі рядки за шириною
 	Justify with last line aligned center	Вирівняти за шириною, останній рядок — по центру
 	Justify with last line aligned left	Вирівняти за шириною, останній рядок — ліворуч

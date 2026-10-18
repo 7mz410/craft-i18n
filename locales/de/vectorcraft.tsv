@@ -339,6 +339,7 @@ file-filter	All readable files	Alle lesbaren Dateien
 	Arrange by Row	Nach Zeile anordnen
 	Arrange Intertwine Area	Überlappungsbereich verflechten
 	Arrange: Bring to Front	Anordnen: In den Vordergrund
+	Arrow	Arrow
 	Arrowheads:	Pfeilspitzen:
 	Art	Bild
 	Art Brush Options	Optionen für Bildpinsel
@@ -1215,6 +1216,7 @@ axis	Both	Beide
 	Eyedropper Picks Up:	Pipette nimmt auf:
 	Eyedropper: click the art to sample the stop's colour	Pipette: Klicken Sie auf die Grafik, um die Farbe für den Farbstopp aufzunehmen
 	Farsi	Farsi
+	Feather	Feather
 	Feather…	Weiche Kante…
 	Feet	Fuß
 	Feet & Inches	Fuß und Zoll
@@ -1642,6 +1644,7 @@ mark-style	Japanese	Japanisch
 	Join Tool	Zusammenfügen-Werkzeug
 	Joins	Ecken
 	Justification…	Abstände…
+	Justify	Justify
 	Justify all lines	Blocksatz, alle Zeilen
 	Justify with last line aligned center	Blocksatz, letzte Zeile zentriert
 	Justify with last line aligned left	Blocksatz, letzte Zeile linksbündig
@@ -2341,6 +2344,7 @@ imageTrace	Outline	Kontur
 	Output White	Ausgabe Weiß
 	Output › Mode	Ausgabe › Modus
 	Outside the document	Außerhalb des Dokuments
+	Oval	Oval
 	Overlapping	Überlappend
 	Overlay Edge	Kanten überlagern
 	Overprint	Überdrucken

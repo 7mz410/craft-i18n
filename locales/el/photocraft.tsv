@@ -14,6 +14,7 @@
 	% of all commits	% του συνόλου των commits
 	(coming soon)	(προσεχώς)
 	(No neutral color exists for {mode} mode.)	(Δεν υπάρχει ουδέτερο χρώμα για τη λειτουργία {mode}.)
+	(none)	(none)
 	(print to the printer)	(εκτύπωση στον εκτυπωτή)
 	+ Add variable	+ Προσθήκη μεταβλητής
 	0 turns this threshold off; SVG groups nested deeper than 100 levels are always rasterized.	Το 0 απενεργοποιεί αυτό το όριο· ομάδες SVG με ένθεση βαθύτερη από 100 επίπεδα ραστεροποιούνται πάντα.
@@ -1538,6 +1539,7 @@ cameraRaw	Lights	Φωτεινοί τόνοι
 	Linear Dodge (Add)	Γραμμική υπερέκθεση (προσθήκη)
 	Linear Gradient	Γραμμική διαβάθμιση
 	Linear Height	Γραμμικό ύψος
+	Link	Link
 	Link Layer Mask	Σύνδεση μάσκας επιπέδου
 	Link Layers	Σύνδεση επιπέδων
 	Link layers	Σύνδεση επιπέδων
@@ -2705,6 +2707,7 @@ fontWeight	Thin	Πολύ λεπτά
 cameraRaw	Tint	Χρωματική απόχρωση
 	Tiny	Πολύ μικρό
 	Tiny Lens	Μικροσκοπικός φακός
+	Title	Title
 	Titling Alternates	Εναλλακτικοί χαρακτήρες τίτλων
 	To Center	Προς το κέντρο
 	To drop files, start PhotoCraft under XWayland: `{command}`	Για να αποθέσετε αρχεία, εκκινήστε το PhotoCraft μέσω XWayland: `{command}`
@@ -2781,6 +2784,7 @@ cameraRaw	Tint	Χρωματική απόχρωση
 	Unsupported format	Μη υποστηριζόμενη μορφή
 	Untagged {mode}	Χωρίς ετικέτα προφίλ {mode}
 	Untitled-1	Χωρίς τίτλο-1
+	Up	Up
 	Update All Modified Content	Ενημέρωση όλων των τροποποιημένων περιεχομένων
 	Update All Text Layers	Ενημέρωση όλων των επιπέδων κειμένου
 	Update Layer Comp	Ενημέρωση σύνθεσης επιπέδων

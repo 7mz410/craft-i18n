@@ -375,6 +375,7 @@ file-filter	All readable files	所有可读取的文件
 	Arrange by Row	排成一行
 	Arrange Intertwine Area	排列交织区域
 	Arrange: Bring to Front	排列：置于顶层
+	Arrow	Arrow
 	Arrowheads:	箭头：
 	Art	图稿
 	Art & Illustration	艺术和插画
@@ -1292,6 +1293,7 @@ axis	Both	两者
 	Eyedropper Picks Up:	吸管拾取：
 	Eyedropper: click the art to sample the stop's colour	吸管：点击图稿以取样色标的颜色
 	Farsi	波斯数字
+	Feather	Feather
 	Feather…	羽化…
 	Feet	英尺
 	Feet & Inches	英尺和英寸
@@ -2468,6 +2470,7 @@ imageTrace	Outline	轮廓
 	Output › Mode	输出 › 模式
 	Outside	外侧
 	Outside the document	文档之外
+	Oval	Oval
 	Overlapping	重叠
 	Overlay Edge	叠加边缘
 	Overprint	叠印

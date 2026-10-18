@@ -49,13 +49,16 @@
 	Auto Save…	Автосохранение…
 	Automate to Sequence…	Автоматизировать в эпизод…
 	Bars and Tone…	Цветные полосы и тон…
+	Baseline	Baseline
 	Bin	Подборка
 	Bin From Selection	Подборка из выделения
+	Binary assets added	Binary assets added
 	Black Video…	Черное видео…
 	Bottom	По нижнему краю
 	Breakout to Mono	Разбить на моно
 	Bring Forward	Переместить вперед
 	Bring to Front	Переместить на передний план
+	Brush Strokes	Brush Strokes
 	Captions	Субтитры
 	Captions and Graphics	Субтитры и графика
 	Captions…	Субтитры…
@@ -83,6 +86,7 @@
 	Create Captions from Transcript…	Создать субтитры из расшифровки…
 	Create Multi-Camera Source Sequence…	Создать многокамерный исходный эпизод…
 	Create Proxies…	Создать прокси…
+	Custom	Custom
 	Dark	Темный
 	Darkest	Самый темный
 	Delete Render Files	Удалить файлы рендеринга
@@ -98,12 +102,16 @@
 	Distribute Space Horizontally	Распределить интервалы по горизонтали
 	Distribute Space Vertically	Распределить интервалы по вертикали
 	Distribute Vertically	Распределить по вертикали
+	Dock Panel	Dock Panel
 	Dynamic Audio Waveforms	Динамические формы звуковой волны
+	Edge Thickness	Edge Thickness
 	Edit	Правка
 	Edit Offline…	Редактировать автономный клип…
 	Edit Subclip…	Редактировать субклип…
 	Editing	Монтаж
+	Edit…	Edit…
 	Effect Controls	Элементы управления эффектами
+	Emboss	Emboss
 	Enable Remix	Включить ремикс
 	Essential Graphics	Основные графические элементы
 	Essential Sound	Основной звук
@@ -118,6 +126,7 @@
 	FilmCraft on GitHub	FilmCraft на GitHub
 	Fit to frame	Вписать в кадр
 	Flatten	Свести
+	Focus	Focus
 	Forest	Лесной
 	Frame Blending	Смешение кадров
 	Frame Hold Options…	Параметры стоп-кадра…
@@ -129,6 +138,7 @@
 	Full	Полное
 	Generate Audio Waveform	Сгенерировать форму звуковой волны
 	Get Media File Properties for	Свойства медиафайла для
+	Glow Brightness	Glow Brightness
 	Go to Gap	Перейти к промежутку
 	Go to In	Перейти к точке входа
 	Go to Next Caption Segment	Перейти к следующему сегменту субтитров
@@ -141,8 +151,10 @@
 	Graphics…	Графика…
 	Green	Зеленый
 	Guide Templates	Шаблоны направляющих
+	Hard	Hard
 	Hide All Caption Tracks	Скрыть все дорожки субтитров
 	High Quality Playback	Высокое качество воспроизведения
+	Home	Home
 	Import From	Импортировать из
 	Import from Media Browser	Импортировать из медиабраузера
 	Import Image Sequence…	Импортировать последовательность изображений…
@@ -153,12 +165,15 @@
 	Install Motion Graphics Template…	Установить шаблон анимированной графики…
 	Interpret Footage…	Интерпретировать материал…
 	Join the ArtCraft Discord…	Присоединиться к ArtCraft Discord…
+	Join us on Discord	Join us on Discord
+	Labels	Labels
 	Labels…	Метки…
 	Lavender	Лавандовый
 	Learning	Обучение
 	Left	По левому краю
 	Lift	Поднять
 	Light	Светлый
+	Line delta	Line delta
 	Link	Связать
 	Link Media…	Привязать медиаданные…
 	Linked Selection	Связанное выделение
@@ -200,6 +215,7 @@
 	Playback Resolution	Разрешение воспроизведения
 	Playback…	Воспроизведение…
 	Plugins…	Плагины…
+	Preview	Preview
 	Previous in Sequence	Предыдущий в эпизоде
 	Previous in Track	Предыдущий на дорожке
 	Program	Программа
@@ -210,7 +226,9 @@
 	Project Settings	Настройки проекта
 	Project…	Проект…
 	Purple	Пурпурный
+	Ratio	Ratio
 	Reconnect Full Resolution Media…	Переподключить медиаданные полного разрешения…
+	Recover	Recover
 	Recover Unsaved Changes…	Восстановить несохраненные изменения…
 	Redo	Повторить
 	Reference Monitor	Контрольный монитор
@@ -266,19 +284,27 @@
 	Show All Marker Colors	Показать все цвета маркеров
 	Show Through Edits	Показать сквозные склейки
 	Simplify Sequence…	Упростить эпизод…
+	Skew	Skew
 	Snap in Program Monitor	Привязка в программном мониторе
 	Snap in Timeline	Привязка на таймлайне
+	Soft	Soft
 	Source Settings…	Настройки источника…
 	Speed/Duration…	Скорость/Длительность…
+	Split	Split
+	Standard	Standard
+	Strength	Strength
+	Stroke Color	Stroke Color
 	Synchronize…	Синхронизировать…
 	System Compatibility Report…	Отчет о совместимости системы…
 	Tan	Рыжевато-коричневый
 	Teal	Бирюзовый
+	Thickness	Thickness
 	Time Interpolation	Интерполяция времени
 	Timecode	Тайм-код
 	Timecode…	Тайм-код…
 	Timeline	Таймлайн
 	Timeline…	Таймлайн…
+	Title	Title
 	Toggle Proxies	Переключить прокси
 	Top	По верхнему краю
 	Transcribe Sequence…	Транскрибировать эпизод…

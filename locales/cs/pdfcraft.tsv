@@ -390,6 +390,7 @@ calendar date	August	srpna
 	Combo	Kombinované pole
 	Coming in milestone	Přijde v milníku
 	Coming in milestone {m}. Items marked Ready work today.	Přijde v milníku {m}. Položky označené Připraveno fungují už dnes.
+	Comment	Comment
 	Comment and form data	Data komentářů a formulářů
 	Comment list	Seznam komentářů
 	Commenting	Komentování
@@ -2029,6 +2030,7 @@ signature pad	Type	Napsat
 	Viewport rectangle in page points (x, y, width, height)	Obdélník výřezu v bodech stránky (x, y, šířka, výška)
 	Visible Rectangle	Viditelný obdélník
 	Visual	Vizuální
+	Warning	Warning
 	watermark	vodoznak
 	Weak	Slabé
 	Welcome to PdfCraft	Vítá vás PdfCraft

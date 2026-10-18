@@ -836,6 +836,7 @@
 	Interface theme:	界面主题：
 	Interface\nTheme	界面主题
 	Internet addresses as links	Internet 地址替换为链接
+	Intersection	Intersection
 	Ionosphere	电离层
 	Is blank	为空
 	Is not blank	不为空
@@ -965,6 +966,7 @@
 	Match suffix	匹配后缀
 	Math AutoCorrect	数学符号自动更正
 	Matrix	矩阵
+	Maximum	Maximum
 	Measurement units:	度量单位：
 	Merge Formatting	合并格式
 	Merge Record #	合并记录编号
@@ -1413,6 +1415,7 @@
 	Scale Drawing	缩放绘图
 	Scatter	散点图
 	Script	上下标
+	Scripts	Scripts
 	Scroll ribbon left	向左滚动功能区
 	Scroll ribbon right	向右滚动功能区
 	Search Commands	搜索命令

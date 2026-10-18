@@ -175,6 +175,7 @@
 	Current Scale Only	Somente escala atual
 	Current selection	Seleção atual
 	Current: {color}	Atual: {color}
+	Custom	Custom
 	Cylinder	Cilindro
 	Data Extraction...	Extração de dados...
 	Data Link...	Vínculo de dados...
@@ -400,6 +401,7 @@
 	Jogged	Com desvio
 	Jogged Linear	Linear com desvio
 	Join the ArtCraft Discord…	Entrar no Discord do ArtCraft…
+	Justify	Justify
 	Keep an editable copy of this table in the drawing	Manter uma cópia editável desta tabela no desenho
 	Keep the system cursor visible over the drawing area	Manter o cursor do sistema visível sobre a área de desenho
 	Largest array	Matriz maior
@@ -600,6 +602,7 @@
 	Position X	Posição X
 	Position Y	Posição Y
 	Position Z	Posição Z
+	Preview	Preview
 	Previous Layer	Camada anterior
 	Primitives	Primitivas
 	Print...	Imprimir...
@@ -760,6 +763,7 @@
 	Set Variable	Definir variável
 	Set View	Definir vista
 	Settings...	Configurações...
+	Shape	Shape
 	Show	Exibir
 	Show All	Exibir tudo
 	Show All Constraint Bars	Exibir todas as barras de restrição
@@ -945,6 +949,7 @@
 	Table Cell Style	Estilo da célula da tabela
 	Table Style...	Estilo de tabela...
 	Table...	Tabela...
+	Tables	Tables
 	Tan, Tan, Radius	Tan, tan, raio
 	Tan, Tan, Tan	Tan, tan, tan
 	Tangent	Tangente

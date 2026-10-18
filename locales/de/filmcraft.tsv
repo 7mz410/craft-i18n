@@ -51,10 +51,14 @@
 	Automate to Sequence…	Automatisch in Sequenz einfügen…
 	Avid Log Exchange…	Avid Log Exchange…
 	Bars and Tone…	Farbbalken und Ton…
+	Baseline	Baseline
 	Bin	Ablage
 	Bin From Selection	Ablage aus Auswahl
+	Binary assets added	Binary assets added
+	Binary assets removed	Binary assets removed
 	Black Video…	Schwarzbild…
 	Breakout to Mono	In Mono aufteilen
+	Brush Strokes	Brush Strokes
 	Captions	Untertitel
 	Captions and Graphics	Untertitel und Grafiken
 	Captions…	Untertitel…
@@ -63,6 +67,7 @@
 	Center Vertically	Vertikal zentrieren
 	Cerulean	Himmelblau
 	Clear	Löschen
+	Clear All	Clear All
 	Clear In	In-Punkt entfernen
 	Clear In and Out	In- und Out-Punkt entfernen
 	Clear Markers	Marker entfernen
@@ -96,6 +101,7 @@
 	Distribute Space Vertically	Abstände vertikal verteilen
 	Distribute Vertically	Vertikal verteilen
 	Dynamic Audio Waveforms	Dynamische Audio-Wellenformen
+	Edge Thickness	Edge Thickness
 	Edit Offline…	Offline bearbeiten…
 	Edit Subclip…	Subclip bearbeiten…
 	Edit Workspaces…	Arbeitsbereiche bearbeiten…
@@ -108,6 +114,7 @@
 	Events	Ereignisse
 	Export As Motion Graphics Template…	Als Motion-Graphics-Vorlage exportieren…
 	Export Markers as CSV…	Marker als CSV exportieren…
+	Exported {path}	Exported {path}
 	Extract Audio	Audio extrahieren
 	FCPXML…	FCPXML…
 	Field Options…	Halbbildoptionen…
@@ -128,6 +135,7 @@
 	From Source Monitor, Match Frame	Aus dem Quellmonitor, bildgenau
 	Generate Audio Waveform	Audio-Wellenform erzeugen
 	Get Media File Properties for	Mediendatei-Eigenschaften abrufen für
+	Glow Brightness	Glow Brightness
 	Go to Gap	Zur Lücke gehen
 	Go to In	Zum In-Punkt gehen
 	Go to Next Caption Segment	Zum nächsten Untertitelsegment gehen
@@ -151,15 +159,20 @@
 	Install Motion Graphics Template…	Motion-Graphics-Vorlage installieren…
 	Interpret Footage…	Material interpretieren…
 	Iris	Iris
+	Join us on Discord	Join us on Discord
+	Justify	Justify
 	Keyboard Shortcuts…	Tastenkürzel…
 	Label	Farbmarkierung
 	Labels…	Farbmarkierungen…
 	Lavender	Lavendel
 	Learning	Lernen
 	Lift	Herausheben
+	Line delta	Line delta
 	Link	Verknüpfen
 	Link Media…	Medien verknüpfen…
 	Linked Selection	Verknüpfte Auswahl
+	List	List
+	Location	Location
 	Lumetri Color	Lumetri-Farbe
 	Lumetri Scopes	Lumetri-Scopes
 	Magnification	Vergrößerung
@@ -213,7 +226,10 @@
 	Project…	Projekt…
 	Proxy	Proxy
 	Quit FilmCraft	FilmCraft beenden
+	Ratio	Ratio
+	Recent	Recent
 	Reconnect Full Resolution Media…	Medien in voller Auflösung neu verknüpfen…
+	Recover	Recover
 	Recover Unsaved Changes…	Nicht gespeicherte Änderungen wiederherstellen…
 	Reference Monitor	Referenzmonitor
 	Remix	Remix
@@ -248,6 +264,7 @@
 	Save Guides as Template…	Hilfslinien als Vorlage speichern…
 	Scale to Frame Size	Auf Bildgröße skalieren
 	Scene Edit Detection…	Szenenschnitterkennung…
+	Scratch Disks	Scratch Disks
 	Scratch Disks…	Arbeitslaufwerke…
 	Search Bin	Suchablage
 	Select All Matching	Alle passenden auswählen
@@ -274,10 +291,13 @@
 	Snap in Timeline	In der Timeline einrasten
 	Source Settings…	Quelleinstellungen…
 	Speed/Duration…	Geschwindigkeit/Dauer…
+	Split	Split
+	Stroke Color	Stroke Color
 	Synchronize…	Synchronisieren…
 	System Compatibility Report…	Systemkompatibilitätsbericht…
 	Tan	Hellbraun
 	Teal	Petrol
+	Time	Time
 	Time Interpolation	Zeitinterpolation
 	Timecode…	Timecode…
 	Timeline	Timeline
@@ -289,6 +309,7 @@
 	Transparent Video…	Transparentes Video…
 	Trim Edit	Schnitt trimmen
 	Trim…	Trimmen…
+	Underline	Underline
 	Universal Counting Leader…	Universal-Countdown-Vorspann…
 	Update Metadata…	Metadaten aktualisieren…
 	Upgrade Caption to Graphic	Untertitel in Grafik umwandeln

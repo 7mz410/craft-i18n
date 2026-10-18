@@ -805,6 +805,7 @@ cameraData	Date Taken	Tanggal Diambil
 	Discretionary Ligatures	Ligatur Diskresioner
 	Disks	Disk
 	Displace…	Displace…
+	Display	Display
 	Display P3	Display P3
 	Display p3	Display P3
 	Display Text	Teks Tampilan
@@ -1370,6 +1371,7 @@ cameraRaw	Light	Cahaya
 fontWeight	Light	Tipis
 	Light Blue	Biru Muda
 	Light Gray	Abu-abu Muda
+	Light Intensity	Light Intensity
 	Light Red	Merah Terang
 	Light Source	Sumber Cahaya
 	Light Theme	Tema terang
@@ -1390,6 +1392,7 @@ cameraRaw	Lights	Nada Terang
 	Linear Height	Tinggi Linear
 	Linear Light	Linear Light
 	Lines added	Baris ditambah
+	Link	Link
 	Link Layer Mask	Tautkan Mask Layer
 	Link Layers	Tautkan Layer
 	Link layers	Tautkan layer
@@ -1431,6 +1434,7 @@ cameraRaw	Lights	Nada Terang
 	Lock Workspace	Kunci Ruang Kerja
 	Lock:	Kunci:
 	Lock: keep these settings when picking another preset	Kunci: pertahankan pengaturan ini saat memilih preset lain
+	Locked	Locked
 	Log Errors To File	Catat Error ke Berkas
 	Logical Length:	Panjang Logis:
 	Logical Units:	Satuan Logis:
@@ -1889,6 +1893,7 @@ cameraData	Model	Model
 	Quick Selection found nothing there	Seleksi Cepat tidak menemukan apa pun di sana
 	Quick Selection Tool	Alat Quick Selection
 	Quick Sync	Sinkron Cepat
+	Radial Blur	Radial Blur
 	Radial Blur…	Radial Blur…
 	Radial Gradient	Gradien Radial
 	Rasterize	Rasterisasi
@@ -2335,6 +2340,7 @@ curves	Smooth	Haluskan
 	Straighten the image by drawing a line on it	Luruskan gambar dengan menggambar garis di atasnya
 	Strength:	Kekuatan:
 	Stroke Catch-up	Stroke Catch-up
+	Stroke Color	Stroke Color
 	Stroke color	Warna stroke
 	Stroke Path	Stroke Path
 	Stroke path with brush	Stroke path dengan kuas

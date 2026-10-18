@@ -124,6 +124,7 @@
 	Circumference	Omkrets
 	Clear Command History	Rensa kommandohistoriken
 	Clear History	Rensa historiken
+	Clear Recent Files	Clear Recent Files
 	Clip	Beskär
 	Clip Viewport	Beskär vyfönster
 	Close All Other Drawings	Stäng alla andra ritningar
@@ -173,6 +174,7 @@
 	Current Scale Only	Bara aktuell skala
 	Current selection	Aktuell markering
 	Current: {color}	Aktuell: {color}
+	Custom	Custom
 	Cylinder	Cylinder
 	Data Extraction...	Dataextrahering...
 	Data Link...	Datalänk...
@@ -401,6 +403,7 @@ menu	Draw	Rita
 	Isometric snap	Isometriskt fäste
 	Jogged	Bruten
 	Jogged Linear	Brutet linjärt
+	Justify	Justify
 	Keep an editable copy of this table in the drawing	Spara en redigerbar kopia av tabellen i ritningen
 	Keep the system cursor visible over the drawing area	Visa systemets muspekare över ritytan
 	Largest array	Största mönster
@@ -599,6 +602,7 @@ menu	Modify	Ändra
 	Position X	Position X
 	Position Y	Position Y
 	Position Z	Position Z
+	Preview	Preview
 	Previous Layer	Föregående lager
 	Primitives	Grundformer
 	Print...	Skriv ut...
@@ -757,6 +761,7 @@ menu	Modify	Ändra
 	Set Variable	Ange variabel
 	Set View	Ange vy
 	Settings...	Inställningar...
+	Shape	Shape
 	Show All Constraint Bars	Visa alla villkorsfält
 	Show All Dynamic Dimensions	Visa alla dynamiska mått
 	Show and hide the tools of this category	Visa och dölj verktygen i den här kategorin
@@ -939,6 +944,7 @@ menu	Modify	Ändra
 	Table Cell Style	Tabellcellstil
 	Table Style...	Tabellstil...
 	Table...	Tabell...
+	Tables	Tables
 	Tan, Tan, Radius	Tan, tan, radie
 	Tan, Tan, Tan	Tan, tan, tan
 	Tangent	Tangent
@@ -976,6 +982,7 @@ menu	Modify	Ändra
 	Type a command	Skriv ett kommando
 	Type text; Enter starts a new paragraph	Skriv text; Enter börjar ett nytt stycke
 	UCS Icon	UCS-ikon
+	Underline	Underline
 	Undo (⌘Z)	Ångra (⌘Z)
 	Union	Förena
 	Unisolate Layer	Avsluta isolering av lager

@@ -384,6 +384,7 @@
 	Combo	Kombinált lista
 	Coming in milestone	Ebben a mérföldkőben érkezik
 	Coming in milestone {m}. Items marked Ready work today.	{m} mérföldkőben érkezik. A Kész jelölésű elemek már működnek.
+	Comment	Comment
 	Comment and form data	Megjegyzés- és űrlapadatok
 	Comment list	Megjegyzéslista
 	Commenting	Megjegyzés hozzáadása
@@ -1983,6 +1984,7 @@ signature pad	Type	Gépelés
 	Viewport rectangle in page points (x, y, width, height)	Nézetablak téglalapja oldalpontokban (x, y, szélesség, magasság)
 	Visible Rectangle	Látható téglalap
 	Visual	Vizuális
+	Warning	Warning
 	watermark	vízjel
 	Weak	Gyenge
 	Welcome to PdfCraft	Üdvözöljük a PdfCraftban

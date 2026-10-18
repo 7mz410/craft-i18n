@@ -14,6 +14,7 @@
 	% of all commits	占全部提交的 %
 	(coming soon)	（即将推出）
 	(No neutral color exists for {mode} mode.)	（{mode}模式不存在中性色。）
+	(none)	(none)
 	(print to the printer)	（输出到打印机）
 	+ Add variable	+ 添加变量
 	0 turns this threshold off; SVG groups nested deeper than 100 levels are always rasterized.	设为 0 可关闭此阈值；嵌套超过 100 层的 SVG 组始终会被栅格化。
@@ -179,6 +180,7 @@ cameraRaw	Amount	强度
 	Ask before saving layered tiff	保存含图层的 TIFF 前询问
 	Assign working space	指定工作空间
 	Attempt to Automatically Align Source Images	尝试自动对齐源图像
+	Author	Author
 	Auto Add/Delete	自动添加/删除
 	Auto Adjust Opacity	自动调整不透明度
 	Auto Center Preview	自动居中预览
@@ -450,6 +452,7 @@ fontWeight	Bold	粗体
 	Commit warp ({key})	应用变形（{key}）
 	Commit warp (↩)	应用变形（↩）
 	Commits	提交
+	Compare	Compare
 	Concise	简洁
 	Conditional Mode Change…	条件模式转换…
 	Cone (Inverted)	锥形（反转）
@@ -676,6 +679,7 @@ cameraData	Date Taken	拍摄日期
 	Discontiguous	不连续
 	Disks	磁盘
 	Displace…	置换…
+	Display	Display
 	Display P3	Display P3
 	Display p3	Display P3
 	Display Text	显示文字
@@ -699,6 +703,7 @@ cameraData	Date Taken	拍摄日期
 	Don't also tick Mirror Image in Print Settings…: the two flips cancel out.	不要同时勾选打印设置中的镜像：两次翻转会相互抵消。
 	Don't Import	不导入
 	Don't show again	不再显示
+	Dot	Dot
 	Dots	点
 	Double click layer mask launches select and mask	双击图层蒙版打开选择并遮住
 	Drag a box or click four corners · drag the corners onto the edges of a skewed shape · {commit} commits · Esc cancels	拖动方框或单击四个角 · 将角拖到倾斜形状的边缘 · {commit} 确认 · Esc 取消
@@ -901,6 +906,7 @@ cameraData	Focal Length (35 mm)	焦距（35 毫米等效）
 	Front Image	前面的图像
 	Fuchsia	紫红色
 	Full	完全
+	Full Screen	Full Screen
 	Full Screen Mode With Menu Bar	带菜单栏的全屏模式
 	Full size tip	全尺寸笔尖
 	Full Spherical	完整球面
@@ -1093,6 +1099,7 @@ fontWeight	Italic	斜体
 	Kerning	字偶距
 	Keyboard Shortcuts and Menus	键盘快捷键与菜单
 	Keyboard shortcuts imported	已导入键盘快捷键
+	Keywords	Keywords
 	Kind	种类
 	Knockout	挖空
 	Kurtosis	峰度
@@ -1139,6 +1146,7 @@ cameraData	Lens	镜头
 	Letter	Letter 纸
 cameraRaw	Light	光线
 fontWeight	Light	细体
+	Light Intensity	Light Intensity
 	Light Red	浅红色
 	Lighten Interface	界面变亮
 	Lighting Effects…	光照效果…
@@ -1153,6 +1161,7 @@ cameraRaw	Lights	亮调
 	Linear Height	线性高度
 	Lines	线条
 	Lines +/−	行数 +/−
+	Link	Link
 	Link Layer Mask	链接图层蒙版
 	Link Layers	链接图层
 	Link layers	链接图层
@@ -1324,6 +1333,7 @@ cameraData	Model	型号
 	New Type Layer	新建文字图层
 	New Video Layer from File…	从文件新建视频图层…
 	New Window for Document	为文档新建窗口
+	Next	Next
 	Next Document	下一个文档
 	Next frame	下一帧
 	Next note	下一条注释
@@ -1407,6 +1417,7 @@ cameraData	Model	型号
 	Output Levels:	输出色阶：
 	Output Settings	输出设置
 	Output To	输出到
+	Oval	Oval
 	Overlay Color	叠加颜色
 	Overlay Opacity	叠加不透明度
 	Overlay: Rule of Thirds	叠加：三分法
@@ -2015,6 +2026,7 @@ curves	Smooth	平滑
 	There are too many sets: delete one first.	组太多：请先删除一个。
 	There is no crop size or ratio to save	没有可保存的裁剪大小或比例
 	These settings aren't available in PhotoCraft yet.	PhotoCraft 暂不支持这些设置。
+	Thickness	Thickness
 	Thin	纤细
 fontWeight	Thin	极细
 	This document's layers need {needed} but may hold {budget}: whole-document redraws use the CPU	此文档的图层需要 {needed}，但只能占用 {budget}：整个文档的重绘使用 CPU
@@ -2085,10 +2097,12 @@ cameraRaw	Tint	色偏
 	Unlink the mask from the layer	取消蒙版与图层的链接
 	Unlock: picking a preset replaces these settings	解锁：选择预设时替换这些设置
 	Unnamed {mode} profile	未命名的 {mode} 配置文件
+	Unsharp Mask	Unsharp Mask
 	Unsharp Mask…	USM 锐化…
 	Untagged {mode}	未标记的 {mode}
 	Untitled	未标题
 	Untitled-1	未标题-1
+	Up	Up
 	Update All Modified Content	更新所有已修改的内容
 	Update All Text Layers	更新所有文字图层
 	Update layer comp (visibility, position and appearance)	更新图层复合（可见性、位置和外观）

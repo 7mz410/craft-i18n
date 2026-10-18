@@ -105,6 +105,7 @@
 	Change Space	Raum wechseln
 	Change to Current Layer	Auf aktuellen Layer ändern
 	Circumference	Umfang
+	Clear History	Clear History
 	Click the ruler to add a tab stop, right-click to remove one	Klick auf das Lineal setzt einen Tabstopp, Rechtsklick entfernt ihn
 	Closed	Geschlossen
 	Coincident	Koinzident
@@ -142,6 +143,7 @@
 	Current layer	Aktueller Layer
 	Current selection	Aktuelle Auswahl
 	Current: {color}	Aktuell: {color}
+	Custom	Custom
 	Cylinder	Zylinder
 	Default Save Format	Standard-Speicherformat
 	Define Attributes	Attribute definieren
@@ -322,6 +324,7 @@
 	Inspect Constraints	Abhängigkeiten prüfen
 	Inspect Drawing	Zeichnung untersuchen
 	Interface Language	Oberflächensprache
+	Interface language	Interface language
 	Intersect	Schnittmenge
 	Isolate Layer	Layer isolieren
 	Isometric Drafting	Isometrisches Zeichnen
@@ -435,6 +438,7 @@
 	One of the Crafting Apps by the ArtCraft team and community.	Eine der Crafting Apps vom ArtCraft-Team und seiner Community.
 	Open (⌘O)	Öffnen (⌘O)
 	Open a drawing first.	Öffnen Sie zuerst eine Zeichnung.
+	Open Recent	Open Recent
 	Open Sample Drawing	Beispielzeichnung öffnen
 	Open sample drawing	Beispielzeichnung öffnen
 	Open...	Öffnen...
@@ -446,6 +450,7 @@
 	Ortho Mode (F8)	Ortho-Modus (F8)
 	Osnap Settings...	Objektfang-Einstellungen...
 	Out	Verkleinern
+	Overlay	Overlay
 	Overline	Überstrichen
 	Override	Übersteuern
 	Page Setup Manager	Seiteneinrichtungs-Manager
@@ -627,6 +632,7 @@
 	Set Table Cell	Tabellenzelle festlegen
 	Set Variable	Variable festlegen
 	Set View	Ansicht festlegen
+	Shape	Shape
 	Show All	Alle anzeigen
 	Show All Constraint Bars	Alle Abhängigkeitsleisten anzeigen
 	Show All Dynamic Dimensions	Alle dynamischen Bemaßungen anzeigen
@@ -796,6 +802,7 @@
 	Table style	Tabellenstil
 	Table Style...	Tabellenstil...
 	Table...	Tabelle...
+	Tables	Tables
 	Tan, Tan, Radius	Tan, Tan, Radius
 	Tan, Tan, Tan	Tan, Tan, Tan
 	Tangent	Tangente

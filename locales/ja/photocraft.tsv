@@ -14,6 +14,7 @@
 	% of all commits	全コミットに占める割合 (%)
 	(coming soon)	(近日対応)
 	(No neutral color exists for {mode} mode.)	({mode} モードには中間色がありません。)
+	(none)	(none)
 	(print to the printer)	(プリンターへ出力)
 	+ Add variable	+ 変数を追加
 	0 turns this threshold off; SVG groups nested deeper than 100 levels are always rasterized.	0 でこのしきい値は無効になります。100 階層を超えて入れ子になった SVG グループは常にラスタライズされます。
@@ -592,6 +593,7 @@ cameraRaw	Color	カラー
 	Commit warp ({key})	ワープを確定({key})
 	Commit warp (↩)	ワープを確定 (↩)
 	Company	会社
+	Compare	Compare
 	Compose	構成
 	Concise	簡潔
 	Condensed	コンデンス
@@ -895,6 +897,7 @@ cameraData	Date Taken	撮影日時
 	Disks	ディスク
 	Displace	置き換え
 	Displace…	置き換え…
+	Display	Display
 	Display P3	Display P3
 	Display p3	Display P3
 	Display Text	表示テキスト
@@ -1198,6 +1201,7 @@ cameraData	Focal Length (35 mm)	焦点距離 (35 mm 換算)
 	From Transparency	透明部分から
 	Front Image	前面の画像
 	Fuchsia	フクシア
+	Full Screen	Full Screen
 	Full Screen Mode With Menu Bar	メニューバーありのフルスクリーンモード
 	Full size tip	実寸の先端
 	Full Spherical	全球
@@ -1579,6 +1583,7 @@ cameraRaw	Lights	明部
 	Linear Height	線形の高さ
 	Lines added	追加行数
 	Lines deleted	削除行数
+	Link	Link
 	Link Layer Mask	レイヤーマスクをリンク
 	Link Layers	レイヤーをリンク
 	Link layers	レイヤーをリンク
@@ -1622,6 +1627,7 @@ cameraRaw	Lights	明部
 	Lock Workspace	ワークスペースをロック
 	Lock:	ロック:
 	Lock: keep these settings when picking another preset	ロック: 別のプリセットを選んでもこの設定を保持します
+	Locked	Locked
 	Log Errors To File	エラーをファイルに記録
 	Logical Length:	論理的な長さ:
 	Logical Units:	論理単位:
@@ -2664,6 +2670,7 @@ curves	Smooth	スムーズ
 	Strength:	強さ:
 	Stroke	境界線
 	Stroke Catch-up	ストロークの追従
+	Stroke Color	Stroke Color
 	Stroke color	線のカラー
 	Stroke Detail	ストロークのディテール
 	Stroke Direction	ストロークの方向
@@ -2839,6 +2846,7 @@ fontWeight	Thin	極細
 	Underpainting	下塗り
 	Underwater	水中
 	Undo Changes	変更を取り消し
+	Ungroup	Ungroup
 	Ungroup Layers	レイヤーのグループ化を解除
 	Uniform	均一
 	Unite Shapes	シェイプを結合
@@ -2852,6 +2860,7 @@ fontWeight	Thin	極細
 	Unsharp Mask…	アンシャープマスク…
 	Untagged {mode}	タグなし {mode}
 	Untitled-1	名称未設定-1
+	Up	Up
 	Update All Modified Content	変更されたコンテンツをすべて更新
 	Update All Text Layers	すべての文字レイヤーを更新
 	Update Layer Comp	レイヤーカンプを更新

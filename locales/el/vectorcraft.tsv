@@ -1008,6 +1008,7 @@ axis	Both	Και τα δύο
 @msg	Discarded {_1} recovered document(s)	Απορρίφθηκαν {_1} ανακτημένα έγγραφα
 	Discarded {} recovered document(s)	Απορρίφθηκαν {} ανακτημένα έγγραφα
 	Discretionary Hyphen	Προαιρετικό ενωτικό
+	Display	Display
 	Display All Blacks Accurately	Ακριβής απεικόνιση όλων των μαύρων
 	Display All Blacks as Rich Black	Εμφάνιση όλων των μαύρων ως πλούσιο μαύρο
 	Display Bitmaps as Anti-aliased Images in Pixel Preview	Εμφάνιση bitmap με εξομαλυμένες ακμές στην προεπισκόπηση εικονοστοιχείων

@@ -13,6 +13,7 @@
 
 	% of all commits	% от всех коммитов
 	(No neutral color exists for {mode} mode.)	(Для режима «{mode}» нет нейтрального цвета.)
+	(none)	(none)
 	(print to the printer)	(печать на принтере)
 	+ Add variable	+ Добавить переменную
 	0 turns this threshold off; SVG groups nested deeper than 100 levels are always rasterized.	0 отключает этот порог; группы SVG с вложенностью более 100 уровней всегда растрируются.
@@ -493,6 +494,7 @@ cameraRaw	Color Grading	Цветовое тонирование
 	Commit transform ({key})	Принять трансформацию ({key})
 	Commit warp ({key})	Принять деформацию ({key})
 	Company	Компания
+	Compare	Compare
 	Compose	Компоновка
 	Concise	Кратко
 	Condensed	Узкий
@@ -729,6 +731,7 @@ cameraData	Date Taken	Дата съёмки
 	Discretionary Ligatures	Дополнительные лигатуры
 	Disks	Диски
 	Displace…	Смещение…
+	Display	Display
 	Display P3	Display P3
 	Display p3	Display P3
 	Display Text	Показывать текст
@@ -805,6 +808,7 @@ cameraData	Date Taken	Дата съёмки
 	Edit › Keyboard Shortcuts › Reset All to Defaults undoes an import.	Редактирование › Сочетания клавиш › «Сбросить всё к значениям по умолчанию» отменяет импорт.
 	Edit › Paste	Редактирование › Вставить
 	Edits that change the whole document, such as a layer's blend mode, opacity or visibility, redraw all of it.	Правки, затрагивающие весь документ, например режим наложения, непрозрачность или видимость слоя, перерисовывают его целиком.
+	Edit…	Edit…
 	Effect cache mb	Кэш эффектов (МБ)
 	Efficiency	Эффективность
 	Efficiency: 100%	Эффективность: 100%
@@ -959,6 +963,7 @@ cameraData	F-Stop	Диафрагма
 cameraData	Focal Length	Фокусное расстояние
 cameraData	Focal Length (35 mm)	Фокусное расстояние (35 мм)
 	Focal Length35mm	Фокусное расстояние (35 мм)
+	Focus	Focus
 	Focus Area…	Область фокусировки…
 	Follows only edges this close to the pointer ([ and ] change it)	Следует только за краями на таком расстоянии от указателя ([ и ] меняют его)
 	Font preview	Предпросмотр шрифтов
@@ -982,6 +987,7 @@ cameraData	Focal Length (35 mm)	Фокусное расстояние (35 мм)
 	From Transparency	Из прозрачности
 	Front Image	Изображение переднего плана
 	Fuchsia	Фуксия
+	Full Screen	Full Screen
 	Full Screen Mode	Весь экран
 	Full Screen Mode With Menu Bar	Весь экран с панелью меню
 	Full size tip	Весь диаметр кисти
@@ -1259,6 +1265,7 @@ cameraData	Lens	Объектив
 cameraRaw	Light	Свет
 fontWeight	Light	Лёгкий
 	Light Blue	Светло-синий
+	Light Intensity	Light Intensity
 	Light Red	Светло-красный
 	Light Source	Источник света
 	Lighten Interface	Сделать интерфейс светлее
@@ -1270,6 +1277,7 @@ cameraRaw	Lights	Светлые тона
 	Limits:	Пределы:
 	Line Tool	Линия
 	Linear Dodge (Add)	Линейный осветлитель (добавить)
+	Link	Link
 	Link Layer Mask	Связать маску слоя
 	Link Layers	Связать слои
 	Link layers	Связать слои
@@ -1310,6 +1318,7 @@ cameraRaw	Lights	Светлые тона
 	Lock Workspace	Заблокировать рабочую среду
 	Lock:	Закрепить:
 	Lock: keep these settings when picking another preset	Заблокировать: сохранить эти параметры при выборе другого набора
+	Locked	Locked
 	Log Errors To File	Записывать ошибки в файл
 	Logical Length:	Логическая длина:
 	Logical Units:	Логические единицы:
@@ -1555,6 +1564,7 @@ cameraRaw	Orange	Оранжевые
 	Output Settings	Параметры вывода
 	Output To	Вывод в
 	Output:	Выход:
+	Oval	Oval
 	Overlay Color	Цвет наложения
 	Overlay Opacity	Непрозрачность наложения
 	Override Action "Save" Commands	Переопределить команды «Сохранить» в операции
@@ -1729,6 +1739,7 @@ cameraRaw	Purple	Фиолетовые
 	Quick Selection found nothing there	Быстрое выделение ничего здесь не нашло
 	Quick Selection Tool	Быстрое выделение
 	Quick Sync	Быстрая синхронизация
+	Radial Blur	Radial Blur
 	Rasterize	Растрировать
 	Rasterize Layer	Растрировать слой
 	Rasterize Layer Style	Растрировать стиль слоя
@@ -2083,6 +2094,7 @@ fontWeight	SemiBold	Полужирный
 curves	Smooth	Сгладить
 	Smooth the curve values	Сгладить значения кривой
 	Smoothing	Сглаживание
+	Smoothness	Smoothness
 	Smooth…	Сглаживание…
 	SMPTE C	SMPTE C
 	Smudge	Палец
@@ -2154,6 +2166,7 @@ curves	Smooth	Сгладить
 	Straighten the image by drawing a line on it	Выровнять изображение, нарисовав на нем линию
 	Strength:	Интенсивность:
 	Stroke Catch-up	Догонять мазком
+	Stroke Color	Stroke Color
 	Stroke color	Цвет обводки
 	Stroke Path	Обвести контур
 	Stroke Path…	Обвести контур…
@@ -2219,6 +2232,7 @@ curves	Smooth	Сгладить
 	There are too many sets: delete one first.	Слишком много наборов: сначала удалите один.
 	There is no crop size or ratio to save	Нет размера или соотношения сторон кадрирования для сохранения
 	These settings aren't available in PhotoCraft yet.	Эти параметры пока недоступны в PhotoCraft.
+	Thickness	Thickness
 	Thin	Тонкий
 fontWeight	Thin	Тонкий
 	This document's layers need {needed} but may hold {budget}: whole-document redraws use the CPU	Слоям этого документа нужно {needed}, но занимать они могут {budget}: весь документ перерисовывается на CPU
@@ -2238,6 +2252,7 @@ fontWeight	Thin	Тонкий
 	Tilt-Shift…	Наклон-сдвиг…
 	Timing	Тайминг
 	Tiny	Мелкий
+	Title	Title
 	Titling Alternates	Титульные варианты
 	To drop files, start PhotoCraft under XWayland: `{command}`	Чтобы перетаскивать файлы, запустите PhotoCraft в XWayland: `{command}`
 	Toggle count group visibility	Вкл/выкл видимость группы счёта
@@ -2290,6 +2305,7 @@ fontWeight	Thin	Тонкий
 	Unavailable in this color mode	Недоступно в этом цветовом режиме
 	Uncoated CMYK	Немелованная бумага CMYK
 	Undo Changes	Отменить изменения
+	Ungroup	Ungroup
 	Ungroup Layers	Разгруппировать слои
 	Unite Shapes	Объединить фигуры
 	Units & Rulers	Единицы и линейки
@@ -2299,6 +2315,7 @@ fontWeight	Thin	Тонкий
 	Unlink the mask from the layer	Отвязать маску от слоя
 	Unlock: picking a preset replaces these settings	Разблокировать: выбор набора заменит эти параметры
 	Unnamed {mode} profile	Безымянный профиль {mode}
+	Unsharp Mask	Unsharp Mask
 	Unsharp Mask…	Нерезкое маскирование…
 	Untagged {mode}	Без профиля ({mode})
 	Untitled	Без имени

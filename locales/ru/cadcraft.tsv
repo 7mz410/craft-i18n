@@ -126,6 +126,7 @@
 	Current layer	Текущий слой
 	Current selection	Текущее выделение
 	Current: {color}	Текущий: {color}
+	Custom	Custom
 	Cylinder	Цилиндр
 	Dark	Темная
 	Default Save Format	Формат сохранения по умолчанию
@@ -307,11 +308,13 @@
 	Insertion Z	Точка вставки Z
 	Inspect Constraints	Просмотреть ограничения
 	Inspect Drawing	Просмотреть чертеж
+	Interface language	Interface language
 	Isolate Layer	Изолировать слой
 	Isometric Drafting	Изометрическое черчение
 	Join	Объединить
 	Join the ArtCraft Discord…	Присоединяйтесь к Discord ArtCraft…
 	Join us on Discord	Присоединяйтесь к нам в Discord
+	Justify	Justify
 	Keep an editable copy of this table in the drawing	Сохранить в чертеже копию этой таблицы для редактирования
 	Layer contains objects (double-click to make current)	Слой содержит объекты (дважды щелкните, чтобы сделать текущим)
 	Layer Delete	Удалить слой с объектами
@@ -410,6 +413,7 @@
 	No saved layer states	Нет сохраненных состояний слоев
 	No selection	Ничего не выделено
 	Node	Узел
+	Normal	Normal
 	Not a number or distance: {text}	Не число и не расстояние: {text}
 	Not available yet	Пока недоступно
 	Object Snap	Объектная привязка
@@ -433,6 +437,7 @@
 	Ortho Mode (F8)	Режим Орто (F8)
 	Osnap Settings...	Параметры объектной привязки...
 	Out	Отдалить
+	Overlay	Overlay
 	Override	Переопределить
 	Page Setup Manager	Диспетчер параметров листов
 	Page Setup Manager...	Диспетчер параметров листов...
@@ -476,6 +481,7 @@
 	Position X	Позиция X
 	Position Y	Позиция Y
 	Position Z	Позиция Z
+	Preview	Preview
 	Previous	Предыдущий
 	Previous Layer	Предыдущий слой
 	Primitives	Примитивы
@@ -618,6 +624,7 @@
 	Set Table Cell	Задать ячейку таблицы
 	Set Variable	Задать переменную
 	Set View	Задать вид
+	Shape	Shape
 	Sheet Books to PDF...	Книги листов в PDF...
 	Show All	Показать все
 	Show All Constraint Bars	Показать все панели ограничений
@@ -789,6 +796,7 @@
 	Table style	Стиль таблиц
 	Table Style...	Стиль таблиц...
 	Table...	Таблица...
+	Tables	Tables
 	Tan, Tan, Radius	Касательная, касательная, радиус
 	Tan, Tan, Tan	Касательная, касательная, касательная
 	Tangent	Касательность

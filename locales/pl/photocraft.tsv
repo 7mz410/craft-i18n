@@ -13,6 +13,7 @@
 
 	(coming soon)	(wkrótce)
 	(No neutral color exists for {mode} mode.)	(Dla trybu {mode} nie istnieje kolor neutralny.)
+	(none)	(none)
 	(print to the printer)	(drukuj na drukarce)
 	+ Add variable	+ Dodaj zmienną
 	0 turns this threshold off; SVG groups nested deeper than 100 levels are always rasterized.	0 wyłącza ten próg; grupy SVG zagnieżdżone głębiej niż 100 poziomów są zawsze rasteryzowane.
@@ -593,6 +594,7 @@ cameraRaw	Color Grading	Korekcja kolorystyczna
 	Commit transform (↩)	Zatwierdź przekształcenie (↩)
 	Commit warp ({key})	Zatwierdź wypaczenie ({key})
 	Commit warp (↩)	Zatwierdź wypaczenie (↩)
+	Compare	Compare
 	Compose	Skład
 	Concise	Zwięzły
 	Condensed	Wąska
@@ -893,6 +895,7 @@ cameraData	Date Taken	Data wykonania
 	Disks	Dyski
 	Displace	Przemieszczenie
 	Displace…	Przemieszczenie…
+	Display	Display
 	Display P3	Display P3
 	Display p3	Display P3
 	Display Text	Tekst wyświetlany
@@ -1203,6 +1206,7 @@ cameraData	Focal Length (35 mm)	Ogniskowa (35 mm)
 	From Transparency	Z przezroczystości
 	Front Image	Obraz na wierzchu
 	Fuchsia	Fuksja
+	Full Screen	Full Screen
 	Full Screen Mode With Menu Bar	Tryb pełnoekranowy z paskiem menu
 	Full size tip	Końcówka w pełnym rozmiarze
 	Full Spherical	Pełna sfera
@@ -1812,6 +1816,7 @@ cameraData	Model	Model
 	New Video Layer from File…	Nowa warstwa wideo z pliku…
 	New Window for Document	Nowe okno dla dokumentu
 	Newspaper	Papier gazetowy
+	Next	Next
 	Next Document	Następny dokument
 	Next frame	Następna klatka
 	Next note	Następna notatka
@@ -1866,6 +1871,7 @@ cameraData	Model	Model
 	Oil Paint	Obraz olejny
 	Oil Paint…	Obraz olejny…
 	Oldstyle	Cyfry nautyczne
+	On	On
 	On Black	Na czarnym
 	On Layers	Na warstwach
 	On White	Na białym
@@ -2650,6 +2656,7 @@ curves	Smooth	Wygładź
 	Straighten the image by drawing a line on it	Wyprostuj obraz, rysując na nim linię
 	Strength:	Siła:
 	Stroke Catch-up	Dogonienie pociągnięcia
+	Stroke Color	Stroke Color
 	Stroke color	Kolor obrysu
 	Stroke Detail	Szczegóły pociągnięcia
 	Stroke Direction	Kierunek pociągnięcia
@@ -2760,6 +2767,7 @@ fontWeight	Thin	Cienki
 cameraRaw	Tint	Odcień barwny
 	Tiny	Maleńki
 	Tiny Lens	Mały obiektyw
+	Title	Title
 	Titling Alternates	Alternatywy tytułowe
 	To Center	Do środka
 	To drop files, start PhotoCraft under XWayland: `{command}`	Aby upuszczać pliki, uruchom PhotoCraft pod XWayland: `{command}`
@@ -2824,6 +2832,7 @@ cameraRaw	Tint	Odcień barwny
 	Underpainting	Podmalowanie
 	Underwater	Pod wodą
 	Undo Changes	Cofnij zmiany
+	Ungroup	Ungroup
 	Ungroup Layers	Rozgrupuj warstwy
 	Unite Shapes	Złącz kształty
 	Units & Rulers	Jednostki i linijki
@@ -2836,6 +2845,7 @@ cameraRaw	Tint	Odcień barwny
 	Unsharp Mask…	Maska wyostrzająca…
 	Untagged {mode}	{mode} bez profilu
 	Untitled-1	Bez tytułu-1
+	Up	Up
 	Update All Modified Content	Aktualizuj całą zmodyfikowaną zawartość
 	Update All Text Layers	Aktualizuj wszystkie warstwy tekstowe
 	Update Layer Comp	Aktualizuj kompozycję warstw

@@ -179,6 +179,7 @@
 	Current Scale Only	현재 축척만
 	Current selection	현재 선택 항목
 	Current: {color}	현재: {color}
+	Custom	Custom
 	Cyan	청록색
 	Cylinder	원기둥
 	Data Extraction...	데이터 추출...
@@ -419,6 +420,7 @@ menu	Draw	그리기
 	Jogged Linear	꺾어진 선형
 	Join the ArtCraft Discord…	ArtCraft Discord 참여하기…
 	Join us on Discord	Discord에서 함께하기
+	Justify	Justify
 	Keep an editable copy of this table in the drawing	이 테이블의 편집 가능한 사본을 도면에 보관
 	Keep the system cursor visible over the drawing area	도면 영역에서도 시스템 커서 표시
 	Largest array	최대 배열 크기
@@ -541,6 +543,7 @@ menu	Modify	수정
 	No saved layer states	저장된 도면층 상태 없음
 	No supported 3D mouse found	지원되는 3D 마우스를 찾을 수 없습니다
 	Node	노드
+	Normal	Normal
 	Not available yet	아직 사용할 수 없음
 	Not Found	찾을 수 없음
 	Not loaded	로드되지 않음
@@ -565,6 +568,7 @@ menu	Modify	수정
 	Open (⌘O)	열기(⌘O)
 	Open a drawing first.	먼저 도면을 여세요.
 	Open and Save	열기 및 저장
+	Open Recent	Open Recent
 	Open Sample Drawing	예제 도면 열기
 	Open sample drawing	예제 도면 열기
 	Open Xref	외부 참조 열기
@@ -802,6 +806,7 @@ menu	Modify	수정
 	Set Variable	변수 설정
 	Set View	뷰 설정
 	Settings...	설정...
+	Shape	Shape
 	Show All Constraint Bars	모든 구속조건 막대 표시
 	Show All Dynamic Dimensions	모든 동적 치수 표시
 	Show and hide the tools of this category	이 범주의 도구 표시 및 숨기기
@@ -987,6 +992,7 @@ menu	Modify	수정
 	Table Cell Style	표 셀 스타일
 	Table Style...	표 스타일...
 	Table...	표...
+	Tables	Tables
 	Tan, Tan, Radius	접선, 접선, 반지름
 	Tan, Tan, Tan	접선, 접선, 접선
 	Tangent	접선
