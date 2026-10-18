@@ -22,7 +22,6 @@
 	+LOC	+LOC
 	, Expires: 	, Дійсний до: 
 	1 difference found	Знайдено 1 відмінність
-	1 file	1 файл
 	1 file done	Оброблено 1 файл
 	1 file needs attention	1 файл потребує уваги
 	1 instance	1 входження
@@ -66,7 +65,6 @@
 	Action name:	Назва дії:
 	Action Wizard	Майстер дій
 	Action Wizard…	Майстер дій…
-	Actions	Дії
 	Actions list	Список дій
 	Active	Активний
 	Actual Size	Фактичний розмір
@@ -198,20 +196,15 @@
 	An image has alternates or OPI information	Зображення має альтернативи або відомості OPI
 	An open-source PDF workbench — local, private, and scriptable.	Відкритий інструментарій для PDF — локальний, приватний і з підтримкою сценаріїв.
 	and {n} more	і ще {n}
-	Angle	Кут
-	Animation effects	Ефекти анімації
 	Animation that flashes can cause seizures. Check scripts and media for flicker.	Мерехтлива анімація може спричиняти напади. Перевірте сценарії та медіа на мерехтіння.
 	Annotations, form fill-in, and digital signatures	Коментарі, заповнення форми й цифрові підписи
 	Another file dialog is still open. Finish with it first.	Ще відкрито інше вікно вибору файлу. Спершу завершіть роботу з ним.
-	Any	Будь-яке
 	Any except extracting pages	Будь-які, крім видобування сторінок
 	Anyone opening the document will need this password. It's applied when you save.	Кожному, хто відкриватиме документ, знадобиться цей пароль. Він застосовується під час збереження.
 	Appear behind page	Позаду сторінки
 	Appear on top of page	Поверх сторінки
-	Appearance	Вигляд
 	Appearance mode	Режим вигляду
 	Appearance settings…	Налаштування вигляду…
-	Application	Застосунок
 	Applied 1 redaction mark. Save to remove the content from the file.	Застосовано 1 позначку вилучення. Збережіть, щоб видалити вміст із файлу.
 	Applied {n} redaction marks. Save to remove the content from the file.	Застосовано позначок вилучення: {n}. Збережіть, щоб видалити вміст із файлу.
 	Applies to 1 page	Застосовується до 1 сторінки
@@ -225,7 +218,6 @@
 calendar date	April	квітня
 	Arbitrary Mask	Довільна маска
 	Archive documents	Архівувати документи
-	Area	Площа
 	ArtCraft website	Вебсайт ArtCraft
 	Ask about this document	Запитати про цей документ
 	Asks GitHub for the latest release. Nothing is downloaded or installed automatically.	Запитує в GitHub найновіший випуск. Нічого не завантажується й не встановлюється автоматично.
@@ -247,7 +239,6 @@ calendar date	August	серпня
 	Auto-rotate pages	Автоматично повертати сторінки
 	Auto-size text to fit redaction region	Автоматично добирати розмір тексту до області вилучення
 	Automatically tag PDF	Автоматично додати теги до PDF
-	Available	Доступно
 	average	середнє
 	Back	Назад
 	Back side only	Лише зворотний бік
@@ -264,11 +255,8 @@ calendar date	August	серпня
 	Binary assets removed	Видалено бінарних ресурсів
 	Binding	Корінець
 	Binding:	Корінець:
-	Black	Чорний
-	Black and white	Чорно-білий
 	Black on white	Чорний на білому
 	Blank page	Порожня сторінка
-	Blue	Синій
 	Booklet	Буклет
 	Booklet subset:	Частина буклета:
 	Bookmark options	Параметри закладок
@@ -277,7 +265,6 @@ calendar date	August	серпня
 	Bookmarks Panel and Page	Панель закладок і сторінка
 	Border Color:	Колір рамки:
 	Borders and Colors	Рамки й кольори
-	Both	Обидва
 	Both sides	Обидва боки
 	Box	Область
 	Bring your own model (off by default)	Додайте власну модель (типово вимкнено)
@@ -289,15 +276,12 @@ calendar date	August	серпня
 	Button Style:	Стиль кнопки:
 	Buttons with the same name and value are selected in unison	Кнопки з однаковими назвою й значенням вибираються разом
 	Bytes	Байти
-	Calculate	Обчислення
 	Calibrate from two points	Калібрувати за двома точками
 	Callout	Виноска
 	Can't be read: {e}	Не вдалося прочитати: {e}
 	Cancelled	Скасовано
 	Cancelling…	Скасування…
 	Case-sensitive	З урахуванням регістру
-	Category:	Категорія:
-	Center	По центру
 	Center Footer Text	Текст по центру у нижньому колонтитулі
 	Center Header Text	Текст по центру у верхньому колонтитулі
 	Center horizontally	По центру горизонтально
@@ -341,7 +325,6 @@ calendar date	August	серпня
 	Check Box Style:	Стиль прапорця:
 	Check for accessibility	Перевірити доступність
 	Check for accessibility…	Перевірити доступність…
-	Check for updates	Перевірити оновлення
 	Check for updates…	Перевірити оновлення…
 	Check spelling	Перевіряти правопис
 	Check that the tags read in the order a sighted reader would. Use the Reading Order tool or the Tags panel to correct it.	Перевірте, чи теги читаються в тому порядку, у якому читав би зрячий читач. Виправте порядок інструментом порядку читання або на панелі тегів.
@@ -371,7 +354,6 @@ calendar date	August	серпня
 	Clean-up	Очищення
 	Clear all	Очистити все
 	Clear form	Очистити форму
-	Clear Recent Files	Очистити список нещодавніх файлів
 	Clear redaction marks	Очистити позначки вилучення
 	Clear selection / close find	Зняти виділення / закрити пошук
 	Click on the page to add a {tool}, or drag to set its size	Клацніть на сторінці, щоб додати інструмент «{tool}», або перетягніть, щоб задати розмір
@@ -381,7 +363,6 @@ calendar date	August	серпня
 	Click to sort, drag to move the column. Drag its edge to resize it.	Клацніть для сортування, перетягніть для переміщення стовпця. Тягніть за його край для зміни розміру.
 	Click vertices. Enter or double-click finishes a perimeter or area. Click the first point to close an area.	Клацайте вершини. Enter або подвійне клацання завершує периметр чи площу. Клацніть першу точку, щоб замкнути область.
 	Clockwise 90 degrees	За годинниковою стрілкою на 90 градусів
-	Close (Esc)	Закрити (Esc)
 	Close all	Закрити все
 	Close file	Закрити файл
 	Close panel	Закрити панель
@@ -396,7 +377,6 @@ calendar date	August	серпня
 	Color contrast	Колірний контраст
 	Color Images	Кольорові зображення
 	Color Spaces	Колірні простори
-	Colour	Колір
 	Colours are remapped while rendering; the document itself never changes.	Кольори змінюються під час рендерення; сам документ ніколи не змінюється.
 	Column select	Виділення стовпця
 	Comb of	Комірки для
@@ -408,7 +388,7 @@ calendar date	August	серпня
 	Combo	Розкривний список
 	Coming in milestone	З’явиться на етапі
 	Coming in milestone {m}. Items marked Ready work today.	З’явиться на етапі {m}. Елементи з позначкою «Готово» вже працюють.
-	Command	Команда
+	Comment	Comment
 	Comment and form data	Дані коментарів і форми
 	Comment list	Список коментарів
 	Commenting	Коментування
@@ -424,11 +404,9 @@ calendar date	August	серпня
 	Compare files	Порівняти файли
 	Compare files…	Порівняти файли…
 	Compare this file with an older version: Compare files… in All tools.	Порівняйте цей файл зі старішою версією: «Порівняти файли…» в розділі «Усі інструменти».
-	Compatibility	Сумісність
 	Completed	Завершено
 	Compress a PDF	Стиснути PDF
 	Compress document structure (object streams)	Стиснути структуру документа (потоки об’єктів)
-	Compression	Стиснення
 	Configure a Digital ID for Signing	Налаштувати цифрове посвідчення для підписування
 	Configure New Digital ID	Налаштувати нове цифрове посвідчення
 	Confirm Password	Підтвердьте пароль
@@ -438,12 +416,10 @@ calendar date	August	серпня
 	Content copying	Копіювання вмісту
 	Content copying for accessibility	Копіювання вмісту для доступності
 	Content Streams	Потоки вмісту
-	Continue	Продовжити
 	Continuous scrolling	Безперервне прокручування
 	Convert colors	Перетворити кольори
 	Copied {what}	Скопійовано: {what}
 	Copies, two-sided printing and colour are chosen in the browser's print dialog.	Кількість копій, двосторонній друк і колір вибирають у діалозі друку браузера.
-	Copies:	Копії:
 	Copy Image	Копіювати зображення
 	Copy Image in Original Format	Копіювати зображення в оригінальному форматі
 	Copy or cut pages first	Спочатку скопіюйте або виріжте сторінки
@@ -466,7 +442,6 @@ calendar date	August	серпня
 	Couldn't open the printer's preferences: {e}	Не вдалося відкрити налаштування принтера: {e}
 	Couldn't open the result: {e}	Не вдалося відкрити результат: {e}
 	Couldn't open the signed version: {e}	Не вдалося відкрити підписану версію: {e}
-	Couldn't open {name}: {e}	Не вдалося відкрити {name}: {e}
 	Couldn't optimize the file	Не вдалося оптимізувати файл
 	Couldn't optimize the file: {e}	Не вдалося оптимізувати файл: {e}
 	Couldn't print from the browser ({e}); downloaded {name} to print instead	Не вдалося надрукувати з браузера ({e}); натомість для друку завантажено файл {name}
@@ -540,10 +515,8 @@ key	Ctrl	Ctrl
 	Dark gray	Темно-сіра
 	Dark gray theme	Темно-сіра тема
 	Dark theme	Темна тема
-	Date	Дата
 	Date field	Поле дати
 	Date: 	Дата: 
-	Dates	Дати
 	December	Грудень
 calendar date	December	грудня
 	Decimal places:	Знаків після коми:
@@ -573,7 +546,6 @@ key	Delete	Delete
 	Delete stamp	Видалити штамп
 	Delete {o}	Видалити {o}
 	Describe the figure	Опишіть рисунок
-	Description	Опис
 	Details	Відомості
 	Detect form fields	Виявити поля форми
 	Detected 1 form field	Виявлено 1 поле форми
@@ -587,7 +559,6 @@ key	Delete	Delete
 	Digital Signature Properties	Властивості цифрового підпису
 	Digitally sign	Підписати цифровим підписом
 	Digitally signed by	Цифровий підпис
-	Discard	Відкинути
 	Discard all comments, forms and multimedia	Видалити всі коментарі, форми й мультимедіа
 	Discard all links, actions and JavaScript	Видалити всі посилання, дії та JavaScript
 	Discard all object data (file attachments)	Видалити всі дані об’єктів (файлові вкладення)
@@ -605,9 +576,7 @@ key	Delete	Delete
 	Discard User Data	Видалення даних користувача
 	Dismiss	Приховати
 	Display theme	Тема оформлення
-	Distance	Відстань
 	Distinguished name	Розпізнавальне ім’я
-	Distribute	Розподілити
 	Distribute fields	Розподілити поля
 	DN: 	DN: 
 	Document actions	Дії документа
@@ -630,10 +599,7 @@ key	Delete	Delete
 	Documents and view	Документи й перегляд
 	Documents of more than 20 pages need bookmarks for navigation. Add bookmarks for the main sections.	Документи з понад 20 сторінками потребують закладок для навігації. Додайте закладки до основних розділів.
 	Don't save	Не зберігати
-	Done	Готово
 	Done adding text	Завершити додавання тексту
-	Double-click	Подвійне клацання
-	Download	Завантажити
 	Downloaded {name}	Завантажено {name}
 @plural	Downloaded {n} PDF|Downloaded {n} PDFs	Завантажено {n} PDF-файл|Завантажено {n} PDF-файли|Завантажено {n} PDF-файлів
 	Downloading attachments on the web arrives with M3.10 ({n} bytes ready)	Завантаження вкладень у вебверсії з’явиться на етапі M3.10 (готово байтів: {n})
@@ -666,8 +632,6 @@ key	Delete	Delete
 	Duplicate field	Дублювати поле
 	Duplicate page	Дублювати сторінку
 	Duplicate pages	Дублювати сторінки
-	Duplicate…	Дублювати…
-	Dynamic	Динамічні
 	Dynamic XFA form laid out from its template: {pages}, {fields}.	Динамічну форму XFA скомпоновано за її шаблоном: {pages}, {fields}.
 	E-Sign	Електронний підпис
 	e.g. en-US	наприклад uk-UA
@@ -677,7 +641,6 @@ key	Delete	Delete
 	Each image is measured where pages draw it; an image is replaced only if the result is smaller.	Кожне зображення вимірюється там, де його відтворюють сторінки; зображення замінюється лише тоді, коли результат менший.
 	Each image once, named after the document and page. JPEG images are saved unchanged; others as PNG.	Кожне зображення один раз, із назвою документа й сторінки. Зображення JPEG зберігаються без змін; решта — як PNG.
 	Earlier in tab order	Раніше в порядку табуляції
-	Edit	Редагування
 comment menu	Edit	Редагувати
 	Edit a PDF	Редагувати PDF
 	Edit Action	Редагувати дію
@@ -702,7 +665,6 @@ comment menu	Edit	Редагувати
 	Encryption	Шифрування
 key	End	End
 	End entity	Кінцевий суб’єкт
-	Endpoint	Кінцева точка
 	Endpoints	Кінцеві точки
 	Enhance camera image	Поліпшити знімок з камери
 	Enhance page	Поліпшити сторінку
@@ -711,7 +673,6 @@ key	End	End
 	Enter the password that opens it	Введіть пароль для відкриття файлу
 	Enter the permissions password to allow combining	Введіть пароль дозволів для об’єднання
 	Entire page	Уся сторінка
-	Erase	Стерти
 	Erase drawings	Стерти малюнки
 key	Esc	Esc
 	Even and Odd Pages	Парні й непарні сторінки
@@ -726,7 +687,6 @@ key	Esc	Esc
 	Exclude tagged tables	Виключити таблиці з тегами
 	Exclusions use PDF tags. Untagged tables and code remain included. Image exclusion also removes invisible text.	Виключення використовують теги PDF. Таблиці й код без тегів залишаються в підрахунку. Виключення зображень також видаляє невидимий текст.
 	Execute a menu item	Виконати пункт меню
-	Expand	Розгорнути
 	Expand all	Розгорнути всі
 	Expand all bookmarks	Розгорнути всі закладки
 	Expand all pages	Розгорнути всі сторінки
@@ -748,7 +708,6 @@ key	Esc	Esc
 	Export measurements	Експортувати вимірювання
 	Export measurements as CSV	Експортувати вимірювання як CSV
 	Export stopped: {e}	Експорт зупинено: {e}
-	Export to	Експортувати в
 	Export to HTML…	Експортувати в HTML…
 	Export to Image	Експортувати в зображення
 	Export to image…	Експортувати в зображення…
@@ -761,12 +720,9 @@ key	Esc	Esc
 	Exported 1 image	Експортовано 1 зображення
 	Exported the text of 1 page	Експортовано текст 1 сторінки
 	Exported the text of {n} pages	Експортовано текст сторінок: {n}
-	Exported to {path}	Експортовано до {path}
 	Exported {n} images	Експортовано зображень: {n}
 	Exporting… {d} of {t}	Експорт… {d} із {t}
-	Export…	Експортувати…
 	Extended Graphics States	Розширені графічні стани
-	Extract	Видобути
 	Extract pages	Видобути сторінки
 	Extract pages as separate files	Видобути сторінки як окремі файли
 	Extract pages to a new document	Видобути сторінки в новий документ
@@ -792,7 +748,6 @@ calendar date	February	лютого
 	Figures require alternate text	Рисунки потребують альтернативного тексту
 	File (.p12, .pfx)	Файл (.p12, .pfx)
 	File attachments	Файлові вкладення
-	File Name	Назва файлу
 	File name	Назва файлу
 	File size	Розмір файлу
 @id	file.word_count	Кількість слів…
@@ -834,7 +789,6 @@ calendar date	February	лютого
 	Find tools and commands…	Знайти інструменти й команди…
 	Find untagged content	Знайти нетегований вміст
 	Finding document fonts…	Пошук шрифтів для документа…
-	Find…	Знайти…
 	Finish or discard the text being edited before selecting several objects.	Завершіть або скасуйте редагування тексту, перш ніж вибирати кілька об’єктів.
 	First / last page	Перша / остання сторінка
 	Fit	Припасувати
@@ -853,7 +807,6 @@ calendar date	February	лютого
 	Fix reading order	Виправити порядок читання
 	Fixed what could be fixed; 1 problem remains	Усе можливе виправлено; залишилася 1 проблема
 	Fixed what could be fixed; {n} problems remain	Усе можливе виправлено; залишилося проблем: {n}
-	Flatten	Звести
 	Flatten comments	Звести коментарі
 	Flatten Fill & Sign when saving	Звести «Заповнення й підпис» під час збереження
 	Flatten form fields	Звести поля форми
@@ -865,9 +818,7 @@ calendar date	February	лютого
 	Float panel	Відкріпити панель
 	Folders	Теки
 	Font colour:	Колір шрифту:
-	Font size	Розмір шрифту
 	Font size 0 uses automatic sizing.	Розмір шрифту 0 вмикає автоматичний добір розміру.
-	Font Size:	Розмір шрифту:
 	Font size:	Розмір шрифту:
 	Font: Helvetica	Шрифт: Helvetica
 	Fonts must map their characters to Unicode so text can be read and copied. Fix the fonts or recreate the PDF.	Шрифти мають зіставляти символи з Unicode, щоб текст можна було читати й копіювати. Виправте шрифти або створіть PDF заново.
@@ -884,7 +835,6 @@ calendar date	February	лютого
 	Forms	Форми
 	Formulas and similar non-text elements need alternate text. Add alternate text to them.	Формули та подібні нетекстові елементи потребують альтернативного тексту. Додайте його до них.
 	Found {n} untagged content problems.	Знайдено проблем із нетегованим вмістом: {n}.
-	From	Від
 	From a PDF page or an image	Із сторінки PDF або зображення
 	From colour	Із кольору
 	From {file}	Із {file}
@@ -899,12 +849,9 @@ calendar date	February	лютого
 	Go to the page	Перейти до сторінки
 	Go to this result	Перейти до цього результату
 	Grab bag	Добірка
-	Gray	Сірий
 	Grayscale Images	Зображення у відтінках сірого
-	Green	Зелений
 	Green on black	Зелений на чорному
 	Greyscale	Відтінки сірого
-	Grid view	Вигляд сіткою
 	H / Space (hold)	H / Пробіл (утримувати)
 	Hand (H)	Рука (H)
 	Has JavaScript actions (run in M6)	Має дії JavaScript (виконуються на етапі M6)
@@ -913,7 +860,6 @@ calendar date	February	лютого
 	header or footer	колонтитул
 	Headers	Заголовки
 	Heading levels shouldn't skip (an H1 followed by an H3). Retag the headings.	Рівні заголовків не мають пропускатися (H1, за яким іде H3). Змініть теги заголовків.
-	Height	Висота
 	Hidden layers	Приховані шари
 	Hide a field	Приховати поле
 	Hide all comments	Приховати всі коментарі
@@ -925,9 +871,6 @@ calendar date	February	лютого
 	Hide toolbars	Приховати панелі інструментів
 	Hide window controls	Приховати елементи керування вікном
 	Hides annotation	Приховує коментар
-	High	Висока
-	High Resolution	Висока роздільна здатність
-	High resolution	Висока роздільна здатність
 	Highlight	Виділення кольором
 	Highlight fields	Підсвітити поля
 	Highlight Style:	Стиль підсвічування:
@@ -935,16 +878,11 @@ calendar date	February	лютого
 key	Home	Home
 	Home / End	Home / End
 	Horizontal reversed	Горизонтально у зворотному порядку
-	Horizontal scale	Горизонтальний масштаб
-	Horizontally	Горизонтально
 	HTML web page	Вебсторінка HTML
-	Icon	Піктограма
 	Identity	Особисті дані
-	Image	Зображення
 	Image (PNG)	Зображення (PNG)
 	Image field	Поле зображення
 	Image-only PDF	PDF лише із зображень
-	Images	Зображення
 	Images and text	Зображення й текст
 	Images and text (converted to PDF)	Зображення й текст (перетворені на PDF)
 	Import comments…	Імпортувати коментарі…
@@ -982,7 +920,6 @@ key	Home	Home
 	Installed fonts…	Встановлені шрифти…
 	Intended usage	Призначення
 	Interface size	Розмір інтерфейсу
-	Intersection	Перетин
 	Intersections	Перетини
 	Invert	Інверсія
 	Invisible Rectangle	Невидимий прямокутник
@@ -1006,12 +943,10 @@ calendar date	January	січня
 	JavaScript, e.g. getField("total").value	JavaScript, наприклад getField("total").value
 	Join our Discord	Приєднатися до нашого Discord
 	Join the ArtCraft community	Приєднатися до спільноти ArtCraft
-	Join the ArtCraft Discord	Приєднатися до Discord ArtCraft
 	July	Липень
 calendar date	July	липня
 	June	Червень
 calendar date	June	червня
-	just now	щойно
 	Keep source fonts	Зберегти початкові шрифти
 	Keep tool selected	Залишати інструмент вибраним
 	Keep tool selected: on	Залишати інструмент вибраним: увімкнено
@@ -1025,9 +960,7 @@ calendar date	June	червня
 	Landscape Pages	Альбомні сторінки
 	Landscape pages	Альбомні сторінки
 	Larger pages	Більші сторінки
-	Later	Пізніше
 	Later in tab order	Пізніше в порядку табуляції
-	Layers	Шари
 	Layers Panel and Page	Панель шарів і сторінка
 	Layout and Magnification	Макет і масштаб
 	Lbl and LBody	Lbl і LBody
@@ -1057,7 +990,6 @@ calendar date	June	червня
 	List items	Елементи списку
 	List items belong in a list. Fix the list's tags.	Елементи списку мають належати списку. Виправте теги списку.
 	List labels and bodies belong in a list item. Fix the list's tags.	Позначки й вміст списку мають належати елементу списку. Виправте теги списку.
-	List view	Вигляд списком
 	Lists	Списки
 	Load document font	Завантажити шрифт документа
 	Load font…	Завантажити шрифт…
@@ -1068,10 +1000,8 @@ calendar date	June	червня
 	Logical Reading Order	Логічний порядок читання
 	Looking for PDFs…	Пошук PDF…
 	Looking for printers…	Пошук принтерів…
-	Low	Низька
 	Low resolution	Низька роздільна здатність
 	Low Resolution (150 dpi)	Низька роздільна здатність (150 dpi)
-	Magnification	Масштаб
 	Make accessible	Зробити доступним
 	Make Current Properties Default	Зробити поточні властивості типовими
 	Make Properties Default	Зробити властивості типовими
@@ -1098,12 +1028,10 @@ calendar date	March	березня
 	Mask:	Маска:
 	Match field sizes	Задати однакові розміри полів
 	Match page at 100%	Підібрати папір, масштаб 100%
-	Maximize	Розгорнути
 	Maximum	Максимальна
 	maximum	максимум
 	May	Травень
 calendar date	May	травня
-	Measure	Виміряти
 	Measure area	Виміряти площу
 	Measure distance	Виміряти відстань
 	Measure objects	Виміряти об’єкти
@@ -1117,18 +1045,13 @@ calendar date	May	травня
 	Merged 1 file into {path}	Об’єднано 1 файл у {path}
 	Merged {n} files into {path}	Об’єднано файлів ({n}) у {path}
 	Merging data files needs the desktop app	Для об’єднання файлів даних потрібен настільний застосунок
-	Metadata	Метадані
 	Microsoft Word (.docx)	Microsoft Word (.docx)
 	Midpoint	Серединна точка
 	Midpoints	Серединні точки
-	Minimize	Згорнути
 	Minimum	Мінімальна
 	minimum	мінімум
 	Mixed	Різні значення
-	Mobile	Мобільні пристрої
-	Modified	Змінено
 	Modify page	Змінити сторінку
-	More	Більше
 	More options	Додаткові параметри
 	More options:	Додаткові параметри:
 	More ways to add files	Інші способи додати файли
@@ -1178,7 +1101,6 @@ calendar date	May	травня
 	Next / previous match	Наступний / попередній збіг
 	Next figure	Наступний рисунок
 	Next month	Наступний місяць
-	Next page	Наступна сторінка
 	Next sheet	Наступний аркуш
 	Next tab	Наступна вкладка
 	Next view	Наступний вигляд
@@ -1202,7 +1124,6 @@ calendar date	May	травня
 	No issues found	Проблем не виявлено
 	No links to remove	Немає посилань для вилучення
 	No matches	Збігів немає
-	No matches.	Збігів немає.
 	No matching tools	Відповідних інструментів немає
 	No model credits were built into this copy.	У цю копію не вбудовано відомостей про моделі.
 	No openly licensed document fonts found. Load a font file.	Шрифтів із відкритою ліцензією не знайдено. Завантажте файл шрифту.
@@ -1215,7 +1136,6 @@ calendar date	May	травня
 	No preview	Немає попереднього перегляду
 	No printers were found. Check that the printer is installed and the print spooler is running, then open Print again.	Принтери не знайдено. Перевірте, що принтер установлено, а диспетчер друку працює, і знову відкрийте «Друк».
 	No problems found: the document conforms to {level}.	Проблем не виявлено: документ відповідає {level}.
-	No recent files	Немає нещодавніх файлів
 	No security	Без захисту
 	No sheets	Немає аркушів
 	No signature was found in the frame. Move the frame over the signature or raise the ink sensitivity.	У рамці не знайдено підпису. Наведіть рамку на підпис або збільште чутливість до чорнила.
@@ -1269,8 +1189,6 @@ animation effects	On	Увімкнено
 	Only checked properties will change. Mixed means the selected fields have different values.	Зміняться лише позначені властивості. «Різні значення» означає, що значення вибраних полів відрізняються.
 	Only continue if you trust this document. An address can carry information from the document, such as what you typed into its form.	Продовжуйте лише якщо довіряєте цьому документу. Адреса може містити інформацію з документа, наприклад дані, введені у форму.
 	Only the page content changes: links, comments, form fields and bookmarks on the original pages stay.	Змінюється лише вміст сторінок: посилання, коментарі, поля форми й закладки на оригінальних сторінках залишаються.
-	Opacity	Непрозорість
-	Opacity:	Непрозорість:
 	Open a document first	Спочатку відкрийте документ
 	Open a PDF ({key})	Відкрити PDF ({key})
 	Open a PDF to measure it.	Відкрийте PDF для вимірювання.
@@ -1283,7 +1201,6 @@ animation effects	On	Увімкнено
 	Open in a new tab	Відкрити в новій вкладці
 	Open in Full Screen mode	Відкрити в повноекранному режимі
 	Open in Full Screen mode?	Відкрити в повноекранному режимі?
-	Open link	Відкрити посилання
 	Open Recent	Відкрити нещодавні
 	Open the file as it was saved then	Відкрити файл у стані на момент того збереження
 	Open the older version first	Спочатку відкрийте старішу версію
@@ -1295,7 +1212,6 @@ animation effects	On	Увімкнено
 	Opened, but its security settings don't allow combining. Enter the permissions password.	Відкрито, але налаштування захисту не дозволяють об’єднання. Введіть пароль дозволів.
 	Opening the browser's print dialog…	Відкривається діалог друку браузера…
 	Opens the printer driver's preferences. They are saved for every print from this computer; the copies, two-sided, grayscale and paper chosen here still apply.	Відкриває налаштування драйвера принтера. Вони зберігаються для кожного друку з цього комп’ютера; вибрані тут кількість копій, двосторонній друк, відтінки сірого й папір і далі діють.
-	Open…	Відкрити…
 	Optimization cancelled	Оптимізацію скасовано
 	Optimization is already running	Оптимізація вже виконується
 	Optimize	Оптимізувати
@@ -1315,20 +1231,15 @@ animation effects	On	Увімкнено
 	Organization Name	Назва організації
 	Organizational Unit	Підрозділ організації
 	Organize pages	Упорядкувати сторінки
-	Orientation:	Орієнтація:
-	Original	Оригінал
 	Original: replace pages	Оригінал: замінити сторінки
 	Other colour…	Інший колір…
 	Other elements alternate text	Альтернативний текст інших елементів
 	Other elements that require alternate text	Інші елементи, які потребують альтернативного тексту
 	Outdent	Зменшити відступ
-	Outline	Контур
 	Outline colour:	Колір контуру:
-	Output	Вивід
 	Output appears here.	Тут з’являється вивід.
 	Output intent: {list}	Профіль виводу: {list}
 	Output preview	Попередній перегляд виводу
-	Overlap:	Перекриття:
 	Owner password (no restrictions apply)	Пароля власника (обмеження не застосовуються)
 	Page background	Фон сторінки
 	Page Content	Вміст сторінки
@@ -1366,7 +1277,6 @@ animation effects	On	Увімкнено
 	Pages with links, comments or fields should tab in structure order. The fix sets each page's tab order to Use Document Structure.	На сторінках із посиланнями, коментарями чи полями табуляція має відповідати порядку структури. Виправлення задає для кожної сторінки порядок «За структурою документа».
 	Pages:	Сторінки:
 	Pages: {k} of {n}	Сторінки: {k} із {n}
-	Panels	Панелі
 	Paper:	Папір:
 	Part of	Частина
 	Passed	Успішно
@@ -1376,8 +1286,6 @@ animation effects	On	Увімкнено
 	Password-protected	Захищено паролем
 	Paste after	Вставити після
 	Paste pages	Вставити сторінки
-	Path	Контур
-	Paths	Контури
 	Pattern	Шаблон
 	Patterns	Шаблони
 	Patterns (graphics objects)	Візерунки (графічні об’єкти)
@@ -1397,13 +1305,10 @@ animation effects	On	Увімкнено
 	PdfCraft {c} is up to date.	Ваша версія PdfCraft {c} актуальна.
 	PdfCraft {v} is available.	Доступна версія PdfCraft {v}.
 	People may need more time to respond. Check that nothing has a time limit.	Людям може знадобитися більше часу для відповіді. Перевірте відсутність часових обмежень.
-	Percentage	Відсоток
-	Perimeter	Периметр
 	Permissions password	Пароль дозволів
 	Permitted actions after certifying	Дозволені дії після засвідчення
 	Phone Number	Номер телефону
 	Phone Numbers	Номери телефонів
-	Photo	Фото
 	Pick a tool in the quick bar, or type above.	Виберіть інструмент на панелі швидкого доступу або введіть текст вище.
 	Pictures need alternate text that describes them, or must be marked decorative. Add alternate text to each figure.	Зображення потребують альтернативного тексту з описом або позначки декоративного рисунка. Додайте альтернативний текст до кожного рисунка.
 	Pictures on those pages are recognized too; words already in the page's text are not added again	Зображення на цих сторінках теж розпізнаються; слова, які вже є в тексті сторінки, повторно не додаються
@@ -1411,7 +1316,6 @@ animation effects	On	Увімкнено
 	Pin a folder to list its newest PDFs here, such as where your scanner or a synced cloud drive saves them.	Закріпіть теку, щоб бачити тут її найновіші PDF, наприклад теку, куди сканер або синхронізований хмарний диск зберігає файли.
 	Pin a folder…	Закріпити теку…
 	Pin folder to Home…	Закріпити теку на головній…
-	Pink	Рожевий
 	Pinned folders need the desktop app	Для закріплених тек потрібен настільний застосунок
 	Pinned {folder} to Home	Теку {folder} закріплено на головній
 	Place saved {what}	Розмістити збережене: {what}
@@ -1421,18 +1325,12 @@ animation effects	On	Увімкнено
 	Planned for milestone {m} — open to see what it will include	Заплановано на етап {m} — відкрийте, щоб побачити, що він міститиме
 	Planned · {m}	Заплановано · {m}
 	Points from the page's bottom-left corner.	Пункти від нижнього лівого кута сторінки.
-	Polygon	Багатокутник
-	Polyline	Ламана лінія
 	Portable mode is off: {folder} can't be written ({error}). Settings are kept in your user folder instead.	Портативний режим вимкнено: неможливо записати в {folder} ({error}). Налаштування зберігаються у вашій користувацькій теці.
 	Portrait Pages	Книжкові сторінки
 	Portrait pages	Книжкові сторінки
 	Post	Опублікувати
-	Poster	Плакат
 	PostScript / EPS	PostScript / EPS
 	PostScript XObjects aren't allowed	Об’єкти PostScript XObject заборонено
-	Preferences	Налаштування
-	Preferences…	Налаштування…
-	Prefix	Префікс
 	Preflight	Переддрукова перевірка
 	Prepare a form	Підготувати форму
 	Prepare for accessibility	Підготувати для доступності
@@ -1448,7 +1346,6 @@ animation effects	On	Увімкнено
 	Previous / next page	Попередня / наступна сторінка
 	Previous figure	Попередній рисунок
 	Previous month	Попередній місяць
-	Previous page	Попередня сторінка
 	Previous sheet	Попередній аркуш
 	Previous tab	Попередня вкладка
 	Previous view	Попередній вигляд
@@ -1462,9 +1359,7 @@ animation effects	On	Увімкнено
 	Print, NextPage, PrevPage, FirstPage or LastPage	Print, NextPage, PrevPage, FirstPage або LastPage
 	Printer paper and scaling may differ. Check driver settings.	Папір і масштаб принтера можуть відрізнятися. Перевірте налаштування драйвера.
 	Printer properties	Властивості принтера
-	Printer:	Принтер:
 	Printing allowed	Дозволений друк
-	Print…	Друк…
 	Privacy	Приватність
 	Private data of other applications	Приватні дані інших застосунків
 	product (x)	добуток (x)
@@ -1475,9 +1370,7 @@ animation effects	On	Увімкнено
 	Protect with password	Захистити паролем
 	Protected: the combined file won't keep its security settings	Захищено: об’єднаний файл не збереже налаштування захисту
 	Public key	Відкритий ключ
-	Purple	Фіолетовий
 	PushButton	Кнопка
-	Quality	Якість
 	Radio	Перемикач
 	Radio button	Перемикач
 	Radio Button Properties	Властивості перемикача
@@ -1486,7 +1379,6 @@ animation effects	On	Увімкнено
 	Read mode	Режим читання
 	Read Only	Лише для читання
 	Reading colours	Кольори для читання
-	Ready	Готово
 	Reason	Причина
 	Reason: 	Причина: 
 	Recent colours	Нещодавні кольори
@@ -1503,7 +1395,6 @@ animation effects	On	Увімкнено
 	Recognizing text… page {d} of {t}	Розпізнавання тексту… сторінка {d} із {t}
 	Recommended tools	Рекомендовані інструменти
 	Recover unsaved documents?	Відновити незбережені документи?
-	Red	Червоний
 	Redact	Вилучити вміст
 	Redact a PDF	Вилучити вміст PDF
 	Redact all	Вилучити весь вміст
@@ -1523,7 +1414,6 @@ animation effects	On	Увімкнено
 	Regularity	Регулярність
 	Rejected	Відхилено
 	Reliable character encoding is provided	Забезпечено надійне кодування символів
-	Reload	Перезавантажити
 	Reload documents when their files change on disk	Перезавантажувати документи, коли їхні файли змінюються на диску
 	Remove "{name}" from this list? The file itself is not deleted.	Прибрати «{name}» з цього списку? Сам файл не видаляється.
 	Remove all links	Видалити всі посилання
@@ -1585,21 +1475,15 @@ animation effects	On	Увімкнено
 	Reset panel layout	Скинути розташування панелей
 	Reset to printer defaults	Скинути до налаштувань принтера за замовчуванням
 	Resize comment	Змінити розмір коментаря
-	Resize panel window	Змінити розмір вікна панелі
-	Resize panels	Змінити розмір панелей
 	Resize window to initial page	Змінити розмір вікна за початковою сторінкою
 	Resolution	Роздільна здатність
-	Resolution:	Роздільність:
-	Restore	Відновити
 	Restrictions	Обмеження
 	Restrictions lifted	Обмеження знято
 	Retain existing	Зберегти наявне
 	Reveal in File Explorer	Показати у файловому провіднику
-	Reveal in Finder	Показати у Finder
 	Reverse closed arrow	Зворотна закрита стрілка
 	Reverse open arrow	Зворотна відкрита стрілка
 	Reverse pages	Зворотний порядок сторінок
-	Reverse the order	Зворотний порядок
 	Revert	Повернути збережену версію
 	Revert changes	Скасувати зміни
 	Revert to the previously saved version of “{name}”? Changes since then can't be undone afterwards.	Повернутися до попередньої збереженої версії «{name}»? Після цього зміни, внесені відтоді, неможливо буде повернути.
@@ -1628,7 +1512,6 @@ animation effects	On	Увімкнено
 	Rotate view clockwise ({key})	Повернути вигляд за годинниковою стрілкою ({key})
 	Rotate view counterclockwise	Повернути вигляд проти годинникової стрілки
 	Rotate:	Повернути:
-	Rows	Рядки
 	Run	Виконати
 	Run a JavaScript	Виконати JavaScript
 	Run form script	Виконати сценарій форми
@@ -1643,7 +1526,6 @@ animation effects	On	Увімкнено
 	Save & Close	Зберегти й закрити
 	Save ({key})	Зберегти ({key})
 	Save anyway	Усе одно зберегти
-	Save as PDF	Зберегти як PDF
 	Save as PDF/A	Зберегти як PDF/A
 	Save as PDF/A-1b	Зберегти як PDF/A-1b
 	Save as PDF/A-2b	Зберегти як PDF/A-2b
@@ -1679,7 +1561,6 @@ animation effects	On	Увімкнено
 	Script Name:	Назва сценарію:
 	Script:	Сценарій:
 	Scripted content must be usable with a keyboard and assistive technology. Check the document's scripts.	Вміст зі сценаріями має бути доступним для керування за допомогою клавіатури й допоміжних технологій. Перевірте сценарії документа.
-	Scripts	Сценарії
 	Scripts run in a sandbox without file or network access. A script that asks to open a web page needs your permission first. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	Сценарії виконуються в ізольованому середовищі без доступу до файлів і мережі. Сценарій, що просить відкрити вебсторінку, спочатку потребує вашого дозволу. Коли JavaScript вимкнено, стандартні функції форматування, перевірки й обчислення Acrobat усе одно працюють.
 	Scripts run in a sandbox without file or network access. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	Сценарії виконуються в ізольованому середовищі без доступу до файлів і мережі. Коли JavaScript вимкнено, стандартні функції форматування, перевірки й обчислення Acrobat усе одно працюють.
 	Scroll long text	Прокручувати довгий текст
@@ -1718,8 +1599,6 @@ animation effects	On	Увімкнено
 	Self-signed	Самопідписаний
 	Sending sheet {s} of {n} to {printer}…	Надсилання аркуша {s} із {n} на {printer}…
 	Sending to {printer}…	Надсилання на {printer}…
-	Sensitivity	Чутливість
-	Sent to {printer}	Надіслано на {printer}
 	Sent to {printer}: {msg}	Надіслано на {printer}: {msg}
 	Separate PDFs	Окремі PDF-файли
 	Separator style:	Стиль роздільників:
@@ -1749,7 +1628,6 @@ calendar date	September	вересня
 	Set the image of {name}	Задати зображення для {name}
 	Set to current page ({n})	Задати поточну сторінку ({n})
 	Set to zero	Установити нуль
-	Settings	Налаштування
 	SHA-1 digest	Відбиток SHA-1
 	SHA-256 digest	Відбиток SHA-256
 	Shadings	Градієнтні заливки
@@ -1822,10 +1700,8 @@ scroll speed	Slow	Повільна
 	Sort items	Сортувати елементи
 	sorted ascending	відсортовано за зростанням
 	sorted descending	відсортовано за спаданням
-	Source	Джерело
 key	Space	Пробіл
 	Space Audit	Аналіз місця
-	Special	Спеціальний
 	Split document	Розділити документ
 	Split document…	Розділити документ…
 	Split into files…	Розділити на файли…
@@ -1833,7 +1709,6 @@ key	Space	Пробіл
 	Squiggly	Хвилясте
 	Squiggly underline	Хвилясте підкреслення
 	Squiggly underline text	Підкреслити текст хвилястою лінією
-	Stamp	Штамп
 	Stamp palette	Палітра штампів
 	Stamps	Штампи
 	Standard Business	Стандартні ділові
@@ -1851,12 +1726,10 @@ action wizard	Start	Почати
 	Structure Info	Відомості про структуру
 certificate	Subject	Власник сертифіката
 	Submit a form	Надіслати форму
-	Subset	Підмножина
 	sum (+)	сума (+)
 	Summarize	Створити зведення
 	Summarize comments	Створити зведення коментарів
 	Summarize Options	Параметри зведення
-	Summary	Зведення
 	Switch light / dark theme	Перемкнути світлу / темну тему
 	Switch to List view to change the pages it takes.	Перейдіть до вигляду списком, щоб змінити, які сторінки взяти.
 	Switch to two-page view first to show the cover page	Спочатку перемкніть на двосторінковий вигляд, щоб показати обкладинку
@@ -2018,9 +1891,7 @@ certificate	Subject	Власник сертифіката
 	This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…	Драйвер цього принтера не приймає налаштування двобічного друку від інших програм, тому діє його власне налаштування. Змініть його у вікні Властивості…
 	This web address mixes letters from different alphabets, a common way to imitate another site's name.	Ця вебадреса поєднує літери різних абеток — поширений спосіб імітувати назву іншого сайту.
 	This web address uses letters from another alphabet, which can look like familiar ones.	Ця вебадреса використовує літери іншої абетки, які можуть виглядати як знайомі.
-	Thumbnails	Мініатюри
 	Tile scale:	Масштаб фрагментів:
-	Time	Час
 	Timed responses	Відповіді з обмеженням часу
 	Timestamp	Позначка часу
 	to	до
@@ -2029,7 +1900,6 @@ certificate	Subject	Власник сертифіката
 	To:	До:
 	Today: {date}	Сьогодні: {date}
 	Toggle fit page / fit width	Перемкнути масштаб за сторінкою / за шириною
-	Tool	Інструмент
 	Tools panel side	Бік панелі інструментів
 	Tooltip:	Підказка:
 	Top-level bookmarks ({n})	Закладки верхнього рівня ({n})
@@ -2050,15 +1920,11 @@ signature pad	Type	Ввести
 	Type text	Ввести текст
 	Type the web address.	Введіть вебадресу.
 	Type your {what}.	Введіть {what}.
-	Typewriter	Друкований текст
 	Unchecked	Без позначки
 	Underline text	Підкреслити текст
 	Undid {label}	Скасовано: {label}
 	Unit	Одиниця
-	Units	Одиниці
-	Unknown	Невідомо
 	Unknown author	Невідомий автор
-	Unlock	Розблокувати
 	Unlock comment	Розблокувати коментар
 	Unlock {name}	Розблокувати {name}
 	Unlock {n} files	Розблокувати файли: {n}
@@ -2069,7 +1935,6 @@ signature pad	Type	Ввести
 	Unpin {folder}	Відкріпити {folder}
 	Unplaced	Не розміщено
 	Unsupported measurements	Непідтримувані вимірювання
-	Update	Оновити
 	Update background	Оновити тло
 	Update background…	Оновити тло…
 	Update header & footer	Оновити колонтитули
@@ -2108,13 +1973,11 @@ signature pad	Type	Ввести
 	Validity starts	Початок строку дії
 	Value is not calculated	Значення не обчислюється
 	Value is the	Значення — це
-	Value:	Значення:
 	Verify	Перевірити
 	Verify to see what the document needs.	Виконайте перевірку, щоб з’ясувати потреби документа.
 	Version {v}	Версія {v}
 	Vertical reversed	Вертикально у зворотному порядку
 	Vertical text cannot be moved with this selection.	Вертикальний текст не можна перемістити разом із цим виділенням.
-	Vertically	Вертикально
 	Video, sound and rich media must be tagged to be announced. Tag the multimedia annotations.	Відео, звук та інтерактивне мультимедіа повинні мати теги для озвучення. Додайте теги до мультимедійних коментарів.
 	View less	Показати менше
 	View more	Показати більше
@@ -2125,7 +1988,6 @@ signature pad	Type	Ввести
 	Viewport rectangle in page points (x, y, width, height)	Прямокутник області перегляду в пунктах сторінки (x, y, ширина, висота)
 	Visible Rectangle	Видимий прямокутник
 	Visual	Візуальні
-	Warnings	Попередження
 	watermark	водяний знак
 	Weak	Слабкий
 	Welcome to PdfCraft	Вітаємо в PdfCraft
@@ -2133,7 +1995,6 @@ signature pad	Type	Ввести
 	What word or phrase would you like to search for?	Яке слово чи фразу ви хочете знайти?
 	White on black	Білий на чорному
 	Whole words only	Лише цілі слова
-	Width	Ширина
 	Window Options	Параметри вікна
 	Windows store  ·  	Сховище Windows  ·  
 	Word count	Кількість слів
@@ -2145,9 +2006,7 @@ signature pad	Type	Ввести
 	Wrote {n} files to {dir}	Записано файлів ({n}) у {dir}
 	X Object Forms	Форми XObject
 	XFA form: its fields and its XFA data are kept in step, so other viewers show what you fill in.	Форма XFA: її поля й дані XFA синхронізуються, тому інші засоби перегляду показують введені вами дані.
-	Yellow	Жовтий
 	Yellow on black	Жовтий на чорному
-	yesterday	учора
 	You are about to apply 1 redaction mark. Text, images and drawings under the marks, and comments and form fields that overlap them, are removed permanently.	Ви збираєтеся застосувати 1 позначку вилучення. Текст, зображення й малюнки під позначками, а також коментарі й поля форми, що їх перекривають, буде видалено назавжди.
 	You are about to apply {n} redaction marks. Text, images and drawings under the marks, and comments and form fields that overlap them, are removed permanently.	Ви збираєтеся застосувати позначки вилучення: {n}. Текст, зображення й малюнки під позначками, а також коментарі й поля форми, що їх перекривають, буде видалено назавжди.
 	You are viewing revision {rev} of “{from}”. It is a snapshot: changes here won't affect the original.	Ви переглядаєте редакцію {rev} документа «{from}». Це знімок: зміни тут не вплинуть на оригінал.
@@ -2155,16 +2014,13 @@ signature pad	Type	Ввести
 	You can pin up to {n} folders. Unpin one first.	Можна закріпити не більше {n} тек. Спочатку відкріпіть одну з них.
 	You have version {c}. All releases are listed at {page}.	У вас версія {c}. Усі випуски наведено на {page}.
 	You have version {c}. Download the new version from its release page.	У вас версія {c}. Завантажте нову версію зі сторінки випуску.
-	Your changes will be lost if you don't save them.	Якщо не зберегти зміни, їх буде втрачено.
 	Your name	Ваше ім’я
 	yyyy or yy year · m or mm month · mmm or mmmm month name · d or dd day · ddd or dddd weekday. H, h, M, s and t are time letters and can't be used on their own: put {escape} before a letter to show it as is.	yyyy або yy рік · m або mm місяць · mmm або mmmm назва місяця · d або dd день · ddd або dddd день тижня. H, h, M, s і t — літери часу, їх не можна використовувати окремо: поставте {escape} перед літерою, щоб показати її як є.
 	ZIP	ZIP
 	Zip Code	Поштовий індекс
 	Zip Code + 4	Поштовий індекс + 4
-	Zoom in	Збільшити
 	Zoom in ({key})	Збільшити ({key})
 	Zoom in / out (also pinch or {key}-scroll)	Збільшити / зменшити (також жестом зведення або {key}-прокручуванням)
-	Zoom out	Зменшити
 	Zoom out ({key})	Зменшити ({key})
 	Zoom to page level	За розміром сторінки
 	{0}: {1}	{0}: {1}
@@ -2200,16 +2056,13 @@ signature pad	Type	Ввести
 @plural	{n} field name collides with earlier files and will be renamed: {list}|{n} field names collide with earlier files and will be renamed: {list}	Назва {n} поля збігається з попередніми файлами та буде перейменована: {list}|Назви {n} полів збігаються з попередніми файлами та будуть перейменовані: {list}|Назви {n} полів збігаються з попередніми файлами та будуть перейменовані: {list}
 	{n} fields selected	Вибрано полів: {n}
 @plural	{n} field|{n} fields	{n} поле|{n} поля|{n} полів
-	{n} files	Файлів: {n}
 	{n} files done	Оброблено файлів: {n}
 	{n} files need attention	Файли потребують уваги: {n}
-	{n} h ago	{n} год тому
 	{n} instances	Входжень: {n}
 	{n} issues	Проблем: {n}
 	{n} marks	Позначок: {n}
 	{n} match(es) marked for redaction.	Збігів, позначених для вилучення: {n}.
 	{n} measurements use an unsupported format and are left out.	Вимірювання ({n}) використовують непідтримуваний формат і пропускаються.
-	{n} min ago	{n} хв тому
 @plural	{n} object selected|{n} objects selected	Виділено {n} об’єкт|Виділено {n} об’єкти|Виділено {n} об’єктів
 	{n} pages	Сторінок: {n}
 	{n} pages selected	Вибрано сторінок: {n}
@@ -2235,5 +2088,4 @@ signature pad	Type	Ввести
 	“{name}” changed on disk after it was opened or last saved. Saving now replaces that newer version with this one.	«{name}» змінено на диску після відкриття або останнього збереження. Збереження зараз замінить ту новішу версію цією.
 	“{name}” has security restrictions. Enter its permissions password to lift them.	«{name}» має обмеження захисту. Введіть пароль дозволів, щоб зняти їх.
 	“{name}” is protected. Enter a password to open it.	«{name}» захищено. Введіть пароль, щоб відкрити файл.
-	−Bin	−Bin
 	−LOC	−LOC

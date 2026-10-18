@@ -22,7 +22,6 @@
 	+LOC	新增行
 	, Expires: 	，有效期至：
 	1 difference found	发现 1 处差异
-	1 file	1 个文件
 	1 file done	1 个文件已完成
 	1 file needs attention	1 个文件需要处理
 	1 instance	1 个匹配
@@ -65,8 +64,6 @@
 	Action Wizard…	操作向导…
 	Actions	操作
 	Actions list	操作列表
-	Active	当前
-	Actual Size	实际大小
 	Actual size	实际大小
 	Actual text	实际文本
 	Add a button	添加按钮
@@ -159,8 +156,6 @@
 	Advanced search…	高级搜索…
 	AI assistant	AI 助手
 	Algorithm	算法
-	Align left	左对齐
-	Align right	右对齐
 	All annotations are tagged	所有注释都已标记
 	All document contents	所有文档内容
 	All document contents except metadata	除元数据外的所有文档内容
@@ -193,8 +188,6 @@
 	An image has alternates or OPI information	图像包含替代图像或 OPI 信息
 	An open-source PDF workbench — local, private, and scriptable.	开源 PDF 工作台——本地、私密、可编写脚本。
 	and {n} more	以及另外 {n} 个
-	Angle	角度
-	Animation effects	动画效果
 	Animation that flashes can cause seizures. Check scripts and media for flicker.	闪烁的动画可能导致癫痫发作。请检查脚本和媒体是否存在闪烁。
 	Annotations, form fill-in, and digital signatures	注释、填写表单和数字签名
 	Any	任何
@@ -202,10 +195,8 @@
 	Anyone opening the document will need this password. It's applied when you save.	打开文档的任何人都需要此密码。保存时应用。
 	Appear behind page	显示在页面后面
 	Appear on top of page	显示在页面上层
-	Appearance	外观
 	Appearance mode	外观模式
 	Appearance settings…	外观设置…
-	Application	应用程序
 	Applied 1 redaction mark. Save to remove the content from the file.	已应用 1 个密文标记。保存以从文件中删除内容。
 	Applied {n} redaction marks. Save to remove the content from the file.	已应用 {n} 个密文标记。保存以从文件中删除内容。
 	Applies to 1 page	应用于 1 页
@@ -218,7 +209,6 @@
 	April	四月
 	Arbitrary Mask	任意掩码
 	Archive documents	存档文档
-	Area	面积
 	ArtCraft website	ArtCraft 官网
 	Ask about this document	询问本文档
 	Asks GitHub for the latest release. Nothing is downloaded or installed automatically.	向 GitHub 查询最新版本。不会自动下载或安装任何内容。
@@ -239,27 +229,22 @@
 	Auto-rotate pages	自动旋转页面
 	Auto-size text to fit redaction region	自动调整文本大小以适应密文区域
 	Automatically tag PDF	自动标记 PDF
-	Available	可用
 	average	平均值
 	Back	返回
 	Back side only	仅背面
 	Back to all tools	返回所有工具
 	Back to the document	返回文档
-	Background	背景
 	background	背景
 	Bates numbering	贝茨编号
 	Before each selected page (select pages in Organize)	在每个选定页面之前拆分（在组织页面中选择）
 	Before the number	在数字之前
 	Beveled	斜面
 	Bicubic downsampling to	双三次降采样至
-	Binary assets removed	删除二进制资源
 	Binding	装订
 	Binding:	装订：
 	Black	黑色
-	Black and white	黑白
 	Black on white	白底黑字
 	Blank page	空白页
-	Blue	蓝色
 	Booklet	小册子
 	Booklet subset:	小册子子集：
 	Bookmark options	书签选项
@@ -268,8 +253,6 @@
 	Bookmarks Panel and Page	书签面板和页面
 	Border Color:	边框颜色：
 	Borders and Colors	边框和颜色
-	Both	两者
-	Both sides	双面
 	Box	框
 	Bring your own model (off by default)	自备模型（默认关闭）
 	Browser's print dialog	浏览器的打印对话框
@@ -280,7 +263,6 @@
 	Button Style:	按钮样式：
 	Buttons with the same name and value are selected in unison	同名同值的按钮一起选中
 	Bytes	字节
-	Calculate	计算
 	Calibrate from two points	使用两点校准
 	Callout	标注
 	Can't be read: {e}	无法读取：{e}
@@ -288,7 +270,6 @@
 	Cancelling…	正在取消…
 	Case-sensitive	区分大小写
 	Category:	类别：
-	Center	居中
 	Center Footer Text	居中页脚文本
 	Center Header Text	居中页眉文本
 	Center horizontally	水平居中
@@ -330,7 +311,6 @@
 	Check Box Style:	复选框样式：
 	Check for accessibility	无障碍检查
 	Check for accessibility…	无障碍检查…
-	Check for updates	检查更新
 	Check for updates…	检查更新…
 	Check spelling	检查拼写
 	Check that the tags read in the order a sighted reader would. Use the Reading Order tool or the Tags panel to correct it.	检查标记的阅读顺序是否与明眼读者一致。使用阅读顺序工具或标记面板进行更正。
@@ -370,7 +350,6 @@
 	Click to sort, drag to move the column. Drag its edge to resize it.	单击以排序，拖动以移动列。拖动列边缘可调整宽度。
 	Click vertices. Enter or double-click finishes a perimeter or area. Click the first point to close an area.	单击顶点。按 Enter 或双击以完成周长或面积测量。单击起点以闭合区域。
 	Clockwise 90 degrees	顺时针 90 度
-	Close (Esc)	关闭 (Esc)
 	Close all	关闭全部
 	Close file	关闭文件
 	Close panel	关闭面板
@@ -381,11 +360,9 @@
 	Collapse all bookmarks	折叠所有书签
 	Collapse all pages	折叠所有页面
 	Collapse tag	折叠标签
-	Collate	逐份打印
 	Color contrast	颜色对比度
 	Color Images	彩色图像
 	Color Spaces	颜色空间
-	Colour	颜色
 	Colours are remapped while rendering; the document itself never changes.	颜色仅在渲染时替换；文档本身不会改变。
 	Column select	列选择
 	Comb of	梳状（每格一字符），共
@@ -397,7 +374,7 @@
 	Combo	下拉列表
 	Coming in milestone	计划推出的里程碑
 	Coming in milestone {m}. Items marked Ready work today.	{m} 里程碑推出。标记为就绪的项目现已可用。
-	Command	命令
+	Comment	Comment
 	Comment and form data	注释和表单数据
 	Comment list	注释列表
 	Commenting	注释
@@ -413,11 +390,9 @@
 	Compare files	比较文件
 	Compare files…	比较文件…
 	Compare this file with an older version: Compare files… in All tools.	将此文件与旧版本比较：在所有工具中使用“比较文件…”。
-	Compatibility	兼容性
 	Completed	已完成
 	Compress a PDF	压缩 PDF
 	Compress document structure (object streams)	压缩文档结构（对象流）
-	Compression	压缩
 	Configure a Digital ID for Signing	配置用于签名的数字 ID
 	Configure New Digital ID	配置新数字 ID
 	Confirm Password	确认密码
@@ -427,12 +402,10 @@
 	Content copying	内容复制
 	Content copying for accessibility	为无障碍复制内容
 	Content Streams	内容流
-	Continue	继续
 	Continuous scrolling	连续滚动
 	Convert colors	转换颜色
 	Copied {what}	已复制{what}
 	Copies, two-sided printing and colour are chosen in the browser's print dialog.	份数、双面打印和颜色在浏览器的打印对话框中选择。
-	Copies:	份数：
 	Copy Image	复制图像
 	Copy Image in Original Format	以原始格式复制图像
 	Copy or cut pages first	请先复制或剪切页面
@@ -455,7 +428,6 @@
 	Couldn't open the printer's preferences: {e}	无法打开打印机首选项：{e}
 	Couldn't open the result: {e}	无法打开结果：{e}
 	Couldn't open the signed version: {e}	无法打开已签名版本：{e}
-	Couldn't open {name}: {e}	无法打开{name}：{e}
 	Couldn't optimize the file	无法优化文件
 	Couldn't optimize the file: {e}	无法优化文件：{e}
 	Couldn't print from the browser ({e}); downloaded {name} to print instead	无法从浏览器打印（{e}）；已改为下载 {name} 以便打印
@@ -508,7 +480,6 @@
 	Crop Image	裁剪图像
 	Crop page	裁剪页面
 	Crop pages	裁剪页面
-	Cross	叉号
 key	Ctrl	Ctrl
 	Currency symbol:	货币符号：
 	Current page ({n})	当前页（第 {n} 页）
@@ -525,13 +496,10 @@ key	Ctrl	Ctrl
 	Cut pages	剪切页面
 	Cut {what}	已剪切{what}
 	Cuts each page to its printed area, turns it upright and fits it to the sheet without stretching. One label per sheet.	将每页裁切到其打印区域，转正后不拉伸地适合纸张。每张纸一个标签。
-	Dark gray	深灰色
 	Dark gray theme	深灰色主题
 	Dark theme	深色主题
-	Date	日期
 	Date field	日期字段
 	Date: 	日期：
-	Dates	日期
 	December	十二月
 	Decimal places:	小数位数：
 	Decimals	小数位数
@@ -560,7 +528,6 @@ key	Delete	Delete
 	Delete stamp	删除图章
 	Delete {o}	删除 {o}
 	Describe the figure	描述该图形
-	Description	描述
 	Details	详情
 	Detect form fields	检测表单域
 	Detected 1 form field	检测到 1 个表单域
@@ -574,7 +541,6 @@ key	Delete	Delete
 	Digital Signature Properties	数字签名属性
 	Digitally sign	数字签名
 	Digitally signed by	数字签名者
-	Discard	放弃
 	Discard all comments, forms and multimedia	丢弃所有注释、表单和多媒体
 	Discard all links, actions and JavaScript	丢弃所有链接、动作和 JavaScript
 	Discard all object data (file attachments)	丢弃所有对象数据（文件附件）
@@ -590,11 +556,8 @@ key	Delete	Delete
 	Discard private data of other applications	丢弃其他应用程序的私有数据
 	Discard this text (Esc)	放弃此文本 (Esc)
 	Discard User Data	丢弃用户数据
-	Dismiss	关闭
 	Display theme	显示主题
-	Distance	距离
 	Distinguished name	可分辨名称
-	Distribute	分布
 	DN: 	DN：
 	Document actions	文档操作
 	Document and markups	文档和标记
@@ -616,10 +579,7 @@ key	Delete	Delete
 	Documents and view	文档与视图
 	Documents of more than 20 pages need bookmarks for navigation. Add bookmarks for the main sections.	超过 20 页的文档需要书签以便导航。请为主要章节添加书签。
 	Don't save	不保存
-	Done	完成
 	Done adding text	完成添加文本
-	Double-click	双击
-	Download	下载
 	Downloaded {name}	已下载{name}
 @plural	Downloaded {n} PDF|Downloaded {n} PDFs	已下载 {n} 个 PDF
 	Downloading attachments on the web arrives with M3.10 ({n} bytes ready)	Web 端附件下载将于 M3.10 到来（{n} 字节已就绪）
@@ -653,7 +613,6 @@ key	Delete	Delete
 	Duplicate page	复制页面
 	Duplicate pages	重复页面
 	Duplicate…	重复…
-	Dynamic	动态
 	Dynamic XFA form laid out from its template: {pages}, {fields}.	动态 XFA 表单已按模板排版：{pages}，{fields}。
 	E-Sign	电子签名
 	e.g. en-US	例如 en-US
@@ -663,7 +622,6 @@ key	Delete	Delete
 	Each image is measured where pages draw it; an image is replaced only if the result is smaller.	按页面绘制位置测量每个图像；仅在结果更小时替换图像。
 	Each image once, named after the document and page. JPEG images are saved unchanged; others as PNG.	每个图像一次，以文档和页面命名。JPEG 图像原样保存，其他为 PNG。
 	Earlier in tab order	在 Tab 顺序中前移
-	Edit	编辑
 	Edit a PDF	编辑 PDF
 	Edit Action	编辑操作
 	Edit comment	编辑注释
@@ -686,7 +644,6 @@ key	Delete	Delete
 	Encrypt with certificate	使用证书加密
 	Encryption	加密
 key	End	End
-	Endpoint	端点
 	Endpoints	端点
 	Enhance camera image	增强相机图像
 	Enhance page	增强页面
@@ -695,7 +652,6 @@ key	End	End
 	Enter the password that opens it	输入打开该文件的密码
 	Enter the permissions password to allow combining	输入权限密码以允许合并
 	Entire page	整个页面
-	Erase	擦除
 	Erase drawings	擦除绘图
 key	Esc	Esc
 	Even and Odd Pages	奇偶页
@@ -732,7 +688,6 @@ key	Esc	Esc
 	Export measurements	导出测量结果
 	Export measurements as CSV	将测量结果导出为 CSV
 	Export stopped: {e}	导出中止：{e}
-	Export to	导出为
 	Export to HTML…	导出为 HTML…
 	Export to Image	导出为图像
 	Export to image…	导出为图像…
@@ -748,9 +703,7 @@ key	Esc	Esc
 	Exported to {path}	已导出到{path}
 	Exported {n} images	已导出{n}张图像
 	Exporting… {d} of {t}	正在导出…第{d}个，共{t}个
-	Export…	导出…
 	Extended Graphics States	扩展图形状态
-	Extract	提取
 	Extract pages	提取页面
 	Extract pages as separate files	将页面提取为单独文件
 	Extract pages to a new document	将页面提取到新文档
@@ -775,7 +728,6 @@ scroll speed	Fast	快
 	Figures require alternate text	图形需要替代文本
 	File (.p12, .pfx)	文件 (.p12, .pfx)
 	File attachments	文件附件
-	File Name	文件名
 	File name	文件名
 	File size	文件大小
 @id	file.word_count	字词统计…
@@ -816,10 +768,8 @@ scroll speed	Fast	快
 	Find tools and commands…	查找工具和命令…
 	Find untagged content	查找未标记的内容
 	Finding document fonts…	正在查找文档字体…
-	Find…	查找…
 	Finish or discard the text being edited before selecting several objects.	请先完成或放弃正在编辑的文本，再选择多个对象。
 	First / last page	首页/末页
-	Fit	适合
 	Fit Height	适合高度
 	Fit one full page	单页完整显示
 	Fit Page	适合页面
@@ -835,7 +785,6 @@ scroll speed	Fast	快
 	Fix reading order	修复阅读顺序
 	Fixed what could be fixed; 1 problem remains	已修复能修复的问题；还剩 1 个问题
 	Fixed what could be fixed; {n} problems remain	已修复能修复的问题；还剩{n}个问题
-	Flatten	拼合
 	Flatten comments	拼合注释
 	Flatten Fill & Sign when saving	保存时拼合填写与签名
 	Flatten form fields	拼合表单域
@@ -847,9 +796,7 @@ scroll speed	Fast	快
 	Float panel	浮动面板
 	Folders	文件夹
 	Font colour:	字体颜色：
-	Font size	字号
 	Font size 0 uses automatic sizing.	字号为 0 时自动调整大小。
-	Font Size:	字号：
 	Font size:	字号：
 	Font: Helvetica	字体：Helvetica
 	Fonts must map their characters to Unicode so text can be read and copied. Fix the fonts or recreate the PDF.	字体必须将其字符映射到 Unicode，以便读取和复制文本。请修复字体或重新生成 PDF。
@@ -866,7 +813,6 @@ scroll speed	Fast	快
 	Forms	表单
 	Formulas and similar non-text elements need alternate text. Add alternate text to them.	公式及类似非文本元素需要替代文本。请为它们添加替代文本。
 	Found {n} untagged content problems.	发现 {n} 个未标记内容问题。
-	From	从
 	From a PDF page or an image	来自 PDF 页面或图像
 	From colour	使用颜色
 	From {file}	来自 {file}
@@ -881,12 +827,9 @@ scroll speed	Fast	快
 	Go to the page	转到该页面
 	Go to this result	转到此结果
 	Grab bag	名称列表
-	Gray	灰色
 	Grayscale Images	灰度图像
-	Green	绿色
 	Green on black	黑底绿字
 	Greyscale	灰度
-	Grid view	网格视图
 	Hand (H)	抓手 (H)
 	Has JavaScript actions (run in M6)	含 JavaScript 动作（M6 运行）
 	Header and footer	页眉和页脚
@@ -894,7 +837,6 @@ scroll speed	Fast	快
 	header or footer	页眉或页脚
 	Headers	表头
 	Heading levels shouldn't skip (an H1 followed by an H3). Retag the headings.	标题级别不应跳跃（H1 后面不应直接跟 H3）。请重新标记标题。
-	Height	高度
 	Hidden layers	隐藏图层
 	Hide a field	隐藏字段
 	Hide all comments	隐藏所有注释
@@ -906,25 +848,18 @@ scroll speed	Fast	快
 	Hide toolbars	隐藏工具栏
 	Hide window controls	隐藏窗口控件
 	Hides annotation	隐藏注释
-	High	高
-	High Resolution	高分辨率
-	High resolution	高分辨率
 	Highlight	突出显示
 	Highlight fields	高亮显示字段
 	Highlight Style:	高亮样式：
 	Highlight text	突出显示文本
 key	Home	Home
 	Horizontal reversed	水平反转
-	Horizontal scale	水平缩放
 	Horizontally	水平分布
 	HTML web page	HTML 网页
-	Icon	图标
 	Identity	身份
-	Image	图像
 	Image (PNG)	图像 (PNG)
 	Image field	图像字段
 	Image-only PDF	纯图像 PDF
-	Images	图像
 	Images and text	图像和文本
 	Images and text (converted to PDF)	图像和文本（转换为 PDF）
 	Import comments…	导入注释…
@@ -962,7 +897,6 @@ key	Home	Home
 	Installed fonts…	已安装字体…
 	Intended usage	预期用途
 	Interface size	界面大小
-	Intersection	交点
 	Intersections	交点
 	Invert	反转
 	Invisible Rectangle	不可见矩形
@@ -983,12 +917,9 @@ key	Home	Home
 	JavaScript console…	JavaScript 控制台…
 	JavaScript is turned off (Preferences ▸ JavaScript).	JavaScript 已关闭（首选项 ▸ JavaScript）。
 	JavaScript, e.g. getField("total").value	JavaScript，例如 getField("total").value
-	Join our Discord	加入我们的 Discord
 	Join the ArtCraft community	加入 ArtCraft 社区
-	Join the ArtCraft Discord	加入 ArtCraft Discord
 	July	七月
 	June	六月
-	just now	刚刚
 	Keep source fonts	保留原始字体
 	Keep tool selected	保持工具选中
 	Keep tool selected: on	保持工具选中：开
@@ -996,15 +927,12 @@ key	Home	Home
 	Key usage	密钥用途
 	Keyboard shortcuts	键盘快捷键
 	Keychain  ·  	钥匙串 · 
-	Label	标签
 	Labels: {preview}. Later pages keep their labels.	标签：{preview}。后续页面保留其标签。
 	Landscape and Portrait Pages	横向和纵向页面
 	Landscape Pages	横向页面
 	Landscape pages	横向页面
 	Larger pages	放大页面
-	Later	稍后
 	Later in tab order	在 Tab 顺序中后移
-	Layers	图层
 	Layers Panel and Page	图层和页面
 	Layout and Magnification	布局和缩放
 	Lbl and LBody	Lbl 和 LBody
@@ -1016,7 +944,6 @@ key	Home	Home
 	Left out: {names}	已略过：{names}
 	LI must be a child of L	LI 必须是 L 的子级
 	Light blue	浅蓝色
-	Light gray	浅灰色
 	Light theme	浅色主题
 	Limit of	限制为
 	Line delta	净增行数
@@ -1034,18 +961,15 @@ key	Home	Home
 	List items	列表项
 	List items belong in a list. Fix the list's tags.	列表项应位于列表内。请修复列表标记。
 	List labels and bodies belong in a list item. Fix the list's tags.	列表标签和正文应位于列表项内。请修复列表标记。
-	List view	列表视图
 	Lists	列表
 	Load document font	加载文档字体
 	Load font…	加载字体…
 	Local cross-PDF links require the desktop app	PDF 之间的本地链接需要桌面应用
 	Location: 	位置：
 	Lock comment	锁定注释
-	Locked	已锁定
 	Logical Reading Order	逻辑阅读顺序
 	Looking for PDFs…	正在查找 PDF…
 	Looking for printers…	正在查找打印机…
-	Low	低
 	Low resolution	低分辨率
 	Low Resolution (150 dpi)	低分辨率（150 dpi）
 	Magnification	缩放
@@ -1069,8 +993,6 @@ key	Home	Home
 	Marquee zoom	选框缩放
 	Mask:	掩码：
 	Match page at 100%	匹配页面并设为 100%
-	Maximize	最大化
-	Maximum	最高
 	maximum	最大值
 	May	五月
 	Measure	测量
@@ -1087,15 +1009,11 @@ key	Home	Home
 	Merged 1 file into {path}	已将 1 个文件合并到{path}
 	Merged {n} files into {path}	已将{n}个文件合并到{path}
 	Merging data files needs the desktop app	合并数据文件需要桌面端应用
-	Metadata	元数据
 	Microsoft Word (.docx)	Microsoft Word（.docx）
-	Midpoint	中点
 	Midpoints	中点
-	Minimize	最小化
 	Minimum	最低
 	minimum	最小值
 	Mixed	混合
-	Mobile	移动设备
 	Modified	修改时间
 	Modify page	修改页面
 	More	更多
@@ -1148,7 +1066,6 @@ key	Home	Home
 	Next / previous match	下一个/上一个匹配
 	Next figure	下一个图形
 	Next month	下个月
-	Next page	下一页
 	Next sheet	下一张
 	Next tab	下一个标签页
 	Next view	下一个视图
@@ -1185,7 +1102,6 @@ key	Home	Home
 	No preview	无预览
 	No printers were found. Check that the printer is installed and the print spooler is running, then open Print again.	未找到打印机。请检查打印机是否已安装、打印后台处理程序是否在运行，然后重新打开“打印”。
 	No problems found: the document conforms to {level}.	未发现问题：文档符合 {level}。
-	No recent files	没有最近的文件
 	No security	无安全性
 	No sheets	无纸张
 	No signature was found in the frame. Move the frame over the signature or raise the ink sensitivity.	框内未找到签名。请将框移到签名上，或提高墨迹灵敏度。
@@ -1237,7 +1153,6 @@ animation effects	On	开
 	Only checked properties will change. Mixed means the selected fields have different values.	只会更改勾选的属性。“混合”表示所选字段的值不同。
 	Only continue if you trust this document. An address can carry information from the document, such as what you typed into its form.	仅在您信任此文档时继续。链接地址可能携带文档中的信息，例如您在表单中输入的内容。
 	Only the page content changes: links, comments, form fields and bookmarks on the original pages stay.	仅更改页面内容：原页面的链接、注释、表单域和书签保留。
-	Opacity	不透明度
 	Opacity:	不透明度:
 	Open a document first	请先打开文档
 	Open a PDF ({key})	打开 PDF ({key})
@@ -1251,7 +1166,6 @@ animation effects	On	开
 	Open in a new tab	在新选项卡中打开
 	Open in Full Screen mode	以全屏模式打开
 	Open in Full Screen mode?	以全屏模式打开？
-	Open link	打开链接
 	Open Recent	打开最近的文件
 	Open the file as it was saved then	打开当时保存的文件
 	Open the older version first	请先打开旧版本
@@ -1263,7 +1177,6 @@ animation effects	On	开
 	Opened, but its security settings don't allow combining. Enter the permissions password.	已打开，但其安全设置不允许合并。请输入权限密码。
 	Opening the browser's print dialog…	正在打开浏览器的打印对话框…
 	Opens the printer driver's preferences. They are saved for every print from this computer; the copies, two-sided, grayscale and paper chosen here still apply.	打开打印机驱动程序的首选项。这些设置会保存并用于此电脑上的所有打印；此处选择的份数、双面、灰度和纸张仍然适用。
-	Open…	打开…
 	Optimization cancelled	已取消优化
 	Optimization is already running	优化已在运行
 	Optimize	优化
@@ -1279,24 +1192,18 @@ animation effects	On	开
 	Optimizing… writing the copy	正在优化…写入副本
 	Optional	可选
 	Optional: needs an AI provider you configure	可选：需要您自行配置 AI 服务商
-	Orange	橙色
 	Organization Name	组织名称
 	Organizational Unit	组织单位
 	Organize pages	组织页面
-	Orientation:	方向：
-	Original	原始
 	Original: replace pages	原文档：替换页面
 	Other colour…	其他颜色…
 	Other elements alternate text	其他元素替代文本
 	Other elements that require alternate text	需要替代文本的其他元素
 	Outdent	减少缩进
-	Outline	轮廓
 	Outline colour:	轮廓颜色:
-	Output	输出
 	Output appears here.	输出显示在此处。
 	Output intent: {list}	输出意图：{list}
 	Output preview	输出预览
-	Overlap:	重叠：
 	Owner password (no restrictions apply)	所有者密码（无限制）
 	Page background	页面背景
 	Page Content	页面内容
@@ -1334,7 +1241,6 @@ animation effects	On	开
 	Pages with links, comments or fields should tab in structure order. The fix sets each page's tab order to Use Document Structure.	包含链接、注释或字段的页面应按结构顺序 Tab。修复操作将每页的 Tab 顺序设为“使用文档结构”。
 	Pages:	页面：
 	Pages: {k} of {n}	页面：{k}/{n}
-	Panels	面板
 	Paper:	纸张：
 	Part of	隶属于
 	Passed	通过
@@ -1344,8 +1250,6 @@ animation effects	On	开
 	Password-protected	受密码保护
 	Paste after	在后面粘贴
 	Paste pages	粘贴页面
-	Path	路径
-	Paths	路径
 	Pattern	模式
 	Patterns	模式
 	Patterns (graphics objects)	图案
@@ -1365,13 +1269,10 @@ animation effects	On	开
 	PdfCraft {c} is up to date.	PdfCraft {c} 已是最新。
 	PdfCraft {v} is available.	PdfCraft {v} 可用。
 	People may need more time to respond. Check that nothing has a time limit.	人们可能需要更多时间来响应。请检查确认没有时间限制。
-	Percentage	百分比
-	Perimeter	周长
 	Permissions password	权限密码
 	Permitted actions after certifying	认证后允许的操作
 	Phone Number	电话号码
 	Phone Numbers	电话号码
-	Photo	照片
 	Pick a tool in the quick bar, or type above.	在快捷栏中选择工具，或在上方输入。
 	Pictures need alternate text that describes them, or must be marked decorative. Add alternate text to each figure.	图片需要描述性的替代文本，或标为装饰性。请为每个图形添加替代文本。
 	Pictures on those pages are recognized too; words already in the page's text are not added again	这些页面上的图片也会被识别；页面文本中已有的单词不会重复添加
@@ -1388,18 +1289,12 @@ animation effects	On	开
 	Planned for milestone {m} — open to see what it will include	计划于 {m} 里程碑——打开查看将包含的内容
 	Planned · {m}	计划中 · {m}
 	Points from the page's bottom-left corner.	从页面左下角算起的点数。
-	Polygon	多边形
-	Polyline	多段线
 	Portable mode is off: {folder} can't be written ({error}). Settings are kept in your user folder instead.	便携模式已关闭：无法写入{folder}（{error}）。设置改为保存在你的用户文件夹中。
 	Portrait Pages	纵向页面
 	Portrait pages	纵向页面
 	Post	发布
-	Poster	海报
 	PostScript / EPS	PostScript / EPS
 	PostScript XObjects aren't allowed	不允许使用 PostScript XObject
-	Preferences	首选项
-	Preferences…	首选项…
-	Prefix	前缀
 	Preflight	印前检查
 	Prepare a form	准备表单
 	Prepare for accessibility	无障碍准备
@@ -1415,7 +1310,6 @@ animation effects	On	开
 	Previous / next page	上一页/下一页
 	Previous figure	上一个图形
 	Previous month	上个月
-	Previous page	上一页
 	Previous sheet	上一张
 	Previous tab	上一个标签页
 	Previous view	上一个视图
@@ -1429,9 +1323,7 @@ animation effects	On	开
 	Print, NextPage, PrevPage, FirstPage or LastPage	Print、NextPage、PrevPage、FirstPage 或 LastPage
 	Printer paper and scaling may differ. Check driver settings.	打印机纸张和缩放可能不同。请检查驱动程序设置。
 	Printer properties	打印机属性
-	Printer:	打印机：
 	Printing allowed	允许打印
-	Print…	打印…
 	Privacy	隐私
 	Private data of other applications	其他应用程序的私有数据
 	product (x)	求积 (x)
@@ -1444,7 +1336,6 @@ animation effects	On	开
 	Public key	公钥
 	Purple	紫色
 	PushButton	按钮
-	Quality	质量
 	Radio	单选按钮
 	Radio button	单选按钮
 	Radio Button Properties	单选按钮属性
@@ -1453,7 +1344,6 @@ animation effects	On	开
 	Read mode	阅读模式
 	Read Only	只读
 	Reading colours	阅读配色
-	Ready	就绪
 	Reason	原因
 	Reason: 	原因：
 	Recent colours	最近使用的颜色
@@ -1470,7 +1360,6 @@ animation effects	On	开
 	Recognizing text… page {d} of {t}	正在识别文本…第{d}页，共{t}页
 	Recommended tools	推荐工具
 	Recover unsaved documents?	要恢复未保存的文档吗？
-	Red	红色
 	Redact	密文
 	Redact a PDF	密文 PDF
 	Redact all	全部密文
@@ -1489,7 +1378,6 @@ animation effects	On	开
 	Regularity	规则性
 	Rejected	已拒绝
 	Reliable character encoding is provided	提供了可靠的字符编码
-	Reload	重新加载
 	Reload documents when their files change on disk	文件在磁盘上更改时重新加载对应的文档
 	Remove "{name}" from this list? The file itself is not deleted.	从此列表中移除“{name}”？文件本身不会被删除。
 	Remove all links	删除所有链接
@@ -1550,17 +1438,12 @@ animation effects	On	开
 	Reset panel layout	重置面板布局
 	Reset to printer defaults	恢复打印机默认设置
 	Resize comment	调整注释大小
-	Resize panel window	调整面板窗口大小
-	Resize panels	调整面板大小
 	Resize window to initial page	调整窗口大小以适合初始页面
-	Resolution	分辨率
-	Resolution:	分辨率：
 	Restore	还原
 	Restrictions	限制
 	Restrictions lifted	已解除限制
 	Retain existing	保留现有
 	Reveal in File Explorer	在文件资源管理器中显示
-	Reveal in Finder	在 Finder 中显示
 	Reverse closed arrow	反向闭合箭头
 	Reverse open arrow	反向开口箭头
 	Reverse pages	逆序页面
@@ -1592,8 +1475,6 @@ animation effects	On	开
 	Rotate view clockwise	顺时针旋转视图
 	Rotate view clockwise ({key})	顺时针旋转视图 ({key})
 	Rotate view counterclockwise	逆时针旋转视图
-	Rotate:	旋转：
-	Rows	行
 	Run	运行
 	Run a JavaScript	运行 JavaScript
 	Run JavaScript	运行 JavaScript
@@ -1607,7 +1488,6 @@ animation effects	On	开
 	Save & Close	保存并关闭
 	Save ({key})	保存 ({key})
 	Save anyway	仍然保存
-	Save as PDF	另存为 PDF
 	Save as PDF/A	另存为 PDF/A
 	Save as PDF/A-1b	另存为 PDF/A-1b
 	Save as PDF/A-2b	另存为 PDF/A-2b
@@ -1642,7 +1522,6 @@ animation effects	On	开
 	Screen readers choose their voice from the document's language. Set it in Document Properties > Advanced > Language.	屏幕阅读器根据文档语言选择语音。请在“文档属性”>“高级”>“语言”中设置。
 	Script Name:	脚本名称：
 	Script:	脚本：
-	Scripts	脚本
 	Scripts run in a sandbox without file or network access. A script that asks to open a web page needs your permission first. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	脚本在沙盒中运行，无法访问文件或网络。脚本请求打开网页时，需要先获得您的许可。关闭 JavaScript 后，Acrobat 的标准格式、验证和计算函数仍可使用。
 	Scripts run in a sandbox without file or network access. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	脚本在无文件和网络访问权限的沙盒中运行。关闭 JavaScript 后，Acrobat 的标准格式化、验证和计算函数仍可使用。
 	Scroll long text	滚动长文本
@@ -1681,7 +1560,6 @@ animation effects	On	开
 	Self-signed	自签名
 	Sending sheet {s} of {n} to {printer}…	正在将第 {s} 张（共 {n} 张）发送到{printer}…
 	Sending to {printer}…	正在发送到{printer}…
-	Sensitivity	灵敏度
 	Sent to {printer}	已发送到{printer}
 	Sent to {printer}: {msg}	已发送到{printer}：{msg}
 	Separate PDFs	单独的 PDF
@@ -1711,7 +1589,6 @@ animation effects	On	开
 	Set the image of {name}	设置 {name} 的图像
 	Set to current page ({n})	设为当前页（第 {n} 页）
 	Set to zero	置零
-	Settings	设置
 	Shadings	着色
 	Shared Field Properties	共享字段属性
 	Sheet {s} of {n}	第 {s} 张，共 {n} 张
@@ -1733,7 +1610,6 @@ key	Shift	Shift
 	Show the accessibility report	显示无障碍报告
 	Show this dialog when the Checker starts	启动检查器时显示此对话框
 	Show {n} more	再显示 {n} 个
-	Show:	显示：
 	Shown while the pointer is over a mark.	指针位于标记上方时显示。
 	Shrink oversized pages	缩小过大的页面
 	Side by side	并排
@@ -1785,14 +1661,12 @@ scroll speed	Slow	慢
 	Source	来源
 key	Space	空格
 	Space Audit	空间审计
-	Special	特殊
 	Split document	拆分文档
 	Split document…	拆分文档…
 	Split into files…	拆分为多个文件…
 	Spreadsheet (.xlsx)	电子表格（.xlsx）
 	Squiggly underline	波浪下划线
 	Squiggly underline text	波浪下划线文本
-	Stamp	图章
 	Stamp palette	图章面板
 	Stamps	图章
 	Standard Business	标准业务
@@ -1800,7 +1674,6 @@ key	Space	空格
 	Start	开始
 	Start Checking	开始检查
 	Start page number	起始页码
-	Status	状态
 	Steps	步骤
 	Sticky note	附注
 	Strength: {s}	强度：{s}
@@ -1808,12 +1681,10 @@ key	Space	空格
 	Strong	强
 	Structure Info	结构信息
 	Submit a form	提交表单
-	Subset	子集
 	sum (+)	求和 (+)
 	Summarize	摘要
 	Summarize comments	汇总注释
 	Summarize Options	汇总选项
-	Summary	摘要
 	Switch light / dark theme	切换浅色/深色主题
 	Switch to List view to change the pages it takes.	切换到列表视图以更改要使用的页面。
 	Switch to two-page view first to show the cover page	请先切换到双页视图，才能显示封面页
@@ -1969,9 +1840,7 @@ key	Space	空格
 	This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…	此打印机的驱动程序不接受其他程序的双面打印设置，因此使用其自身设置。更改位置：属性…
 	This web address mixes letters from different alphabets, a common way to imitate another site's name.	此网址混用了不同字母表的字母，这是仿冒其他网站名称的常见手法。
 	This web address uses letters from another alphabet, which can look like familiar ones.	此网址使用了其他字母表的字母，它们可能看起来像熟悉的字母。
-	Thumbnails	缩略图
 	Tile scale:	平铺比例：
-	Time	时间
 	Timed responses	限时响应
 	Timestamp	时间戳
 	to	到
@@ -1980,7 +1849,6 @@ key	Space	空格
 	To:	至：
 	Today: {date}	今天：{date}
 	Toggle fit page / fit width	切换适合页面/适合宽度
-	Tool	工具
 	Tools panel side	工具面板位置
 	Tooltip:	提示：
 	Top-level bookmarks ({n})	顶层书签（{n} 个）
@@ -2000,13 +1868,10 @@ key	Space	空格
 	Type text	输入文本
 	Type the web address.	输入网址。
 	Type your {what}.	请输入您的{what}。
-	Typewriter	打字机
 	Unchecked	未勾选
 	Underline text	下划线文本
 	Undid {label}	已撤销{label}
 	Unit	单位
-	Units	单位
-	Unknown	未知
 	Unknown author	未知作者
 	Unlock	解锁
 	Unlock comment	解锁注释
@@ -2019,7 +1884,6 @@ key	Space	空格
 	Unpin {folder}	取消固定 {folder}
 	Unplaced	未放置
 	Unsupported measurements	不支持的测量
-	Update	更新
 	Update background	更新背景
 	Update background…	更新背景…
 	Update header & footer	更新页眉和页脚
@@ -2057,7 +1921,6 @@ key	Space	空格
 	Validity starts	有效期开始
 	Value is not calculated	不计算值
 	Value is the	值为
-	Value:	值：
 	Verify	验证
 	Verify to see what the document needs.	验证以查看文档需要什么。
 	Version {v}	版本{v}
@@ -2074,7 +1937,7 @@ key	Space	空格
 	Viewport rectangle in page points (x, y, width, height)	以页面点数指定视口矩形（x、y、宽度、高度）
 	Visible Rectangle	可见矩形
 	Visual	视觉
-	Warnings	警告
+	Warning	Warning
 	watermark	水印
 	Weak	弱
 	Welcome to PdfCraft	欢迎使用 PdfCraft
@@ -2082,7 +1945,6 @@ key	Space	空格
 	What word or phrase would you like to search for?	您想搜索哪个词或短语？
 	White on black	黑底白字
 	Whole words only	仅全字匹配
-	Width	宽度
 	Window Options	窗口选项
 	Windows store  ·  	Windows 证书存储 · 
 	Word count	字词统计
@@ -2094,9 +1956,7 @@ key	Space	空格
 	Wrote {n} files to {dir}	已将{n}个文件写入{dir}
 	X Object Forms	XObject 表单
 	XFA form: its fields and its XFA data are kept in step, so other viewers show what you fill in.	XFA 表单：字段与 XFA 数据保持同步，以便其他阅读器显示您填写的内容。
-	Yellow	黄色
 	Yellow on black	黑底黄字
-	yesterday	昨天
 	You are about to apply 1 redaction mark. Text, images and drawings under the marks, and comments and form fields that overlap them, are removed permanently.	即将应用 1 个密文标记。标记下的文本、图像和绘图，以及与其重叠的注释和表单域，将被永久删除。
 	You are about to apply {n} redaction marks. Text, images and drawings under the marks, and comments and form fields that overlap them, are removed permanently.	即将应用 {n} 个密文标记。标记下的文本、图像和绘图，以及与其重叠的注释和表单域，将被永久删除。
 	You are viewing revision {rev} of “{from}”. It is a snapshot: changes here won't affect the original.	您正在查看“{from}”的修订版本 {rev}。这是快照：在此处所做的更改不会影响原始文档。
@@ -2110,10 +1970,8 @@ key	Space	空格
 	ZIP	ZIP
 	Zip Code	邮政编码
 	Zip Code + 4	邮政编码 + 4
-	Zoom in	放大
 	Zoom in ({key})	放大 ({key})
 	Zoom in / out (also pinch or {key}-scroll)	放大/缩小（也可用捏合或 {key}+滚轮）
-	Zoom out	缩小
 	Zoom out ({key})	缩小 ({key})
 	Zoom to page level	缩放到整页
 	{0}: {1}	{0}：{1}
@@ -2149,16 +2007,13 @@ key	Space	空格
 @plural	{n} field name collides with earlier files and will be renamed: {list}|{n} field names collide with earlier files and will be renamed: {list}	{n} 个字段名与之前的文件冲突，将被重命名: {list}
 	{n} fields selected	已选择 {n} 个字段
 @plural	{n} field|{n} fields	{n} 个字段
-	{n} files	{n} 个文件
 	{n} files done	{n} 个文件已完成
 	{n} files need attention	{n} 个文件需要处理
-	{n} h ago	{n} 小时前
 	{n} instances	{n} 个匹配
 	{n} issues	{n} 个问题
 	{n} marks	{n} 个标记
 	{n} match(es) marked for redaction.	已标记 {n} 个匹配以待密文。
 	{n} measurements use an unsupported format and are left out.	{n} 个测量使用了不支持的格式，已被排除。
-	{n} min ago	{n} 分钟前
 @plural	{n} object selected|{n} objects selected	已选择 {n} 个对象
 	{n} pages	{n} 页
 	{n} pages selected	已选择 {n} 页
@@ -2182,5 +2037,4 @@ key	Space	空格
 	“{name}” changed on disk after it was opened or last saved. Saving now replaces that newer version with this one.	“{name}”在打开或上次保存后已在磁盘上更改。现在保存会用此版本替换那个较新的版本。
 	“{name}” has security restrictions. Enter its permissions password to lift them.	“{name}”有安全限制。请输入其权限密码以解除限制。
 	“{name}” is protected. Enter a password to open it.	“{name}”受保护。请输入密码以打开。
-	−Bin	删除资源
 	−LOC	删除行

@@ -73,7 +73,6 @@
 	Add tab stop at:	制表位添加位置：
 	Add Text	添加文字
 	Add the chapter number	添加章节编号
-	Add to Dictionary	添加到词典
 	Add to Document	添加到文档
 	Add to Quick Access Toolbar	添加到快速访问工具栏
 	Add to Style Gallery	添加到样式库
@@ -89,7 +88,6 @@
 	Address labels	地址标签
 	Address:	地址：
 	Address\nBlock	地址块
-	Adjust	调整
 	Advanced Find	高级查找
 	Advanced Find…	高级查找…
 	After:	段后：
@@ -100,20 +98,14 @@
 	Align Center	水平居中
 	Align Center Left	中部左对齐
 	Align Center Right	中部右对齐
-	Align Left	左对齐
-	Align Right	右对齐
-	Align Text	对齐文本
 	Align Top Center	靠上居中对齐
 	Align Top Left	靠上左对齐
 	Align Top Right	靠上右对齐
 	Aligned at:	对齐位置：
-	Alignment	对齐方式
 	Alignment:	对齐方式：
 	All Borders	所有框线
-	All Caps	全部大写
 	All caps	全部大写
 	All Commands	所有命令
-	All files	所有文件
 	All Levels	所有级别
 	All Markup	所有标记
 	All pages in the range	范围内的所有页面
@@ -131,7 +123,6 @@
 	Alt\nText	替代\n文字
 	And	与
 	Animate the caret (it glides and fades)	为光标添加动画（平滑移动并淡入淡出）
-	Animation	动画
 	Animation effects:	动画效果：
 	Another file	其他文件
 	Any Character	任意字符
@@ -141,25 +132,19 @@
 	Anyone who opens the document will need this password.	打开文档的任何人都需要此密码。
 	Apply as you type	键入时应用
 	Apply Asian line-breaking rules (kinsoku)	应用亚洲文字的断行规则（禁则）
-	Apply Character Style	应用字符样式
 	Apply formatting to:	将格式应用于：
 	Apply Style	应用样式
 	Apply Styles	选择并应用样式
-	Apply to:	应用于：
 	Arabic	阿拉伯
 	Arch Down	下弯弧
 	Arch Up	上弯弧
 	Area	面积图
-	Arrange	排列
 	Arrange\nAll	全部重排
-	Arrows	箭头
 	Artistic Effects	艺术效果
 	As Recommended	按推荐
 	As you type	键入时
-	Ascending	升序
 	Asian text font:	亚洲文字字体：
 	Asian Typography	亚洲版式
-	Assign	指定
 	At least	最小值
 	At least {n}	最小值 {n}
 	Atelier	画室
@@ -173,7 +158,6 @@
 	AutoFit Contents	根据内容自动调整
 	AutoFit Window	根据窗口自动调整
 	AutoFormat As You Type	键入时自动套用格式
-	Automatic	自动
 	Automatic ({language})	自动（{language}）
 	Automatic ({region})	自动（{region}）
 	Automatic bulleted lists	自动项目符号列表
@@ -196,7 +180,6 @@
 	Balloons	批注框
 	Banded Columns	镶边列
 	Banded Rows	镶边行
-	Bar	竖线对齐
 	Base text:	基准文字：
 	Based on: {style}	基于：{style}
 	Basic Cycle	基本循环
@@ -213,7 +196,6 @@
 	Below the item	项目下方
 	Between	段落之间
 	Bibliography	参考文献
-	Binary assets removed	删除二进制资源
 	Blank	空白
 	Blank (Three Columns)	空白（三栏）
 	Blank document	空白文档
@@ -229,7 +211,6 @@
 	Border lines	边框线
 	Border Painter	边框刷
 	Border\nPainter	边框刷
-	Borders	边框
 	Borders and Shading	边框和底纹
 	Borders and Shading…	边框和底纹…
 	Both Sides	两侧
@@ -241,7 +222,6 @@
 	Bottom Right Cell	右下单元格
 	Box	方框
 	Bracket	括号
-	Break Link	断开链接
 	Breaks	分隔符
 	Bring Forward	上移一层
 	Browse in WordCraft…	在 WordCraft 中浏览…
@@ -249,7 +229,6 @@
 	Built-In	内置
 	Built-in style	内置样式
 	Built-in styles can't be deleted.	内置样式不能删除。
-	Bullet	项目符号
 	Bullet Library	项目符号库
 	Bullets	项目符号
 	By author	按作者
@@ -261,7 +240,6 @@
 	Capitalize first letter of sentences	句首字母大写
 	Capitalize first letter of table cells	表格单元格首字母大写
 	Capitalize names of days	星期名称首字母大写
-	Caption	题注
 	Caption Numbering	题注编号
 	Caption text	题注文字
 	Caption:	题注：
@@ -273,13 +251,7 @@
 	Category {n}	类别 {n}
 	Cell	单元格
 	Cell Margins	单元格边距
-	Cell Size	单元格大小
 	Cell\nMargins	单元格边距
-	Center	居中
-	Centered	居中
-	Centimeters	厘米
-	Change	更改
-	Change Case	更改大小写
 	Change Chart Type	更改图表类型
 	Change Colors	更改颜色
 	Change Layout	更改布局
@@ -297,7 +269,6 @@
 	Changes	修订
 	Chapter in a book	书籍章节
 	Chapters begin at:	章节起始于：
-	Character	字符
 	Character Border	字符边框
 	Character code:	字符代码：
 	Character in Range	范围内的字符
@@ -336,7 +307,6 @@
 	Citation Style	引文样式
 	Citations	引文
 	Citations & Bibliography	引文与参考文献
-	City	城市
 	Clear All Formatting	清除所有格式
 	Clear Character Formatting	清除字符格式
 	Clear Character Style	清除字符样式
@@ -364,7 +334,6 @@
 	Color only	仅颜色
 	Color: {color}	颜色：{color}
 	Colorful	彩色
-	Colors	颜色
 	Colors:	颜色:
 	Column	栏
 	Column Break	分栏符
@@ -377,7 +346,6 @@
 	Combine Documents	合并文档
 	Combo Box Content Control	组合框内容控件
 	Commands	命令
-	Commands:	命令：
 	Comment	批注
 	Comments	批注
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	在 PDF、打印和图像中于每页旁显示批注和修订；在网页、Markdown 和文本末尾附上批注列表。
@@ -390,7 +358,6 @@
 	Compare to	比较值
 	Compared: {changes} changes	已比较: {changes} 处更改
 	Comparing with another file needs the desktop app.	与其他文件比较需要桌面版应用。
-	Comparison	比较
 	Comparison settings	比较设置
 	Compress Pictures	压缩图片
 	Compress punctuation at the start of a line	压缩行首标点
@@ -399,7 +366,6 @@
 	Confirm password:	确认密码：
 	Connect Shapes	连接形状
 	Container Title	载体标题
-	Contains	包含
 	Content Control at Selection	所选位置的内容控件
 	Content Control Properties	内容控件属性
 	Contents can't be edited	无法编辑内容
@@ -413,12 +379,10 @@
 	Convert Text to Table…	文本转换成表格…
 	Convert to Shapes	转换为形状
 	Convert to Text	转换为文本
-	Copies	份数
 	Copy Formatting	复制格式
 	Copy of the text a bookmark marks	书签的文本
 	Copy Styles	复制样式
 	Copy to	复制到
-	Copyright	版权
 	Copyright Sign	版权符号
 	Correct accidental usage of cAPS LOCK key	更正误按 Caps Lock 键造成的大小写错误
 	Correct TWo INitial CApitals	更正前两个字母连续大写
@@ -428,7 +392,6 @@
 	Couldn't open {path}: {error}	无法打开 {path}：{error}
 	Count by:	行号间隔：
 	Count words in text boxes and notes	统计文本框、脚注和尾注中的字数
-	Country	国家/地区
 	Courtesy Title	称谓
 	Cover Page	封面
 	Craft	工艺
@@ -439,10 +402,8 @@
 	Create New Style	创建新样式
 	Create Source	创建源
 	Croatian	克罗地亚语
-	Crop	裁剪
 	Cross-reference	交叉引用
 	Cross-reference:	交叉引用：
-	Current	当前
 	Current Position	当前位置
 	Current style: {style}	当前样式：{style}
 	Curved Arrow Connector	曲线箭头连接符
@@ -461,7 +422,6 @@
 	Customize Quick Access Toolbar…	自定义快速访问工具栏…
 	Customize Ribbon	自定义功能区
 	Customize the Ribbon…	自定义功能区…
-	Customize…	自定义…
 	Cycle	循环
 	Czech	捷克语
 	Danish	丹麦语
@@ -469,10 +429,8 @@
 	Dark page (white text on black)	深色页面（黑底白字）
 	Dark with Shadow	深色带阴影
 	Darkroom	暗房
-	Data	数据
 	Data Labels	数据标签
 	Date & Time	日期和时间
-	Date and Time	日期和时间
 	Date formats:	日期格式：
 	Date Picker Content Control	日期选取器内容控件
 	Day	日
@@ -498,7 +456,6 @@
 	Delete Previous Word	删除前一个单词
 	Delete Rows	删除行
 	Delete Selected Ink	删除所选墨迹
-	Delete Style	删除样式
 	Delete Table	删除表格
 	Delete Table Style	删除表格样式
 	Deleted	已删除
@@ -506,7 +463,6 @@
 	Delivery address:	收信人地址：
 	Demote	降级
 	Demote to Body Text	降级为正文文本
-	Descending	降序
 	Describe what this object shows, for people who can't see it.	请为看不见的人描述此对象显示的内容。
 	Describe what this table shows, for people who can't see it.	请为看不见的人描述此表格显示的内容。
 	Description:	说明：
@@ -524,9 +480,7 @@
 	Different Odd & Even Pages	奇偶页不同
 	Direct formatting	直接格式
 	Directory	目录
-	Discord	Discord
 	Discord community	Discord 社区
-	Display	显示
 	Display for Review	显示以供审阅
 	Display text	显示文本
 	Distribute Columns	平均分布各列
@@ -549,7 +503,6 @@
 	Document Text	文档文本
 	Document1	文档1
 	Document\nPreferences	文档\n首选项
-	Documents	文档
 	Documents you open will show up here.	打开过的文档会显示在这里。
 	Does not contain	不包含
 	DOI	DOI
@@ -557,10 +510,8 @@
 	Don't capitalize after:	不在以下内容后大写:
 	Don't hyphenate	不断字
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	不朗读 Zotero、Mendeley 或 EndNote 的引文和参考文献
-	Don't Save	不保存
 	Dot dash	点划线
 	Dot-dash	点划线
-	Dotted	点线
 	Double	双线
 	Double Closing Quote	右双引号
 	Double Opening Quote	左双引号
@@ -570,7 +521,6 @@
 	Double Underline	双下划线
 	Doughnut	圆环图
 	Down	下
-	Draft	草稿
 	Drag a rectangle to draw a table, or a line across cells to split them. Esc stops.	拖出矩形以绘制表格，或拖出穿过单元格的线条以拆分单元格。按 Esc 结束。
 	Draw	绘图
 	Draw Ink	绘制墨迹
@@ -583,7 +533,6 @@
 	Drop cap	首字下沉
 	Drop-Down List Content Control	下拉列表内容控件
 	Drops all formatting and pastes plain text.	去除所有格式，粘贴纯文本。
-	Dutch	荷兰语
 	E-mail Messages	电子邮件
 	Edit Comment	编辑批注
 	Edit Data	编辑数据
@@ -604,15 +553,10 @@
 	Editing — edit the document directly	编辑 — 直接编辑文档
 	Edition	版次
 	Editor	编辑器
-	Effects	效果
 	Elbow Arrow Connector	肘形箭头连接符
 	Elbow Connector	肘形连接符
 	Ellipsis	省略号
-	Em Dash	长破折号
-	Em Space	全角空格
 	Emboss	阳文
-	En Dash	短破折号
-	En Space	半角空格
 	Enclose Characters	带圈字符
 	Enclosure	圈号
 	Encrypt with Password	用密码进行加密
@@ -631,7 +575,6 @@
 	Enter page number:	输入页码：
 	Entry marked.	已标记条目。
 	Envelope #10	10 号信封
-	Envelope DL	DL 信封
 	Envelope size:	信封尺寸：
 	Envelopes	信封
 	Equal column width	栏宽相等
@@ -657,13 +600,9 @@
 	Exceptions (optional)	例外项(可选)
 	Exceptions…	例外项…
 	Existing File or Web Page	现有文件或网页
-	Expand	扩展
 	Expand or Collapse Heading	展开或折叠标题
 	Export a copy to share (PDF, Word document)	导出副本以共享（PDF、Word 文档）
 	Export Page as PNG	将页面导出为 PNG
-	Export PDF	导出 PDF
-	Exported {path}	已导出 {path}
-	Expression	表达式
 	Extend Selection	扩展选定范围
 	Extend Selection by Units	按单位扩展选定范围
 	Field	域
@@ -681,14 +620,11 @@
 	Field…	域…
 	Figure	图
 	File name:	文件名:
-	Fill	填充
 	Fill color:	填充颜色：
 	Filling in forms	填写窗体
 	Film	电影
 	Filter and Sort	筛选和排序
 	Filter Recipients	筛选收件人
-	Find	查找
-	Find and Replace	查找和替换
 	Find Next	查找下一处
 	Find Next Editable Region	查找下一个可编辑区域
 	Find Previous	查找上一处
@@ -696,9 +632,7 @@
 	Find What Expression	查找到的表达式
 	Find What Text	查找到的文本
 	Find what:	查找内容：
-	Find:	查找：
 	Finding printers…	正在查找打印机…
-	Finish	完成
 	Finish & Merge	完成并合并
 	Finish &\nMerge	完成并合并
 	Finished	已完成
@@ -718,7 +652,6 @@
 	Font color	字体颜色
 	Font color:	字体颜色：
 	Font Dialog	字体对话框
-	Font Size	字号
 	Font: {font}	字体：{font}
 	Font…	字体…
 	Footer	页脚
@@ -750,7 +683,6 @@
 	Gallery	画廊
 	German (Germany)	德语（德国）
 	getartcraft.com/apps/wordcraft	getartcraft.com/apps/wordcraft
-	Glow	发光
 	Glow Colors	发光颜色
 	Go Back	返回上次编辑位置
 	Go To	定位
@@ -759,7 +691,6 @@
 	Go to what:	定位目标：
 	Go To…	定位…
 	Grab bag	随机展示
-	Grayscale	灰度
 	Greater than	大于
 	Greater than or equal	大于或等于
 	Greek	希腊语
@@ -782,7 +713,6 @@
 	Heading 3	标题 3
 	Heading styles (levels 1–{n})	标题样式（级别 1–{n}）
 	Heading {n}	标题 {n}
-	Heart	心形
 	Hebrew	希伯来语
 	Height:	高度：
 	Hex:	十六进制:
@@ -800,7 +730,6 @@
 	Highlight\nMerge Fields	突出显示合并域
 	Highlighter	荧光笔
 	Hindi	印地
-	Hollow	空心
 	Home	开始
 	Home folder	主文件夹
 	Horizontal Line	横线
@@ -822,7 +751,6 @@
 	Icons	图标
 	If…Then…Else	如果…则…否则
 	If…Then…Else…	如果…则…否则…
-	Ignore All	全部忽略
 	Ignore punctuation characters	忽略标点符号
 	Ignore web and file addresses	忽略网址和文件路径
 	Ignore white-space characters	忽略空白字符
@@ -837,7 +765,6 @@
 	In Front of Text	浮于文字上方
 	In Line with Text	与文字同行
 	In the margin	在页边
-	Inches	英寸
 	Include level number from:	包含的级别编号来自：
 	Include page numbers	包含页码
 	Increase Font Size	增大字号
@@ -849,8 +776,6 @@
 	Indents	缩进
 	Indents and Spacing	缩进和间距
 	Index and Tables	索引和目录
-	Inflate	膨胀
-	Info	信息
 	Initials:	缩写：
 	Ink	墨迹
 	Ink Replay	墨迹重播
@@ -903,24 +828,20 @@
 	Inside Horizontal Border	内部横框线
 	Inside Vertical Border	内部竖框线
 	Inside:	内侧：
-	Inspect Document	检查文档
 	Inspect Styles at Selection	检查所选内容的样式
 	Institution	机构
 	Integral	积分
-	Interface	界面
 	Interface language:	界面语言：
 	Interface size:	界面大小：
-	Interface Theme	界面主题
 	Interface theme:	界面主题：
 	Interface\nTheme	界面主题
 	Internet addresses as links	Internet 地址替换为链接
+	Intersection	Intersection
 	Ionosphere	电离层
 	Is blank	为空
 	Is not blank	不为空
 	Issue	期号
-	Italian	意大利语
 	Italic	倾斜
-	Japanese	日语
 	Join the ArtCraft community on Discord	加入 Discord 上的 ArtCraft 社区
 	Join us on Discord: discord.gg/artcraft	在 Discord 上加入我们：discord.gg/artcraft
 	Journal	期刊
@@ -935,20 +856,17 @@
 	Keeps the fonts and formatting of the copied text.	保留所复制文本的字体和格式。
 	Keyboard shortcuts:	键盘快捷方式：
 	Keys for this command:	此命令的按键：
-	Korean	韩语
 	Label changes with:	修订者标记:
 	Label:	标签：
 	Language Preferences…	语言首选项…
 	Large\nOperator	大型\n运算符
 	Largest Only	仅较宽一侧
-	Lasso	套索
 	Lasso Select	套索选择
 	Last	最近
 	Last Column	最后一列
 	Last Name	姓
 	Last, First; Last, First	姓, 名; 姓, 名
 	Latin text font:	拉丁文字字体：
-	Layout	布局
 	Layout Summary	布局摘要
 	Layouts	布局
 	Leader	前导符
@@ -982,7 +900,6 @@
 	Line between	分隔线
 	Line Break	换行符
 	Line breaking	断行
-	Line delta	行数变化
 	Line End	行尾
 	Line Numbering Options…	行号选项…
 	Line Numbers	行号
@@ -1001,7 +918,6 @@
 	Link to Previous	链接到前一节
 	Link to:	链接到:
 	Linked style (paragraph and character)	链接样式（段落和字符）
-	Links	链接
 	Links and References	链接和引用
 	Link…	链接…
 	List Definition	列表定义
@@ -1050,14 +966,11 @@
 	Match suffix	匹配后缀
 	Math AutoCorrect	数学符号自动更正
 	Matrix	矩阵
+	Maximum	Maximum
 	Measurement units:	度量单位：
-	Merge	合并
-	Merge Cells	合并单元格
 	Merge Formatting	合并格式
 	Merge Record #	合并记录编号
 	Mesosphere	中间层
-	Middle	中部
-	Millimeters	毫米
 	Mirror indents	对称缩进
 	Mirror margins	对称页边距
 	Mirrored	对称
@@ -1076,7 +989,6 @@
 	More Paper Sizes…	其他纸张大小…
 	More Symbols…	其他符号…
 	More templates →	更多模板 →
-	Move Down	下移
 	Move in Equation	在公式中移动
 	Move or Resize	移动或调整大小
 	Move Paragraph Down	下移段落
@@ -1085,7 +997,6 @@
 	Move Past\nCitation	移到\n引文之后
 	Move Selected Ink	移动所选墨迹
 	Move Table by Dragging	拖动移动表格
-	Move Up	上移
 	Move with Text	随文字移动
 	Moved from	移动自
 	Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely.	移动的对象会吸附到页面的边缘和中心、页边距以及其他对象。按住 Alt 可自由移动。
@@ -1098,35 +1009,24 @@
 	Narrow	窄
 	Narrow  {size} all	窄  四周 {size}
 	Nature	自然
-	Navigation	导航
 	Navigation Pane	导航窗格
-	New	新建
 	New Comment	新建批注
 	New comments and tracked changes are recorded under this name and these initials.	新批注和修订将以此名称和缩写记录。
-	New Document	新建文档
-	New document	新文档
 	New Drawing Canvas	新建绘图画布
 	New Entry	新建条目
-	New from Template	从模板新建
-	New Group	新建组
 	New Label	新建标签
 	New Label…	新建标签…
 	New Paragraph	新段落
 	New shortcut:	新快捷键：
-	New Style…	新建样式…
 	New Tab	新建选项卡
 	New Table Style	新建表格样式
 	New Table Style…	新建表格样式…
-	New Window	新建窗口
 	New word	新单词
 	New\nComment	新建批注
 	New\nWindow	新建窗口
-	New…	新建…
-	Next Change	下一处修订
 	Next Comment	下一条批注
 	Next Field	下一个域
 	Next Footnote	下一条脚注
-	Next Page	下一页
 	Next Record	下一记录
 	Next Section	下一节
 	Next Sentence	下一句
@@ -1134,7 +1034,6 @@
 	No accessibility issues found.	未发现辅助功能问题。
 	No Border	无框线
 	No changes (read only)	不允许任何更改(只读)
-	No Color	无颜色
 	No contributor data was built into this copy.	此版本未内置贡献者数据。
 	No document is open. Create a document or open one first.	没有打开的文档。请先新建或打开一个文档。
 	No errors found: every merge field is in the recipient list.	未发现错误：所有合并域都在收件人列表中。
@@ -1195,7 +1094,6 @@
 	Numbering…	编号…
 	Numerals	数字
 	Numerals:	数字：
-	Object	对象
 	Odd Banded Columns	奇数镶边列
 	Odd Banded Rows	奇数镶边行
 	Odd Page	奇数页
@@ -1211,7 +1109,6 @@
 	Offset: Top	偏移：上
 	Offset: Top Left	偏移：左上
 	Offset: Top Right	偏移：右上
-	Omit	省略
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	开启：输入或使用方向键时，光标平滑移动到新位置，闪烁时淡入淡出。关闭：光标直接跳转，闪烁时直接显示和隐藏。
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	开：WordCraft 打开时显示“文件 › 开始”，其中有空白文档、模板和最近使用的文档。关：直接打开空白文档。
 	One	一栏
@@ -1239,7 +1136,6 @@
 	Organizer…	管理器…
 	Orientation	纸张方向
 	Original document	原文档
-	Other	其他
 	Other styles and their TOC level:	其他样式及其目录级别：
 	Otherwise insert:	否则插入：
 	Outline	大纲
@@ -1277,15 +1173,12 @@
 	Page width	页宽
 	Page X of Y	第 X 页，共 Y 页
 	Page {page}	第 {page} 页
-	Page {page} of {pages}	第 {page} 页，共 {pages} 页
 	Page\nBorders	页面边框
 	Page\nColor	页面颜色
 	Page\nNumber	页码
 	Pages like 1-3, 5	页码,如 1-3, 5
 	Pages of bookmark:	书签所在页：
-	Paper	纸张
 	Paper size:	纸张大小：
-	Paragraph	段落
 	Paragraph Character	段落符号
 	Paragraph Details	段落详细信息
 	Paragraph Down	下移一段
@@ -1309,17 +1202,14 @@
 	Paste: Keep Text Only	粘贴：只保留文本
 	Paste: Merge Formatting	粘贴：合并格式
 	Pastes the clipboard's picture.	粘贴剪贴板中的图片。
-	Pause	暂停
 	Paused	已暂停
 	PDF document (*.pdf)	PDF 文档 (*.pdf)
 	Pen	笔
-	Pencil	铅笔
 	Pens	笔
 	People	人物
 	Periodical	期刊名
 	Personalize	个性化
 	Phonetic Guide	拼音指南
-	Picas	派卡
 	Pick a custom group (New Group makes one)	请选择一个自定义组（可用“新建组”创建）
 	Pick a field from the list	请选择域
 	Picture	图片
@@ -1333,26 +1223,21 @@
 	Placeholder text	占位符文本
 	Plain text (*.txt)	纯文本 (*.txt)
 	Plain Text Content Control	纯文本内容控件
-	Play	播放
 	Play/Pause	播放/暂停
 	Points	磅
 	Polish	波兰语
 	Portuguese (Brazil)	葡萄牙语（巴西）
 	Portuguese (Portugal)	葡萄牙语（葡萄牙）
-	Position:	位置：
 	Postal Code	邮政编码
 	Preferred width:	首选宽度：
 	Preserve formatting during updates	更新时保留格式
-	Presets	预设
 	Press a key combination	请按组合键
 	Preview Results	预览结果
 	Preview\nResults	预览结果
 	Previous	上一条
 	Previous 1 or More	前一项 1 次或多次
-	Previous Change	上一处修订
 	Previous Comment	上一条批注
 	Previous Field	上一个域
-	Previous Page	上一页
 	Previous Record	上一记录
 	Previous Section	上一节
 	Previous Sentence	上一句
@@ -1367,7 +1252,6 @@
 	Print the page color	打印页面颜色
 	Print to PDF	打印到 PDF
 	Print\nLayout	页面视图
-	Printer	打印机
 	Printer default	打印机默认值
 	Printer discovery failed.	查找打印机失败。
 	Privacy for this document	此文档的隐私
@@ -1380,14 +1264,12 @@
 	Proofing	校对
 	Proofing Issues	校对问题
 	Proofing language	校对语言
-	Properties	属性
 	Protect Document	保护文档
 	PRs	PR
 	pt	磅
 	Publisher	出版商
 	Put the caret in a content control first.	请先将光标放在内容控件中。
 	Put the default commands back on the Quick Access Toolbar?	恢复快速访问工具栏的默认命令？
-	Pyramid	棱锥图
 	Quick Access Toolbar	快速访问工具栏
 	Quick Parts	文档部件
 	Quick Tables	快速表格
@@ -1407,7 +1289,6 @@
 	Reading Text Size	阅读字号
 	Reads the clipboard's rich text and keeps its formatting.	读取剪贴板中的 RTF 内容并保留其格式。
 	Reads the clipboard's web content and keeps its formatting.	读取剪贴板中的网页内容并保留其格式。
-	Recent Colors	最近使用的颜色
 	Recent documents to show:	显示的最近文档数：
 	Recently used symbols:	近期使用过的符号：
 	Recipient List	收件人列表
@@ -1455,10 +1336,7 @@
 	Remove the control once edited	编辑后删除控件
 	Remove Watermark	删除水印
 	Rename Document	重命名文档
-	Rename Style	重命名样式
-	Rename…	重命名…
 	Reopen	重新打开
-	Repeat	重复
 	Repeat as header row on each page	在各页重复作为标题行
 	Repeat Header Rows	重复标题行
 	Repeating Section Content Control	重复节内容控件
@@ -1482,7 +1360,6 @@
 	Reset Picture	重设图片
 	Reset to Normal	重置为正文
 	Reset\nGraphic	重设\n图形
-	Reset…	重置…
 	Resize Table by Dragging	拖动调整表格大小
 	Resolve	解决
 	Resolved	已解决
@@ -1492,11 +1369,9 @@
 	Restart list after:	重新开始列表的级别：
 	Restrict Editing	限制编辑
 	Restrict\nEditing	限制编辑
-	Result	结果
 	Results	结果
 	Return address labels	回信地址标签
 	Return address:	寄信人地址：
-	Reverse the order	反转顺序
 	Reviewing	审阅
 	Reviewing Pane	审阅窗格
 	Reviewing — edits become suggestions	审阅 — 编辑内容将成为修订建议
@@ -1518,36 +1393,29 @@
 	Right-to-Left Section	从右向左节
 	Right-to-Left Table	从右向左表格
 	Right-to-Left Text Direction	从右向左文字方向
-	Right:	右：
 	Rotate all text 270°	将所有文字旋转 270°
 	Rotate all text 90°	将所有文字旋转 90°
 	Rotate Left 90°	向左旋转 90°
 	Rotate Right 90°	向右旋转 90°
 	Rotation	旋转角度
-	Rounded Rectangle	圆角矩形
 	Row	行
 	Row:	行：
 	Rows & Columns	行和列
 	Ruby text:	拼音文字：
-	Ruler	标尺
 	Rules	规则
 	Run-in	接排式
-	Russian	俄语
 	Résumé	简历
 	Sat:	饱和度:
 	Save a copy in another format. Printing goes through a PDF you can print from any viewer.	以其他格式保存副本。打印时先生成 PDF，可在任意查看器中打印。
-	Save As	另存为
-	Save as Template	另存为模板
 	Save documents	保存文档
 	Save the document to turn on AutoSave	保存文档后即可开启自动保存
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	保存文档后即可开启自动保存（仅打开过的文件在你保存之前不会被改写）
 	Save these pages as PDF…	将这些页面另存为 PDF…
-	Saved	已保存
 	Saving {name} was cancelled, so it is still open and nothing was lost.	已取消保存 {name}，文档仍处于打开状态，没有丢失任何内容。
-	Scale	缩放
 	Scale Drawing	缩放绘图
 	Scatter	散点图
 	Script	上下标
+	Scripts	Scripts
 	Scroll ribbon left	向左滚动功能区
 	Scroll ribbon right	向右滚动功能区
 	Search Commands	搜索命令
@@ -1564,14 +1432,12 @@
 	Section Properties	节属性
 	Sections	节数
 	See	参见
-	Select	选择
 	Select a picture, shape, chart or table to describe it.	选择图片、形状、图表或表格以添加描述。
 	Select a printer	选择打印机
 	Select Cell	选择单元格
 	Select Column	选择列
 	Select Heading and Content	选择标题及其内容
 	Select Line	选择行
-	Select Objects	选择对象
 	Select Paragraph	选择段落
 	Select Range	选择范围
 	Select Recipients	选择收件人
@@ -1601,7 +1467,6 @@
 	Serbian (Latin)	塞尔维亚语（拉丁文）
 	Series name	系列名称
 	Series {n}	系列 {n}
-	Set	设置
 	Set As Default	设为默认值
 	Set as Default	设为默认值
 	Set Caret	设置光标
@@ -1612,17 +1477,12 @@
 	Set Paragraph Formatting	设置段落格式
 	Set Proofing Language…	设置校对语言…
 	Setting:	设置：
-	Settings…	设置…
 	Shading	底纹
-	Shadow	阴影
 	Shadow, glow and soft edges	阴影、发光和柔化边缘
-	Shape Effects	形状效果
 	Shape Fill	形状填充
 	Shape Format	形状格式
 	Shape Outline	形状轮廓
 	Shape Styles	形状样式
-	Shapes	形状
-	Share	共享
 	Shift+Tab	Shift+Tab
 	Shipping labels	运输标签
 	Shortcut key:	快捷键：
@@ -1656,7 +1516,6 @@
 	Show only comments and formatting in balloons	仅在批注框中显示批注和格式
 	Show or Hide Style	显示或隐藏样式
 	Show revisions in balloons	在批注框中显示修订
-	Show rulers	显示标尺
 	Show Text Formatting	显示文本格式
 	Show the community button in the title bar	在标题栏中显示社区按钮
 	Show the mini toolbar when text is selected	选择文本时显示浮动工具栏
@@ -1719,18 +1578,13 @@
 	Space before	段前间距
 	Space before/after:	段前/段后间距：
 	Space before: {pt} pt	段前间距：{pt} 磅
-	Spaces	空格
-	Spacing	间距
 	Spacing (pt):	间距（磅）：
-	Spacing:	间距：
 	Spanish (Mexico)	西班牙语（墨西哥）
 	Spanish (Spain)	西班牙语（西班牙）
 	Special	特殊字符
 	Special Characters	特殊字符
 	Specify height:	指定高度：
 	Speech	语音
-	Speed	速度
-	Spelling	拼写
 	Spelling & Grammar	拼写和语法
 	Spelling &\nGrammar	拼写和语法
 	Spelling and grammar are checked in English (United States).	拼写和语法按英语（美国）检查。
@@ -1739,19 +1593,14 @@
 	Split Table	拆分表格
 	Spreadsheet Table	电子表格
 	Square	四周型
-	Stacked	堆积
 	Stacked Bar	堆积条形图
 	Stacked Column	堆积柱形图
 	Standard Colors	标准色
-	Start at:	起始编号：
 	Start Enforcing Protection	启动强制保护
 	Start Mail Merge	开始邮件合并
 	Start Mail\nMerge	开始邮件合并
 	Start-up	启动
 	State	省/州
-	Statistics	统计信息
-	Status Bar	状态栏
-	Stop	停止
 	Stop Protection	停止保护
 	Stop Reading	停止朗读
 	Stopped	已停止
@@ -1760,33 +1609,26 @@
 	Stroke {n} of {total}	第 {n} 笔，共 {total} 笔
 	Structure Actions	结构操作
 	Structures	结构
-	Studio	工作室
 	Studio cover	工作室封面
 	Studio handbook (sample)	工作室手册（示例）
 	Style based on:	样式基于：
 	Style Inspector	样式检查器
 	Style name:	样式名称：
 	Style Set	样式集
-	Style:	样式：
 	Style: {style}	样式：{style}
-	Styles	样式
 	Styles Pane	样式窗格
 	Styles:	样式：
 	Subentry:	次索引项：
 	Submit print job	提交打印作业
 	Submitting print job…	正在提交打印作业…
-	Subscript	下标
 	Subset:	子集：
 	Suggested	建议
 	Sum	合计
-	Superscript	上标
 	Suppress line numbers	取消行号
 	Swap footnotes and endnotes	脚注和尾注互换
 	Swedish	瑞典语
 	Switch Modes	切换模式
 	Switch\nModes	切换模式
-	Symbol	符号
-	Symbols	符号
 	Synonyms	同义词
 	Tab	制表符
 	Tab Character	制表符字符
@@ -1807,7 +1649,6 @@
 	Table Properties	表格属性
 	Table Properties…	表格属性…
 	Table Row Height	表格行高
-	Table style	表格样式
 	Table Style Options	表格样式选项
 	Table Styles	表格样式
 	Tabs	制表位
@@ -1817,7 +1658,6 @@
 	Take the last match on the page	取本页最后一个匹配项
 	TC entry fields	TC 条目域
 	Technology	科技
-	Templates	模板
 	Templates and Add-ins	模板和加载项
 	Text Box	文本框
 	Text boxes	文本框
@@ -1895,7 +1735,6 @@
 	Top Margin	上边距
 	Top of Page	页面顶端
 	Top Right Cell	右上单元格
-	Top:	上：
 	Total Row	汇总行
 	Track Changes	修订
 	Track Changes Options	修订选项
@@ -1906,9 +1745,7 @@
 	Trademark	商标
 	Trademark Sign	商标符号
 	Transform	转换
-	Transparency	透明度
 	Transport	交通
-	Triangle	三角形
 	Triangle Down	倒三角
 	Triangle Up	正三角
 	Triple	三线
@@ -1930,7 +1767,6 @@
 	Type the field's name and its switches, for example PAGE \\* roman.	键入域名及其开关，例如 PAGE \\* roman。
 	Type the password to stop the protection.	键入密码以停止保护。
 	Type the recipients, or load them from a file.	键入收件人，或从文件加载。
-	Type:	类型：
 	Typing replaces selected text	键入内容替换所选文字
 	Ukrainian	乌克兰语
 	Unchecked symbol	未选中符号
@@ -1966,7 +1802,6 @@
 	Use wildcards	使用通配符
 	User Name	用户名
 	User name:	用户名：
-	Value	值
 	Version History	版本历史记录
 	Version {version} ({build})	版本 {version}（{build}）
 	Vertical Alignment	垂直对齐方式
@@ -1988,9 +1823,7 @@
 	Web Layout	Web 版式视图
 	Web page (*.html)	网页 (*.html)
 	Web\nLayout	Web 版式视图
-	Website	网站
 	Wed	周三
-	Weight	粗细
 	West	西区
 	When this document was first created	文档的创建日期
 	When this document was most recently printed	文档的上次打印日期
@@ -2007,7 +1840,6 @@
 	Widow/Orphan control	孤行控制
 	Width and spacing	宽度和间距
 	Width:	宽度：
-	Window	窗口
 	With:	替换为:
 	Word 2003 XML Document (*.xml)	Word 2003 XML 文档 (*.xml)
 	Word Count	字数统计
@@ -2033,8 +1865,6 @@
 	Your system doesn't report an animation setting, so animation effects stay on.	系统未提供动画设置，因此动画效果保持打开。
 	Your system has animation effects turned off.	系统已关闭动画效果。
 	Your system has animation effects turned on.	系统已打开动画效果。
-	Zoom In	放大
-	Zoom Out	缩小
 	Zotero	Zotero
 	Zotero: cancelled	Zotero：已取消
 	Zotero: done	Zotero：完成

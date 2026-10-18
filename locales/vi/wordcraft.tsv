@@ -12,7 +12,6 @@
 # consulted or copied; add entries the same way.
 
 	(All)	(Tất cả)
-	(Custom)	(Tự tạo)
 	(no style)	(không có kiểu)
 	(no suggestions)	(không có gợi ý)
 	(normal text)	(văn bản thường)
@@ -92,7 +91,6 @@
 	Add tab stop at:	Thêm mốc tab tại:
 	Add Text	Thêm văn bản
 	Add the chapter number	Thêm số chương
-	Add to Dictionary	Thêm vào từ điển
 	Add to Document	Thêm vào tài liệu
 	Add to Quick Access Toolbar	Thêm vào thanh công cụ truy cập nhanh
 	Add to Style Gallery	Thêm vào thư viện kiểu
@@ -108,7 +106,6 @@
 	Address labels	Nhãn địa chỉ
 	Address:	Địa chỉ:
 	Address\nBlock	Khối\nđịa chỉ
-	Adjust	Điều chỉnh
 	Advanced Find	Tìm nâng cao
 	Advanced Find…	Tìm nâng cao…
 	After:	Sau:
@@ -119,22 +116,16 @@
 	Align Center	Căn giữa
 	Align Center Left	Căn giữa trái
 	Align Center Right	Căn giữa phải
-	Align Left	Căn trái
-	Align Right	Căn phải
-	Align Text	Căn chữ
 	Align Top Center	Căn trên giữa
 	Align Top Left	Căn trên trái
 	Align Top Right	Căn trên phải
 	Aligned at:	Căn chỉnh tại:
-	Alignment	Căn chỉnh
 	Alignment:	Căn chỉnh:
 	All - Linear	Tất cả - Dạng tuyến tính
 	All - Professional	Tất cả - Dạng trình bày
 	All Borders	Tất cả viền
-	All Caps	Viết hoa toàn bộ
 	All caps	Viết hoa toàn bộ
 	All Commands	Mọi lệnh
-	All files	Tất cả tệp
 	All Levels	Mọi cấp
 	All Markup	Tất cả đánh dấu
 	All pages in the range	Tất cả trang trong phạm vi
@@ -155,7 +146,6 @@
 	Angle Brackets with Separator	Ngoặc góc có dấu phân cách
 	Angle Brackets with Two Separators	Ngoặc góc có hai dấu phân cách
 	Animate the caret (it glides and fades)	Tạo hiệu ứng cho con trỏ văn bản (lướt và mờ dần)
-	Animation	Hiệu ứng động
 	Animation effects:	Hiệu ứng động:
 	Annotation Reference	Tham chiếu nhận xét
 	Annotation Subject	Chủ đề nhận xét
@@ -169,26 +159,20 @@
 	APA	APA
 	Apply as you type	Áp dụng khi nhập
 	Apply Asian line-breaking rules (kinsoku)	Áp dụng quy tắc ngắt dòng châu Á (kinsoku)
-	Apply Character Style	Áp dụng kiểu ký tự
 	Apply formatting to:	Áp dụng định dạng cho:
 	Apply Style	Áp dụng kiểu
 	Apply Styles	Áp dụng kiểu
-	Apply to:	Áp dụng cho:
 	Arabic	Tiếng Ả Rập
 	Arch Down	Vòm xuống
 	Arch Up	Vòm lên
 	Area	Vùng
-	Arrange	Sắp xếp
 	Arrange\nAll	Sắp xếp\ntất cả
-	Arrows	Mũi tên
 	Artistic Effects	Hiệu ứng nghệ thuật
 	As Recommended	Theo đề xuất
 	As you type	Khi gõ
 	ASAP	SỚM NHẤT CÓ THỂ
-	Ascending	Tăng dần
 	Asian text font:	Phông chữ châu Á:
 	Asian Typography	Kiểu chữ châu Á
-	Assign	Gán
 	At least	Tối thiểu
 	At least {n}	Ít nhất {n}
 	Atelier	Atelier
@@ -202,7 +186,6 @@
 	AutoFit Contents	Tự khớp nội dung
 	AutoFit Window	Tự khớp cửa sổ
 	AutoFormat As You Type	Tự động định dạng khi nhập
-	Automatic	Tự động
 	Automatic ({language})	Tự động ({language})
 	Automatic ({region})	Tự động ({region})
 	Automatic bulleted lists	Tự động tạo danh sách có dấu đầu dòng
@@ -227,7 +210,6 @@
 	Balloons	Bong bóng chú thích
 	Banded Columns	Cột xen kẽ
 	Banded Rows	Hàng xen kẽ
-	Bar	Vạch dọc
 	Base text:	Văn bản cơ sở:
 	Based on: {style}	Dựa trên: {style}
 	Baseline Dots	Chấm trên đường cơ sở
@@ -247,7 +229,6 @@
 	Below the item	Phía dưới mục
 	Between	Giữa
 	Bibliography	Danh mục tham khảo
-	Binary assets removed	Tài nguyên nhị phân đã xóa
 	Binomial Coefficient	Hệ số nhị thức
 	Binomial Coefficient (angle)	Hệ số nhị thức (ngoặc góc)
 	Binomial Coefficient with Angle Brackets	Hệ số nhị thức với ngoặc góc
@@ -269,7 +250,6 @@
 	Border lines	Tự động tạo đường viền
 	Border Painter	Cọ vẽ viền
 	Border\nPainter	Cọ vẽ\nviền
-	Borders	Đường viền
 	Borders and Shading	Viền và Nền
 	Borders and Shading…	Viền và Nền…
 	Both Sides	Cả hai bên
@@ -297,7 +277,6 @@
 	Built-In	Có sẵn
 	Built-in style	Kiểu có sẵn
 	Built-in styles can't be deleted.	Không thể xóa các kiểu có sẵn.
-	Bullet	Dấu đầu dòng
 	Bullet Library	Thư viện dấu đầu dòng
 	Bullets	Dấu đầu dòng
 	By author	Theo tác giả
@@ -310,7 +289,6 @@
 	Capitalize first letter of table cells	Viết hoa chữ cái đầu của mỗi ô bảng
 	Capitalize names of days	Viết hoa tên ngày trong tuần
 	Capitalize the first word of a sentence	Viết hoa chữ đầu câu
-	Caption	Chú thích
 	Caption Numbering	Đánh số chú thích
 	Caption text	Nội dung chú thích
 	Caption:	Chú thích:
@@ -330,7 +308,6 @@
 	Cell Size	Kích cỡ ô
 	Cell\nMargins	Lề\nô
 	Center	Căn giữa
-	Centered	Căn giữa
 	Centered as Group	Căn giữa cả nhóm
 	Centimeters	Xentimét
 	Change	Đổi
@@ -362,7 +339,6 @@
 	Changes	Các thay đổi
 	Chapter in a book	Chương trong sách
 	Chapters begin at:	Các chương bắt đầu từ:
-	Character	Ký tự
 	Character Border	Viền ký tự
 	Character code:	Mã ký tự:
 	Character in Range	Ký tự trong khoảng
@@ -406,7 +382,6 @@
 	Citation Style	Kiểu trích dẫn
 	Citations	Trích dẫn
 	Citations & Bibliography	Trích dẫn & Danh mục tham khảo
-	City	Thành phố
 	Clear All Formatting	Xóa tất cả định dạng
 	Clear Character Formatting	Xóa định dạng ký tự
 	Clear Character Style	Xóa kiểu ký tự
@@ -435,20 +410,14 @@
 	Color only	Chỉ màu
 	Color: {color}	Màu: {color}
 	Colorful	Nhiều màu
-	Colors	Màu
-	Colors:	Màu sắc:
 	Column	Cột
 	Column Break	Ngắt cột
 	Column Selection	Chọn khối theo cột
-	Column width	Độ rộng cột
 	Column {n}	Cột {n}
 	Column:	Cột:
-	Columns	Cột
-	Columns:	Cột:
 	Combine Documents	Kết hợp tài liệu
 	Combo Box Content Control	Điều khiển nội dung hộp tổ hợp
 	Commands	Lệnh
-	Commands:	Lệnh:
 	Comment	Nhận xét
 	Comments	Nhận xét
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Trong PDF, bản in và ảnh trang: nhận xét bên cạnh mỗi trang và các thay đổi được theo dõi; danh sách nhận xét ở cuối trang web, Markdown và văn bản.
@@ -469,7 +438,6 @@
 	Compare to	So sánh với
 	Compared: {changes} changes	Đã so sánh: {changes} thay đổi
 	Comparing with another file needs the desktop app.	So sánh với tệp khác cần dùng ứng dụng trên máy tính.
-	Comparison	Phép so sánh
 	Comparison settings	Tùy chọn so sánh
 	Compress Pictures	Nén ảnh
 	Compress punctuation at the start of a line	Thu gọn dấu câu ở đầu dòng
@@ -479,7 +447,6 @@
 	Confirm password:	Xác nhận mật khẩu:
 	Connect Shapes	Nối hình
 	Container Title	Tiêu đề ấn phẩm mẹ
-	Contains	Chứa
 	Content Control at Selection	Điều khiển nội dung tại vùng chọn
 	Content Control Properties	Thuộc tính điều khiển nội dung
 	Contents can't be edited	Phần nội dung không sửa được
@@ -507,7 +474,6 @@
 	Copy of the text a bookmark marks	Bản sao của văn bản được gắn dấu trang
 	Copy Styles	Sao chép kiểu
 	Copy to	Sao chép tới
-	Copyright	Bản quyền
 	Copyright Sign	Ký hiệu bản quyền
 	Correct accidental usage of cAPS LOCK key	Sửa lỗi vô tình dùng phím Caps Lock
 	Correct TWo INitial CApitals	Sửa lỗi viết hoa hai chữ cái đầu
@@ -521,7 +487,6 @@
 	Couldn't open {path}: {error}	Không mở được {path}: {error}
 	Count by:	Đếm theo:
 	Count words in text boxes and notes	Đếm từ trong cả hộp văn bản và ghi chú
-	Country	Quốc gia
 	Courtesy Title	Danh xưng
 	Cover Page	Trang bìa
 	Craft	Craft
@@ -532,11 +497,9 @@
 	Create New Style	Tạo kiểu mới
 	Create Source	Tạo nguồn
 	Croatian	Tiếng Croatia
-	Crop	Cắt xén
 	Cross-reference	Tham chiếu chéo
 	Cross-reference:	Tham chiếu chéo:
 	Cube Root	Căn bậc ba
-	Current	Hiện tại
 	Current - Linear	Hiện tại - Dạng tuyến tính
 	Current - Professional	Hiện tại - Dạng trình bày
 	Current Position	Vị trí hiện tại
@@ -557,7 +520,6 @@
 	Customize Quick Access Toolbar…	Tùy chỉnh thanh công cụ truy cập nhanh…
 	Customize Ribbon	Tùy chỉnh ribbon
 	Customize the Ribbon…	Tùy chỉnh ribbon…
-	Customize…	Tùy chỉnh…
 	Cycle	Chu trình
 	Czech	Tiếng Séc
 	Danish	Tiếng Đan Mạch
@@ -565,16 +527,13 @@
 	Dark page (white text on black)	Trang tối (chữ trắng trên nền đen)
 	Dark with Shadow	Tối có bóng đổ
 	Darkroom	Darkroom
-	Data	Dữ liệu
 	Data Labels	Nhãn số liệu
 	Date & Time	Ngày & giờ
-	Date and Time	Ngày và giờ
 	Date formats:	Định dạng ngày:
 	Date Picker Content Control	Điều khiển nội dung chọn ngày
 	Day	Ngày
 	Decimal	Căn thập phân
 	Decorative objects only add visual interest: screen readers skip them.	Các đối tượng trang trí chỉ để tăng phần nhìn: trình đọc màn hình sẽ bỏ qua chúng.
-	Decrease Font Size	Giảm cỡ chữ
 	Decrease Indent	Giảm thụt lề
 	Default Paragraph Font	Phông chữ mặc định của đoạn
 	Default tab stops:	Mốc tab mặc định:
@@ -595,7 +554,6 @@
 	Delete Previous Word	Xóa từ phía trước
 	Delete Rows	Xóa hàng
 	Delete Selected Ink	Xóa mực đã chọn
-	Delete Style	Xóa kiểu
 	Delete Table	Xóa bảng
 	Delete Table Style	Xóa kiểu bảng
 	Deletions:	Phần xóa:
@@ -605,7 +563,6 @@
 	Demote	Hạ xuống
 	Demote to Body Text	Hạ xuống thành văn bản nội dung
 	Derivative as a limit	Đạo hàm dạng giới hạn
-	Descending	Giảm dần
 	Describe what this object shows, for people who can't see it.	Mô tả những gì đối tượng này cho thấy, cho người không nhìn thấy được.
 	Describe what this table shows, for people who can't see it.	Mô tả những gì bảng này cho thấy, cho người không nhìn thấy được.
 	Design	Thiết kế
@@ -628,9 +585,7 @@
 	Differentials	Các vi phân
 	Direct formatting	Định dạng trực tiếp
 	Directory	Danh mục
-	Discord	Discord
 	Discord community	Cộng đồng Discord
-	Display	Hiển thị
 	Display for Review	Hiển thị để xem lại
 	Display text	Văn bản hiển thị
 	Distribute Columns	Chia đều cột
@@ -654,7 +609,6 @@
 	Document Text	Nội dung tài liệu
 	Document1	Document1
 	Document\nPreferences	Tùy chọn\ntài liệu
-	Documents	Tài liệu
 	Documents you open will show up here.	Các tài liệu bạn mở sẽ hiển thị ở đây.
 	Does not contain	Không chứa
 	DOI	DOI
@@ -662,7 +616,6 @@
 	Don't capitalize after:	Không viết hoa sau:
 	Don't hyphenate	Không ngắt từ
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Không đọc trích dẫn và danh mục tham khảo do Zotero, Mendeley hoặc EndNote quản lý
-	Don't Save	Không lưu
 	Dot dash	Nét chấm gạch
 	Dot-dash	Nét chấm gạch
 	Dots	Các dấu chấm
@@ -689,7 +642,6 @@
 	Double Underline	Gạch chân đôi
 	Double Vertical Bars	Thanh dọc kép
 	Doughnut	Vành khuyên
-	Down	Xuống
 	DRAFT	BẢN NHÁP
 	Draft	Bản thảo
 	Drag a rectangle to draw a table, or a line across cells to split them. Esc stops.	Kéo hình chữ nhật để vẽ bảng, hoặc kẻ đường qua các ô để tách ô. Nhấn Esc để thoát.
@@ -703,7 +655,6 @@
 	Drop cap	Chữ lớn đầu đoạn
 	Drop-Down List Content Control	Điều khiển nội dung danh sách xổ xuống
 	Drops all formatting and pastes plain text.	Bỏ mọi định dạng và dán văn bản thuần.
-	Dutch	Tiếng Hà Lan
 	E-mail Messages	Thư điện tử
 	Edit Comment	Sửa nhận xét
 	Edit Data	Sửa số liệu
@@ -725,17 +676,12 @@
 	Edition	Ấn bản
 	Editor	Trình biên tập
 	Edit…	Sửa…
-	Effects	Hiệu ứng
 	Elbow Arrow Connector	Đường nối gấp khúc có mũi tên
 	Elbow Connector	Đường nối gấp khúc
 	Ellipsis	Dấu ba chấm
-	Em Dash	Gạch ngang dài
-	Em Space	Khoảng trắng em
 	Emboss	Khắc nổi
 	Emphasis	Nhấn mạnh
 	Empty Matrices	Ma trận trống
-	En Dash	Gạch ngang ngắn
-	En Space	Khoảng trắng en
 	Enclose Characters	Bao quanh ký tự
 	Enclosure	Hình bao quanh
 	Encrypt with Password	Mã hóa bằng mật khẩu
@@ -759,7 +705,6 @@
 	Envelope #10	Phong bì số 10
 	Envelope #10   4.12" × 9.50"	Phong bì #10 4.12" × 9.50"
 	Envelope Address	Địa chỉ người nhận trên phong bì
-	Envelope DL	Phong bì DL
 	Envelope DL   4.33" × 8.66"	Phong bì DL 4.33" × 8.66"
 	Envelope Return	Địa chỉ người gửi trên phong bì
 	Envelope size:	Cỡ phong bì:
@@ -793,15 +738,11 @@
 	Exceptions…	Ngoại lệ…
 	Executive   7.25" × 10.50"	Giấy Executive 7.25" × 10.50"
 	Existing File or Web Page	Tệp hoặc trang web hiện có
-	Expand	Mở rộng
 	Expand or Collapse Heading	Mở rộng hoặc thu gọn tiêu đề
 	Exponential	Hàm mũ
 	Exponential series	Chuỗi hàm mũ
 	Export a copy to share (PDF, Word document)	Xuất bản sao để chia sẻ (PDF, tài liệu Word)
 	Export Page as PNG	Xuất trang dưới dạng PNG
-	Export PDF	Xuất PDF
-	Exported {path}	Đã xuất {path}
-	Expression	Biểu thức
 	Extend Selection	Mở rộng vùng chọn
 	Extend Selection by Units	Mở rộng vùng chọn theo đơn vị
 	Extra space	Thừa khoảng trắng
@@ -814,7 +755,6 @@
 	Field names:	Tên các trường:
 	Field:	Trường:
 	Fields	Trường
-	Fields:	Các trường:
 	Field…	Trường…
 	Figure	Hình
 	File name:	Tên tệp:
@@ -824,9 +764,6 @@
 	Film	Phim
 	Filter and Sort	Lọc và sắp xếp
 	Filter Recipients	Lọc người nhận
-	Find	Tìm
-	Find and Replace	Tìm và Thay thế
-	Find Next	Tìm tiếp
 	Find Next Editable Region	Tìm vùng có thể chỉnh sửa tiếp theo
 	Find Previous	Tìm trước đó
 	Find Recipient	Tìm người nhận
@@ -834,9 +771,7 @@
 	Find What Text	Văn bản cần tìm
 	Find what:	Tìm gì:
 	Find “{text}” in the document	Tìm “{text}” trong tài liệu
-	Find:	Tìm:
 	Finding printers…	Đang tìm máy in…
-	Finish	Hoàn tất
 	Finish & Merge	Hoàn tất & Trộn thư
 	Finish &\nMerge	Hoàn tất &\nTrộn thư
 	Finished	Đã đọc xong
@@ -858,7 +793,6 @@
 	Font color	Màu phông chữ
 	Font color:	Màu phông chữ:
 	Font Dialog	Hộp thoại phông chữ
-	Font Size	Cỡ chữ
 	Font: {font}	Phông chữ: {font}
 	Font…	Phông chữ…
 	Footer	Chân trang
@@ -893,7 +827,6 @@
 	Functions	Hàm số
 	Gallery	Gallery
 	GB/T 7714	GB/T 7714
-	Geometry	Hình học
 	German (Germany)	Tiếng Đức (Đức)
 	getartcraft.com/apps/wordcraft	getartcraft.com/apps/wordcraft
 	Glow	Phát sáng
@@ -964,7 +897,6 @@
 	Highlight\nMerge Fields	Làm nổi bật\ntrường trộn
 	Highlighter	Bút tô sáng
 	Hindi	Tiếng Hindi
-	Hollow	Rỗng
 	Home folder	Thư mục chính
 	Horizontal Line	Đường kẻ ngang
 	How many pages the whole document has	Tổng số trang của toàn bộ tài liệu
@@ -996,7 +928,6 @@
 	IEEE	IEEE
 	If…Then…Else	Nếu…Thì…Không thì
 	If…Then…Else…	Nếu…Thì…Không thì…
-	Ignore All	Bỏ qua tất cả
 	Ignore punctuation characters	Bỏ qua dấu câu
 	Ignore web and file addresses	Bỏ qua địa chỉ web và tệp
 	Ignore white-space characters	Bỏ qua ký tự khoảng trắng
@@ -1011,10 +942,8 @@
 	In Front of Text	Trước văn bản
 	In Line with Text	Nằm cùng dòng với văn bản
 	In the margin	Trong lề
-	Inches	Inch
 	Include level number from:	Bao gồm số cấp độ từ:
 	Include page numbers	Bao gồm số trang
-	Increase Font Size	Tăng cỡ chữ
 	Increase Indent	Tăng thụt lề
 	Indent	Thụt lề
 	Indent from left:	Thụt lề từ trái:
@@ -1026,7 +955,6 @@
 	Index Heading	Tiêu đề chỉ mục
 	Index {n}	Chỉ mục {n}
 	Inflate	Phồng
-	Info	Thông tin
 	Initials:	Chữ viết tắt:
 	Ink	Mực
 	Ink Replay	Phát lại mực
@@ -1080,7 +1008,6 @@
 	Inside Horizontal Border	Viền ngang bên trong
 	Inside Vertical Border	Viền dọc bên trong
 	Inside:	Bên trong:
-	Inspect Document	Kiểm tra tài liệu
 	Inspect Styles at Selection	Kiểm tra kiểu tại vùng chọn
 	Institution	Cơ quan
 	Integral	Dấu tích phân
@@ -1091,10 +1018,8 @@
 	Intense Emphasis	Nhấn mạnh nổi bật
 	Intense Quote	Trích dẫn nổi bật
 	Intense Reference	Tham chiếu nổi bật
-	Interface	Giao diện
 	Interface language:	Ngôn ngữ giao diện:
 	Interface size:	Cỡ giao diện:
-	Interface Theme	Chủ đề giao diện
 	Interface theme:	Chủ đề giao diện:
 	Interface\nTheme	Chủ đề\ngiao diện
 	Internet addresses as links	Đổi địa chỉ Internet thành liên kết
@@ -1122,9 +1047,7 @@
 	ISO 690 (author-date)	ISO 690 (tác giả-năm)
 	ISO 690 (numerical)	ISO 690 (đánh số)
 	Issue	Số
-	Italian	Tiếng Ý
 	Italic	In nghiêng
-	Japanese	Tiếng Nhật
 	Join the ArtCraft community on Discord	Tham gia cộng đồng ArtCraft trên Discord
 	Join us on Discord: discord.gg/artcraft	Tham gia cùng chúng tôi trên Discord: discord.gg/artcraft
 	Journal	Tạp chí
@@ -1140,12 +1063,10 @@
 	Keeps the fonts and formatting of the copied text.	Giữ nguyên phông chữ và định dạng của văn bản đã sao chép.
 	Keyboard shortcuts:	Phím tắt:
 	Keys for this command:	Phím của lệnh này:
-	Korean	Tiếng Hàn
 	Label changes with:	Gán thay đổi cho:
 	Label:	Nhãn:
 	Landscape	Hướng ngang
 	Language Preferences…	Tùy chọn ngôn ngữ…
-	Large	Lớn
 	Large\nOperator	Toán tử\ncỡ lớn
 	Largest Only	Chỉ lấy loại lớn nhất
 	Lasso	Khoanh vùng
@@ -1186,16 +1107,11 @@
 	Legend	Chú giải
 	Less than	Nhỏ hơn
 	Less than or equal	Nhỏ hơn hoặc bằng
-	Letter	Thư
 template	Letter	Thư
 	Letter   8.50" × 11.00"	Giấy Letter 8.50" × 11.00"
 	Letter headings	Tiêu đề chữ cái
 	Letter-Like Symbols	Ký hiệu dạng chữ cái
 	Letters	Thư
-	Level 1	Cấp 1
-	Level 2	Cấp 2
-	Level 3	Cấp 3
-	Level 4	Cấp 4
 	Level 5	Cấp 5
 	Level 6	Cấp 6
 	Level 7	Cấp 7
@@ -1237,7 +1153,6 @@ template	Letter	Thư
 	Link to Previous	Liên kết với phần trước
 	Link to:	Liên kết tới:
 	Linked style (paragraph and character)	Kiểu liên kết (đoạn và ký tự)
-	Links	Liên kết
 	Links and References	Liên kết và tham chiếu
 	Link…	Liên kết…
 	List Definition	Định nghĩa danh sách
@@ -1304,14 +1219,10 @@ template	Letter	Thư
 	Measurement units:	Đơn vị đo:
 	Medium	Trung bình
 	Merge	Gộp
-	Merge Cells	Gộp ô
 	Merge Formatting	Hòa trộn định dạng
 	Merge Record #	Bản ghi trộn #
 	Mesosphere	Tầng giữa
-	Middle	Giữa
 	Midline Dots	Chấm giữa dòng
-	Millimeters	Milimét
-	Minimum	Tối thiểu
 	Minus Equal	Trừ bằng
 	Mirror indents	Thụt lề đối xứng
 	Mirror margins	Lề đối xứng
@@ -1332,7 +1243,6 @@ template	Letter	Thư
 	More Paper Sizes…	Thêm khổ giấy…
 	More Symbols…	Thêm ký hiệu…
 	More templates →	Xem thêm mẫu →
-	Move Down	Di chuyển xuống
 	Move in Equation	Di chuyển trong phương trình
 	Move or Resize	Di chuyển hoặc đổi kích thước
 	Move Paragraph Down	Di chuyển đoạn xuống
@@ -1341,7 +1251,6 @@ template	Letter	Thư
 	Move Past\nCitation	Ra sau\ntrích dẫn
 	Move Selected Ink	Di chuyển mực đã chọn
 	Move Table by Dragging	Di chuyển bảng bằng cách kéo
-	Move Up	Di chuyển lên
 	Move with Text	Di chuyển cùng văn bản
 	Moved from	Đã di chuyển từ
 	Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely.	Đối tượng được di chuyển sẽ bắt vào mép và tâm trang, lề và các đối tượng khác. Giữ Alt để di chuyển tự do.
@@ -1355,36 +1264,28 @@ template	Letter	Thư
 	Narrow  {size} all	Hẹp  {size} mọi cạnh
 	Natural Logarithm	Logarit tự nhiên
 	Nature	Thiên nhiên
-	Navigation	Điều hướng
 	Navigation Pane	Ngăn điều hướng
 	Negated Relations	Quan hệ phủ định
-	New	Mới
 	New Comment	Nhận xét mới
 	New comments and tracked changes are recorded under this name and these initials.	Nhận xét mới và các thay đổi được theo dõi được ghi dưới tên và chữ viết tắt này.
 	New Document	Tạo tài liệu mới
-	New document	Tài liệu mới
 	New Drawing Canvas	Khung vẽ mới
 	New Entry	Mục mới
 	New from Template	Tạo mới từ mẫu
-	New Group	Nhóm mới
 	New Label	Nhãn mới
 	New Label…	Nhãn mới…
 	New Paragraph	Đoạn mới
 	New shortcut:	Phím tắt mới:
-	New Style…	Kiểu mới…
 	New Tab	Tab mới
 	New Table Style	Kiểu bảng mới
 	New Table Style…	Kiểu bảng mới…
-	New Window	Cửa sổ mới
 	New word	Từ mới
 	New\nComment	Nhận xét\nmới
 	New\nWindow	Cửa sổ\nmới
 	New…	Tạo mới…
-	Next Change	Thay đổi tiếp theo
 	Next Comment	Nhận xét tiếp theo
 	Next Field	Trường tiếp theo
 	Next Footnote	Chú thích chân trang tiếp theo
-	Next Page	Trang tiếp theo
 	Next Record	Bản ghi tiếp theo
 	Next Section	Phần tiếp theo
 	Next Sentence	Câu tiếp theo
@@ -1392,7 +1293,6 @@ template	Letter	Thư
 	No accessibility issues found.	Không tìm thấy vấn đề về khả năng tiếp cận nào.
 	No Border	Không viền
 	No changes (read only)	Không cho phép thay đổi (chỉ đọc)
-	No Color	Không màu
 	No contributor data was built into this copy.	Bản sao này không tích hợp sẵn dữ liệu người đóng góp.
 	No document is open. Create a document or open one first.	Chưa mở tài liệu nào. Hãy tạo hoặc mở một tài liệu trước.
 	No errors found: every merge field is in the recipient list.	Không tìm thấy lỗi: mọi trường trộn đều có trong danh sách người nhận.
@@ -1419,7 +1319,6 @@ template	Letter	Thư
 	No-Width Optional Break	Ngắt tùy ý không độ rộng
 	Nonbreaking Hyphen	Gạch nối không ngắt dòng
 	Nonbreaking Space	Khoảng trắng không ngắt dòng
-	Normal	Thường
 	Normal  {size} all	Thường  {size} mọi cạnh
 	Normal Indent	Thụt lề thường
 	Normal probability density	Mật độ xác suất chuẩn
@@ -1461,7 +1360,6 @@ template	Letter	Thư
 	Numerals:	Chữ số:
 	n×n Identity Matrix	Ma trận đơn vị n×n
 	n×n Matrix	Ma trận n×n
-	Object	Đối tượng
 	Odd Banded Columns	Cột xen kẽ lẻ
 	Odd Banded Rows	Hàng xen kẽ lẻ
 	Odd Page	Trang lẻ
@@ -1478,7 +1376,6 @@ template	Letter	Thư
 	Offset: Top	Độ lệch: trên
 	Offset: Top Left	Độ lệch: trên bên trái
 	Offset: Top Right	Độ lệch: trên bên phải
-	Omit	Bỏ qua
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	Bật: con trỏ văn bản lướt đến vị trí mới khi bạn gõ hoặc dùng phím mũi tên, và nhịp nhấp nháy mờ dần. Tắt: con trỏ nhảy đến vị trí mới và nhấp nháy bật tắt.
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	Bật: WordCraft mở ở Tệp › Trang chủ, với tài liệu trống, các mẫu và tài liệu gần đây của bạn. Tắt: WordCraft mở một tài liệu trống.
 	One	Một
@@ -1509,7 +1406,6 @@ template	Letter	Thư
 	Organizer…	Trình quản lý kiểu…
 	Orientation	Hướng trang
 	Original document	Tài liệu gốc
-	Other	Khác
 	Other Large Operators	Các toán tử lớn khác
 	Other styles and their TOC level:	Các kiểu khác và cấp mục lục:
 	Otherwise insert:	Nếu không thì chèn:
@@ -1552,13 +1448,11 @@ template	Letter	Thư
 	Page width	Độ rộng trang
 	Page X of Y	Trang X trên Y
 	Page {page}	Trang {page}
-	Page {page} of {pages}	Trang {page} trên {pages}
 	Page\nBorders	Viền\ntrang
 	Page\nColor	Màu nền\ntrang
 	Page\nNumber	Số\ntrang
 	Pages like 1-3, 5	Các trang như 1-3, 5
 	Pages of bookmark:	Trang của dấu trang:
-	Paper	Giấy
 	Paper size:	Khổ giấy:
 	Paragraph	Đoạn
 	Paragraph Character	Ký tự đoạn văn
@@ -1582,23 +1476,18 @@ template	Letter	Thư
 	Paste Clipboard Item	Dán mục bảng tạm
 	Paste Formatting	Dán định dạng
 	Paste function:	Dán hàm:
-	Paste Special	Dán đặc biệt
 	Paste Special…	Dán đặc biệt…
 	Paste: Keep Text Only	Dán: chỉ giữ văn bản
 	Paste: Merge Formatting	Dán: hợp nhất định dạng
 	Pastes the clipboard's picture.	Dán ảnh từ bảng nhớ tạm.
-	Pause	Tạm dừng
 	Paused	Đã tạm dừng
 	PDF document (*.pdf)	Tài liệu PDF (*.pdf)
-	Pen	Bút
-	Pencil	Bút chì
 	Pens	Bút
 	People	Con người
 	Periodical	Định kỳ
 	Personalize	Cá nhân hóa
 	Phonetic Guide	Hướng dẫn phát âm
 	Pi Over 2	Pi trên 2
-	Picas	Pica
 	Pick a custom group (New Group makes one)	Chọn nhóm tự tạo (bấm Nhóm mới để tạo)
 	Pick a field from the list	Chọn một trường từ danh sách.
 	Picture	Ảnh
@@ -1613,15 +1502,12 @@ template	Letter	Thư
 	Plain Table 1	Bảng đơn giản 1
 	Plain text (*.txt)	Văn bản thuần (*.txt)
 	Plain Text Content Control	Điều khiển nội dung văn bản thuần
-	Play	Phát
 	Play/Pause	Phát/Tạm dừng
 	Plus Equal	Cộng bằng
-	Points	Điểm
 	Polish	Tiếng Ba Lan
 	Portrait	Nằm dọc
 	Portuguese (Brazil)	Tiếng Bồ Đào Nha (Brazil)
 	Portuguese (Portugal)	Tiếng Bồ Đào Nha (Bồ Đào Nha)
-	Position:	Vị trí:
 	Possible spelling mistake	Có thể sai chính tả
 	Postal Code	Mã bưu chính
 	Power series of (1+x)ⁿ	Chuỗi lũy thừa của (1+x)ⁿ
@@ -1634,10 +1520,8 @@ template	Letter	Thư
 	Preview\nResults	Xem thử\nkết quả
 	Previous	Trước đó
 	Previous 1 or More	Lặp mục trước một hoặc nhiều lần
-	Previous Change	Thay đổi trước đó
 	Previous Comment	Nhận xét trước đó
 	Previous Field	Trường trước đó
-	Previous Page	Trang trước
 	Previous Record	Bản ghi trước đó
 	Previous Section	Phần trước đó
 	Previous Sentence	Câu trước đó
@@ -1652,7 +1536,6 @@ template	Letter	Thư
 	Print the page color	In màu nền trang
 	Print to PDF	In thành PDF
 	Print\nLayout	Bố cục\nin
-	Printer	Máy in
 	Printer default	Mặc định của máy in
 	Printer discovery failed.	Không tìm được máy in.
 	Privacy for this document	Quyền riêng tư cho tài liệu này
@@ -1671,13 +1554,11 @@ template	Letter	Thư
 	Proofing	Hiệu đính
 	Proofing Issues	Lỗi cần hiệu đính
 	Proofing language	Ngôn ngữ hiệu đính
-	Properties	Thuộc tính
 	Protect Document	Bảo vệ tài liệu
 	pt	pt
 	Publisher	Nhà xuất bản
 	Put the caret in a content control first.	Đặt con trỏ vào điều khiển nội dung trước.
 	Put the default commands back on the Quick Access Toolbar?	Đưa lệnh mặc định về lại thanh công cụ truy cập nhanh?
-	Pyramid	Kim tự tháp
 	Quadratic Root	Nghiệm bậc hai
 	Quick Access Toolbar	Thanh công cụ truy cập nhanh
 	Quick Parts	Thành phần nhanh
@@ -1701,7 +1582,6 @@ template	Letter	Thư
 	Reading Text Size	Cỡ chữ khi đọc
 	Reads the clipboard's rich text and keeps its formatting.	Đọc văn bản có định dạng từ bảng tạm và giữ nguyên định dạng.
 	Reads the clipboard's web content and keeps its formatting.	Đọc nội dung web từ bảng tạm và giữ nguyên định dạng.
-	Recent Colors	Màu gần đây
 	Recent documents to show:	Số tài liệu gần đây sẽ hiển thị:
 	Recently used symbols:	Ký hiệu dùng gần đây:
 	Recipient List	Danh sách người nhận
@@ -1725,7 +1605,6 @@ template	Letter	Thư
 	Reject All Changes	Từ chối mọi thay đổi
 	Reject Change	Từ chối thay đổi
 	Relationship	Mối quan hệ
-	Relaxed	Giãn rộng
 	Remove Added Font	Xóa phông chữ đã thêm
 	Remove Background	Gỡ nền ảnh
 	Remove condition	Xóa điều kiện
@@ -1749,10 +1628,7 @@ template	Letter	Thư
 	Remove the space before the punctuation	Bỏ khoảng trắng trước dấu câu
 	Remove Watermark	Xóa hình mờ
 	Rename Document	Đổi tên tài liệu
-	Rename Style	Đổi tên kiểu
-	Rename…	Đổi tên…
 	Reopen	Mở lại
-	Repeat	Lặp lại
 	Repeat as header row on each page	Lặp lại làm hàng tiêu đề trên mỗi trang
 	Repeat Header Rows	Lặp lại hàng tiêu đề
 	Repeating Section Content Control	Điều khiển nội dung phần lặp lại
@@ -1761,12 +1637,10 @@ template	Letter	Thư
 	Replace Document Text	Thay toàn bộ văn bản tài liệu
 	Replace text as you type	Thay thế văn bản khi nhập
 	Replace with:	Thay bằng:
-	Replace:	Thay thế:
 	Replay	Phát lại
 	Research	Tra cứu
 	Researcher	Công cụ tra cứu
 	Researcher needs an online service; WordCraft keeps your documents offline.	Trình nghiên cứu cần một dịch vụ trực tuyến; WordCraft giữ tài liệu của bạn ngoại tuyến.
-	Reset	Đặt lại
 	Reset All…	Đặt lại tất cả…
 	Reset Character Formatting	Đặt lại định dạng ký tự
 	Reset Crop	Đặt lại cắt xén
@@ -1775,7 +1649,6 @@ template	Letter	Thư
 	Reset Picture	Đặt lại ảnh
 	Reset to Normal	Đặt lại về kiểu Thường
 	Reset\nGraphic	Đặt lại\nđồ họa
-	Reset…	Đặt lại…
 	Resize Table by Dragging	Đổi cỡ bảng bằng cách kéo
 	Resolve	Giải quyết
 	Resolved	Đã giải quyết
@@ -1785,11 +1658,9 @@ template	Letter	Thư
 	Restart list after:	Đánh số lại sau:
 	Restrict Editing	Hạn chế chỉnh sửa
 	Restrict\nEditing	Hạn chế\nchỉnh sửa
-	Result	Kết quả
 	Results	Các kết quả
 	Return address labels	Nhãn địa chỉ người gửi
 	Return address:	Địa chỉ người gửi:
-	Reverse the order	Đảo ngược thứ tự
 	Review	Xem lại
 	Reviewing	Góp ý
 	Reviewing Pane	Khung theo dõi thay đổi
@@ -1815,7 +1686,6 @@ template	Letter	Thư
 	Right-to-Left Section	Phần từ phải sang trái
 	Right-to-Left Table	Bảng từ phải sang trái
 	Right-to-Left Text Direction	Hướng chữ từ phải sang trái
-	Right:	Phải:
 	Rightwards Arrow Above	Mũi tên hướng phải phía trên
 	Rightwards Harpoon Above	Mũi tên móc hướng phải phía trên
 	Roots of ax²+bx+c	Các nghiệm của ax²+bx+c
@@ -1823,26 +1693,21 @@ template	Letter	Thư
 	Rotate all text 90°	Xoay toàn bộ chữ 90°
 	Rotate Left 90°	Xoay trái 90°
 	Rotate Right 90°	Xoay phải 90°
-	Rounded Rectangle	Hình chữ nhật bo góc
 	Row	Hàng
 	Row:	Hàng:
 	Rows & Columns	Hàng & Cột
 	Ruby text:	Chữ phiên âm:
-	Ruler	Thước
 	Rules	Quy tắc
 	Run-in	Liền đoạn
-	Russian	Tiếng Nga
 	Résumé	CV
 	SAMPLE	BẢN MẪU
 	Sat:	Độ bão hòa:
 	Save a copy in another format. Printing goes through a PDF you can print from any viewer.	Lưu một bản sao ở định dạng khác. Việc in sử dụng tệp PDF mà bạn có thể in bằng bất kỳ trình xem PDF nào.
-	Save As	Lưu thành
 	Save as Template	Lưu làm mẫu
 	Save documents	Lưu tài liệu
 	Save the document to turn on AutoSave	Lưu tài liệu để bật Tự động lưu
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	Lưu tài liệu để bật Tự động lưu (tệp bạn chỉ mới mở sẽ không bị ghi đè cho đến khi bạn lưu)
 	Save these pages as PDF…	Lưu các trang này thành PDF…
-	Saved	Đã lưu
 	Saving {name} was cancelled, so it is still open and nothing was lost.	Đã hủy lưu {name}, nên tài liệu vẫn mở và không mất gì.
 	Scale	Tỉ lệ
 	Scale Drawing	Tỉ lệ bản vẽ
@@ -1867,14 +1732,12 @@ template	Letter	Thư
 	Section Properties	Thuộc tính phần
 	Sections	Các phần
 	See	Xem
-	Select	Chọn
 	Select a picture, shape, chart or table to describe it.	Chọn ảnh, hình, biểu đồ hoặc bảng để mô tả.
 	Select a printer	Chọn máy in
 	Select Cell	Chọn ô
 	Select Column	Chọn cột
 	Select Heading and Content	Chọn tiêu đề và nội dung
 	Select Line	Chọn dòng
-	Select Objects	Chọn đối tượng
 	Select Paragraph	Chọn đoạn
 	Select Range	Chọn phạm vi
 	Select Recipients	Chọn người nhận
@@ -1903,9 +1766,7 @@ template	Letter	Thư
 	Serbian (Latin)	Tiếng Serbia (chữ Latin)
 	Series name	Tên chuỗi
 	Series {n}	Chuỗi {n}
-	Set	Đặt
 	Set As Default	Đặt làm mặc định
-	Set as Default	Đặt làm mặc định
 	Set Caret	Đặt con trỏ
 	Set Character Formatting	Đặt định dạng ký tự
 	Set Date	Đặt ngày
@@ -1914,7 +1775,6 @@ template	Letter	Thư
 	Set Paragraph Formatting	Đặt định dạng đoạn
 	Set Proofing Language…	Đặt ngôn ngữ soát lỗi…
 	Setting:	Thiết lập:
-	Settings…	Cài đặt…
 	Shading	Tô nền
 	Shadow	Bóng đổ
 	Shadow, glow and soft edges	Bóng đổ, phát sáng và cạnh mềm
@@ -1924,7 +1784,6 @@ template	Letter	Thư
 	Shape Outline	Viền hình
 	Shape Styles	Kiểu hình
 	Shapes	Các hình
-	Share	Chia sẻ
 	Shift+Tab	Shift+Tab
 	Shipping labels	Nhãn vận chuyển
 	Shortcut key:	Phím tắt:
@@ -1958,7 +1817,6 @@ template	Letter	Thư
 	Show only comments and formatting in balloons	Chỉ hiện nhận xét và định dạng trong ô bên lề
 	Show or Hide Style	Hiện hoặc ẩn kiểu
 	Show revisions in balloons	Hiện các sửa đổi trong ô bên lề
-	Show rulers	Hiện thước
 	Show Text Formatting	Hiện định dạng văn bản
 	Show the community button in the title bar	Hiện nút cộng đồng trong thanh tiêu đề
 	Show the equation in the line of text	Hiện phương trình chung dòng với văn bản
@@ -2013,7 +1871,6 @@ template	Letter	Thư
 	Skip Record If…	Bỏ qua bản ghi nếu…
 	Slant Down	Nghiêng xuống
 	Slant Up	Nghiêng lên
-	Small Caps	Chữ hoa nhỏ
 	Small caps	Chữ hoa nhỏ
 	Small change	Thay đổi nhỏ
 	Smart quotes instead of straight quotes	Dùng dấu nháy cong thay dấu nháy thẳng
@@ -2038,19 +1895,13 @@ template	Letter	Thư
 	Space before	Khoảng cách trước
 	Space before/after:	Khoảng cách trước/sau:
 	Space before: {pt} pt	Khoảng cách trước: {pt} pt
-	Spaces	Khoảng trắng
-	Spacing	Khoảng cách
 	Spacing (pt):	Khoảng cách (pt):
-	Spacing:	Khoảng cách:
 	Spanish (Mexico)	Tiếng Tây Ban Nha (Mexico)
 	Spanish (Spain)	Tiếng Tây Ban Nha (Tây Ban Nha)
 	Sparse Matrices	Ma trận thưa
-	Special	Đặc biệt
 	Special Characters	Ký tự đặc biệt
 	Specify height:	Chỉ định chiều cao:
 	Speech	Giọng nói
-	Speed	Tốc độ
-	Spelling	Chính tả
 	Spelling & Grammar	Chính tả & Ngữ pháp
 	Spelling &\nGrammar	Chính tả &\nngữ pháp
 	Spelling and grammar are checked in English (United States).	Soát chính tả và ngữ pháp bằng tiếng Anh (Mỹ).
@@ -2065,7 +1916,6 @@ template	Letter	Thư
 	Square Union	Hợp vuông
 	Stack Object	Đối tượng xếp chồng
 	Stack Object (Three)	Đối tượng xếp chồng ba
-	Stacked	Xếp chồng
 	Stacked Bar	Thanh xếp chồng
 	Stacked Column	Cột xếp chồng
 	Stacked Fraction	Phân số xếp chồng
@@ -2073,16 +1923,12 @@ template	Letter	Thư
 	Standard	Chuẩn
 	Standard Colors	Màu chuẩn
 	Star	Hình sao
-	Start at:	Bắt đầu từ:
 	Start Enforcing Protection	Bắt đầu áp dụng bảo vệ
 	Start Mail Merge	Bắt đầu trộn thư
 	Start Mail\nMerge	Bắt đầu\ntrộn thư
 	Start-up	Khởi động
 	State	Tiểu bang
 	Statement   5.50" × 8.50"	Giấy Statement 5.50" × 8.50"
-	Statistics	Thống kê
-	Status Bar	Thanh trạng thái
-	Stop	Dừng
 	Stop Protection	Ngừng bảo vệ
 	Stop Reading	Dừng đọc
 	Stopped	Đã dừng
@@ -2093,27 +1939,22 @@ template	Letter	Thư
 	Strong	Đậm
 	Structure Actions	Thao tác cấu trúc
 	Structures	Cấu trúc
-	Studio	Studio
 	Studio cover	Bìa Studio
 	Studio handbook (sample)	Sổ tay Studio (mẫu)
 	Style based on:	Kiểu dựa trên:
 	Style Inspector	Trình kiểm tra kiểu
 	Style name:	Tên kiểu:
 	Style Set	Bộ kiểu
-	Style:	Kiểu:
 	Style: APA	Kiểu: APA
 	Style: {style}	Kiểu: {style}
-	Styles	Kiểu
 	Styles Pane	Khung kiểu
 	Styles:	Kiểu:
 	Subentry:	Mục phụ:
 	Submit print job	Gửi lệnh in
 	Submitting print job…	Đang gửi lệnh in…
-	Subscript	Chỉ số dưới
 	Subscript-Superscript	Chỉ số dưới-trên
 	Subscripts and Superscripts	Chỉ số dưới và chỉ số trên
 	Subset:	Tập con:
-	Subtitle	Tiêu đề phụ
 	Subtle Emphasis	Nhấn mạnh nhẹ
 	Subtle Reference	Tham chiếu nhẹ
 	Suggested	Đề xuất
@@ -2128,7 +1969,6 @@ template	Letter	Thư
 	Summation with Subscript Limit	Tổng có cận chỉ số dưới
 	Summation with Subscript-Superscript Limits	Tổng có cận chỉ số dưới-trên
 	Summations	Các phép tính tổng
-	Superscript	Chỉ số trên
 	Suppress line numbers	Không đánh số dòng
 	Surface Integral	Tích phân mặt
 	Surface Integral with Limits	Tích phân mặt có cận
@@ -2137,10 +1977,8 @@ template	Letter	Thư
 	Swedish	Tiếng Thụy Điển
 	Switch Modes	Chuyển chế độ
 	Switch\nModes	Chuyển\nchế độ
-	Symbol	Ký hiệu
 	Symbols	Các ký hiệu
 	Synonyms	Từ đồng nghĩa
-	Tab	Tab
 	Tab Character	Ký tự tab
 	Tab character	Ký tự tab
 	Tab characters	Ký tự tab
@@ -2161,7 +1999,6 @@ template	Letter	Thư
 	Table Properties	Thuộc tính bảng
 	Table Properties…	Thuộc tính bảng…
 	Table Row Height	Chiều cao hàng trong bảng
-	Table style	Kiểu bảng
 	Table Style Options	Tùy chọn kiểu bảng
 	Table Styles	Các kiểu bảng
 	Tabloid   11.00" × 17.00"	Giấy Tabloid 11.00" × 17.00"
@@ -2174,7 +2011,6 @@ template	Letter	Thư
 	Tangent Function	Hàm tang
 	TC entry fields	Trường mục TC
 	Technology	Công nghệ
-	Templates	Mẫu
 	Templates and Add-ins	Mẫu và phần bổ trợ
 	Text Box	Hộp văn bản
 	Text boxes	Hộp văn bản
@@ -2194,7 +2030,6 @@ template	Letter	Thư
 	Text snaps to characters	Văn bản căn theo ký tự
 	Text to display:	Văn bản hiển thị:
 	Text Wrapping	Ngắt dòng văn bản
-	Text:	Văn bản:
 	Text\nBox	Hộp\nvăn bản
 	Text\nDirection	Hướng\nvăn bản
 	That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on.	Định dạng đó không giữ được toàn bộ thông tin của tài liệu, nên tài liệu vẫn mở. Hãy lưu dưới dạng tài liệu Word (.docx) để tiếp tục.
@@ -2260,7 +2095,6 @@ template	Letter	Thư
 	Top Margin	Lề trên
 	Top of Page	Đầu trang
 	Top Right Cell	Ô trên cùng bên phải
-	Top:	Trên:
 	Total	Tổng cộng
 	Total Row	Hàng tổng
 	Track Changes	Theo dõi thay đổi
@@ -2273,10 +2107,7 @@ template	Letter	Thư
 	Tracking	Theo dõi
 	Trademark	Nhãn hiệu
 	Trademark Sign	Ký hiệu nhãn hiệu
-	Transform	Biến đổi
-	Transparency	Độ trong suốt
 	Transport	Giao thông
-	Triangle	Tam giác
 	Triangle Down	Tam giác xuống
 	Triangle Up	Tam giác lên
 	Trigonometric Functions	Hàm lượng giác
@@ -2308,7 +2139,6 @@ template	Letter	Thư
 	Type the field's name and its switches, for example PAGE \\* roman.	Nhập tên trường và tham số, ví dụ PAGE \\* roman.
 	Type the password to stop the protection.	Nhập mật khẩu để ngừng bảo vệ.
 	Type the recipients, or load them from a file.	Nhập người nhận, hoặc tải từ tệp.
-	Type:	Loại:
 	Typing	Nhập liệu
 	Typing replaces selected text	Gõ sẽ thay thế văn bản đã chọn
 	Ukrainian	Tiếng Ukraina
@@ -2323,7 +2153,6 @@ template	Letter	Thư
 	Undo {n} Actions	Hoàn tác {n} thao tác
 	Unformatted Text	Văn bản không định dạng
 	Ungroup	Tách nhóm
-	Union	Phép hợp
 	Union of intersections	Phép hợp của các phép giao
 	Union with Limits	Phép hợp có cận trên/dưới ký hiệu
 	Union with Lower Limit	Phép hợp có cận dưới ký hiệu
@@ -2344,7 +2173,6 @@ template	Letter	Thư
 	Update Table of Figures	Cập nhật danh mục hình
 	Update to Match	Cập nhật theo vùng chọn
 	Update to Match Selection	Cập nhật theo vùng chọn
-	UPPERCASE	CHỮ HOA
 	URGENT	KHẨN
 	URL	URL
 	Use "a" before a consonant sound	Dùng "a" trước phụ âm
@@ -2357,12 +2185,10 @@ template	Letter	Thư
 	User Name	Tên người dùng
 	User name:	Tên người dùng:
 	Username	Tên đăng nhập
-	Value	Giá trị
 	Vector A	Vectơ A
 	Vector AB	Vectơ AB
 	Version History	Lịch sử phiên bản
 	Version {version} ({build})	Phiên bản {version} ({build})
-	Vertical Alignment	Căn dọc
 	Vertical alignment:	Căn chỉnh dọc:
 	Vertical Bars	Dấu gạch dọc
 	Vertical Dots	Dấu ba chấm dọc
@@ -2371,7 +2197,6 @@ template	Letter	Thư
 	View State	Trạng thái hiển thị
 	Views	Các chế độ xem
 	Visual effects	Hiệu ứng hình ảnh
-	Voice	Giọng nói
 	Volume	Tập
 	Volume Integral	Tích phân thể tích
 	Volume Integral with Limits	Tích phân thể tích có cận bên cạnh
@@ -2387,7 +2212,6 @@ template	Letter	Thư
 	Web Layout	Bố cục web
 	Web page (*.html)	Trang web (*.html)
 	Web\nLayout	Bố cục\nweb
-	Website	Trang web
 	Wed	T4
 	Weight	Độ dày nét
 	West	Tây
@@ -2406,7 +2230,6 @@ template	Letter	Thư
 	Widow/Orphan control	Tránh dòng đơn lẻ ở đầu/cuối trang
 	Width and spacing	Chiều rộng và khoảng cách
 	Wildcards (regex)	Ký tự đại diện (regex)
-	Window	Cửa sổ
 	With:	Bằng:
 	Word 2003 XML Document (*.xml)	Tài liệu XML Word 2003 (*.xml)
 	Word Count	Đếm từ
@@ -2429,12 +2252,9 @@ template	Letter	Thư
 	x bar	x có gạch trên
 	Year	Năm
 	Yields	Suy ra
-	Your changes will be lost if you don't save them.	Các thay đổi sẽ bị mất nếu bạn không lưu.
 	Your system doesn't report an animation setting, so animation effects stay on.	Hệ thống không cung cấp thiết lập hiệu ứng động, nên các hiệu ứng động vẫn bật.
 	Your system has animation effects turned off.	Hệ thống của bạn đã tắt hiệu ứng động.
 	Your system has animation effects turned on.	Hệ thống của bạn đã bật hiệu ứng động.
-	Zoom In	Phóng to
-	Zoom Out	Thu nhỏ
 	Zotero	Zotero
 	Zotero: cancelled	Zotero: đã hủy
 	Zotero: done	Zotero: hoàn tất

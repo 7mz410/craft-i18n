@@ -73,7 +73,6 @@
 	Add tab stop at:	タブ位置を追加:
 	Add Text	テキストの追加
 	Add the chapter number	章番号を付ける
-	Add to Dictionary	辞書に追加
 	Add to Document	文書に追加
 	Add to Quick Access Toolbar	クイック アクセス ツール バーに追加
 	Add to Style Gallery	スタイル ギャラリーに追加
@@ -89,7 +88,6 @@
 	Address labels	宛名ラベル
 	Address:	アドレス:
 	Address\nBlock	住所ブロック
-	Adjust	調整
 	Advanced	詳細
 	Advanced Find	高度な検索
 	Advanced Find…	高度な検索…
@@ -102,19 +100,14 @@
 	Align Center	中央揃え
 	Align Center Left	中央揃え (左)
 	Align Center Right	中央揃え (右)
-	Align Left	左揃え
-	Align Right	右揃え
-	Align Text	文字の配置
 	Align Top Center	上揃え (中央)
 	Align Top Left	上揃え (左)
 	Align Top Right	上揃え (右)
 	Aligned at:	配置位置:
 	Alignment	配置
 	All Borders	格子
-	All Caps	すべて大文字
 	All caps	すべて大文字
 	All Commands	すべてのコマンド
-	All files	すべてのファイル
 	All Levels	すべてのレベル
 	All Markup	すべての変更履歴
 	All pages in the range	範囲内のすべてのページ
@@ -132,7 +125,6 @@
 	Alt\nText	代替\nテキスト
 	And	かつ
 	Animate the caret (it glides and fades)	カーソルをアニメーション表示する（滑らかに移動してフェードする）
-	Animation	アニメーション
 	Animation effects:	アニメーション効果:
 	Another file	別のファイル
 	Any Character	任意の 1 文字
@@ -142,22 +134,18 @@
 	Anyone who opens the document will need this password.	この文書を開くすべての人にこのパスワードが必要になります。
 	Apply as you type	入力中に適用
 	Apply Asian line-breaking rules (kinsoku)	アジア文字の禁則処理を行う
-	Apply Character Style	文字スタイルを適用
 	Apply formatting to:	書式の適用先:
 	Apply Style	スタイルを適用
 	Apply Styles	スタイルを選んで適用
-	Apply to:	適用先:
 	Arabic	アラビア
 	Arch Down	下向きアーチ
 	Arch Up	上向きアーチ
 	Area	面
 	Arrange	配置
 	Arrange\nAll	整列
-	Arrows	矢印
 	Artistic Effects	アート効果
 	As Recommended	推奨順
 	As you type	入力中
-	Ascending	昇順
 	Asian text font:	アジア文字のフォント:
 	Asian Typography	アジア文字の組版
 	Assign	割り当て
@@ -174,7 +162,6 @@
 	AutoFit Contents	文字列の幅に合わせる
 	AutoFit Window	ウィンドウ幅に合わせる
 	AutoFormat As You Type	入力オートフォーマット
-	Automatic	自動
 	Automatic ({language})	自動（{language}）
 	Automatic ({region})	自動 ({region})
 	Automatic bulleted lists	箇条書き (自動)
@@ -193,11 +180,9 @@
 	AutoSave saves every change to the file (needs a saved document)	自動保存は変更のたびにファイルへ保存します（保存済みの文書が必要です）
 	AutoSave writes your changes to the file a moment after you stop typing.	自動保存は、入力を止めて少したつと変更をファイルに書き込みます。
 	AutoText	定型句
-	Backspace	Backspace
 	Balloons	吹き出し
 	Banded Columns	縞模様（列）
 	Banded Rows	縞模様（行）
-	Bar	縦線
 	Base text:	親文字:
 	Based on: {style}	基準: {style}
 	Basic Cycle	基本循環
@@ -276,9 +261,6 @@
 	Cell Size	セルのサイズ
 	Cell\nMargins	セルの余白
 	Center	中央揃え
-	Centered	中央揃え
-	Centimeters	センチメートル
-	Change	変更
 	Change Case	大文字/小文字の変換
 	Change Chart Type	グラフの種類の変更
 	Change Colors	色の変更
@@ -297,7 +279,6 @@
 	Changes	変更箇所
 	Chapter in a book	書籍の章
 	Chapters begin at:	章の開始:
-	Character	文字
 	Character Border	文字の罫線
 	Character code:	文字コード:
 	Character in Range	範囲内の文字
@@ -337,7 +318,6 @@
 	Citation Style	引用文献のスタイル
 	Citations	引用文献
 	Citations & Bibliography	引用文献と文献目録
-	City	市区町村
 	Clear All Formatting	すべての書式をクリア
 	Clear Character Formatting	文字の書式をクリア
 	Clear Character Style	文字スタイルをクリア
@@ -371,7 +351,6 @@
 	Column	段
 	Column Break	段区切り
 	Column Selection	矩形選択
-	Column width	列の幅
 	Column {n}	列 {n}
 	Column:	列:
 	Columns	段組み
@@ -380,8 +359,6 @@
 	Combine Documents	文書の組み込み
 	Combo Box Content Control	コンボ ボックス コンテンツ コントロール
 	Commands	コマンド
-	Commands:	コマンド:
-	Comment	コメント
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	PDF、印刷、画像では各ページの横にコメントと変更履歴を表示し、Web ページ、Markdown、テキストでは末尾にコメント一覧を付けます。
 	Comments Pane	コメント ウィンドウ
 	Communication	コミュニケーション
@@ -392,7 +369,6 @@
 	Compare to	比較する値
 	Compared: {changes} changes	比較しました: 変更 {changes} 件
 	Comparing with another file needs the desktop app.	別のファイルとの比較にはデスクトップ版が必要です。
-	Comparison	比較
 	Comparison settings	比較の設定
 	Compress Pictures	図の圧縮
 	Compress punctuation at the start of a line	行頭の約物を詰める
@@ -401,7 +377,6 @@
 	Confirm password:	パスワードの確認:
 	Connect Shapes	図形をつなぐ
 	Container Title	掲載元の名前
-	Contains	含む
 	Content Control at Selection	選択位置のコンテンツ コントロール
 	Content Control Properties	コンテンツ コントロールのプロパティ
 	Contents can't be edited	内容を編集できない
@@ -415,7 +390,6 @@
 	Convert Text to Table…	文字列を表にする…
 	Convert to Shapes	図形に変換
 	Convert to Text	表の解除
-	Copies	部数
 	Copy Formatting	書式のコピー
 	Copy of the text a bookmark marks	ブックマークの文字列
 	Copy Styles	スタイルのコピー
@@ -430,7 +404,6 @@
 	Couldn't open {path}: {error}	{path} を開けませんでした: {error}
 	Count by:	増分:
 	Count words in text boxes and notes	テキスト ボックス、脚注、文末脚注の単語も数える
-	Country	国
 	Courtesy Title	敬称
 	Cover Page	表紙
 	Craft	クラフト
@@ -444,7 +417,6 @@
 	Crop	トリミング
 	Cross-reference	相互参照
 	Cross-reference:	相互参照:
-	Current	現在
 	Current Position	現在の位置
 	Current style: {style}	現在のスタイル: {style}
 	Curved Arrow Connector	曲線矢印コネクタ
@@ -471,10 +443,8 @@
 	Dark page (white text on black)	ダーク ページ (黒地に白い文字)
 	Dark with Shadow	暗い色と影
 	Darkroom	暗室
-	Data	データ
 	Data Labels	データ ラベル
 	Date & Time	日付と時刻
-	Date and Time	日付と時刻
 	Date formats:	日付の形式:
 	Date Picker Content Control	日付選択コンテンツ コントロール
 	Day	日
@@ -507,7 +477,6 @@
 	Delivery address:	宛先:
 	Demote	レベル下げ
 	Demote to Body Text	本文に設定
-	Descending	降順
 	Describe what this object shows, for people who can't see it.	このオブジェクトが示す内容を、見ることができない人のために説明してください。
 	Describe what this table shows, for people who can't see it.	この表が示す内容を、見ることができない人のために説明してください。
 	Design	デザイン
@@ -524,9 +493,7 @@
 	Different Odd & Even Pages	奇数/偶数ページ別指定
 	Direct formatting	直接の書式
 	Directory	ディレクトリ
-	Discord	Discord
 	Discord community	Discord コミュニティ
-	Display	表示
 	Display for Review	変更内容の表示
 	Display text	表示テキスト
 	Distribute Columns	列の幅を揃える
@@ -550,7 +517,6 @@
 	Document Title	文書のタイトル
 	Document1	文書 1
 	Document\nPreferences	文書の\n設定
-	Documents	ドキュメント
 	Documents you open will show up here.	開いた文書がここに表示されます。
 	Does not contain	含まない
 	DOI	DOI
@@ -558,10 +524,8 @@
 	Don't capitalize after:	次の後は大文字にしない:
 	Don't hyphenate	ハイフネーションなし
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Zotero、Mendeley、EndNote の引用と参考文献は読み上げません
-	Don't Save	保存しない
 	Dot dash	一点鎖線
 	Dot-dash	一点鎖線
-	Dotted	点線
 	Double	二重線
 	Double Closing Quote	二重引用符 (閉じ)
 	Double Opening Quote	二重引用符 (開き)
@@ -570,7 +534,6 @@
 	Double strikethrough	二重取り消し線
 	Double Underline	二重下線
 	Doughnut	ドーナツ
-	Down	下
 	Draft	下書き
 	Drag a rectangle to draw a table, or a line across cells to split them. Esc stops.	四角形をドラッグして表を描くか、セルを横切る線を引いて分割します。Esc で終了します。
 	Draw Ink	インクで描く
@@ -583,7 +546,6 @@
 	Drop cap	ドロップ キャップ
 	Drop-Down List Content Control	ドロップダウン リスト コンテンツ コントロール
 	Drops all formatting and pastes plain text.	書式をすべて取り除き、プレーン テキストとして貼り付けます。
-	Dutch	オランダ語
 	E-mail Messages	電子メール
 	Edit Comment	コメントを編集
 	Edit Data	データの編集
@@ -607,7 +569,6 @@
 	Effects	文字飾り
 	Elbow Arrow Connector	カギ線矢印コネクタ
 	Elbow Connector	カギ線コネクタ
-	Ellipsis	省略記号
 	Em Dash	エム ダッシュ
 	Em Space	em スペース
 	Emboss	浮き出し
@@ -631,7 +592,6 @@
 	Enter page number:	ページ番号を入力:
 	Entry marked.	項目を登録しました。
 	Envelope #10	封筒 #10
-	Envelope DL	封筒 DL
 	Envelope size:	封筒サイズ:
 	Envelopes	封筒
 	Equal column width	段の幅を均等にする
@@ -664,7 +624,6 @@
 	Export Page as PNG	ページを PNG としてエクスポート
 	Export PDF	PDF にエクスポート
 	Exported {path}	{path} にエクスポートしました
-	Expression	式
 	Extend Selection	選択範囲の拡張
 	Extend Selection by Units	単位ごとに選択範囲を拡張
 	Field code:	フィールド コード:
@@ -675,7 +634,6 @@
 	Field names must be different.	フィールド名は重複できません。
 	Field names:	フィールドの名前:
 	Field:	フィールド:
-	Fields:	フィールド:
 	Field…	フィールド…
 	Figure	図
 	File name:	ファイル名:
@@ -685,9 +643,6 @@
 	Film	映画
 	Filter and Sort	フィルターと並べ替え
 	Filter Recipients	宛先のフィルター
-	Find	検索
-	Find and Replace	検索と置換
-	Find Next	次を検索
 	Find Next Editable Region	次の編集可能な範囲を検索
 	Find Previous	前を検索
 	Find Recipient	宛先の検索
@@ -696,7 +651,6 @@
 	Find what:	検索する文字列:
 	Find:	検索:
 	Finding printers…	プリンターを検索しています…
-	Finish	完了
 	Finish & Merge	完了と差し込み
 	Finish &\nMerge	完了と差し込み
 	Finished	完了
@@ -709,7 +663,6 @@
 	Fit	サイズに合わせる
 	Fix Position on Page	ページ上で位置を固定する
 	Fixed Column Width	列の幅を固定する
-	Focus	フォーカス
 	Follow number with:	番号に続く文字:
 	Font Color	フォントの色
 	Font color	フォントの色
@@ -760,7 +713,6 @@
 	Go To…	ジャンプ…
 	Grab bag	ランダム表示
 	Graphic	図
-	Grayscale	グレースケール
 	Greater than	より大きい
 	Greater than or equal	以上
 	Greek	ギリシャ語
@@ -783,7 +735,6 @@
 	Heading 3	見出し 3
 	Heading styles (levels 1–{n})	見出しスタイル (レベル 1–{n})
 	Heading {n}	見出し {n}
-	Heart	ハート
 	Hebrew	ヘブライ語
 	Hex:	16 進数:
 	Hidden	隠し文字
@@ -811,7 +762,6 @@
 	Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's.	このフォルダーの Hunspell .aff と .dic ファイル (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) は、システムのものより優先して使われます。
 	Hyphenate at:	ハイフネーション位置:
 	Hyphenate words in CAPS	大文字の単語をハイフネーションする
-	Hyphenation	ハイフネーション
 	Hyphenation Options…	ハイフネーションのオプション…
 	Hyphenation zone:	ハイフネーション領域:
 	Hyphens (--) as dashes (—)	ハイフン (--) をダッシュ (—) に
@@ -821,7 +771,6 @@
 	Icons	アイコン
 	If…Then…Else	条件 (If…Then…Else)
 	If…Then…Else…	条件 (If…Then…Else)…
-	Ignore All	すべて無視
 	Ignore punctuation characters	句読点を無視する
 	Ignore web and file addresses	Web アドレスとファイル パスを無視する
 	Ignore white-space characters	空白文字を無視する
@@ -836,7 +785,6 @@
 	In Front of Text	前面
 	In Line with Text	行内
 	In the margin	余白に表示
-	Inches	インチ
 	Include level number from:	含めるレベルの番号:
 	Include page numbers	ページ番号を含める
 	Increase Font Size	フォント サイズの拡大
@@ -849,8 +797,6 @@
 	Indents and Spacing	インデントと間隔
 	Index	索引
 	Index and Tables	索引と目次
-	Inflate	膨張
-	Info	情報
 	Initials:	イニシャル:
 	Ink	インク
 	Ink Replay	インクの再生
@@ -907,19 +853,16 @@
 	Inspect Styles at Selection	選択箇所のスタイルを調べる
 	Institution	機関
 	Integral	積分
-	Interface	インターフェイス
 	Interface language:	表示言語:
 	Interface size:	表示サイズ:
-	Interface Theme	表示テーマ
 	Interface theme:	表示テーマ:
 	Interface\nTheme	表示テーマ
 	Internet addresses as links	インターネットのアドレスをリンクに
+	Intersection	Intersection
 	Ionosphere	電離圏
 	Is blank	空白
 	Is not blank	空白ではない
 	Issue	号
-	Italian	イタリア語
-	Japanese	日本語
 	Join the ArtCraft community on Discord	Discord の ArtCraft コミュニティに参加
 	Join us on Discord: discord.gg/artcraft	Discord で参加: discord.gg/artcraft
 	Journal	学術誌
@@ -934,7 +877,6 @@
 	Keeps the fonts and formatting of the copied text.	コピーしたテキストのフォントと書式を保持します。
 	Keyboard shortcuts:	キーボード ショートカット:
 	Keys for this command:	このコマンドのキー:
-	Korean	韓国語
 	Label changes with:	変更者のラベル:
 	Label:	ラベル:
 	Language Preferences…	言語の設定…
@@ -946,7 +888,6 @@
 	Last Name	姓
 	Last, First; Last, First	姓, 名; 姓, 名
 	Latin text font:	ラテン文字のフォント:
-	Layout	レイアウト
 	Layout Summary	レイアウトの概要
 	Layouts	レイアウト
 	Leader	リーダー
@@ -966,7 +907,6 @@
 	Legend	凡例
 	Less than	より小さい
 	Less than or equal	以下
-	Letter	レター
 	Letter headings	文字見出し
 	Letters	レター
 	Level {n}	レベル {n}
@@ -980,7 +920,6 @@
 	Line between	境界線を引く
 	Line Break	改行
 	Line breaking	行の分割
-	Line delta	行数の増減
 	Line End	行末
 	Line Numbering Options…	行番号のオプション…
 	Line Numbers	行番号
@@ -1000,7 +939,6 @@
 	Link to Previous	前と同じヘッダー/フッター
 	Link to:	リンク先:
 	Linked style (paragraph and character)	リンク スタイル (段落と文字)
-	Links	リンク
 	Links and References	リンクと参照
 	Link…	リンク…
 	List Definition	リストの定義
@@ -1048,14 +986,11 @@
 	Match suffix	語尾が一致する
 	Math AutoCorrect	数式オートコレクト
 	Matrix	行列
+	Maximum	Maximum
 	Measurement units:	単位:
-	Merge	結合
-	Merge Cells	セルの結合
 	Merge Formatting	書式を結合
 	Merge Record #	差し込みレコード番号
 	Mesosphere	中間圏
-	Middle	中央
-	Millimeters	ミリメートル
 	Mirror indents	左右対称のインデント
 	Mirror margins	見開きページ
 	Mirrored	見開きページ
@@ -1074,7 +1009,6 @@
 	More Paper Sizes…	その他の用紙サイズ…
 	More Symbols…	その他の記号…
 	More templates →	その他のテンプレート →
-	Move Down	下へ移動
 	Move in Equation	数式内で移動
 	Move or Resize	移動またはサイズ変更
 	Move Paragraph Down	段落を下へ移動
@@ -1083,7 +1017,6 @@
 	Move Past\nCitation	引用の後ろ\nへ移動
 	Move Selected Ink	選択したインクを移動
 	Move Table by Dragging	ドラッグで表を移動
-	Move Up	上へ移動
 	Move with Text	文字列と一緒に移動する
 	Moved from	移動元
 	Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely.	移動したオブジェクトは、ページの端と中央、余白、ほかのオブジェクトに吸着します。Alt キーを押しながら移動すると自由に動かせます。
@@ -1096,16 +1029,13 @@
 	Narrow	狭い
 	Narrow  {size} all	狭い  上下左右 {size}
 	Nature	自然
-	Navigation	ナビゲーション
 	Navigation Pane	ナビゲーション ウィンドウ
-	New	新規
 	New Comment	新しいコメント
 	New comments and tracked changes are recorded under this name and these initials.	新しいコメントと変更履歴は、この名前とイニシャルで記録されます。
 	New Document	新規文書
 	New document	新規文書
 	New Drawing Canvas	新しい描画キャンバス
 	New Entry	新しいエントリ
-	New from Template	テンプレートから新規作成
 	New Group	新しいグループ
 	New Label	新しいラベル
 	New Label…	ラベル名…
@@ -1120,7 +1050,6 @@
 	New\nComment	新しいコメント
 	New\nWindow	新しいウィンドウ
 	New…	新規作成…
-	Next Change	次の変更箇所
 	Next Comment	次のコメント
 	Next Field	次のフィールド
 	Next Footnote	次の脚注
@@ -1157,7 +1086,6 @@
 	No-Width Non Break	幅なし改行禁止
 	No-Width Optional Break	幅なし任意改行
 	Nonbreaking Hyphen	改行なしハイフン
-	Nonbreaking Space	改行なしスペース
 	Normal  {size} all	標準  上下左右 {size}
 	Normal speed	標準の速度
 	Normal Style	標準スタイル
@@ -1193,7 +1121,6 @@
 	Numbering…	番号付け…
 	Numerals	数字
 	Numerals:	数字:
-	Object	オブジェクト
 	Odd Banded Columns	奇数の縞模様（列）
 	Odd Banded Rows	奇数の縞模様（行）
 	Odd Page	奇数ページから開始
@@ -1209,7 +1136,6 @@
 	Offset: Top	オフセット: 上
 	Offset: Top Left	オフセット: 左上
 	Offset: Top Right	オフセット: 右上
-	Omit	省略
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	オン: 入力や矢印キーの操作でカーソルが新しい位置へ滑らかに移動し、点滅もフェードします。オフ: カーソルは瞬時に移動し、点滅は表示と非表示が切り替わるだけです。
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	オン: WordCraft は [ファイル] › [ホーム] で開き、白紙の文書、テンプレート、最近使った文書を表示します。オフ: 白紙の文書を開きます。
 	One	1 段
@@ -1237,10 +1163,8 @@
 	Organizer…	オーガナイザー…
 	Orientation	印刷の向き
 	Original document	元の文書
-	Other	その他
 	Other styles and their TOC level:	その他のスタイルと目次レベル:
 	Otherwise insert:	一致しなければ挿入:
-	Outline	アウトライン
 	Outline Level	アウトライン レベル
 	Outline level	アウトライン レベル
 	Outline levels	アウトライン レベル
@@ -1275,15 +1199,12 @@
 	Page width	ページ幅
 	Page X of Y	X / Y ページ
 	Page {page}	{page} ページ
-	Page {page} of {pages}	{page} / {pages} ページ
 	Page\nBorders	ページ罫線
 	Page\nColor	ページの色
 	Page\nNumber	ページ番号
 	Pages like 1-3, 5	ページ指定(例: 1-3, 5)
 	Pages of bookmark:	ブックマークのページ:
-	Paper	用紙
 	Paper size:	用紙サイズ:
-	Paragraph	段落
 	Paragraph Character	段落記号文字
 	Paragraph Details	段落の詳細
 	Paragraph Down	次の段落へ
@@ -1307,17 +1228,13 @@
 	Paste: Keep Text Only	貼り付け: テキストのみ保持
 	Paste: Merge Formatting	貼り付け: 書式を結合
 	Pastes the clipboard's picture.	クリップボードの画像を貼り付けます。
-	Pause	一時停止
 	Paused	一時停止中
 	PDF document (*.pdf)	PDF 文書 (*.pdf)
-	Pen	ペン
-	Pencil	鉛筆
 	Pens	ペン
 	People	人物
 	Periodical	定期刊行物
 	Personalize	個人設定
 	Phonetic Guide	ルビ
-	Picas	パイカ
 	Pick a custom group (New Group makes one)	ユーザー設定グループを選んでください (新しいグループで作成できます)
 	Pick a field from the list	フィールドを選んでください
 	Picture	画像
@@ -1331,26 +1248,19 @@
 	Placeholder text	プレースホルダー テキスト
 	Plain text (*.txt)	テキスト (*.txt)
 	Plain Text Content Control	プレーン テキスト コンテンツ コントロール
-	Play	再生
 	Play/Pause	再生/一時停止
-	Points	ポイント
 	Polish	ポーランド語
 	Portuguese (Brazil)	ポルトガル語（ブラジル）
 	Portuguese (Portugal)	ポルトガル語（ポルトガル）
-	Position:	位置:
 	Postal Code	郵便番号
 	Preferred width:	推奨幅:
 	Preserve formatting during updates	更新時に書式を保持する
-	Presets	プリセット
 	Press a key combination	キーの組み合わせを押してください
 	Preview Results	結果のプレビュー
 	Preview\nResults	結果のプレビュー
-	Previous	前へ
 	Previous 1 or More	直前の 1 回以上の繰り返し
-	Previous Change	前の変更箇所
 	Previous Comment	前のコメント
 	Previous Field	前のフィールド
-	Previous Page	前のページ
 	Previous Record	前のレコード
 	Previous Section	前へ
 	Previous Sentence	前の文
@@ -1365,7 +1275,6 @@
 	Print the page color	ページの色を印刷する
 	Print to PDF	PDF に印刷
 	Print\nLayout	印刷レイアウト
-	Printer	プリンター
 	Printer default	プリンターの既定値
 	Printer discovery failed.	プリンターの検索に失敗しました。
 	Privacy for this document	このドキュメントのプライバシー
@@ -1378,14 +1287,12 @@
 	Proofing	文章校正
 	Proofing Issues	文章校正の問題
 	Proofing language	文章校正の言語
-	Properties	プロパティ
 	Protect Document	文書の保護
 	PRs	PR
 	pt	pt
 	Publisher	出版社
 	Put the caret in a content control first.	先にカーソルをコンテンツ コントロールに置いてください。
 	Put the default commands back on the Quick Access Toolbar?	クイック アクセス ツール バーを既定のコマンドに戻しますか?
-	Pyramid	ピラミッド
 	Quick Access Toolbar	クイック アクセス ツール バー
 	Quick Parts	クイック パーツ
 	Quick Tables	クイック表作成
@@ -1457,7 +1364,6 @@
 	Rename Style	スタイル名の変更
 	Rename…	名前の変更…
 	Reopen	再度開く
-	Repeat	繰り返し
 	Repeat as header row on each page	各ページに見出し行として繰り返す
 	Repeat Header Rows	タイトル行の繰り返し
 	Repeating Section Content Control	繰り返しセクション コンテンツ コントロール
@@ -1471,7 +1377,6 @@
 	Research	調査
 	Researcher	リサーチツール
 	Researcher needs an online service; WordCraft keeps your documents offline.	リサーチツールにはオンライン サービスが必要です。WordCraft では文書はオフラインのままです。
-	Reset	リセット
 	Reset All…	すべてリセット…
 	Reset Character Formatting	文字書式のリセット
 	Reset Crop	トリミングのリセット
@@ -1480,7 +1385,6 @@
 	Reset Picture	図のリセット
 	Reset to Normal	標準に戻す
 	Reset\nGraphic	グラフィックの\nリセット
-	Reset…	リセット…
 	Resize Table by Dragging	ドラッグで表のサイズを変更
 	Resolve	解決
 	Resolved	解決済み
@@ -1490,11 +1394,9 @@
 	Restart list after:	リストを振り直すレベル:
 	Restrict Editing	編集の制限
 	Restrict\nEditing	編集の制限
-	Result	結果
 	Results	結果
 	Return address labels	差出人ラベル
 	Return address:	差出人住所:
-	Reverse the order	順序を逆にする
 	Review	校閲
 	Reviewing	校閲
 	Reviewing Pane	[変更履歴] ウィンドウ
@@ -1517,7 +1419,6 @@
 	Right-to-Left Section	右から左のセクション
 	Right-to-Left Table	右から左の表
 	Right-to-Left Text Direction	右から左への文字方向
-	Right:	右:
 	Rotate all text 270°	すべてのテキストを 270° 回転
 	Rotate all text 90°	すべてのテキストを 90° 回転
 	Rotate Left 90°	左へ 90 度回転
@@ -1531,22 +1432,19 @@
 	Ruler	ルーラー
 	Rules	ルール
 	Run-in	追い込み
-	Russian	ロシア語
 	Résumé	履歴書
 	Sat:	鮮やかさ:
 	Save a copy in another format. Printing goes through a PDF you can print from any viewer.	コピーを別の形式で保存します。印刷は PDF を経由し、任意のビューアーから印刷できます。
-	Save As	名前を付けて保存
-	Save as Template	テンプレートとして保存
 	Save documents	ドキュメントの保存
 	Save the document to turn on AutoSave	自動保存をオンにするには文書を保存してください
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	自動保存をオンにするには文書を保存してください（開いただけのファイルは、保存するまで書き換えられません）
 	Save these pages as PDF…	このページを PDF として保存…
-	Saved	保存済み
 	Saving {name} was cancelled, so it is still open and nothing was lost.	{name} の保存はキャンセルされました。文書は開いたままで、何も失われていません。
 	Scale	倍率
 	Scale Drawing	描画の拡大縮小
 	Scatter	散布図
 	Script	上付き/下付き
+	Scripts	Scripts
 	Scroll ribbon left	リボンを左にスクロール
 	Scroll ribbon right	リボンを右にスクロール
 	Search Commands	コマンドの検索
@@ -1563,7 +1461,6 @@
 	Section Properties	セクションのプロパティ
 	Sections	セクション数
 	See	参照
-	Select	選択
 	Select a picture, shape, chart or table to describe it.	説明する画像、図形、グラフ、または表を選択してください。
 	Select a printer	プリンターを選択
 	Select Cell	セルの選択
@@ -1598,7 +1495,6 @@
 	Serbian (Latin)	セルビア語（ラテン文字）
 	Series name	系列名
 	Series {n}	系列 {n}
-	Set	設定
 	Set As Default	既定に設定
 	Set as Default	既定に設定
 	Set Caret	カーソル位置の設定
@@ -1609,7 +1505,6 @@
 	Set Paragraph Formatting	段落書式の設定
 	Set Proofing Language…	校正言語の設定…
 	Setting:	種類:
-	Settings…	設定…
 	Shading	網かけ
 	Shadow	影
 	Shadow, glow and soft edges	影、光彩、輪郭のぼかし
@@ -1619,7 +1514,6 @@
 	Shape Outline	図形の枠線
 	Shape Styles	図形のスタイル
 	Shapes	図形
-	Share	共有
 	Shift+Tab	Shift+Tab
 	Shipping labels	配送ラベル
 	Shortcut key:	ショートカット キー:
@@ -1682,7 +1576,6 @@
 	Site name	サイト名
 	Size (pt):	サイズ (pt):
 	Size and Crop…	サイズとトリミング…
-	Size:	サイズ:
 	Sketchbook	スケッチブック
 	Skip citations & bibliography	引用と参考文献をスキップ
 	Skip Citations and Bibliography	引用と参考文献をスキップ
@@ -1715,17 +1608,13 @@
 	Space before	段落前の間隔
 	Space before/after:	段落前/後の間隔:
 	Space before: {pt} pt	前の間隔: {pt} pt
-	Spaces	スペース
-	Spacing	間隔
 	Spacing (pt):	間隔 (pt):
-	Spacing:	間隔:
 	Spanish (Mexico)	スペイン語（メキシコ）
 	Spanish (Spain)	スペイン語（スペイン）
 	Special	特殊文字
 	Special Characters	特殊文字
 	Specify height:	高さを指定:
 	Speech	音声
-	Speed	速度
 	Spelling	スペル チェック
 	Spelling & Grammar	スペル チェックと文章校正
 	Spelling &\nGrammar	スペル チェックと文章校正
@@ -1746,8 +1635,6 @@
 	Start-up	起動
 	State	都道府県
 	Statistics	統計
-	Status Bar	ステータス バー
-	Stop	停止
 	Stop Protection	保護の中止
 	Stop Reading	読み上げを停止
 	Stopped	停止中
@@ -1756,7 +1643,6 @@
 	Stroke {n} of {total}	ストローク {n}/{total}
 	Structure Actions	構造の操作
 	Structures	構造
-	Studio	スタジオ
 	Studio cover	スタジオ表紙
 	Studio handbook (sample)	スタジオ ハンドブック（サンプル）
 	Style based on:	基準にするスタイル:
@@ -1765,26 +1651,21 @@
 	Style Set	スタイル セット
 	Style:	線種:
 	Style: {style}	スタイル: {style}
-	Styles	スタイル
 	Styles Pane	スタイル ウィンドウ
 	Styles:	スタイル:
 	Subentry:	副項目:
 	Submit print job	印刷ジョブの送信
 	Submitting print job…	印刷ジョブを送信しています…
-	Subscript	下付き
 	Subset:	種類:
 	Suggested	おすすめ
 	Sum	計
-	Superscript	上付き
 	Suppress line numbers	行番号を表示しない
 	Swap footnotes and endnotes	脚注と文末脚注を入れ替え
 	Swedish	スウェーデン語
 	Switch Modes	モードの切り替え
 	Switch\nModes	モードの切り替え
-	Symbol	記号と特殊文字
 	Symbols	記号と特殊文字
 	Synonyms	類義語
-	Tab	タブ
 	Tab Character	タブ文字
 	Tab character	タブ文字
 	Tab characters	タブ
@@ -1803,17 +1684,14 @@
 	Table Properties	表のプロパティ
 	Table Properties…	表のプロパティ…
 	Table Row Height	表の行の高さ
-	Table style	表スタイル
 	Table Style Options	表スタイルのオプション
 	Table Styles	表のスタイル
-	Tabs	タブ
 	Tabs…	タブ…
 	Tabular List	表形式の一覧
 	Tag	タグ
 	Take the last match on the page	ページ内で最後に一致したものを使う
 	TC entry fields	TC 項目フィールド
 	Technology	テクノロジー
-	Templates	テンプレート
 	Templates and Add-ins	テンプレートとアドイン
 	Text Box	テキスト ボックス
 	Text boxes	テキスト ボックス
@@ -1831,7 +1709,6 @@
 	Text snaps to characters	文字をグリッドに合わせる
 	Text to display:	表示文字列:
 	Text Wrapping	文字列の折り返し
-	Text:	テキスト:
 	Text\nBox	テキスト ボックス
 	Text\nDirection	文字列の方向
 	That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on.	その形式ではすべてを保存できないため、文書は開いたままです。続けるには Word 文書 (.docx) として保存してください。
@@ -1890,7 +1767,6 @@
 	Top Margin	上余白
 	Top of Page	ページの上部
 	Top Right Cell	右上のセル
-	Top:	上:
 	Total Row	集計行
 	Track Changes	変更履歴の記録
 	Track Changes Options	変更履歴のオプション
@@ -1900,10 +1776,8 @@
 	Tracking	変更履歴
 	Trademark	商標
 	Trademark Sign	商標記号
-	Transform	変形
 	Transparency	透明度
 	Transport	乗り物
-	Triangle	三角形
 	Triangle Down	下向き三角形
 	Triangle Up	上向き三角形
 	Triple	三重線
@@ -1925,7 +1799,6 @@
 	Type the field's name and its switches, for example PAGE \\* roman.	フィールド名とスイッチを入力します (例: PAGE \\* roman)。
 	Type the password to stop the protection.	保護を中止するにはパスワードを入力してください。
 	Type the recipients, or load them from a file.	宛先を入力するか、ファイルから読み込みます。
-	Type:	種類:
 	Typing replaces selected text	入力時に選択文字列を置き換える
 	Ukrainian	ウクライナ語
 	Unchecked symbol	オフの記号
@@ -1937,7 +1810,6 @@
 	Undo History	元に戻す履歴
 	Undo {n} Actions	{n} 件の操作を元に戻す
 	Unformatted Text	書式なしテキスト
-	Ungroup	グループ解除
 	Unlink Fields	フィールドのリンク解除
 	Unlink\nCitations	引用文献の\nリンク解除
 	Unlock Fields	フィールドのロック解除
@@ -1961,7 +1833,6 @@
 	Use wildcards	ワイルドカードを使う
 	User Name	ユーザー名
 	User name:	ユーザー名:
-	Value	値
 	Version History	バージョン履歴
 	Version {version} ({build})	バージョン {version}（{build}）
 	Vertical Alignment	垂直方向の配置
@@ -1971,7 +1842,6 @@
 	View State	表示の状態
 	Views	表示
 	Visual effects	視覚効果
-	Voice	音声
 	Volume	巻
 	W:	幅:
 	Waiting for the save to finish…	保存が完了するのを待っています…
@@ -1983,7 +1853,6 @@
 	Web Layout	Web レイアウト
 	Web page (*.html)	Web ページ (*.html)
 	Web\nLayout	Web レイアウト
-	Website	Web サイト
 	Wed	水
 	Weight	太さ
 	West	西
@@ -2001,7 +1870,6 @@
 	Widow/Orphan Control	改ページ時 1 行残して段落を区切らない
 	Widow/Orphan control	改ページ時 1 行残して段落を区切らない
 	Width and spacing	幅と間隔
-	Window	ウィンドウ
 	With:	修正後の文字列:
 	Word 2003 XML Document (*.xml)	Word 2003 XML ドキュメント (*.xml)
 	Word Count	文字カウント

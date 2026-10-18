@@ -1,6 +1,6 @@
 # craft-i18n roadmap
 
-> **Last updated:** 2026-10-18 · **Change:** patch (known homograph: WordCraft's "Open" spacing preset)
+> **Last updated:** 2026-10-18 · **Change:** minor (milestone 3b catalogs migrated)
 
 Shared translations for the storytold Crafting Apps: one catalog per locale for shared strings,
 one per app, checked in CI and embedded by each app at build time. Vocabulary is in
@@ -11,9 +11,9 @@ one per app, checked in CI and embedded by each app at build time. Vocabulary is
 | # | Milestone | Where | Status |
 |---|---|---|---|
 | 1 | TSV catalog format and strict checker; Fluent and the unusable library crate removed; translator and integration docs | this repo | done (PR #1) |
-| 2 | `craft-i18n` runtime crate: parser, lookup, fallback, plurals (`intl_pluralrules`), locale matching, pseudo locale | craft-libs | in review upstream: [storytold/craft-libs#167](https://github.com/storytold/craft-libs/pull/167) |
-| 3a | Migrate WordCraft and PdfCraft (proves the runtime on the largest catalogs; seeds the shared catalog) | apps | catalogs moved here; app wiring waits on craft-libs#167 |
-| 3b | Migrate the other TSV apps: PhotoCraft, VectorCraft, FilmCraft, CADCraft, craft-launcher | apps | not started |
+| 2 | `craft-i18n` runtime crate: parser, lookup, fallback, plurals (`intl_pluralrules`), locale matching, pseudo locale | craft-libs | done: merged upstream as [storytold/craft-libs#167](https://github.com/storytold/craft-libs/pull/167) (2026-10-18) |
+| 3a | Migrate WordCraft and PdfCraft (proves the runtime on the largest catalogs; seeds the shared catalog) | apps | catalogs moved here; app wiring next |
+| 3b | Migrate the other TSV apps: PhotoCraft, VectorCraft, FilmCraft, CADCraft, craft-launcher | apps | catalogs moved here (shared catalog grows additively, [ADR 0003](docs/adr/0003-shared-catalog-grows-additively.md)); app wiring next |
 | 3c | Convert and migrate FigCraft (TOML), LightCraft (JSON), DesignCraft, GridCraft, EffectCraft (Rust tables) | apps | not started |
 | 3d | Add translation to DeckCraft and SoundCraft | apps | not started |
 
@@ -26,6 +26,12 @@ Known migration fixes: PdfCraft's Turkish `@plural` rows listed one form, CLDR (
 done in 3a by repeating the form (Turkish nouns stay singular after numerals). The runtime crate
 must pin the same `intl_pluralrules` version as the checker, or their plural form counts can disagree.
 
+Done in 3b, format only (no wording changes): Hungarian and Turkish `@plural` rows with one form
+got it repeated (PhotoCraft, VectorCraft); VectorCraft's Korean and CADCraft's Chinese kept one
+form; CADCraft's `\P` is escaped as `\\P`. CADCraft's `@plural` sources were the singular only;
+they are now `one|other`, so **CADCraft's `count()` must look plurals up by `one|other`** when it
+is wired. PhotoCraft's `sr` catalog is Latin script and moved to `sr-latn`.
+
 Known homograph, not yet fixed: WordCraft's Paragraph Spacing menu has an "Open" preset
 (`crates/ui-egui/src/ribbon.rs`, the spacing next to Tight and Relaxed). It shares the key
 `("", "Open")` with File > Open, so every locale shows the verb (`es` Abrir, `de` Öffnen). The fix is
@@ -34,17 +40,17 @@ app-side in WordCraft's 3a wiring: give the preset a context (`spacing`) and add
 
 ## Apps
 
-As surveyed on 2026-10-16. Locale counts exclude English.
+As surveyed on 2026-10-16 (VectorCraft recounted 2026-10-18). Locale counts exclude English.
 
 | App | Format today | Locales | Plurals | Migrated |
 |---|---|---|---|---|
 | WordCraft | TSV | 22 | none | catalogs |
 | PdfCraft | TSV | 22 | `@plural` | catalogs |
-| PhotoCraft | TSV | 20 | `@plural` | no |
-| VectorCraft | TSV | 19 | `@plural` | no |
-| FilmCraft | TSV | 11 | none | no |
-| CADCraft | TSV | 12 | `@plural` + own rules | no |
-| craft-launcher | TSV | 10 | `@plural` | no |
+| PhotoCraft | TSV | 20 | `@plural` | catalogs |
+| VectorCraft | TSV | 22 | `@plural` | catalogs |
+| FilmCraft | TSV | 11 | none | catalogs |
+| CADCraft | TSV | 12 | `@plural` + own rules | catalogs |
+| craft-launcher | TSV | 10 | `@plural` | catalogs |
 | FigCraft | TOML | 14 | CLDR | no |
 | LightCraft | JSON | 13 | minimal | no |
 | DesignCraft | Rust tables | 11 | own rules | no |
@@ -70,3 +76,5 @@ As surveyed on 2026-10-16. Locale counts exclude English.
 | 2026-10-17 | minor | Milestones 1 and 2 done; WordCraft and PdfCraft catalogs migrated (196 shared strings, 28 locales) |
 | 2026-10-17 | patch | Milestone 2 runtime crate opened upstream as storytold/craft-libs#167 |
 | 2026-10-18 | patch | Recorded WordCraft's "Open" spacing preset translated as the verb |
+| 2026-10-18 | minor | Milestone 3b catalogs migrated: PhotoCraft, VectorCraft, FilmCraft, CADCraft, craft-launcher (1279 shared strings, 32 locales) |
+| 2026-10-18 | patch | Milestone 2 done: storytold/craft-libs#167 merged after review; app wiring unblocked |

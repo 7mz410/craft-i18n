@@ -23,7 +23,6 @@
 	+LOC	+LOC
 	, Expires: 	, Hết hạn: 
 	1 difference found	Tìm thấy 1 điểm khác biệt
-	1 file	1 tệp
 	1 file done	1 tệp đã xong
 	1 file needs attention	1 tệp cần chú ý
 	1 instance	1 lần xuất hiện
@@ -73,10 +72,7 @@
 	Action name:	Tên hành động:
 	Action Wizard	Trình hướng dẫn hành động
 	Action Wizard…	Trình hướng dẫn hành động…
-	Actions	Hành động
 	Actions list	Danh sách hành động
-	Active	Đang dùng
-	Actual Size	Kích thước thực
 	Actual size	Kích thước thực
 	Actual text	Văn bản thực tế
 	Add a button	Thêm một nút
@@ -173,8 +169,6 @@
 	AI assistant	Trợ lý AI
 	Algorithm	Thuật toán
 	Align fields	Căn chỉnh các trường
-	Align left	Căn trái
-	Align right	Căn phải
 	All annotations are tagged	Tất cả chú thích đã được gắn thẻ
 	All document contents	Toàn bộ nội dung tài liệu
 	All document contents except metadata	Toàn bộ nội dung tài liệu trừ siêu dữ liệu
@@ -202,7 +196,6 @@
 	Alternate text on an element without page content is never reached. Remove it or attach the element to content.	Văn bản thay thế trên phần tử không có nội dung trang sẽ không bao giờ được truy cập tới. Hãy gỡ nó hoặc gắn phần tử vào nội dung.
 	Alternate text should not hide annotation	Văn bản thay thế không nên che chú thích
 	Alternate text that will never be read	Văn bản thay thế sẽ không bao giờ được đọc
-	Always	Luôn luôn
 	An action is already running	Một hành động đang chạy
 	An action with this name already exists.	Đã có hành động với tên này.
 	An embedded file has no AFRelationship	Một tệp nhúng không có AFRelationship
@@ -210,21 +203,15 @@
 	An image has alternates or OPI information	Một hình ảnh có bản thay thế hoặc thông tin OPI
 	An open-source PDF workbench — local, private, and scriptable.	Bộ công cụ PDF mã nguồn mở — chạy cục bộ, riêng tư và có thể viết kịch bản.
 	and {n} more	và {n} mục nữa
-	Angle	Góc
-	Animation effects	Hiệu ứng hoạt họa
 	Animation that flashes can cause seizures. Check scripts and media for flicker.	Hoạt ảnh nhấp nháy có thể gây co giật. Hãy kiểm tra script và phương tiện xem có nhấp nháy không.
 	Annotations, form fill-in, and digital signatures	Chú thích, điền biểu mẫu và chữ ký số
 	Another file dialog is still open. Finish with it first.	Một hộp thoại tệp khác vẫn đang mở. Hãy hoàn tất nó trước.
-	Any	Bất kỳ
 	Any except extracting pages	Bất kỳ trừ trích xuất trang
 	Anyone opening the document will need this password. It's applied when you save.	Bất kỳ ai mở tài liệu đều cần mật khẩu này. Mật khẩu được áp dụng khi bạn lưu.
 	Appear behind page	Hiện phía sau trang
 	Appear on top of page	Hiện phía trên trang
-	Appearance	Diện mạo
-theme	Appearance	Giao diện
 	Appearance mode	Chế độ giao diện
 	Appearance settings…	Cài đặt giao diện…
-	Application	Ứng dụng
 	Applied 1 redaction mark. Save to remove the content from the file.	Đã áp dụng 1 dấu xóa. Hãy lưu để loại bỏ nội dung khỏi tệp.
 	Applied {n} redaction marks. Save to remove the content from the file.	Đã áp dụng {n} dấu xóa. Hãy lưu để loại bỏ nội dung khỏi tệp.
 	Applies to 1 page	Áp dụng cho 1 trang
@@ -238,8 +225,6 @@ theme	Appearance	Giao diện
 calendar date	April	tháng 4
 	Arbitrary Mask	Mặt nạ tùy ý
 	Archive documents	Lưu trữ tài liệu
-	Area	Diện tích
-	ArtCraft website	Trang web ArtCraft
 	Ask about this document	Hỏi về tài liệu này
 	Asks GitHub for the latest release. Nothing is downloaded or installed automatically.	Hỏi GitHub về bản phát hành mới nhất. Không có gì được tải xuống hoặc cài đặt tự động.
 	Associated with content	Được liên kết với nội dung
@@ -259,15 +244,12 @@ calendar date	August	tháng 8
 	Auto portrait/landscape	Tự động dọc/ngang
 	Auto-rotate pages	Tự động xoay trang
 	Auto-size text to fit redaction region	Tự động chỉnh cỡ chữ vừa vùng xóa
-	Automatically	Tự động
 	Automatically tag PDF	Tự động gắn thẻ PDF
-	Available	Có sẵn
 	average	trung bình
 	Back	Quay lại
 	Back side only	Chỉ mặt sau
 	Back to all tools	Quay lại tất cả công cụ
 	Back to the document	Quay lại tài liệu
-	Background	Nền
 	background	nền
 	Basic constraints	Ràng buộc cơ bản
 certificate	Basic constraints	Ràng buộc cơ bản
@@ -276,14 +258,10 @@ certificate	Basic constraints	Ràng buộc cơ bản
 	Before the number	Trước số
 	Beveled	Vát cạnh
 	Bicubic downsampling to	Giảm mẫu song khối (Bicubic) xuống
-	Binary assets removed	Tài nguyên nhị phân đã xóa
 	Binding	Đóng gáy
 	Binding:	Đóng gáy:
-	Black	Đen
-	Black and white	Đen trắng
 	Black on white	Đen trên nền trắng
 	Blank page	Trang trống
-	Blue	Xanh dương
 	Booklet	Sách nhỏ
 	Booklet subset:	Tập con sách nhỏ:
 	Bookmark options	Tùy chọn dấu trang
@@ -292,8 +270,6 @@ certificate	Basic constraints	Ràng buộc cơ bản
 	Bookmarks Panel and Page	Bảng Dấu trang và trang
 	Border Color:	Màu viền:
 	Borders and Colors	Viền và màu
-	Both	Cả hai
-	Both sides	Cả hai mặt
 	Box	Hộp
 	Bring your own model (off by default)	Dùng mô hình của riêng bạn (mặc định tắt)
 	Browser's print dialog	Hộp thoại in của trình duyệt
@@ -304,15 +280,12 @@ certificate	Basic constraints	Ràng buộc cơ bản
 	Button Style:	Kiểu nút:
 	Buttons with the same name and value are selected in unison	Các nút có cùng tên và giá trị được chọn đồng thời
 	Bytes	Byte
-	Calculate	Tính toán
 	Calibrate from two points	Hiệu chuẩn từ hai điểm
 	Callout	Khung chú thích
 	Can't be read: {e}	Không thể đọc: {e}
 	Cancelled	Đã hủy
 	Cancelling…	Đang hủy…
 	Case-sensitive	Phân biệt chữ hoa/thường
-	Category:	Danh mục:
-	Center	Giữa
 	Center Footer Text	Văn bản chân trang giữa
 	Center Header Text	Văn bản đầu trang giữa
 	Center horizontally	Căn giữa theo chiều ngang
@@ -361,7 +334,6 @@ certificate	Basic constraints	Ràng buộc cơ bản
 	Check Box Style:	Kiểu hộp kiểm:
 	Check for accessibility	Kiểm tra trợ năng
 	Check for accessibility…	Kiểm tra trợ năng…
-	Check for updates	Kiểm tra bản cập nhật
 	Check for updates…	Kiểm tra bản cập nhật…
 	Check spelling	Kiểm tra chính tả
 	Check that the tags read in the order a sighted reader would. Use the Reading Order tool or the Tags panel to correct it.	Hãy kiểm tra rằng các thẻ được đọc theo thứ tự mà người đọc nhìn thấy được sẽ đọc. Dùng công cụ Thứ tự đọc hoặc bảng Thẻ để sửa.
@@ -390,12 +362,10 @@ certificate	Basic constraints	Ràng buộc cơ bản
 	Choose image…	Chọn hình ảnh…
 	Choose photo…	Chọn ảnh…
 	Choose the digital ID that you want to use for signing:	Chọn Digital ID mà bạn muốn dùng để ký:
-	Choose…	Chọn…
 	Clean Up	Dọn dẹp
 	Clean-up	Dọn dẹp
 	Clear all	Xóa tất cả
 	Clear form	Xóa dữ liệu biểu mẫu
-	Clear Recent Files	Xóa tệp gần đây
 	Clear redaction marks	Xóa các dấu đánh dấu
 	Clear selection / close find	Bỏ chọn / đóng tìm
 	Click on the page to add a {tool}, or drag to set its size	Bấm vào trang để thêm {tool}, hoặc kéo để đặt kích thước
@@ -405,7 +375,6 @@ certificate	Basic constraints	Ràng buộc cơ bản
 	Click to sort, drag to move the column. Drag its edge to resize it.	Bấm để sắp xếp, kéo để di chuyển cột. Kéo cạnh cột để đổi kích thước.
 	Click vertices. Enter or double-click finishes a perimeter or area. Click the first point to close an area.	Bấm vào các đỉnh. Nhấn Enter hoặc bấm đúp để kết thúc chu vi hoặc diện tích. Bấm vào điểm đầu tiên để đóng một vùng diện tích.
 	Clockwise 90 degrees	Theo chiều kim đồng hồ 90 độ
-	Close (Esc)	Đóng (Esc)
 	Close all	Đóng tất cả
 	Close file	Đóng tệp
 	Close panel	Đóng bảng
@@ -420,7 +389,6 @@ certificate	Basic constraints	Ràng buộc cơ bản
 	Color contrast	Độ tương phản màu
 	Color Images	Ảnh màu
 	Color Spaces	Không gian màu
-	Colour	Màu
 	Colours are remapped while rendering; the document itself never changes.	Màu được ánh xạ lại khi hiển thị; bản thân tài liệu không bao giờ thay đổi.
 	Column select	Chọn cột
 	Comb of	Dạng lược gồm
@@ -432,8 +400,6 @@ certificate	Basic constraints	Ràng buộc cơ bản
 	Combo	Combo
 	Coming in milestone	Sẽ có ở cột mốc
 	Coming in milestone {m}. Items marked Ready work today.	Sẽ có ở cột mốc {m}. Các mục được đánh dấu Sẵn sàng hoạt động ngay hôm nay.
-	Command	Lệnh
-	Comment	Bình luận
 	Comment and form data	Dữ liệu bình luận và biểu mẫu
 	Comment and review	Bình luận và duyệt
 	Comment list	Danh sách bình luận
@@ -451,11 +417,9 @@ certificate	Basic constraints	Ràng buộc cơ bản
 	Compare files	So sánh tệp
 	Compare files…	So sánh tệp…
 	Compare this file with an older version: Compare files… in All tools.	So sánh tệp này với phiên bản cũ hơn: So sánh tệp… trong Tất cả công cụ.
-	Compatibility	Tương thích
 	Completed	Đã hoàn thành
 	Compress a PDF	Nén một PDF
 	Compress document structure (object streams)	Nén cấu trúc tài liệu (luồng đối tượng)
-	Compression	Nén
 	Configure a Digital ID for Signing	Cấu hình Digital ID để ký
 	Configure New Digital ID	Cấu hình Digital ID mới
 	Confirm Password	Xác nhận mật khẩu
@@ -465,7 +429,6 @@ certificate	Basic constraints	Ràng buộc cơ bản
 	Content copying	Sao chép nội dung
 	Content copying for accessibility	Sao chép nội dung cho trợ năng
 	Content Streams	Luồng nội dung
-	Continue	Tiếp tục
 	Continuous scrolling	Cuộn liên tục
 	Convert colors	Chuyển đổi màu
 	Copied to clipboard	Đã sao chép vào bảng tạm
@@ -495,7 +458,6 @@ certificate	Basic constraints	Ràng buộc cơ bản
 	Couldn't open the printer's preferences: {e}	Không thể mở tùy chọn của máy in: {e}
 	Couldn't open the result: {e}	Không thể mở kết quả: {e}
 	Couldn't open the signed version: {e}	Không thể mở phiên bản đã ký: {e}
-	Couldn't open {name}: {e}	Không thể mở {name}: {e}
 	Couldn't optimize the file	Không thể tối ưu hóa tệp
 	Couldn't optimize the file: {e}	Không thể tối ưu hóa tệp: {e}
 	Couldn't print from the browser ({e}); downloaded {name} to print instead	Không thể in từ trình duyệt ({e}); đã tải {name} xuống để in thay thế
@@ -571,14 +533,11 @@ key	Ctrl	Ctrl
 	Cut pages	Cắt trang
 	Cut {what}	Đã cắt {what}
 	Cuts each page to its printed area, turns it upright and fits it to the sheet without stretching. One label per sheet.	Cắt mỗi trang theo vùng được in, xoay thẳng và vừa với tờ giấy mà không kéo giãn. Mỗi tờ một nhãn.
-	Dark gray	Xám đậm
 	Dark gray theme	Chủ đề xám đậm
 	Dark theme	Chủ đề tối
 	Data Encipherment	Mã hóa dữ liệu
-	Date	Ngày
 	Date field	Trường ngày
 	Date: 	Ngày: 
-	Dates	Ngày tháng
 	December	Tháng 12
 calendar date	December	tháng 12
 	Decimal places:	Số chữ số thập phân:
@@ -610,9 +569,7 @@ key	Delete	Delete
 @plural	Delete {n} field|Delete {n} fields	Xóa {n} trường
 	Delete {o}	Xóa {o}
 	Describe the figure	Mô tả hình
-	Description	Mô tả
 	Detailed Report	Báo cáo chi tiết
-	Details	Chi tiết
 	Detect form fields	Phát hiện trường biểu mẫu
 	Detected 1 form field	Đã phát hiện 1 trường biểu mẫu
 	Detected {n} form fields	Đã phát hiện {n} trường biểu mẫu
@@ -629,7 +586,6 @@ key	Delete	Delete
 	Digitally sign	Ký số
 	Digitally signed by	Được ký số bởi
 	Disabled	Đã tắt
-	Discard	Loại bỏ
 	Discard all comments, forms and multimedia	Loại bỏ tất cả bình luận, biểu mẫu và đa phương tiện
 	Discard all links, actions and JavaScript	Loại bỏ tất cả liên kết, hành động và JavaScript
 	Discard all object data (file attachments)	Loại bỏ tất cả dữ liệu đối tượng (tệp đính kèm)
@@ -645,11 +601,8 @@ key	Delete	Delete
 	Discard private data of other applications	Loại bỏ dữ liệu riêng của các ứng dụng khác
 	Discard this text (Esc)	Loại bỏ văn bản này (Esc)
 	Discard User Data	Loại bỏ dữ liệu người dùng
-	Dismiss	Đóng
 	Display theme	Chủ đề hiển thị
-	Distance	Khoảng cách
 	Distinguished name	Tên phân biệt
-	Distribute	Phân bố
 	Distribute fields	Phân bố các trường
 	DN: 	Tên phân biệt: 
 	Document actions	Hành động của tài liệu
@@ -675,10 +628,7 @@ key	Delete	Delete
 	Documents and view	Tài liệu và chế độ xem
 	Documents of more than 20 pages need bookmarks for navigation. Add bookmarks for the main sections.	Tài liệu có hơn 20 trang cần dấu trang để điều hướng. Hãy thêm dấu trang cho các phần chính.
 	Don't save	Không lưu
-	Done	Xong
 	Done adding text	Đã thêm văn bản xong
-	Double-click	Bấm đúp
-	Download	Tải xuống
 	Downloaded {name}	Đã tải xuống {name}
 @plural	Downloaded {n} PDF|Downloaded {n} PDFs	Đã tải xuống {n} PDF
 	Downloading attachments on the web arrives with M3.10 ({n} bytes ready)	Việc tải tệp đính kèm trên web sẽ có cùng M3.10 (đã sẵn sàng {n} byte)
@@ -707,14 +657,11 @@ key	Delete	Delete
 	Drop PDFs, images, text files or folders here, or choose them.	Thả PDF, hình ảnh, tệp văn bản hoặc thư mục vào đây, hoặc chọn chúng.
 	Drop-down list	Danh sách thả xuống
 	Dropdown Properties	Thuộc tính danh sách thả xuống
-	Duplicate	Nhân bản
 	Duplicate "{name}" onto:	Nhân bản "{name}" sang:
 	Duplicate Field	Nhân bản trường
 	Duplicate field	Nhân bản trường
 	Duplicate page	Nhân bản trang
 	Duplicate pages	Nhân bản trang
-	Duplicate…	Nhân bản…
-	Dynamic	Động
 	Dynamic XFA form laid out from its template: {pages}, {fields}.	Biểu mẫu XFA động được bố trí từ mẫu của nó: {pages}, {fields}.
 	E-Sign	Ký điện tử
 	e.g. en-US	ví dụ: en-US
@@ -724,7 +671,6 @@ key	Delete	Delete
 	Each image is measured where pages draw it; an image is replaced only if the result is smaller.	Mỗi hình ảnh được đo tại nơi các trang vẽ nó; hình ảnh chỉ được thay thế nếu kết quả nhỏ hơn.
 	Each image once, named after the document and page. JPEG images are saved unchanged; others as PNG.	Mỗi hình ảnh một lần, đặt tên theo tài liệu và trang. Ảnh JPEG được lưu nguyên vẹn; các ảnh khác lưu dưới dạng PNG.
 	Earlier in tab order	Sớm hơn theo thứ tự tab
-	Edit	Chỉnh sửa
 comment menu	Edit	Sửa
 	Edit a PDF	Chỉnh sửa một PDF
 	Edit Action	Chỉnh sửa hành động
@@ -751,7 +697,6 @@ comment menu	Edit	Sửa
 	Encryption	Mã hóa
 key	End	End
 	End entity	Thực thể cuối
-	Endpoint	Điểm cuối
 	Endpoints	Điểm cuối
 	English	English
 	Enhance camera image	Nâng cao chất lượng ảnh chụp từ máy ảnh
@@ -765,9 +710,7 @@ key	End	End
 	Enter the password that opens it	Nhập mật khẩu để mở tài liệu
 	Enter the permissions password to allow combining	Nhập mật khẩu quyền hạn để cho phép kết hợp
 	Entire page	Toàn bộ trang
-	Erase	Tẩy
 	Erase drawings	Xóa bản vẽ
-	Error	Lỗi
 key	Esc	Esc
 	Even and Odd Pages	Các trang chẵn và lẻ
 	Even pages	Các trang chẵn
@@ -783,7 +726,6 @@ key	Esc	Esc
 	Exclude tagged tables	Loại trừ bảng đã gắn thẻ
 	Exclusions use PDF tags. Untagged tables and code remain included. Image exclusion also removes invisible text.	Việc loại trừ dựa trên thẻ PDF. Bảng và mã chưa gắn thẻ vẫn được tính. Loại trừ hình ảnh cũng loại bỏ văn bản ẩn.
 	Execute a menu item	Thực thi một mục trình đơn
-	Expand	Mở rộng
 	Expand all	Mở rộng tất cả
 	Expand all bookmarks	Mở rộng tất cả dấu trang
 	Expand all pages	Mở rộng tất cả các trang
@@ -805,7 +747,6 @@ key	Esc	Esc
 	Export measurements	Xuất các phép đo
 	Export measurements as CSV	Xuất các phép đo dưới dạng CSV
 	Export stopped: {e}	Việc xuất đã dừng: {e}
-	Export to	Xuất ra
 	Export to HTML…	Xuất ra HTML…
 	Export to Image	Xuất ra hình ảnh
 	Export to image…	Xuất ra hình ảnh…
@@ -818,12 +759,9 @@ key	Esc	Esc
 	Exported 1 image	Đã xuất 1 hình ảnh
 	Exported the text of 1 page	Đã xuất văn bản của 1 trang
 	Exported the text of {n} pages	Đã xuất văn bản của {n} trang
-	Exported to {path}	Đã xuất ra {path}
 	Exported {n} images	Đã xuất {n} hình ảnh
 	Exporting… {d} of {t}	Đang xuất… {d} trên {t}
-	Export…	Xuất…
 	Extended Graphics States	Trạng thái đồ họa mở rộng
-	Extract	Trích xuất
 	Extract pages	Trích xuất trang
 	Extract pages as separate files	Trích xuất trang thành các tệp riêng
 	Extract pages to a new document	Trích xuất trang sang tài liệu mới
@@ -850,7 +788,6 @@ calendar date	February	tháng 2
 	Figures require alternate text	Hình yêu cầu văn bản thay thế
 	File (.p12, .pfx)	Tệp (.p12, .pfx)
 	File attachments	Tệp đính kèm
-	File Name	Tên tệp
 	File name	Tên tệp
 	File size	Kích thước tệp
 @id	file.word_count	Đếm từ…
@@ -893,10 +830,8 @@ calendar date	February	tháng 2
 	Find tools and commands…	Tìm công cụ và lệnh…
 	Find untagged content	Tìm nội dung chưa được gắn thẻ
 	Finding document fonts…	Đang tìm phông chữ của tài liệu…
-	Find…	Tìm…
 	Finish or discard the text being edited before selecting several objects.	Hãy hoàn tất hoặc loại bỏ văn bản đang chỉnh sửa trước khi chọn nhiều đối tượng.
 	First / last page	Trang đầu / cuối
-	Fit	Vừa khớp
 	Fit Height	Vừa chiều cao
 	Fit one full page	Vừa một trang đầy đủ
 	Fit Page	Vừa trang
@@ -912,7 +847,6 @@ calendar date	February	tháng 2
 	Fix reading order	Sửa thứ tự đọc
 	Fixed what could be fixed; 1 problem remains	Đã sửa những gì có thể sửa; còn lại 1 vấn đề
 	Fixed what could be fixed; {n} problems remain	Đã sửa những gì có thể sửa; còn lại {n} vấn đề
-	Flatten	Làm phẳng
 	Flatten comments	Làm phẳng bình luận
 	Flatten Fill & Sign	Làm phẳng Điền & Ký
 	Flatten Fill & Sign when saving	Làm phẳng Điền & Ký khi lưu
@@ -923,13 +857,10 @@ calendar date	February	tháng 2
 	Flip on short edge	Lật theo cạnh ngắn
 	Flip vertical	Lật dọc
 	Float panel	Cho bảng nổi
-	Folder	Thư mục
 	Folders	Thư mục
 	Font (unnamed) on page {p} doesn't map its characters to Unicode	Phông chữ (không tên) trên trang {p} không ánh xạ các ký tự của nó sang Unicode
 	Font colour:	Màu chữ:
-	Font size	Cỡ chữ
 	Font size 0 uses automatic sizing.	Cỡ chữ 0 sẽ dùng kích thước tự động.
-	Font Size:	Cỡ chữ:
 	Font size:	Cỡ chữ:
 	Font {} on page {p} doesn't map its characters to Unicode	Phông chữ {} trên trang {p} không ánh xạ các ký tự của nó sang Unicode
 	Font: Helvetica	Phông chữ: Helvetica
@@ -950,7 +881,6 @@ calendar date	February	tháng 2
 	Formulas and similar non-text elements need alternate text. Add alternate text to them.	Công thức và các phần tử không phải văn bản tương tự cần có văn bản thay thế. Hãy thêm văn bản thay thế cho chúng.
 	Found {n} untagged content problems.	Đã tìm thấy {n} vấn đề về nội dung chưa được gắn thẻ.
 calendar weekday	Fr	T6
-	From	Từ
 	From a PDF page or an image	Từ một trang PDF hoặc một hình ảnh
 	From colour	Từ màu
 	From {file}	Từ {file}
@@ -965,12 +895,9 @@ calendar weekday	Fr	T6
 	Go to the page	Đi tới trang
 	Go to this result	Đi tới kết quả này
 	Grab bag	Tổng hợp
-	Gray	Xám
 	Grayscale Images	Ảnh thang xám
-	Green	Xanh lá
 	Green on black	Xanh lá trên nền đen
 	Greyscale	Thang xám
-	Grid view	Dạng lưới
 	H / Space (hold)	H / Space (giữ)
 	Hand (H)	Bàn tay (H)
 	Has JavaScript actions (run in M6)	Có các hành động JavaScript (chạy ở M6)
@@ -979,7 +906,6 @@ calendar weekday	Fr	T6
 	header or footer	đầu trang hoặc chân trang
 	Headers	Tiêu đề đầu mục
 	Heading levels shouldn't skip (an H1 followed by an H3). Retag the headings.	Cấp đề mục không nên bị bỏ qua (H1 theo sau là H3). Hãy gắn thẻ lại các đề mục.
-	Height	Chiều cao
 	Help…	Trợ giúp…
 	Hidden layers	Lớp ẩn
 	Hide a field	Ẩn một trường
@@ -992,9 +918,6 @@ calendar weekday	Fr	T6
 	Hide toolbars	Ẩn thanh công cụ
 	Hide window controls	Ẩn các nút điều khiển cửa sổ
 	Hides annotation	Che chú thích
-	High	Cao
-	High Resolution	Độ phân giải cao
-	High resolution	Độ phân giải cao
 	Highlight	Tô sáng
 	Highlight fields	Tô sáng các trường
 	Highlight Style:	Kiểu tô sáng:
@@ -1002,20 +925,14 @@ calendar weekday	Fr	T6
 key	Home	Home
 	Home / End	Home / End
 	Horizontal reversed	Ngang đảo ngược
-	Horizontal scale	Tỷ lệ ngang
-	Horizontally	Theo chiều ngang
 	HTML web page	Trang web HTML
 	H{n} follows an H{d}; headings should not skip levels	H{n} theo sau H{d}; các đề mục không nên bỏ qua cấp
-	Icon	Biểu tượng
 	Identity	Danh tính
-	Image	Hình ảnh
 	Image (PNG)	Hình ảnh (PNG)
 	Image field	Trường hình ảnh
 	Image-only PDF	PDF chỉ có hình ảnh
-	Images	Hình ảnh
 	Images and text	Hình ảnh và văn bản
 	Images and text (converted to PDF)	Hình ảnh và văn bản (đã chuyển thành PDF)
-	Import	Nhập
 	Import comments…	Nhập bình luận…
 	Import data	Nhập dữ liệu
 	Import form data…	Nhập dữ liệu biểu mẫu…
@@ -1054,9 +971,7 @@ key	Home	Home
 	Intended usage	Mục đích sử dụng
 certificate	Intended usage	Mục đích sử dụng
 	Interface size	Kích thước giao diện
-	Intersection	Giao điểm
 	Intersections	Giao điểm
-	Invert	Đảo màu
 	Invisible Rectangle	Hình chữ nhật ẩn
 	Irregular tables confuse cell navigation. Give every row the same number of cells (counting spans).	Các bảng không đều gây khó cho việc điều hướng ô. Hãy cho mọi hàng cùng số ô (tính cả các ô gộp).
 	is available	có sẵn
@@ -1080,14 +995,11 @@ calendar date	January	tháng 1
 	JavaScript console…	Bảng điều khiển JavaScript…
 	JavaScript is turned off (Preferences ▸ JavaScript).	JavaScript đã bị tắt (Tùy chọn > JavaScript).
 	JavaScript, e.g. getField("total").value	JavaScript, ví dụ getField("total").value
-	Join our Discord	Tham gia Discord của chúng tôi
 	Join the ArtCraft community	Tham gia cộng đồng ArtCraft
-	Join the ArtCraft Discord	Tham gia Discord của ArtCraft
 	July	Tháng 7
 calendar date	July	tháng 7
 	June	Tháng 6
 calendar date	June	tháng 6
-	just now	vừa xong
 	Keep source fonts	Giữ phông chữ nguồn
 	Keep tool selected	Giữ công cụ được chọn
 	Keep tool selected: on	Giữ công cụ được chọn: bật
@@ -1098,15 +1010,12 @@ calendar date	June	tháng 6
 certificate	Key usage	Mục đích sử dụng khóa
 	Keyboard shortcuts	Phím tắt
 	Keychain  ·  	Keychain  ·  
-	Label	Nhãn
 	Labels: {preview}. Later pages keep their labels.	Nhãn: {preview}. Các trang sau giữ nhãn của chúng.
 	Landscape and Portrait Pages	Trang ngang và dọc
 	Landscape Pages	Trang ngang
 	Landscape pages	Các trang ngang
 	Larger pages	Trang lớn hơn
-	Later	Để sau
 	Later in tab order	Muộn hơn theo thứ tự tab
-	Layers	Các lớp
 	Layers Panel and Page	Bảng Các lớp và trang
 	Layout and Magnification	Bố cục và độ phóng đại
 	Lbl and LBody	Lbl và LBody
@@ -1118,10 +1027,8 @@ certificate	Key usage	Mục đích sử dụng khóa
 	Left out: {names}	Đã bỏ qua: {names}
 	LI must be a child of L	LI phải là con của L
 	Light blue	Xanh lam nhạt
-	Light gray	Xám nhạt
 	Light theme	Chủ đề sáng
 	Limit of	Giới hạn
-	Line delta	Chênh lệch dòng
 	Line ending	Kiểu đầu đường
 	Line Style:	Kiểu đường:
 	Line thickness	Độ dày đường
@@ -1137,7 +1044,6 @@ certificate	Key usage	Mục đích sử dụng khóa
 	List items	Mục danh sách
 	List items belong in a list. Fix the list's tags.	Các mục danh sách phải nằm trong một danh sách. Hãy sửa thẻ của danh sách.
 	List labels and bodies belong in a list item. Fix the list's tags.	Nhãn và nội dung danh sách phải nằm trong một mục danh sách. Hãy sửa thẻ của danh sách.
-	List view	Dạng danh sách
 	Lists	Danh sách
 	Load document font	Tải phông chữ của tài liệu
 	Load font…	Tải phông chữ…
@@ -1145,14 +1051,11 @@ certificate	Key usage	Mục đích sử dụng khóa
 	Local cross-PDF links require the desktop app	Liên kết PDF cục bộ giữa các tệp yêu cầu ứng dụng máy tính
 	Location: 	Vị trí: 
 	Lock comment	Khóa bình luận
-	Locked	Đã khóa
 	Logical Reading Order	Thứ tự đọc hợp lý
 	Looking for PDFs…	Đang tìm PDF…
 	Looking for printers…	Đang tìm máy in…
-	Low	Thấp
 	Low resolution	Độ phân giải thấp
 	Low Resolution (150 dpi)	Độ phân giải thấp (150 dpi)
-	Magnification	Độ phóng đại
 	Make accessible	Cải thiện khả năng tiếp cận
 	Make Current Properties Default	Đặt thuộc tính hiện tại làm mặc định
 	Make Properties Default	Đặt thuộc tính làm mặc định
@@ -1179,12 +1082,9 @@ calendar date	March	tháng 3
 	Mask:	Mặt nạ:
 	Match field sizes	Khớp kích thước trường
 	Match page at 100%	Khớp trang ở mức 100%
-	Maximize	Phóng to
-	Maximum	Tối đa
 	maximum	tối đa
 	May	Tháng 5
 calendar date	May	tháng 5
-	Measure	Đo
 	Measure area	Đo diện tích
 	Measure distance	Đo khoảng cách
 	Measure objects	Đo đối tượng
@@ -1198,20 +1098,13 @@ calendar date	May	tháng 5
 	Merged 1 file into {path}	Đã gộp 1 tệp vào {path}
 	Merged {n} files into {path}	Đã gộp {n} tệp vào {path}
 	Merging data files needs the desktop app	Việc gộp tệp dữ liệu yêu cầu ứng dụng máy tính
-	Metadata	Siêu dữ liệu
 	metadata	siêu dữ liệu
 	Microsoft Word (.docx)	Microsoft Word (.docx)
-	Midpoint	Điểm giữa
 	Midpoints	Điểm giữa
-	Minimize	Thu nhỏ
-	Minimum	Tối thiểu
 	minimum	tối thiểu
 	Mixed	Hỗn hợp
 calendar weekday	Mo	T2
-	Mobile	Di động
-	Modified	Đã sửa đổi
 	Modify page	Sửa đổi trang
-	More	Thêm
 	More options	Thêm tùy chọn
 	More options:	Thêm tùy chọn:
 	More ways to add files	Thêm cách để thêm tệp
@@ -1220,7 +1113,6 @@ calendar weekday	Mo	T2
 	Mouse Exit	Chuột ra
 	Mouse Up	Nhả chuột
 	Mouse wheel scroll speed	Tốc độ cuộn bánh xe chuột
-	Move	Di chuyển
 	Move bookmark	Di chuyển dấu trang
 	Move comment	Di chuyển bình luận
 	Move down	Chuyển xuống
@@ -1249,7 +1141,6 @@ calendar weekday	Mo	T2
 	Needs manual check	Cần kiểm tra thủ công
 	Negative number style:	Kiểu số âm:
 	Nested alternate text	Văn bản thay thế lồng nhau
-	Never	Không bao giờ
 	New Action	Hành động mới
 	New Action…	Hành động mới…
 	New blank PDF	PDF trống mới
@@ -1266,7 +1157,6 @@ calendar weekday	Mo	T2
 	Next / previous match	Kết quả khớp tiếp theo / trước đó
 	Next figure	Hình tiếp theo
 	Next month	Tháng sau
-	Next page	Trang tiếp theo
 	Next sheet	Tờ tiếp theo
 	Next tab	Thẻ tiếp theo
 	Next view	Chế độ xem tiếp theo
@@ -1308,8 +1198,6 @@ calendar weekday	Mo	T2
 	No preview	Không có bản xem trước
 	No printers were found. Check that the printer is installed and the print spooler is running, then open Print again.	Không tìm thấy máy in. Kiểm tra xem máy in đã được cài đặt và dịch vụ hàng đợi in đang chạy, rồi mở lại hộp thoại In.
 	No problems found: the document conforms to {level}.	Không tìm thấy vấn đề: tài liệu tuân thủ {level}.
-	No recent files	Không có tệp gần đây
-	No results	Không có kết quả
 	No security	Không có bảo mật
 	No sheets	Không có tờ
 	No signature was found in the frame. Move the frame over the signature or raise the ink sensitivity.	Không tìm thấy chữ ký trong khung. Hãy di chuyển khung lên chữ ký hoặc tăng độ nhạy nét mực.
@@ -1341,7 +1229,6 @@ scroll speed	Normal	Bình thường
 	nothing to undo	không có gì để hoàn tác
 	November	Tháng 11
 calendar date	November	tháng 11
-	Number	Số
 	Number every page in the footer.	Đánh số mọi trang ở chân trang.
 	Number of pages	Số trang
 	Number pages	Đánh số trang
@@ -1371,8 +1258,6 @@ animation effects	On	Bật
 	Only continue if you trust this document. An address can carry information from the document, such as what you typed into its form.	Chỉ tiếp tục nếu bạn tin cậy tài liệu này. Một địa chỉ có thể mang thông tin từ tài liệu, chẳng hạn những gì bạn đã nhập vào biểu mẫu của nó.
 	Only the document's owner can change its security (open it with the permissions password)	Chỉ chủ sở hữu tài liệu mới có thể thay đổi bảo mật của nó (hãy mở bằng mật khẩu quyền hạn)
 	Only the page content changes: links, comments, form fields and bookmarks on the original pages stay.	Chỉ nội dung trang thay đổi: liên kết, bình luận, trường biểu mẫu và dấu trang trên các trang gốc được giữ nguyên.
-	Opacity	Độ mờ
-	Opacity:	Độ mờ:
 	Open a document first	Hãy mở một tài liệu trước
 	Open a PDF ({key})	Mở một PDF ({key})
 	Open a PDF (⌘O)	Mở một PDF (⌘O)
@@ -1387,8 +1272,6 @@ animation effects	On	Bật
 	Open in a new tab	Mở trong thẻ mới
 	Open in Full Screen mode	Mở ở chế độ toàn màn hình
 	Open in Full Screen mode?	Mở ở chế độ toàn màn hình?
-	Open link	Mở liên kết
-	Open Recent	Mở gần đây
 	Open the file as it was saved then	Mở tệp như khi nó được lưu lúc đó
 	Open the older version first	Hãy mở phiên bản cũ hơn trước
 	Open this local PDF?	Mở PDF cục bộ này?
@@ -1399,7 +1282,6 @@ animation effects	On	Bật
 	Opened, but its security settings don't allow combining. Enter the permissions password.	Đã mở, nhưng cài đặt bảo mật của nó không cho phép kết hợp. Hãy nhập mật khẩu quyền hạn.
 	Opening the browser's print dialog…	Đang mở hộp thoại in của trình duyệt…
 	Opens the printer driver's preferences. They are saved for every print from this computer; the copies, two-sided, grayscale and paper chosen here still apply.	Mở tùy chọn của trình điều khiển máy in. Các tùy chọn này được lưu cho mọi lần in từ máy tính này; số bản sao, in hai mặt, thang xám và giấy được chọn ở đây vẫn được áp dụng.
-	Open…	Mở…
 	Optimization cancelled	Đã hủy tối ưu hóa
 	Optimization is already running	Việc tối ưu hóa đang chạy
 	Optimize	Tối ưu hóa
@@ -1415,26 +1297,20 @@ animation effects	On	Bật
 	Optimizing… writing the copy	Đang tối ưu hóa… ghi bản sao
 	Optional	Không bắt buộc
 	Optional: needs an AI provider you configure	Không bắt buộc: cần nhà cung cấp AI mà bạn cấu hình
-	Orange	Cam
 	Organization Name	Tên tổ chức
 	Organizational Unit	Đơn vị tổ chức
 	Organize	Sắp xếp
 	Organize pages	Sắp xếp trang
-	Orientation:	Hướng:
-	Original	Bản gốc
 	Original: replace pages	Bản gốc: thay thế trang
 	other changes	các thay đổi khác
 	Other colour…	Màu khác…
 	Other elements alternate text	Văn bản thay thế của các phần tử khác
 	Other elements that require alternate text	Các phần tử khác cần văn bản thay thế
 	Outdent	Giảm thụt lề
-	Outline	Đường bao
 	Outline colour:	Màu đường viền:
-	Output	Đầu ra
 	Output appears here.	Đầu ra xuất hiện ở đây.
 	Output intent: {list}	Mục đích đầu ra: {list}
 	Output preview	Xem trước đầu ra
-	Overlap:	Chồng lấp:
 	Owner password (no restrictions apply)	Mật khẩu chủ sở hữu (không áp dụng hạn chế)
 	Page background	Nền trang
 	Page Content	Nội dung trang
@@ -1483,7 +1359,6 @@ animation effects	On	Bật
 	Pages: {k} of {n}	Trang: {k} trên {n}
 	Panel layout could not be restored: {error}	Không thể khôi phục bố cục bảng: {error}
 	Panel move was not applied: {error}	Việc di chuyển bảng chưa được áp dụng: {error}
-	Panels	Bảng
 	Paper:	Giấy:
 	Part of	Một phần của
 	Passed	Đạt
@@ -1493,9 +1368,6 @@ animation effects	On	Bật
 	Password-protected	Được bảo vệ bằng mật khẩu
 	Paste after	Dán sau
 	Paste pages	Dán trang
-	Path	Đường dẫn
-	Paths	Đường dẫn
-	Pattern	Họa tiết
 	Patterns	Họa tiết
 	Patterns (graphics objects)	Họa tiết (đối tượng đồ họa)
 	PDF Optimizer	Trình tối ưu hóa PDF
@@ -1515,13 +1387,10 @@ animation effects	On	Bật
 	PdfCraft {c} is up to date.	PdfCraft {c} đã là bản mới nhất.
 	PdfCraft {v} is available.	PdfCraft {v} đã có sẵn.
 	People may need more time to respond. Check that nothing has a time limit.	Mọi người có thể cần thêm thời gian để phản hồi. Hãy kiểm tra rằng không có gì bị giới hạn thời gian.
-	Percentage	Phần trăm
-	Perimeter	Chu vi
 	Permissions password	Mật khẩu quyền hạn
 	Permitted actions after certifying	Các hành động được phép sau khi chứng nhận
 	Phone Number	Số điện thoại
 	Phone Numbers	Số điện thoại
-	Photo	Ảnh
 	Pick a tool in the quick bar, or type above.	Chọn một công cụ trên thanh nhanh, hoặc nhập ở phía trên.
 	Pictures need alternate text that describes them, or must be marked decorative. Add alternate text to each figure.	Hình ảnh cần văn bản thay thế mô tả chúng, hoặc phải được đánh dấu là trang trí. Hãy thêm văn bản thay thế cho mỗi hình.
 	Pictures on those pages are recognized too; words already in the page's text are not added again	Hình ảnh trên các trang đó cũng được nhận dạng; các từ đã có trong văn bản của trang sẽ không được thêm lại
@@ -1529,7 +1398,6 @@ animation effects	On	Bật
 	Pin a folder to list its newest PDFs here, such as where your scanner or a synced cloud drive saves them.	Ghim một thư mục để liệt kê các PDF mới nhất của nó tại đây, chẳng hạn nơi máy quét hoặc ổ đám mây đồng bộ lưu chúng.
 	Pin a folder…	Ghim một thư mục…
 	Pin folder to Home…	Ghim thư mục vào Trang chủ…
-	Pink	Hồng
 	Pinned folders need the desktop app	Thư mục được ghim yêu cầu ứng dụng máy tính
 	Pinned {folder} to Home	Đã ghim {folder} vào Trang chủ
 	Place saved {what}	Đặt {what} đã lưu
@@ -1539,18 +1407,12 @@ animation effects	On	Bật
 	Planned for milestone {m} — open to see what it will include	Dự kiến ở cột mốc {m} — mở để xem nó sẽ bao gồm những gì
 	Planned · {m}	Đã lên kế hoạch · {m}
 	Points from the page's bottom-left corner.	Điểm tính từ góc dưới bên trái của trang.
-	Polygon	Đa giác
-	Polyline	Đa tuyến
 	Portable mode is off: {folder} can't be written ({error}). Settings are kept in your user folder instead.	Chế độ di động đang tắt: không thể ghi vào {folder} ({error}). Cài đặt được lưu trong thư mục người dùng của bạn thay thế.
 	Portrait Pages	Trang dọc
 	Portrait pages	Các trang dọc
 	Post	Đăng
-	Poster	Áp phích
 	PostScript / EPS	PostScript / EPS
 	PostScript XObjects aren't allowed	PostScript XObject không được phép
-	Preferences	Tùy chọn
-	Preferences…	Tùy chọn…
-	Prefix	Tiền tố
 	Preflight	Kiểm tra trước in
 	Prepare a form	Chuẩn bị biểu mẫu
 	Prepare for accessibility	Chuẩn bị cho trợ năng
@@ -1562,13 +1424,11 @@ animation effects	On	Bật
 	Presentation (.pptx)	Bản trình bày (.pptx)
 	Preview unavailable: {e}	Không có bản xem trước: {e}
 	Preview: page {p} of {n}	Xem trước: trang {p} trên {n}
-	Previous	Trước
 	Previous ({key})	Trước ({key})
 	Previous (⇧⌘G)	Trước (⇧⌘G)
 	Previous / next page	Trang trước / tiếp theo
 	Previous figure	Hình trước
 	Previous month	Tháng trước
-	Previous page	Trang trước
 	Previous sheet	Tờ trước
 	Previous tab	Thẻ trước
 	Previous view	Chế độ xem trước
@@ -1583,9 +1443,7 @@ animation effects	On	Bật
 	Print, NextPage, PrevPage, FirstPage or LastPage	Print, NextPage, PrevPage, FirstPage hoặc LastPage
 	Printer paper and scaling may differ. Check driver settings.	Giấy in và tỷ lệ của máy in có thể khác. Hãy kiểm tra cài đặt trình điều khiển.
 	Printer properties	Thuộc tính máy in
-	Printer:	Máy in:
 	Printing allowed	Cho phép in
-	Print…	In…
 	Privacy	Quyền riêng tư
 	Private data of other applications	Dữ liệu riêng của các ứng dụng khác
 	Producer	Ứng dụng sản xuất
@@ -1598,9 +1456,7 @@ animation effects	On	Bật
 	Protected: the combined file won't keep its security settings	Đã bảo vệ: tệp kết hợp sẽ không giữ cài đặt bảo mật của chúng
 	Public key	Khóa công khai
 certificate	Public key	Khóa công khai
-	Purple	Tím
 	PushButton	PushButton
-	Quality	Chất lượng
 	Radio	Radio
 	Radio button	Nút radio
 	Radio Button Properties	Thuộc tính nút radio
@@ -1609,7 +1465,6 @@ certificate	Public key	Khóa công khai
 	Read mode	Chế độ đọc
 	Read Only	Chỉ đọc
 	Reading colours	Màu khi đọc
-	Ready	Sẵn sàng
 	Reason	Lý do
 	Reason: 	Lý do: 
 	Recent colours	Màu gần đây
@@ -1626,7 +1481,6 @@ certificate	Public key	Khóa công khai
 	Recognizing text… page {d} of {t}	Đang nhận dạng văn bản… trang {d} trên {t}
 	Recommended tools	Công cụ được đề xuất
 	Recover unsaved documents?	Khôi phục các tài liệu chưa lưu?
-	Red	Đỏ
 	Redact	Xóa nội dung nhạy cảm
 	Redact a PDF	Xóa nội dung nhạy cảm trong PDF
 	Redact all	Xóa tất cả nội dung đã đánh dấu
@@ -1646,7 +1500,6 @@ certificate	Public key	Khóa công khai
 	Regularity	Tính đều đặn
 	Rejected	Đã từ chối
 	Reliable character encoding is provided	Có mã hóa ký tự đáng tin cậy
-	Reload	Tải lại
 	Reload documents when their files change on disk	Tải lại tài liệu khi tệp của chúng thay đổi trên đĩa
 	Remove "{name}" from this list? The file itself is not deleted.	Gỡ "{name}" khỏi danh sách này? Bản thân tệp không bị xóa.
 	Remove all links	Gỡ tất cả liên kết
@@ -1710,12 +1563,7 @@ certificate	Public key	Khóa công khai
 	Reset panel layout	Đặt lại bố cục bảng
 	Reset to printer defaults	Đặt lại về mặc định của máy in
 	Resize comment	Đổi kích thước bình luận
-	Resize panel window	Đổi kích thước cửa sổ bảng
-	Resize panels	Đổi kích thước các bảng
 	Resize window to initial page	Đổi kích thước cửa sổ theo trang ban đầu
-	Resolution	Độ phân giải
-	Resolution:	Độ phân giải:
-	Restore	Khôi phục
 	Restrictions	Hạn chế
 	Restrictions lifted	Đã gỡ các hạn chế
 	Retain existing	Giữ nguyên hiện có
@@ -1724,12 +1572,10 @@ certificate	Public key	Khóa công khai
 	Rev. {rev}: Signed by an unknown signer	Bản sửa đổi {rev}: Được ký bởi người ký không rõ
 	Rev. {rev}: Signed by {name}	Bản sửa đổi {rev}: Được ký bởi {name}
 	Reveal in File Explorer	Hiện trong File Explorer
-	Reveal in Finder	Hiện trong Finder
 	Reverse closed arrow	Mũi tên đóng đảo ngược
 	Reverse open arrow	Mũi tên mở đảo ngược
 	Reverse pages	Đảo ngược các trang
 	Reverse the order	Đảo thứ tự
-	Revert	Hoàn nguyên
 	Revert changes	Hoàn nguyên các thay đổi
 	Revert to the previously saved version of “{name}”? Changes since then can't be undone afterwards.	Hoàn nguyên về phiên bản đã lưu trước đó của “{name}”? Sau đó sẽ không thể hoàn tác các thay đổi kể từ lúc ấy.
 	Reverted to the last saved version	Đã hoàn nguyên về phiên bản đã lưu gần nhất
@@ -1757,8 +1603,6 @@ certificate	Public key	Khóa công khai
 	Rotate view clockwise ({key})	Xoay chế độ xem theo chiều kim đồng hồ ({key})
 	Rotate view clockwise (⇧⌘+)	Xoay chế độ xem theo chiều kim đồng hồ (⇧⌘+)
 	Rotate view counterclockwise	Xoay chế độ xem ngược chiều kim đồng hồ
-	Rotate:	Xoay:
-	Rows	Hàng
 	rows have between {min} and {max} columns	các hàng có từ {min} đến {max} cột
 	Rule Name	Tên quy tắc
 	Run	Chạy
@@ -1777,7 +1621,6 @@ calendar weekday	Sa	T7
 	Save (M4)	Lưu (M4)
 	Save ({key})	Lưu ({key})
 	Save anyway	Vẫn lưu
-	Save as PDF	Lưu dưới dạng PDF
 	Save as PDF/A	Lưu thành PDF/A
 	Save as PDF/A-1b	Lưu thành PDF/A-1b
 	Save as PDF/A-2b	Lưu thành PDF/A-2b
@@ -1816,7 +1659,6 @@ calendar weekday	Sa	T7
 	Script Name:	Tên script:
 	Script:	Nội dung script:
 	Scripted content must be usable with a keyboard and assistive technology. Check the document's scripts.	Nội dung có script phải dùng được bằng bàn phím và công nghệ hỗ trợ. Hãy kiểm tra các script của tài liệu.
-	Scripts	Script
 	Scripts run in a sandbox without file or network access. A script that asks to open a web page needs your permission first. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	Script chạy trong hộp cát không có quyền truy cập tệp hoặc mạng. Script yêu cầu mở một trang web cần có sự cho phép của bạn trước. Khi tắt JavaScript, các hàm định dạng, xác thực và tính toán chuẩn của Acrobat vẫn hoạt động.
 	Scripts run in a sandbox without file or network access. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	Script chạy trong hộp cát không có quyền truy cập tệp hoặc mạng. Khi tắt JavaScript, các hàm định dạng, xác thực và tính toán chuẩn của Acrobat vẫn hoạt động.
 	Scroll long text	Cuộn văn bản dài
@@ -1829,7 +1671,6 @@ calendar weekday	Sa	T7
 	Searchable Image (Exact)	Ảnh có thể tìm kiếm (Chính xác)
 	Searching… {s} of {p} pages	Đang tìm… {s} trên {p} trang
 	Searching… {s}/{p}	Đang tìm… {s}/{p}
-	Security	Bảo mật
 	Security method	Phương thức bảo mật
 	Security properties	Thuộc tính bảo mật
 	Security properties…	Thuộc tính bảo mật…
@@ -1858,7 +1699,6 @@ calendar weekday	Sa	T7
 certificate	Self-signed	Tự ký
 	Sending sheet {s} of {n} to {printer}…	Đang gửi tờ {s}/{n} đến {printer}…
 	Sending to {printer}…	Đang gửi đến {printer}…
-	Sensitivity	Độ nhạy
 	Sent to {printer}	Đã gửi đến {printer}
 	Sent to {printer}: {msg}	Đã gửi đến {printer}: {msg}
 	Separate PDFs	Các PDF riêng biệt
@@ -1890,7 +1730,6 @@ certificate	Serial number	Số sê-ri
 	Set the image of {name}	Đặt hình ảnh của {name}
 	Set to current page ({n})	Đặt thành trang hiện tại ({n})
 	Set to zero	Đặt về 0
-	Settings	Cài đặt
 	SHA-1 digest	Giá trị băm SHA-1
 certificate	SHA-1 digest	Giá trị băm SHA-1
 	SHA-256 digest	Giá trị băm SHA-256
@@ -1916,7 +1755,6 @@ key	Shift	Shift
 	Show the accessibility report	Hiện báo cáo trợ năng
 	Show this dialog when the Checker starts	Hiện hộp thoại này khi Trình kiểm tra khởi động
 	Show {n} more	Hiện thêm {n}
-	Show:	Hiện:
 	Shown while the pointer is over a mark.	Hiển thị khi con trỏ nằm trên một dấu.
 	Shrink oversized pages	Thu nhỏ các trang quá khổ
 	Side by side	Cạnh nhau
@@ -1969,10 +1807,8 @@ scroll speed	Slow	Chậm
 	Sort items	Sắp xếp các mục
 	sorted ascending	sắp xếp tăng dần
 	sorted descending	sắp xếp giảm dần
-	Source	Nguồn
 key	Space	Space
 	Space Audit	Kiểm tra dung lượng
-	Special	Đặc biệt
 	Split document	Tách tài liệu
 	Split document…	Tách tài liệu…
 	Split into files…	Tách thành các tệp…
@@ -1980,7 +1816,6 @@ key	Space	Space
 	Squiggly	Lượn sóng
 	Squiggly underline	Gạch chân lượn sóng
 	Squiggly underline text	Gạch chân lượn sóng cho văn bản
-	Stamp	Con dấu
 	Stamp palette	Bảng chọn con dấu
 	Stamps	Con dấu
 	Standard Business	Standard Business
@@ -1989,7 +1824,6 @@ key	Space	Space
 action wizard	Start	Bắt đầu
 	Start Checking	Bắt đầu kiểm tra
 	Start page number	Số trang bắt đầu
-	Status	Trạng thái
 	Steps	Các bước
 	Sticky note	Ghi chú dán
 	Still rendering — this page is unusually complex…	Vẫn đang kết xuất — trang này phức tạp bất thường…
@@ -2000,13 +1834,11 @@ action wizard	Start	Bắt đầu
 calendar weekday	Su	CN
 certificate	Subject	Chủ thể chứng chỉ
 	Submit a form	Gửi một biểu mẫu
-	Subset	Tập con
 	Success	Thành công
 	sum (+)	tổng (+)
 	Summarize	Tóm tắt
 	Summarize comments	Tóm tắt bình luận
 	Summarize Options	Tùy chọn tóm tắt
-	Summary	Tóm tắt
 	Switch light / dark theme	Chuyển chủ đề sáng / tối
 	Switch to List view to change the pages it takes.	Chuyển sang dạng danh sách để thay đổi các trang mà nó lấy.
 	Switch to two-page view first to show the cover page	Hãy chuyển sang chế độ hai trang trước để hiển thị trang bìa
@@ -2177,7 +2009,6 @@ calendar weekday	Th	T5
 	The window should show a meaningful title rather than the file name. Set a title and Initial View > Show: Document Title.	Cửa sổ nên hiển thị một tiêu đề có ý nghĩa thay vì tên tệp. Hãy đặt tiêu đề và Chế độ xem ban đầu > Hiện: Tiêu đề tài liệu.
 	The window shows the file name, not the title (Initial View > Show)	Cửa sổ hiển thị tên tệp, không phải tiêu đề (Chế độ xem ban đầu > Hiện)
 	The Windows store's digital IDs couldn't be listed: {e}	Không thể liệt kê các Digital ID của kho Windows: {e}
-	Theme	Chủ đề
 	there are no pages to print	không có trang nào để in
 	There are no redaction marks (mark text, areas or pages first)	Không có dấu đánh dấu xóa nào (hãy đánh dấu văn bản, vùng hoặc trang trước)
 	There are no redaction marks to apply	Không có dấu đánh dấu xóa nào để áp dụng
@@ -2239,9 +2070,7 @@ calendar weekday	Th	T5
 	This signature uses SHA-1, a weak hash algorithm: collisions in it have been demonstrated. It still validates because many documents signed years ago use it, but it should not be relied on.	Chữ ký này dùng SHA-1, một thuật toán băm yếu: các va chạm trong nó đã được chứng minh. Nó vẫn xác thực được vì nhiều tài liệu được ký từ nhiều năm trước dùng nó, nhưng không nên dựa vào nó.
 	This web address mixes letters from different alphabets, a common way to imitate another site's name.	Địa chỉ web này trộn lẫn các chữ cái từ nhiều bảng chữ cái khác nhau, một cách phổ biến để giả mạo tên của trang khác.
 	This web address uses letters from another alphabet, which can look like familiar ones.	Địa chỉ web này dùng chữ cái từ một bảng chữ cái khác, có thể trông giống các chữ quen thuộc.
-	Thumbnails	Hình thu nhỏ
 	Tile scale:	Tỷ lệ lát:
-	Time	Thời gian
 	Timed responses	Phản hồi có giới hạn thời gian
 	Timestamp	Dấu thời gian
 	to	đến
@@ -2250,7 +2079,6 @@ calendar weekday	Th	T5
 	To:	Đến:
 	Today: {date}	Hôm nay: {date}
 	Toggle fit page / fit width	Chuyển đổi vừa trang / vừa chiều rộng
-	Tool	Công cụ
 	Tools panel side	Phía của bảng công cụ
 	Tooltip:	Chú giải công cụ:
 	Top-level bookmarks ({n})	Dấu trang cấp cao nhất ({n})
@@ -2272,15 +2100,11 @@ signature pad	Type	Nhập chữ
 	Type text	Nhập văn bản
 	Type the web address.	Nhập địa chỉ web.
 	Type your {what}.	Nhập {what} của bạn.
-	Typewriter	Máy đánh chữ
 	Unchecked	Chưa đánh dấu chọn
 	Underline text	Gạch chân văn bản
 	Undid {label}	Đã hoàn tác {label}
 	Unit	Đơn vị
-	Units	Đơn vị
-	Unknown	Không rõ
 	Unknown author	Tác giả không rõ
-	Unlock	Mở khóa
 	Unlock comment	Mở khóa bình luận
 	Unlock {name}	Mở khóa {name}
 	Unlock {n} files	Mở khóa {n} tệp
@@ -2293,7 +2117,6 @@ signature pad	Type	Nhập chữ
 	Unsigned signature field	Trường chữ ký chưa ký
 	Unsigned signature field: {name}	Trường chữ ký chưa ký: {name}
 	Unsupported measurements	Các phép đo không được hỗ trợ
-	Update	Cập nhật
 	Update background	Cập nhật nền
 	Update background…	Cập nhật nền…
 	Update header & footer	Cập nhật đầu trang & chân trang
@@ -2336,14 +2159,12 @@ certificate	Validity ends	Hiệu lực kết thúc
 certificate	Validity starts	Hiệu lực bắt đầu
 	Value is not calculated	Giá trị không được tính toán
 	Value is the	Giá trị là
-	Value:	Giá trị:
 	Verify	Xác minh
 	Verify to see what the document needs.	Hãy xác minh để biết tài liệu cần gì.
 certificate	Version	Phiên bản
 	Version {v}	Phiên bản {v}
 	Vertical reversed	Dọc đảo ngược
 	Vertical text cannot be moved with this selection.	Văn bản dọc không thể di chuyển cùng vùng chọn này.
-	Vertically	Theo chiều dọc
 	Video, sound and rich media must be tagged to be announced. Tag the multimedia annotations.	Video, âm thanh và đa phương tiện phong phú phải được gắn thẻ để được đọc to. Hãy gắn thẻ cho các chú thích đa phương tiện.
 	View less	Xem ít hơn
 	View more	Xem thêm
@@ -2354,8 +2175,6 @@ certificate	Version	Phiên bản
 	Viewport rectangle in page points (x, y, width, height)	Hình chữ nhật khung nhìn theo điểm trang (x, y, chiều rộng, chiều cao)
 	Visible Rectangle	Hình chữ nhật hiển thị
 	Visual	Trực quan
-	Warning	Cảnh báo
-	Warnings	Cảnh báo
 	watermark	hình mờ
 calendar weekday	We	T4
 	Weak	Yếu
@@ -2364,7 +2183,6 @@ calendar weekday	We	T4
 	What word or phrase would you like to search for?	Bạn muốn tìm từ hoặc cụm từ nào?
 	White on black	Trắng trên nền đen
 	Whole words only	Chỉ khớp toàn bộ từ
-	Width	Chiều rộng
 	Window Options	Tùy chọn cửa sổ
 	Windows store  ·  	Kho Windows  ·  
 	Word count	Số từ
@@ -2376,9 +2194,7 @@ calendar weekday	We	T4
 	Wrote {n} files to {dir}	Đã ghi {n} tệp vào {dir}
 	X Object Forms	Đối tượng biểu mẫu X
 	XFA form: its fields and its XFA data are kept in step, so other viewers show what you fill in.	Biểu mẫu XFA: các trường và dữ liệu XFA của nó được giữ đồng bộ, nên các trình xem khác hiển thị những gì bạn điền.
-	Yellow	Vàng
 	Yellow on black	Vàng trên nền đen
-	yesterday	hôm qua
 	You are about to apply 1 redaction mark. Text, images and drawings under the marks, and comments and form fields that overlap them, are removed permanently.	Bạn sắp áp dụng 1 dấu xóa. Văn bản, hình ảnh và bản vẽ nằm dưới các dấu, cũng như bình luận và trường biểu mẫu chồng lên chúng, sẽ bị xóa vĩnh viễn.
 	You are about to apply {n} redaction marks. Text, images and drawings under the marks, and comments and form fields that overlap them, are removed permanently.	Bạn sắp áp dụng {n} dấu xóa. Văn bản, hình ảnh và bản vẽ nằm dưới các dấu, cũng như bình luận và trường biểu mẫu chồng lên chúng, sẽ bị xóa vĩnh viễn.
 	You are viewing revision {rev} of “{from}”. It is a snapshot: changes here won't affect the original.	Bạn đang xem bản sửa đổi {rev} của “{from}”. Đây là ảnh nhanh: các thay đổi ở đây không được áp dụng đến bản gốc.
@@ -2392,12 +2208,10 @@ calendar weekday	We	T4
 	ZIP	ZIP
 	Zip Code	Mã bưu chính
 	Zip Code + 4	Mã bưu chính + 4
-	Zoom in	Phóng to
 	Zoom in ({key})	Phóng to ({key})
 	Zoom in (⌘+)	Phóng to (⌘+)
 	Zoom in / out (also pinch or {key}-scroll)	Phóng to / thu nhỏ (cũng có thể chụm ngón tay hoặc {key}-cuộn)
 	Zoom in / out (also pinch or ⌘-scroll)	Phóng to / thu nhỏ (cũng có thể chụm ngón tay hoặc ⌘-cuộn)
-	Zoom out	Thu nhỏ
 	Zoom out ({key})	Thu nhỏ ({key})
 	Zoom out (⌘−)	Thu nhỏ (⌘−)
 	Zoom to page level	Thu phóng vừa trang
@@ -2436,11 +2250,9 @@ calendar weekday	We	T4
 @plural	{n} field name collides with earlier files and will be renamed: {list}|{n} field names collide with earlier files and will be renamed: {list}	{n} tên trường trùng với các tệp trước và sẽ được đổi tên: {list}
 	{n} fields selected	Đã chọn {n} trường
 @plural	{n} field|{n} fields	{n} trường
-	{n} files	{n} tệp
 	{n} files done	{n} tệp đã xong
 	{n} files need attention	{n} tệp cần chú ý
 @plural	{n} file|{n} files	{n} tệp
-	{n} h ago	{n} giờ trước
 @plural	{n} image optimized|{n} images optimized	Đã tối ưu hóa {n} hình ảnh
 	{n} instances	{n} lần xuất hiện
 	{n} issues	{n} vấn đề
@@ -2448,7 +2260,6 @@ calendar weekday	We	T4
 	{n} marks	{n} dấu
 	{n} match(es) marked for redaction.	Đã đánh dấu {n} kết quả khớp để xóa.
 	{n} measurements use an unsupported format and are left out.	{n} phép đo dùng định dạng không được hỗ trợ và bị bỏ qua.
-	{n} min ago	{n} phút trước
 @plural	{n} object selected|{n} objects selected	Đã chọn {n} đối tượng
 	{n} pages	{n} trang
 	{n} pages and no bookmarks	{n} trang và không có dấu trang
@@ -2485,5 +2296,4 @@ calendar weekday	We	T4
 	“{name}” has security restrictions. Enter its permissions password to lift them.	“{name}” có các hạn chế bảo mật. Hãy nhập mật khẩu quyền hạn của nó để gỡ bỏ chúng.
 	“{name}” is protected. Enter a password to open it.	“{name}” được bảo vệ. Hãy nhập mật khẩu để mở.
 	… and {n} more	… và {n} mục nữa
-	−Bin	−Bin
 	−LOC	−LOC

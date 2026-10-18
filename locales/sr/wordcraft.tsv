@@ -12,7 +12,6 @@
 # consulted or copied; add entries the same way.
 
 	(All)	(Све)
-	(Custom)	(Прилагођено)
 	(no style)	(без стила)
 	(no suggestions)	(нема предлога)
 	(normal text)	(обичан текст)
@@ -69,7 +68,6 @@
 	Add tab stop at:	Додај табулатор на:
 	Add Text	Додај текст
 	Add the chapter number	Додај број поглавља
-	Add to Dictionary	Додај у речник
 	Add to Document	Додај у документ
 	Add to Quick Access Toolbar	Додај на траку са алаткама за брзи приступ
 	Add to Style Gallery	Додај у галерију стилова
@@ -85,7 +83,6 @@
 	Address labels	Адресне налепнице
 	Address:	Адреса:
 	Address\nBlock	Блок\nадресе
-	Adjust	Подеси
 	Advanced Find	Напредна претрага
 	Advanced Find…	Напредна претрага…
 	After:	После:
@@ -96,19 +93,13 @@
 	Align Center	Поравнај по средини
 	Align Center Left	Поравнај у средини лево
 	Align Center Right	Поравнај у средини десно
-	Align Left	Лево поравнање
-	Align Right	Десно поравнање
-	Align Text	Поравнај текст
 	Align Top Center	Поравнај горе по средини
 	Align Top Left	Поравнај горе лево
 	Align Top Right	Поравнај горе десно
 	Aligned at:	Поравнато на:
-	Alignment	Поравнање
 	All Borders	Све ивице
-	All Caps	Сва велика слова
 	All caps	Сва велика слова
 	All Commands	Све команде
-	All files	Све датотеке
 	All Levels	Сви нивои
 	All Markup	Све измене
 	All pages in the range	Све странице у опсегу
@@ -126,7 +117,6 @@
 	Alt\nText	Алтернативни\nтекст
 	And	И
 	Animate the caret (it glides and fades)	Анимирај курсор (клизи и постепено се гаси)
-	Animation	Анимација
 	Animation effects:	Ефекти анимације:
 	Another file	Друга датотека
 	Any Character	Било који знак
@@ -136,25 +126,18 @@
 	Anyone who opens the document will need this password.	Свакоме ко отвори документ биће потребна ова лозинка.
 	Apply as you type	Примени док куцаш
 	Apply Asian line-breaking rules (kinsoku)	Примени азијска правила прелома редова (кинсоку)
-	Apply Character Style	Примени стил знакова
 	Apply formatting to:	Примени форматирање на:
 	Apply Style	Примени стил
 	Apply Styles	Изабери и примени стилове
-	Apply to:	Примени на:
 	Arabic	Арапски
 	Arch Down	Лук надоле
 	Arch Up	Лук нагоре
-	Area	Површински
-	Arrange	Ређање
 	Arrange\nAll	Распореди\nсве
-	Arrows	Стрелице
 	Artistic Effects	Уметнички ефекти
 	As Recommended	Као што је препоручено
 	As you type	Током куцања
-	Ascending	Растуће
 	Asian text font:	Фонт азијског текста:
 	Asian Typography	Азијска типографија
-	Assign	Додели
 	At least	Најмање
 	At least {n}	Најмање {n}
 	Atelier	Атеље
@@ -168,7 +151,6 @@
 	AutoFit Contents	Аутоматски уклопи према садржају
 	AutoFit Window	Аутоматски уклопи према прозору
 	AutoFormat As You Type	Аутоматско обликовање током куцања
-	Automatic	Аутоматски
 	Automatic ({language})	Аутоматски ({language})
 	Automatic ({region})	Аутоматски ({region})
 	Automatic bulleted lists	Аутоматске листе са знаковима
@@ -187,11 +169,9 @@
 	AutoSave saves every change to the file (needs a saved document)	Аутоматско чување уписује сваку измену у фајл (документ мора бити већ сачуван)
 	AutoSave writes your changes to the file a moment after you stop typing.	Аутоматско чување уписује измене у датотеку чим престанете да куцате.
 	AutoText	Аутоматски текст
-	Backspace	Backspace
 	Balloons	Облачићи
 	Banded Columns	Тракасте колоне
 	Banded Rows	Тракасти редови
-	Bar	Линија
 	Base text:	Основни текст:
 	Based on: {style}	Заснован на: {style}
 	Basic Cycle	Основни циклус
@@ -208,7 +188,6 @@
 	Below the item	Испод ставке
 	Between	Између пасуса
 	Bibliography	Библиографија
-	Binary assets removed	Уклоњени бинарни ресурси
 	Blank	Празно
 	Blank (Three Columns)	Празно (три колоне)
 	Blank document	Празан документ
@@ -223,7 +202,6 @@
 	Border lines	Линије ивица
 	Border Painter	Копирање ивица
 	Border\nPainter	Копирање\nивица
-	Borders	Ивице
 	Borders and Shading	Ивице и сенчење
 	Borders and Shading…	Ивице и сенчење…
 	Both Sides	Обе стране
@@ -234,15 +212,12 @@
 	Bottom Right Cell	Доња десна ћелија
 	Box	Оквир
 	Bracket	Заграда
-	Break Link	Прекини везу
 	Breaks	Прекиди
-	Bring Forward	Помери напред
 	Browse in WordCraft…	Потражи у WordCraft-у…
 	Building Block Gallery Content Control	Контрола садржаја за галерију градивних блокова
 	Built-In	Уграђено
 	Built-in style	Уграђени стил
 	Built-in styles can't be deleted.	Уграђени стилови не могу да се обришу.
-	Bullet	Ознака
 	Bullet Library	Библиотека ознака
 	Bullets	Ознаке
 	By author	По аутору
@@ -254,7 +229,6 @@
 	Capitalize first letter of sentences	Велико прво слово реченице
 	Capitalize first letter of table cells	Велико прво слово у ћелијама табеле
 	Capitalize names of days	Велико слово у називима дана
-	Caption	Натпис
 	Caption Numbering	Нумерисање натписа
 	Caption text	Текст натписа
 	Caption:	Натпис:
@@ -266,13 +240,7 @@
 	Category {n}	Категорија {n}
 	Cell	Ћелија
 	Cell Margins	Маргине ћелије
-	Cell Size	Величина ћелије
 	Cell\nMargins	Маргине\nћелије
-	Center	Центрирај
-	Centered	Центрирано
-	Centimeters	Центиметри
-	Change	Измени
-	Change Case	Промени величину слова
 	Change Chart Type	Промени тип графикона
 	Change Colors	Промени боје
 	Change Layout	Промени распоред
@@ -290,7 +258,6 @@
 	Changes	Измене
 	Chapter in a book	Поглавље у књизи
 	Chapters begin at:	Поглавља почињу на:
-	Character	Знак
 	Character Border	Ивица знака
 	Character code:	Код знака:
 	Character in Range	Знак у опсегу
@@ -328,7 +295,6 @@
 	Citation Style	Стил цитирања
 	Citations	Цитати
 	Citations & Bibliography	Цитати и библиографија
-	City	Град
 	Clear All Formatting	Обриши све форматирање
 	Clear Character Formatting	Обриши форматирање знакова
 	Clear Character Style	Обриши стил знакова
@@ -356,21 +322,14 @@
 	Color only	Само боја
 	Color: {color}	Боја: {color}
 	Colorful	Шарено
-	Colors	Боје
-	Colors:	Боје:
 	Column	Колона
 	Column Break	Прекид колоне
 	Column Selection	Избор колоне
-	Column width	Ширина колоне
 	Column {n}	Колона {n}
 	Column:	Колона:
-	Columns	Колоне
-	Columns:	Колоне:
 	Combine Documents	Спајање докумената
 	Combo Box Content Control	Контрола садржаја за комбиновано поље
 	Commands	Наредбе
-	Commands:	Команде:
-	Comment	Коментар
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Коментари поред сваке странице и праћене измене у PDF-овима, отисцима и сликама; листа коментара на крају веб-страница, Markdown-а и текста.
 	Comments Pane	Окно коментара
 	Communication	Комуникација
@@ -380,7 +339,6 @@
 	Compare to	Упореди са
 	Compared: {changes} changes	Упоређено: измена {changes}
 	Comparing with another file needs the desktop app.	За поређење са другом датотеком потребна је десктоп апликација.
-	Comparison	Поређење
 	Comparison settings	Подешавања поређења
 	Compress Pictures	Компресуј слике
 	Compress punctuation at the start of a line	Сажми интерпункцију на почетку реда
@@ -389,7 +347,6 @@
 	Confirm password:	Потврдите лозинку:
 	Connect Shapes	Повежи облике
 	Container Title	Наслов збирке
-	Contains	Садржи
 	Content Control at Selection	Контрола садржаја на избору
 	Content Control Properties	Својства контроле садржаја
 	Contents can't be edited	Садржај не може да се уређује
@@ -403,12 +360,10 @@
 	Convert Text to Table…	Претвори текст у табелу…
 	Convert to Shapes	Претвори у облике
 	Convert to Text	Претвори у текст
-	Copies	Копије
 	Copy Formatting	Копирај форматирање
 	Copy of the text a bookmark marks	Текст обележивача
 	Copy Styles	Копирај стилове
 	Copy to	Копирај у
-	Copyright	Знак ауторског права
 	Copyright Sign	Знак ауторског права
 	Correct accidental usage of cAPS LOCK key	Исправи случајно укључен cAPS LOCK
 	Correct TWo INitial CApitals	Исправи ДВа ПОчетна велика слова
@@ -418,7 +373,6 @@
 	Couldn't open {path}: {error}	Није могуће отворити {path}: {error}
 	Count by:	Корак:
 	Count words in text boxes and notes	Броји речи у оквирима за текст и фуснотама
-	Country	Земља
 	Courtesy Title	Ословљавање
 	Cover Page	Насловна страна
 	Craft	Занат
@@ -429,10 +383,8 @@
 	Create New Style	Направи нови стил
 	Create Source	Направи извор
 	Croatian	Хрватски
-	Crop	Исеци
 	Cross-reference	Унакрсна референца
 	Cross-reference:	Унакрсна референца:
-	Current	Тренутна
 	Current Position	Тренутни положај
 	Current style: {style}	Тренутни стил: {style}
 	Curved Arrow Connector	Закривљени конектор са стрелицом
@@ -451,7 +403,6 @@
 	Customize Quick Access Toolbar…	Прилагоди траку са алаткама за брзи приступ…
 	Customize Ribbon	Прилагоди траку
 	Customize the Ribbon…	Прилагоди траку…
-	Customize…	Прилагоди…
 	Cycle	Циклус
 	Czech	Чешки
 	Danish	Дански
@@ -459,16 +410,13 @@
 	Dark page (white text on black)	Тамна страница (бео текст на црном)
 	Dark with Shadow	Тамно са сенком
 	Darkroom	Мрачна комора
-	Data	Подаци
 	Data Labels	Ознаке података
 	Date & Time	Датум и време
-	Date and Time	Датум и време
 	Date formats:	Формати датума:
 	Date Picker Content Control	Контрола садржаја за бирање датума
 	Day	Дан
 	Decimal	Децимални
 	Decorative objects only add visual interest: screen readers skip them.	Декоративни објекти само доприносе изгледу: читачи екрана их прескачу.
-	Decrease Font Size	Смањи величину фонта
 	Decrease Indent	Смањи увлачење
 	Default tab stops:	Подразумевани табулатори:
 	Define New Bullet	Дефиниши нову ознаку
@@ -488,14 +436,12 @@
 	Delete Previous Word	Обриши претходну реч
 	Delete Rows	Обриши редове
 	Delete Selected Ink	Обриши изабрани рукопис
-	Delete Style	Обриши стил
 	Delete Table	Обриши табелу
 	Delete Table Style	Обриши стил табеле
 	Deletions:	Брисања:
 	Delivery address:	Адреса примаоца:
 	Demote	Спусти ниво
 	Demote to Body Text	Спусти на основни текст
-	Descending	Опадајуће
 	Describe what this object shows, for people who can't see it.	Опишите шта овај објекат приказује, за оне који не могу да га виде.
 	Describe what this table shows, for people who can't see it.	Опишите шта ова табела приказује, за оне који не могу да је виде.
 	Design	Дизајн
@@ -504,7 +450,6 @@
 	Detect language automatically	Аутоматски препознај језик
 	Developer	Програмер
 	development build	развојна верзија
-	Diagonal	Дијагонално
 	Dictate	Диктирање
 	Dictionaries	Речници
 	Dictionaries folder:	Фасцикла речника:
@@ -512,9 +457,7 @@
 	Different Odd & Even Pages	Другачије непарне и парне стране
 	Direct formatting	Директно форматирање
 	Directory	Именик
-	Discord	Discord
 	Discord community	Заједница на Discord-у
-	Display	Приказ
 	Display for Review	Приказ за преглед
 	Display text	Приказани текст
 	Distribute Columns	Равномерно размести колоне
@@ -537,7 +480,6 @@
 	Document Text	Текст документа
 	Document1	Документ1
 	Document\nPreferences	Поставке\nдокумента
-	Documents	Документи
 	Documents you open will show up here.	Документи које отворите појавиће се овде.
 	Does not contain	Не садржи
 	DOI	DOI
@@ -545,10 +487,8 @@
 	Don't capitalize after:	Без великог слова после:
 	Don't hyphenate	Без дељења речи
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Не читај цитате и библиографију из Zotero, Mendeley или EndNote
-	Don't Save	Не чувај
 	Dot dash	Тачка-црта
 	Dot-dash	Тачка-црта
-	Dotted	Тачкасто
 	Double	Дупло
 	Double Closing Quote	Затворени двоструки наводник
 	Double Opening Quote	Отворени двоструки наводник
@@ -557,8 +497,6 @@
 	Double strikethrough	Дупло прецртано
 	Double Underline	Дупло подвучено
 	Doughnut	Прстенасти
-	Down	Доле
-	Draft	Нацрт
 	Drag a rectangle to draw a table, or a line across cells to split them. Esc stops.	Превуците правоугаоник да нацртате табелу или линију преко ћелија да их поделите. Esc завршава.
 	Draw Ink	Цртај мастилом
 	Draw Table	Нацртај табелу
@@ -570,7 +508,6 @@
 	Drop cap	Украсно велико слово
 	Drop-Down List Content Control	Контрола садржаја за падајућу листу
 	Drops all formatting and pastes plain text.	Уклања све форматирање и лепи обичан текст.
-	Dutch	Холандски
 	E-mail Messages	Поруке е-поште
 	Edit Comment	Уреди коментар
 	Edit Data	Уреди податке
@@ -591,15 +528,8 @@
 	Editing — edit the document directly	Уређивање — мењајте документ директно
 	Edition	Издање
 	Editor	Уредник
-	Effects	Ефекти
 	Elbow Arrow Connector	Угаони конектор са стрелицом
 	Elbow Connector	Угаони конектор
-	Ellipsis	Три тачке
-	Em Dash	Дуга црта
-	Em Space	Em размак
-	Emboss	Рељеф
-	En Dash	Средња црта
-	En Space	En размак
 	Enclose Characters	Уоквири знакове
 	Enclosure	Оквир
 	Encrypt with Password	Шифруј лозинком
@@ -618,7 +548,6 @@
 	Enter page number:	Унесите број стране:
 	Entry marked.	Ставка је означена.
 	Envelope #10	Коверта бр. 10
-	Envelope DL	Коверта DL
 	Envelope size:	Величина коверте:
 	Envelopes	Коверте
 	Equal column width	Једнака ширина колона
@@ -644,13 +573,9 @@
 	Exceptions (optional)	Изузеци (необавезно)
 	Exceptions…	Изузеци…
 	Existing File or Web Page	Постојећа датотека или веб страница
-	Expand	Прошири
 	Expand or Collapse Heading	Прошири или скупи наслов
 	Export a copy to share (PDF, Word document)	Извези копију за дељење (PDF, Word документ)
 	Export Page as PNG	Извези страну као PNG
-	Export PDF	Извези PDF
-	Exported {path}	Извезено: {path}
-	Expression	Израз
 	Extend Selection	Прошири избор
 	Extend Selection by Units	Прошири избор по јединицама
 	Field code:	Код поља:
@@ -661,28 +586,21 @@
 	Field names must be different.	Називи поља морају бити различити.
 	Field names:	Називи поља:
 	Field:	Поље:
-	Fields:	Поља:
 	Field…	Поље…
 	Figure	Слика
 	File name:	Име датотеке:
-	Fill	Испуна
 	Fill color:	Боја попуне:
 	Filling in forms	Попуњавање образаца
 	Film	Филм
 	Filter and Sort	Филтрирање и сортирање
 	Filter Recipients	Филтрирај примаоце
-	Find	Пронађи
-	Find and Replace	Пронађи и замени
-	Find Next	Пронађи следеће
 	Find Next Editable Region	Пронађи следећи део за уређивање
 	Find Previous	Пронађи претходно
 	Find Recipient	Пронађи примаоца
 	Find What Expression	Пронађени израз
 	Find What Text	Пронађени текст
 	Find what:	Пронађи:
-	Find:	Пронађи:
 	Finding printers…	Проналажење штампача…
-	Finish	Заврши
 	Finish & Merge	Заврши и споји
 	Finish &\nMerge	Заврши\nи споји
 	Finished	Завршено
@@ -692,16 +610,13 @@
 	First line:	Први ред:
 	First Name	Име
 	First row of data contains column headers	Први ред података садржи заглавља колона
-	Fit	Прилагоди
 	Fix Position on Page	Фиксирај положај на страници
 	Fixed Column Width	Фиксна ширина колоне
-	Focus	Фокус
 	Follow number with:	После броја:
 	Font Color	Боја фонта
 	Font color	Боја фонта
 	Font color:	Боја фонта:
 	Font Dialog	Дијалог фонта
-	Font Size	Величина фонта
 	Font: {font}	Фонт: {font}
 	Font…	Фонт…
 	Footer	Подножје
@@ -733,7 +648,6 @@
 	Gallery	Галерија
 	German (Germany)	Немачки (Немачка)
 	getartcraft.com/apps/wordcraft	getartcraft.com/apps/wordcraft
-	Glow	Сјај
 	Glow Colors	Боје сјаја
 	Go Back	Врати се назад
 	Go To	Иди на
@@ -742,7 +656,6 @@
 	Go to what:	Иди на:
 	Go To…	Иди на…
 	Grab bag	Разно
-	Grayscale	Сиви тонови
 	Greater than	Веће од
 	Greater than or equal	Веће или једнако
 	Greek	Грчки
@@ -750,7 +663,6 @@
 	Greeting Line	Ред поздрава
 	Greeting\nLine	Ред\nпоздрава
 	Gridlines	Линије мреже
-	Group	Груписање
 	Grow Font 1 Point	Увећај фонт за 1 тачку
 	H:	В:
 	Hanging Indent	Увлачење висеће линије
@@ -765,10 +677,8 @@
 	Heading 3	Наслов 3
 	Heading styles (levels 1–{n})	Стилови наслова (нивои 1–{n})
 	Heading {n}	Наслов {n}
-	Heart	Срце
 	Hebrew	Хебрејски
 	Hex:	Хекс:
-	Hidden	Скривено
 	Hidden bookmarks	Скривени обележивачи
 	Hide Codes	Сакриј кодове
 	Hide from style lists	Сакриј са листа стилова
@@ -780,8 +690,6 @@
 	Highlight Merge Fields	Истакни поља за спајање
 	Highlight\nMerge Fields	Истакни\nпоља за спајање
 	Highlighter	Маркер
-	Hindi	Хинди
-	Hollow	Шупље
 	Home folder	Лична фасцикла
 	Horizontal Line	Хоризонтална линија
 	How many pages the whole document has	Број страница у документу
@@ -792,7 +700,6 @@
 	Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's.	Hunspell .aff и .dic датотеке из ове фасцикле (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) користе се пре системских.
 	Hyphenate at:	Подели на:
 	Hyphenate words in CAPS	Дели речи написане ВЕЛИКИМ СЛОВИМА
-	Hyphenation	Дељење речи
 	Hyphenation Options…	Опције дељења речи…
 	Hyphenation zone:	Зона дељења речи:
 	Hyphens (--) as dashes (—)	Цртице (--) као црте (—)
@@ -802,7 +709,6 @@
 	Icons	Иконице
 	If…Then…Else	Ако…Онда…Иначе
 	If…Then…Else…	Ако…Онда…Иначе…
-	Ignore All	Занемари све
 	Ignore punctuation characters	Занемари знаке интерпункције
 	Ignore web and file addresses	Занемари веб-адресе и путање датотека
 	Ignore white-space characters	Занемари белине
@@ -817,10 +723,8 @@
 	In Front of Text	Испред текста
 	In Line with Text	У равни са текстом
 	In the margin	На маргини
-	Inches	Инчи
 	Include level number from:	Укључи број нивоа:
 	Include page numbers	Укључи бројеве страница
-	Increase Font Size	Повећај величину фонта
 	Increase Indent	Повећај увлачење
 	Indent	Увлачење
 	Indent from left:	Увлачење слева:
@@ -829,8 +733,6 @@
 	Indents	Увлачења
 	Indents and Spacing	Увлачења и размаци
 	Index and Tables	Индекси и табеле
-	Inflate	Надувавање
-	Info	Информације
 	Initials:	Иницијали:
 	Ink	Мастило
 	Ink Replay	Рукопис реприза
@@ -883,14 +785,11 @@
 	Inside Horizontal Border	Унутрашња хоризонтална ивица
 	Inside Vertical Border	Унутрашња вертикална ивица
 	Inside:	Унутра:
-	Inspect Document	Прегледај документ
 	Inspect Styles at Selection	Прегледај стилове избора
 	Institution	Институција
 	Integral	Интеграл
-	Interface	Интерфејс
 	Interface language:	Језик интерфејса:
 	Interface size:	Величина интерфејса:
-	Interface Theme	Тема интерфејса
 	Interface theme:	Тема интерфејса:
 	Interface\nTheme	Тема\nинтерфејса
 	Internet addresses as links	Интернет адресе као везе
@@ -898,12 +797,9 @@
 	Is blank	Празно
 	Is not blank	Није празно
 	Issue	Број
-	Italian	Италијански
-	Japanese	Јапански
 	Join the ArtCraft community on Discord	Придружите се ArtCraft заједници на Discord-у
 	Join us on Discord: discord.gg/artcraft	Придружите нам се на Discord-у: discord.gg/artcraft
 	Journal	Часопис
-	Justification	Поравнање
 	Justified	Обострано поравнато
 	Keep Lines Together	Задржи редове заједно
 	Keep lines together	Задржи редове заједно
@@ -914,19 +810,16 @@
 	Keeps the fonts and formatting of the copied text.	Задржава фонтове и форматирање копираног текста.
 	Keyboard shortcuts:	Пречице на тастатури:
 	Keys for this command:	Тастери за ову команду:
-	Korean	Корејски
 	Label changes with:	Означи измене са:
 	Label:	Ознака:
 	Language Preferences…	Језичке поставке…
 	Large\nOperator	Велики\nоператор
 	Largest Only	Само шира страна
-	Lasso	Ласо
 	Lasso Select	Избор ласом
 	Last Column	Задња колона
 	Last Name	Презиме
 	Last, First; Last, First	Презиме, Име; Презиме, Име
 	Latin text font:	Фонт латиничног текста:
-	Layout	Распоред
 	Layout Summary	Преглед распореда
 	Layouts	Распореди
 	Leader	Попуна
@@ -946,7 +839,6 @@
 	Legend	Легенда
 	Less than	Мање од
 	Less than or equal	Мање или једнако
-	Letter	Писмо
 	Letter headings	Наслови по словима
 	Letters	Писма
 	Level {n}	Ниво {n}
@@ -960,7 +852,6 @@
 	Line between	Линија између колона
 	Line Break	Прекид реда
 	Line breaking	Прелом редова
-	Line delta	Промена броја редова
 	Line End	Крај реда
 	Line Numbering Options…	Опције бројева редова…
 	Line Numbers	Бројеви редова
@@ -968,8 +859,6 @@
 	Line Spacing Options…	Опције проређености…
 	Line spacing:	Проређеност:
 	Line Start	Почетак реда
-	Linear	Линеарни приказ
-	Lines	Редови
 	Lines and characters	Редови и знакови
 	Lines only	Само редови
 	Lines per page:	Редова по страници:
@@ -978,7 +867,6 @@
 	Link to Previous	Веза са претходним
 	Link to:	Веза ка:
 	Linked style (paragraph and character)	Повезани стил (пасус и знакови)
-	Links	Везе
 	Links and References	Везе и референце
 	Link…	Веза…
 	List Definition	Дефиниција листе
@@ -989,7 +877,6 @@
 	Local font access was denied.	Приступ локалним фонтовима је одбијен.
 	Location: {path}	Локација: {path}
 	Lock Fields	Закључај поља
-	lowercase	малим словима
 	Lum:	Осветљеност:
 	Macros	Макрои
 	Made from the author and year when empty	Ако је празно, прави се од аутора и године
@@ -1027,13 +914,9 @@
 	Math AutoCorrect	Аутоматска исправка математике
 	Matrix	Матрица
 	Measurement units:	Јединице мере:
-	Merge	Споји
-	Merge Cells	Споји ћелије
 	Merge Formatting	Споји форматирање
 	Merge Record #	Број записа спајања
 	Mesosphere	Мезосфера
-	Middle	Средина
-	Millimeters	Милиметри
 	Mirror indents	Пресликај увлачења
 	Mirror margins	Пресликане маргине
 	Mirrored	Зрцаљено
@@ -1052,7 +935,6 @@
 	More Paper Sizes…	Још величина папира…
 	More Symbols…	Још симбола…
 	More templates →	Још шаблона →
-	Move Down	Помери надоле
 	Move in Equation	Кретање у формули
 	Move or Resize	Помери или промени величину
 	Move Paragraph Down	Помери пасус надоле
@@ -1061,7 +943,6 @@
 	Move Past\nCitation	Помери иза\nцитата
 	Move Selected Ink	Премести изабрани рукопис
 	Move Table by Dragging	Премештање табеле превлачењем
-	Move Up	Помери нагоре
 	Move with Text	Померај са текстом
 	Moved from	Премештено одавде
 	Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely.	Померени објекти се приањају уз ивице и средину странице, маргине и друге објекте. Држите Alt да бисте померали слободно.
@@ -1074,35 +955,24 @@
 	Narrow	Уска
 	Narrow  {size} all	Уске  {size} свуда
 	Nature	Природа
-	Navigation	Навигација
 	Navigation Pane	Окно за навигацију
-	New	Ново
 	New Comment	Нови коментар
 	New comments and tracked changes are recorded under this name and these initials.	Нови коментари и праћене измене бележе се под овим именом и иницијалима.
-	New Document	Нови документ
-	New document	Нови документ
 	New Drawing Canvas	Ново платно за цртање
 	New Entry	Нова ставка
-	New from Template	Ново из шаблона
-	New Group	Нова група
 	New Label	Нова ознака
 	New Label…	Нова ознака…
 	New Paragraph	Нови пасус
 	New shortcut:	Нова пречица:
-	New Style…	Нови стил…
 	New Tab	Нова картица
 	New Table Style	Нови стил табеле
 	New Table Style…	Нови стил табеле…
-	New Window	Нови прозор
 	New word	Нова реч
 	New\nComment	Нови\nкоментар
 	New\nWindow	Нови\nпрозор
-	New…	Ново…
-	Next Change	Следећа измена
 	Next Comment	Следећи коментар
 	Next Field	Следеће поље
 	Next Footnote	Следећа фуснота
-	Next Page	Следећа страна
 	Next Record	Следећи запис
 	Next Section	Следећи одељак
 	Next Sentence	Следећа реченица
@@ -1110,7 +980,6 @@
 	No accessibility issues found.	Није пронађен ниједан проблем приступачности.
 	No Border	Без ивице
 	No changes (read only)	Без измена (само за читање)
-	No Color	Без боје
 	No contributor data was built into this copy.	Ова верзија не садржи податке о сарадницима.
 	No document is open. Create a document or open one first.	Ниједан документ није отворен. Прво направите или отворите документ.
 	No errors found: every merge field is in the recipient list.	Нема грешака: свако поље за спајање постоји у листи прималаца.
@@ -1135,7 +1004,6 @@
 	No-Width Non Break	Недељиви знак нулте ширине
 	No-Width Optional Break	Опциони прелом нулте ширине
 	Nonbreaking Hyphen	Недељива цртица
-	Nonbreaking Space	Недељиви размак
 	Normal  {size} all	Нормалне  {size} свуда
 	Normal speed	Нормална брзина
 	Normal Style	Нормалан стил
@@ -1157,7 +1025,6 @@
 	Now used by {command}	Сада користи: {command}
 	Nudge	Микро-померање
 	Num Occurrences	Број понављања
-	Number	Број
 	Number alignment:	Поравнање броја:
 	Number format	Формат броја
 	Number of columns:	Број колона:
@@ -1171,7 +1038,6 @@
 	Numbering…	Нумерисање…
 	Numerals	Бројеви
 	Numerals:	Бројеви:
-	Object	Објекат
 	Odd Banded Columns	Непарне тракасте колоне
 	Odd Banded Rows	Непарни тракасти редови
 	Odd Page	Непарна страна
@@ -1187,7 +1053,6 @@
 	Offset: Top	Помак: горе
 	Offset: Top Left	Помак: горе лево
 	Offset: Top Right	Помак: горе десно
-	Omit	Изостави
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	Укључено: курсор клизи на ново место док куцате или користите стрелице, а његово трептање се постепено гаси. Искључено: скаче и трепће нагло.
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	Укључено: WordCraft се отвара на Фајл › Почетак, са празним документом, шаблонима и недавним документима. Искључено: отвара празан документ.
 	One	Једна
@@ -1213,12 +1078,9 @@
 	Ordinals (1st) as superscript	Редни бројеви (1st) као експонент
 	Organizer	Организатор
 	Organizer…	Организатор…
-	Orientation	Оријентација
 	Original document	Оригинални документ
-	Other	Друго
 	Other styles and their TOC level:	Остали стилови и њихов ниво у садржају:
 	Otherwise insert:	Иначе уметни:
-	Outline	Контура
 	Outline Level	Ниво контуре
 	Outline level	Ниво контуре
 	Outline levels	Нивои структуре
@@ -1253,15 +1115,12 @@
 	Page width	Ширина стране
 	Page X of Y	Страна X од Y
 	Page {page}	Страна {page}
-	Page {page} of {pages}	Страна {page} од {pages}
 	Page\nBorders	Ивице\nстране
 	Page\nColor	Боја\nстране
 	Page\nNumber	Број\nстране
 	Pages like 1-3, 5	Странице попут 1-3, 5
 	Pages of bookmark:	Странице обележивача:
-	Paper	Папир
 	Paper size:	Величина папира:
-	Paragraph	Пасус
 	Paragraph Character	Симбол пасуса
 	Paragraph Details	Детаљи пасуса
 	Paragraph Down	Пасус надоле
@@ -1280,22 +1139,17 @@
 	Paste Clipboard Item	Налепи ставку из оставе
 	Paste Formatting	Налепи форматирање
 	Paste function:	Налепи функцију:
-	Paste Special	Специјално лепљење
 	Paste Special…	Специјално лепљење…
 	Paste: Keep Text Only	Налепи: само текст
 	Paste: Merge Formatting	Налепи: споји форматирање
 	Pastes the clipboard's picture.	Лепи слику из оставе.
-	Pause	Паузирај
 	Paused	Паузирано
 	PDF document (*.pdf)	PDF документ (*.pdf)
-	Pen	Перо
-	Pencil	Оловка
 	Pens	Пера
 	People	Људи
 	Periodical	Периодика
 	Personalize	Персонализација
 	Phonetic Guide	Фонетски водич
-	Picas	Пике
 	Pick a custom group (New Group makes one)	Изаберите прилагођену групу (Нова група прави једну)
 	Pick a field from the list	Изаберите поље
 	Picture	Слика
@@ -1309,26 +1163,19 @@
 	Placeholder text	Текст чувара места
 	Plain text (*.txt)	Обичан текст (*.txt)
 	Plain Text Content Control	Контрола садржаја за обичан текст
-	Play	Пусти
 	Play/Pause	Пусти/паузирај
-	Points	Тачке
 	Polish	Пољски
 	Portuguese (Brazil)	Португалски (Бразил)
 	Portuguese (Portugal)	Португалски (Португалија)
-	Position:	Положај:
 	Postal Code	Поштански број
 	Preferred width:	Жељена ширина:
 	Preserve formatting during updates	Сачувај обликовање при ажурирању
-	Presets	Унапред задато
 	Press a key combination	Притисните комбинацију тастера
 	Preview Results	Преглед резултата
 	Preview\nResults	Преглед\nрезултата
-	Previous	Претходно
 	Previous 1 or More	Претходно 1 или више пута
-	Previous Change	Претходна измена
 	Previous Comment	Претходни коментар
 	Previous Field	Претходно поље
-	Previous Page	Претходна страница
 	Previous Record	Претходни запис
 	Previous Section	Претходни одељак
 	Previous Sentence	Претходна реченица
@@ -1343,7 +1190,6 @@
 	Print the page color	Штампај боју стране
 	Print to PDF	Штампај у PDF
 	Print\nLayout	Приказ\nза штампу
-	Printer	Штампач
 	Printer default	Подразумевано штампача
 	Printer discovery failed.	Проналажење штампача није успело.
 	Privacy for this document	Приватност овог документа
@@ -1356,13 +1202,11 @@
 	Proofing	Провера писања
 	Proofing Issues	Проблеми у писању
 	Proofing language	Језик провере писања
-	Properties	Својства
 	Protect Document	Заштити документ
 	pt	пт
 	Publisher	Издавач
 	Put the caret in a content control first.	Прво поставите курсор у контролу садржаја.
 	Put the default commands back on the Quick Access Toolbar?	Вратити подразумеване команде на траку са алаткама за брзи приступ?
-	Pyramid	Пирамида
 	Quick Access Toolbar	Трака за брзи приступ
 	Quick Parts	Брзи делови
 	Quick Tables	Брзе табеле
@@ -1382,7 +1226,6 @@
 	Reading Text Size	Величина текста за читање
 	Reads the clipboard's rich text and keeps its formatting.	Чита обогаћени текст (RTF) из оставе и задржава његово форматирање.
 	Reads the clipboard's web content and keeps its formatting.	Чита веб садржај из оставе и задржава његово форматирање.
-	Recent Colors	Недавне боје
 	Recent documents to show:	Број недавних докумената за приказ:
 	Recently used symbols:	Недавно коришћени симболи:
 	Recipient List	Листа прималаца
@@ -1405,9 +1248,7 @@
 	Reject All Changes	Одбиј све измене
 	Reject Change	Одбиј измену
 	Relationship	Однос
-	Relaxed	Опуштено
 	Remove Added Font	Уклони додати фонт
-	Remove Background	Уклони позадину
 	Remove condition	Уклони услов
 	Remove Content Control	Уклони контролу садржаја
 	Remove every custom shortcut and restore the built-in keys?	Уклонити све прилагођене пречице и вратити уграђене тастере?
@@ -1428,10 +1269,7 @@
 	Remove the control once edited	Уклони контролу после уређивања
 	Remove Watermark	Уклони водени жиг
 	Rename Document	Преименуј документ
-	Rename Style	Преименуј стил
-	Rename…	Преименуј…
 	Reopen	Поново отвори
-	Repeat	Понови
 	Repeat as header row on each page	Понови као ред заглавља на свакој страници
 	Repeat Header Rows	Понови редове заглавља
 	Repeating Section Content Control	Контрола садржаја за одељак који се понавља
@@ -1440,12 +1278,10 @@
 	Replace Document Text	Замени текст документа
 	Replace text as you type	Замени текст док куцаш
 	Replace with:	Замени са:
-	Replace:	Замени:
 	Replay	Реприза
 	Research	Истраживање
 	Researcher	Истраживач
 	Researcher needs an online service; WordCraft keeps your documents offline.	Истраживачу је потребна услуга на мрежи, а WordCraft ваше документе чува ван мреже.
-	Reset	Врати
 	Reset All…	Ресетуј све…
 	Reset Character Formatting	Поништи форматирање знакова
 	Reset Crop	Поништи исецање
@@ -1454,7 +1290,6 @@
 	Reset Picture	Ресетуј слику
 	Reset to Normal	Врати на нормалан стил
 	Reset\nGraphic	Ресетуј\nграфику
-	Reset…	Ресетуј…
 	Resize Table by Dragging	Промена величине табеле превлачењем
 	Resolve	Реши
 	Resolved	Решено
@@ -1464,11 +1299,9 @@
 	Restart list after:	Поново почни листу после:
 	Restrict Editing	Ограничи уређивање
 	Restrict\nEditing	Ограничи\nуређивање
-	Result	Резултат
 	Results	Резултати
 	Return address labels	Налепнице са адресом пошиљаоца
 	Return address:	Адреса пошиљаоца:
-	Reverse the order	Обрни редослед
 	Reviewing	Прегледање
 	Reviewing Pane	Окно за преглед
 	Reviewing — edits become suggestions	Прегледање — измене постају предлози
@@ -1490,32 +1323,24 @@
 	Right-to-Left Section	Одељак са десна на лево
 	Right-to-Left Table	Табела са десна на лево
 	Right-to-Left Text Direction	Смер текста са десна на лево
-	Right:	Десно:
 	Rotate all text 270°	Ротирај сав текст за 270°
 	Rotate all text 90°	Ротирај сав текст за 90°
 	Rotate Left 90°	Ротирај улево за 90°
 	Rotate Right 90°	Ротирај удесно за 90°
-	Rounded Rectangle	Заокружен правоугаоник
 	Row	Ред
 	Row:	Ред:
 	Rows & Columns	Редови и колоне
 	Ruby text:	Руби текст:
-	Ruler	Лењир
 	Rules	Правила
 	Run-in	У низу
-	Russian	Руски
 	Résumé	Радна биографија
 	Sat:	Засићеност:
 	Save a copy in another format. Printing goes through a PDF you can print from any viewer.	Сачувај копију у другом формату. Штампање иде преко PDF-а који можете одштампати из било ког прегледача.
-	Save As	Сачувај као
-	Save as Template	Сачувај као шаблон
 	Save documents	Чување докумената
 	Save the document to turn on AutoSave	Сачувајте документ да бисте укључили аутоматско чување
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	Сачувајте документ да бисте укључили аутоматско чување (фајл који сте само отворили не преписује се док га не сачувате)
 	Save these pages as PDF…	Сачувај ове странице као PDF…
-	Saved	Сачувано
 	Saving {name} was cancelled, so it is still open and nothing was lost.	Чување {name} је отказано. Документ је и даље отворен и ништа није изгубљено.
-	Scale	Размера
 	Scale Drawing	Скалирај цртеж
 	Scatter	Распршени
 	Script	Индекс
@@ -1535,14 +1360,12 @@
 	Section Properties	Својства одељка
 	Sections	Одељци
 	See	Види
-	Select	Изабери
 	Select a picture, shape, chart or table to describe it.	Изаберите слику, облик, графикон или табелу да бисте их описали.
 	Select a printer	Изаберите штампач
 	Select Cell	Изабери ћелију
 	Select Column	Изабери колону
 	Select Heading and Content	Изабери наслов и садржај
 	Select Line	Изабери ред
-	Select Objects	Изабери објекте
 	Select Paragraph	Изабери пасус
 	Select Range	Изабери опсег
 	Select Recipients	Изабери примаоце
@@ -1560,7 +1383,6 @@
 	Select\nRecipients	Изабери\nпримаоце
 	Selected Fields	Изабрана поља
 	Selection Pane	Окно избора
-	Send Backward	Помери назад
 	Send the document straight to the system print dialog, or save a copy in another format below.	Шаље документ директно на системски дијалог за штампу, или сачувајте копију у другом формату испод.
 	Sentence	Реченица
 	Sentence case.	Велико слово на почетку реченице.
@@ -1570,9 +1392,7 @@
 	Serbian (Latin)	Српски (латиница)
 	Series name	Назив серије
 	Series {n}	Серија {n}
-	Set	Постави
 	Set As Default	Постави као подразумевано
-	Set as Default	Постави као подразумевано
 	Set Caret	Постави курсор
 	Set Character Formatting	Постави форматирање знакова
 	Set Date	Постави датум
@@ -1581,17 +1401,12 @@
 	Set Paragraph Formatting	Постави форматирање пасуса
 	Set Proofing Language…	Постави језик провере…
 	Setting:	Врста:
-	Settings…	Подешавања…
 	Shading	Сенчење
-	Shadow	Сенка
 	Shadow, glow and soft edges	Сенка, сјај и меке ивице
-	Shape Effects	Ефекти облика
 	Shape Fill	Попуна облика
 	Shape Format	Формат облика
 	Shape Outline	Контура облика
 	Shape Styles	Стилови облика
-	Shapes	Облици
-	Share	Дели
 	Shift+Tab	Shift+Tab
 	Shipping labels	Налепнице за пошиљке
 	Shortcut key:	Пречица на тастатури:
@@ -1625,7 +1440,6 @@
 	Show only comments and formatting in balloons	Прикажи само коментаре и обликовање у облачићима
 	Show or Hide Style	Прикажи или сакриј стил
 	Show revisions in balloons	Прикажи измене у облачићима
-	Show rulers	Прикажи лењире
 	Show Text Formatting	Прикажи обликовање текста
 	Show the community button in the title bar	Прикажи дугме заједнице у траци наслова
 	Show the mini toolbar when text is selected	Прикажи мини траку са алаткама при избору текста
@@ -1654,7 +1468,6 @@
 	Site name	Назив сајта
 	Size (pt):	Величина (пт):
 	Size and Crop…	Величина и исецање…
-	Size:	Величина:
 	Sketchbook	Блок за скице
 	Skip citations & bibliography	Прескочи цитате и библиографију
 	Skip Citations and Bibliography	Прескочи цитате и библиографију
@@ -1662,7 +1475,6 @@
 	Skip Record If…	Прескочи запис ако…
 	Slant Down	Нагиб надоле
 	Slant Up	Нагиб нагоре
-	Small Caps	Капителке
 	Small caps	капителке
 	Smart quotes instead of straight quotes	Типографски наводници уместо правих
 	SmartArt	SmartArt
@@ -1686,18 +1498,12 @@
 	Space before	Размак пре
 	Space before/after:	Размак пре/после:
 	Space before: {pt} pt	Размак пре: {pt} пт
-	Spaces	Размаци
-	Spacing	Размак
 	Spacing (pt):	Размак (пт):
-	Spacing:	Размак:
 	Spanish (Mexico)	Шпански (Мексико)
 	Spanish (Spain)	Шпански (Шпанија)
-	Special	Посебно
 	Special Characters	Специјални знакови
 	Specify height:	Задај висину:
 	Speech	Говор
-	Speed	Брзина
-	Spelling	Правопис
 	Spelling & Grammar	Правопис и граматика
 	Spelling &\nGrammar	Правопис\nи граматика
 	Spelling and grammar are checked in English (United States).	Правопис и граматика се проверавају на енглеском (Сједињене Државе).
@@ -1705,19 +1511,14 @@
 	Split Cells	Подели ћелије
 	Split Table	Подели табелу
 	Spreadsheet Table	Табела прорачунске табле
-	Stacked	Наслагано
 	Stacked Bar	Наслагане траке
 	Stacked Column	Наслагане колоне
 	Standard Colors	Стандардне боје
-	Start at:	Почни од:
 	Start Enforcing Protection	Покрени заштиту
 	Start Mail Merge	Покрени спајање докумената
 	Start Mail\nMerge	Покрени\nспајање докумената
 	Start-up	Покретање
 	State	Држава/покрајина
-	Statistics	Статистика
-	Status Bar	Статусна трака
-	Stop	Заустави
 	Stop Protection	Заустави заштиту
 	Stop Reading	Заустави читање
 	Stopped	Заустављено
@@ -1726,35 +1527,27 @@
 	Stroke {n} of {total}	Потез {n} од {total}
 	Structure Actions	Радње са структуром
 	Structures	Структуре
-	Studio	Студио
 	Studio cover	Насловна страна студија
 	Studio handbook (sample)	Приручник студија (пример)
 	Style based on:	Стил заснован на:
 	Style Inspector	Инспектор стилова
 	Style name:	Назив стила:
 	Style Set	Скуп стилова
-	Style:	Стил:
 	Style: {style}	Стил: {style}
-	Styles	Стилови
 	Styles Pane	Окно стилова
 	Styles:	Стилови:
 	Subentry:	Подставка:
 	Submit print job	Пошаљи задатак за штампање
 	Submitting print job…	Слање задатка за штампање…
-	Subscript	Индекс доле
 	Subset:	Подскуп:
 	Suggested	Предлози
 	Sum	Збир
-	Superscript	Индекс горе
 	Suppress line numbers	Без бројева редова
 	Swap footnotes and endnotes	Замени фусноте и ендноте
 	Swedish	Шведски
 	Switch Modes	Промени режим
 	Switch\nModes	Промени\nрежим
-	Symbol	Симбол
-	Symbols	Симболи
 	Synonyms	Синоними
-	Tab	Tab
 	Tab Character	Знак табулатора
 	Tab character	Знак табулатора
 	Tab characters	Знакови табулатора
@@ -1773,17 +1566,14 @@
 	Table Properties	Својства табеле
 	Table Properties…	Својства табеле…
 	Table Row Height	Висина реда табеле
-	Table style	Стил табеле
 	Table Style Options	Опције стила табеле
 	Table Styles	Стилови табеле
-	Tabs	Табулатори
 	Tabs…	Табулатори…
 	Tabular List	Табеларна листа
 	Tag	Ознака
 	Take the last match on the page	Узми последње подударање на страници
 	TC entry fields	Поља ставки TC
 	Technology	Технологија
-	Templates	Шаблони
 	Templates and Add-ins	Шаблони и додаци
 	Text Box	Оквир за текст
 	Text boxes	Оквири за текст
@@ -1801,7 +1591,6 @@
 	Text snaps to characters	Текст се поравнава са знаковима
 	Text to display:	Текст за приказ:
 	Text Wrapping	Преламање текста
-	Text:	Текст:
 	Text\nBox	Оквир\nза текст
 	Text\nDirection	Смер\nтекста
 	That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on.	Тај формат не чува све, па је документ и даље отворен. Сачувајте га као Word документ (.docx) да бисте наставили.
@@ -1860,20 +1649,15 @@
 	Top Margin	Горња маргина
 	Top of Page	Врх стране
 	Top Right Cell	Горња десна ћелија
-	Top:	Горе:
 	Total Row	Ред укупно
 	Track Changes	Праћење измена
 	Track Changes Options	Опције праћења измена
 	Track Changes: On	Праћење измена: укључено
 	Track formatting	Прати обликовање
 	Tracked changes	Праћене измене
-	Tracking	Праћење
 	Trademark	Жиг
 	Trademark Sign	Знак жига
-	Transform	Трансформација
-	Transparency	Транспарентност
 	Transport	Превоз
-	Triangle	Троугао
 	Triangle Down	Троугао надоле
 	Triangle Up	Троугао нагоре
 	Triple	Троструко
@@ -1895,7 +1679,6 @@
 	Type the field's name and its switches, for example PAGE \\* roman.	Унесите назив поља и његове прекидаче, на пример PAGE \\* roman.
 	Type the password to stop the protection.	Унесите лозинку да бисте зауставили заштиту.
 	Type the recipients, or load them from a file.	Унесите примаоце или их учитајте из фајла.
-	Type:	Врста:
 	Typing replaces selected text	Откуцано замењује изабрани текст
 	Ukrainian	Украјински
 	Unchecked symbol	Симбол за непотврђено
@@ -1906,7 +1689,6 @@
 	Undo History	Историја опозивања
 	Undo {n} Actions	Опозови радње: {n}
 	Unformatted Text	Неформатирани текст
-	Ungroup	Разгруписање
 	Unlink Fields	Раскини везу поља
 	Unlink\nCitations	Уклони везу\nса цитатима
 	Unlock Fields	Откључај поља
@@ -1920,7 +1702,6 @@
 	Update Table of Figures	Ажурирај списак слика
 	Update to Match	Ажурирај да одговара
 	Update to Match Selection	Ажурирај према избору
-	UPPERCASE	ВЕЛИКА СЛОВА
 	URL	URL
 	Use an Existing List…	Користи постојећу листу…
 	Use system setting	Према подешавању система
@@ -1929,31 +1710,24 @@
 	Use wildcards	Користи џокер знаке
 	User Name	Корисничко име
 	User name:	Корисничко име:
-	Value	Вредност
 	Version History	Историја верзија
 	Version {version} ({build})	Верзија {version} ({build})
-	Vertical Alignment	Усправно поравнање
 	Vertical alignment:	Вертикално поравнање:
 	View Alt Text…	Прикажи алтернативни текст…
 	View Gridlines	Прикажи линије мреже
 	View State	Стање приказа
 	Views	Прикази
 	Visual effects	Визуелни ефекти
-	Voice	Глас
 	Volume	Том
-	W:	Ш:
 	Waiting for the save to finish…	Чека се да се чување заврши…
 	Waiting for Zotero…	Чека се Zotero…
 	Warm Gradient with Outline	Топли градијент са контуром
 	Warnings ({n})	Упозорења ({n})
-	Wave	Таласасто
 	Weather	Време
 	Web Layout	Веб распоред
 	Web page (*.html)	Веб страна (*.html)
 	Web\nLayout	Веб\nраспоред
-	Website	Веб-сајт
 	Wed	Сре
-	Weight	Дебљина
 	West	Запад
 	When this document was first created	Датум када је документ направљен
 	When this document was most recently printed	Датум када је документ последњи пут одштампан
@@ -1969,7 +1743,6 @@
 	Widow/Orphan Control	Контрола усамљених редова
 	Widow/Orphan control	Контрола усамљених редова
 	Width and spacing	Ширина и размак
-	Window	Прозор
 	With:	Са:
 	Word 2003 XML Document (*.xml)	Word 2003 XML документ (*.xml)
 	Word Count	Број речи
@@ -1990,12 +1763,9 @@
 	Write & Insert Fields	Писање и уметање поља
 	Write a reply	Напишите одговор
 	Year	Година
-	Your changes will be lost if you don't save them.	Ваше измене ће бити изгубљене ако их не сачувате.
 	Your system doesn't report an animation setting, so animation effects stay on.	Систем не пријављује подешавање анимације, па ефекти анимације остају укључени.
 	Your system has animation effects turned off.	У систему су ефекти анимације искључени.
 	Your system has animation effects turned on.	У систему су ефекти анимације укључени.
-	Zoom In	Увећај
-	Zoom Out	Умањи
 	Zotero	Zotero
 	Zotero: cancelled	Zotero: отказано
 	Zotero: done	Zotero: завршено

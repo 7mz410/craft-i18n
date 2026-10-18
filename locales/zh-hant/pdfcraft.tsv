@@ -22,7 +22,6 @@
 	+LOC	新增行
 	, Expires: 	，有效期至：
 	1 difference found	發現 1 處差異
-	1 file	1 個檔案
 	1 file done	1 個檔案已完成
 	1 file needs attention	1 個檔案需要處理
 	1 instance	1 個匹配
@@ -193,19 +192,14 @@
 	An image has alternates or OPI information	圖片具有替代圖片或 OPI 資訊
 	An open-source PDF workbench — local, private, and scriptable.	開源 PDF 工作台，在本機處理、保護隱私，並支援指令碼。
 	and {n} more	以及另外 {n} 個
-	Angle	角度
-	Animation effects	動畫效果
 	Animation that flashes can cause seizures. Check scripts and media for flicker.	閃爍的動畫可能導致癲癇發作。請檢驗指令碼和媒體是否存在閃爍。
 	Annotations, form fill-in, and digital signatures	註解、填寫表單和數位簽章
-	Any	任何
 	Any except extracting pages	除提取頁面外的任何操作
 	Anyone opening the document will need this password. It's applied when you save.	開啟文件的任何人都需要此密碼。儲存時套用。
 	Appear behind page	顯示在頁面後面
 	Appear on top of page	顯示在頁面上層
-	Appearance	外觀
 	Appearance mode	外觀模式
 	Appearance settings…	外觀設定…
-	Application	應用程式
 	Applied 1 redaction mark. Save to remove the content from the file.	已套用 1 個遮蔽內容標記。儲存以從檔案中刪除內容。
 	Applied {n} redaction marks. Save to remove the content from the file.	已套用 {n} 個遮蔽內容標記。儲存以從檔案中刪除內容。
 	Applies to 1 page	套用於 1 頁
@@ -218,8 +212,6 @@
 	April	四月
 	Arbitrary Mask	任意掩碼
 	Archive documents	封存文件
-	Area	面積
-	ArtCraft website	ArtCraft 網站
 	Ask about this document	詢問此文件
 	Asks GitHub for the latest release. Nothing is downloaded or installed automatically.	向 GitHub 搜尋最新版本。不會自動下載或安裝任何內容。
 	Associated with content	與內容關聯
@@ -239,27 +231,21 @@
 	Auto-rotate pages	自動旋轉頁面
 	Auto-size text to fit redaction region	自動調整文字大小以適應遮蔽內容區域
 	Automatically tag PDF	自動標記 PDF
-	Available	可使用
 	average	平均值
 	Back	返回
 	Back side only	僅背面
 	Back to all tools	返回所有工具
 	Back to the document	返回文件
-	Background	背景
 	background	背景
 	Bates numbering	Bates 編號
 	Before each selected page (select pages in Organize)	在每個選定頁面之前拆分（在組織頁面中選擇）
 	Before the number	在數字之前
 	Beveled	斜面
 	Bicubic downsampling to	雙三次降取樣至
-	Binary assets removed	移除的二進位資產
 	Binding	裝訂
 	Binding:	裝訂：
-	Black	黑色
-	Black and white	黑白
 	Black on white	白底黑字
 	Blank page	空白頁面
-	Blue	藍色
 	Booklet	小冊子
 	Booklet subset:	小冊子子集：
 	Bookmark options	書籤選項
@@ -268,8 +254,6 @@
 	Bookmarks Panel and Page	書籤面板和頁面
 	Border Color:	邊框顏色：
 	Borders and Colors	邊框和顏色
-	Both	兩者
-	Both sides	雙面
 	Box	框
 	Bring your own model (off by default)	使用自己的模型（預設關閉）
 	Browser's print dialog	瀏覽器的列印對話方塊
@@ -280,15 +264,12 @@
 	Button Style:	按鈕樣式：
 	Buttons with the same name and value are selected in unison	同名同值的按鈕一起選取
 	Bytes	位元組
-	Calculate	計算
 	Calibrate from two points	使用兩點校準
 	Callout	標註
 	Can't be read: {e}	無法讀取：{e}
 	Cancelled	已取消
 	Cancelling…	正在取消…
 	Case-sensitive	區分大小寫
-	Category:	類別：
-	Center	置中
 	Center Footer Text	置中頁尾文字
 	Center Header Text	置中頁首文字
 	Center horizontally	水平置中
@@ -330,7 +311,6 @@
 	Check Box Style:	核取方塊樣式：
 	Check for accessibility	偵測無障礙支援
 	Check for accessibility…	偵測無障礙支援…
-	Check for updates	檢驗更新
 	Check for updates…	尋找更新…
 	Check spelling	檢驗拼字
 	Check that the tags read in the order a sighted reader would. Use the Reading Order tool or the Tags panel to correct it.	檢驗標記的閱讀順序是否與明眼讀者一致。使用閱讀順序工具或標記面板進行更正。
@@ -370,7 +350,6 @@
 	Click to sort, drag to move the column. Drag its edge to resize it.	按一下以排序，拖曳以移動欄。拖曳欄邊緣可調整寬度。
 	Click vertices. Enter or double-click finishes a perimeter or area. Click the first point to close an area.	按一下頂點。按 Enter 或按兩下以完成周長或面積測量。按一下起點以封閉區域。
 	Clockwise 90 degrees	順時針 90 度
-	Close (Esc)	關閉 (Esc)
 	Close all	全部關閉
 	Close file	關閉檔案
 	Close panel	關閉面板
@@ -381,11 +360,9 @@
 	Collapse all bookmarks	摺疊所有書籤
 	Collapse all pages	摺疊所有頁面
 	Collapse tag	收合標籤
-	Collate	逐份列印
 	Color contrast	顏色對比度
 	Color Images	彩色圖片
 	Color Spaces	顏色空間
-	Colour	顏色
 	Colours are remapped while rendering; the document itself never changes.	色彩僅在顯示時重新對應；文件本身不會變更。
 	Column select	欄選取
 	Comb of	梳狀（每格一字元），共
@@ -397,7 +374,7 @@
 	Combo	下拉選單
 	Coming in milestone	將於里程碑
 	Coming in milestone {m}. Items marked Ready work today.	{m} 里程碑推出。標記為就緒的專案現已可用。
-	Command	指令
+	Comment	Comment
 	Comment and form data	註解和表單資料
 	Comment list	註解清單
 	Commenting	註解
@@ -413,11 +390,9 @@
 	Compare files	比較檔案
 	Compare files…	比較檔案…
 	Compare this file with an older version: Compare files… in All tools.	將此檔案與舊版本比較：在所有工具中使用「比較檔案…」。
-	Compatibility	相容性
 	Completed	已完成
 	Compress a PDF	壓縮 PDF
 	Compress document structure (object streams)	壓縮文件結構（物件流）
-	Compression	壓縮
 	Configure a Digital ID for Signing	設定簽署用的數位 ID
 	Configure New Digital ID	配置新數位 ID
 	Confirm Password	確認密碼
@@ -427,12 +402,10 @@
 	Content copying	內容複製
 	Content copying for accessibility	為無障礙複製內容
 	Content Streams	內容流
-	Continue	繼續
 	Continuous scrolling	連續捲動
 	Convert colors	轉換色彩
 	Copied {what}	已複製{what}
 	Copies, two-sided printing and colour are chosen in the browser's print dialog.	份數、雙面列印和色彩在瀏覽器的列印對話方塊中選擇。
-	Copies:	份數：
 	Copy Image	複製圖片
 	Copy Image in Original Format	以原始格式複製圖片
 	Copy or cut pages first	請先複製或剪下頁面
@@ -455,7 +428,6 @@
 	Couldn't open the printer's preferences: {e}	無法開啟印表機喜好設定：{e}
 	Couldn't open the result: {e}	無法開啟結果：{e}
 	Couldn't open the signed version: {e}	無法開啟已簽名版本：{e}
-	Couldn't open {name}: {e}	無法開啟{name}：{e}
 	Couldn't optimize the file	無法最佳化檔案
 	Couldn't optimize the file: {e}	無法最佳化檔案：{e}
 	Couldn't print from the browser ({e}); downloaded {name} to print instead	無法從瀏覽器列印（{e}）；已改為下載 {name} 以供列印
@@ -508,7 +480,6 @@
 	Crop Image	裁切影像
 	Crop page	裁切頁面
 	Crop pages	裁切頁面
-	Cross	叉號
 key	Ctrl	Ctrl
 	Currency symbol:	貨幣符號：
 	Current page ({n})	目前頁（第 {n} 頁）
@@ -528,10 +499,8 @@ key	Ctrl	Ctrl
 	Dark gray	深灰色
 	Dark gray theme	深灰色主題
 	Dark theme	深色主題
-	Date	日期
 	Date field	日期欄位
 	Date: 	日期：
-	Dates	日期
 	December	十二月
 	Decimal places:	小數位數：
 	Decimals	小數位數
@@ -560,7 +529,6 @@ key	Delete	Delete
 	Delete stamp	刪除戳記
 	Delete {o}	刪除 {o}
 	Describe the figure	描述該圖形
-	Description	描述
 	Details	詳情
 	Detect form fields	偵測表單欄位
 	Detected 1 form field	偵測到 1 個表單欄位
@@ -590,9 +558,7 @@ key	Delete	Delete
 	Discard private data of other applications	捨棄其他應用程式的私有資料
 	Discard this text (Esc)	捨棄此文字（Esc）
 	Discard User Data	捨棄使用者資料
-	Dismiss	關閉
 	Display theme	顯示主題
-	Distance	距離
 	Distinguished name	可分辨名稱
 	Distribute	分佈
 	DN: 	DN：
@@ -616,10 +582,8 @@ key	Delete	Delete
 	Documents and view	文件與檢視
 	Documents of more than 20 pages need bookmarks for navigation. Add bookmarks for the main sections.	超過 20 頁的文件需要書籤以便導覽。請為主要章節新增書籤。
 	Don't save	不儲存
-	Done	完成
 	Done adding text	完成新增文字
 	Double-click	滑鼠按兩下
-	Download	下載
 	Downloaded {name}	已下載{name}
 @plural	Downloaded {n} PDF|Downloaded {n} PDFs	已下載 {n} 個 PDF
 	Downloading attachments on the web arrives with M3.10 ({n} bytes ready)	Web 端附件下載將於 M3.10 到來（{n} 位元組已就緒）
@@ -653,7 +617,6 @@ key	Delete	Delete
 	Duplicate page	複製頁面
 	Duplicate pages	複製頁面
 	Duplicate…	重複…
-	Dynamic	動態
 	Dynamic XFA form laid out from its template: {pages}, {fields}.	依範本排版的動態 XFA 表單：{pages}、{fields}。
 	E-Sign	電子簽署
 	e.g. en-US	例如 en-US
@@ -663,7 +626,6 @@ key	Delete	Delete
 	Each image is measured where pages draw it; an image is replaced only if the result is smaller.	按頁面繪製位置測量每個圖片；僅在結果更小時替換圖片。
 	Each image once, named after the document and page. JPEG images are saved unchanged; others as PNG.	每個圖片一次，以文件和頁面命名。JPEG 圖片原樣儲存，其他為 PNG。
 	Earlier in tab order	在 Tab 順序中前移
-	Edit	編輯
 	Edit a PDF	編輯 PDF
 	Edit Action	編輯操作
 	Edit comment	編輯註解
@@ -686,7 +648,6 @@ key	Delete	Delete
 	Encrypt with certificate	使用憑證加密
 	Encryption	加密
 key	End	End
-	Endpoint	端點
 	Endpoints	端點
 	Enhance camera image	增強相機影像
 	Enhance page	增強頁面
@@ -695,7 +656,6 @@ key	End	End
 	Enter the password that opens it	輸入開啟該檔案的密碼
 	Enter the permissions password to allow combining	輸入權限密碼以允許合併
 	Entire page	整個頁面
-	Erase	擦除
 	Erase drawings	擦除繪圖
 key	Esc	Esc
 	Even and Odd Pages	奇偶頁
@@ -710,7 +670,6 @@ key	Esc	Esc
 	Exclude tagged tables	排除帶標籤的表格
 	Exclusions use PDF tags. Untagged tables and code remain included. Image exclusion also removes invisible text.	排除規則使用PDF標籤。沒有標籤的表格和程式碼仍計入統計。排除影像時也會排除不可見文字。
 	Execute a menu item	執行選單項
-	Expand	展開
 	Expand all	全部展開
 	Expand all bookmarks	展開所有書籤
 	Expand all pages	展開所有頁面
@@ -732,7 +691,6 @@ key	Esc	Esc
 	Export measurements	匯出測量結果
 	Export measurements as CSV	將測量結果匯出為 CSV
 	Export stopped: {e}	匯出中止：{e}
-	Export to	匯出為
 	Export to HTML…	匯出為 HTML…
 	Export to Image	匯出為圖片
 	Export to image…	匯出為圖片…
@@ -745,12 +703,9 @@ key	Esc	Esc
 	Exported 1 image	已匯出 1 張圖片
 	Exported the text of 1 page	已匯出 1 頁的文字
 	Exported the text of {n} pages	已匯出{n}頁的文字
-	Exported to {path}	已匯出到{path}
 	Exported {n} images	已匯出{n}張圖片
 	Exporting… {d} of {t}	正在匯出…第{d}個，共{t}個
-	Export…	匯出…
 	Extended Graphics States	擴充套件圖形狀態
-	Extract	擷取
 	Extract pages	擷取頁面
 	Extract pages as separate files	將頁面提取為單獨檔案
 	Extract pages to a new document	將頁面提取到新文件
@@ -775,7 +730,6 @@ scroll speed	Fast	快
 	Figures require alternate text	圖形需要替代文字
 	File (.p12, .pfx)	檔案 (.p12, .pfx)
 	File attachments	檔案附件
-	File Name	檔案名
 	File name	檔案名稱
 	File size	檔案大小
 @id	file.word_count	字詞統計…
@@ -816,7 +770,6 @@ scroll speed	Fast	快
 	Find tools and commands…	尋找工具與指令…
 	Find untagged content	尋找未標記的內容
 	Finding document fonts…	正在尋找文件字型…
-	Find…	尋找…
 	Finish or discard the text being edited before selecting several objects.	請先完成或放棄正在編輯的文字，再選取多個物件。
 	First / last page	第一頁／最後一頁
 	Fit	適合
@@ -835,7 +788,6 @@ scroll speed	Fast	快
 	Fix reading order	修正閱讀順序
 	Fixed what could be fixed; 1 problem remains	已修復能修復的問題；還剩 1 個問題
 	Fixed what could be fixed; {n} problems remain	已修復能修復的問題；還剩{n}個問題
-	Flatten	平面化
 	Flatten comments	平面化註解
 	Flatten Fill & Sign when saving	儲存時將填寫與簽署內容平面化
 	Flatten form fields	平面化表單欄位
@@ -866,7 +818,6 @@ scroll speed	Fast	快
 	Forms	表單
 	Formulas and similar non-text elements need alternate text. Add alternate text to them.	公式及類似非文字元素需要替代文字。請為它們新增替代文字。
 	Found {n} untagged content problems.	發現 {n} 個未標記內容問題。
-	From	從
 	From a PDF page or an image	來自 PDF 頁面或圖片
 	From colour	使用顏色
 	From {file}	來自 {file}
@@ -881,12 +832,9 @@ scroll speed	Fast	快
 	Go to the page	轉到該頁面
 	Go to this result	轉到此結果
 	Grab bag	精簡
-	Gray	灰色
 	Grayscale Images	灰度圖片
-	Green	綠色
 	Green on black	黑底綠字
 	Greyscale	灰階
-	Grid view	格狀檢視
 	Hand (H)	抓手 (H)
 	Has JavaScript actions (run in M6)	含 JavaScript 動作（M6 執行）
 	Header and footer	頁首與頁尾
@@ -894,7 +842,6 @@ scroll speed	Fast	快
 	header or footer	頁首或頁尾
 	Headers	表頭
 	Heading levels shouldn't skip (an H1 followed by an H3). Retag the headings.	標題級別不應跳躍（H1 後面不應直接跟 H3）。請重新標記標題。
-	Height	高度
 	Hidden layers	隱藏圖層
 	Hide a field	隱藏欄位
 	Hide all comments	隱藏所有註解
@@ -906,19 +853,14 @@ scroll speed	Fast	快
 	Hide toolbars	隱藏工具列
 	Hide window controls	隱藏視窗控制元件
 	Hides annotation	隱藏註解
-	High	高
-	High Resolution	高解析度
-	High resolution	高解析度
 	Highlight	突出顯示
 	Highlight fields	醒目提示欄位
 	Highlight Style:	醒目提示樣式：
 	Highlight text	醒目提示文字
 key	Home	Home
 	Horizontal reversed	水平反轉
-	Horizontal scale	水平縮放
 	Horizontally	水平分佈
 	HTML web page	HTML 網頁
-	Icon	圖示
 	Identity	個人資訊
 	Image	圖片
 	Image (PNG)	圖片（PNG）
@@ -962,9 +904,7 @@ key	Home	Home
 	Installed fonts…	已安裝的字型…
 	Intended usage	預期用途
 	Interface size	介面大小
-	Intersection	交點
 	Intersections	交點
-	Invert	反轉
 	Invisible Rectangle	不可見矩形
 	Irregular tables confuse cell navigation. Give every row the same number of cells (counting spans).	不規則的表格會妨礙儲存格導覽。請讓每一列具有相同數量的儲存格，並計入合併儲存格。
 	is available	可用
@@ -985,10 +925,8 @@ key	Home	Home
 	JavaScript, e.g. getField("total").value	JavaScript，例如 getField("total").value
 	Join our Discord	加入 Discord 社群
 	Join the ArtCraft community	加入 ArtCraft 社群
-	Join the ArtCraft Discord	加入 ArtCraft Discord
 	July	七月
 	June	六月
-	just now	剛剛
 	Keep source fonts	保留原始字型
 	Keep tool selected	保持工具選取
 	Keep tool selected: on	保持工具選取：開
@@ -996,15 +934,12 @@ key	Home	Home
 	Key usage	金鑰用途
 	Keyboard shortcuts	鍵盤快速鍵
 	Keychain  ·  	鑰匙串 · 
-	Label	標籤
 	Labels: {preview}. Later pages keep their labels.	標籤：{preview}。後續頁面保留其標籤。
 	Landscape and Portrait Pages	橫向和縱向頁面
 	Landscape Pages	橫向頁面
 	Landscape pages	橫向頁面
 	Larger pages	放大頁面
-	Later	稍後
 	Later in tab order	在 Tab 順序中後移
-	Layers	圖層
 	Layers Panel and Page	圖層和頁面
 	Layout and Magnification	佈局和縮放
 	Lbl and LBody	Lbl 和 LBody
@@ -1019,7 +954,6 @@ key	Home	Home
 	Light gray	淺灰色
 	Light theme	淺色主題
 	Limit of	限制為
-	Line delta	行數增減
 	Line ending	線條端點
 	Line Style:	線條樣式：
 	Line thickness	線條粗細
@@ -1034,21 +968,17 @@ key	Home	Home
 	List items	清單項
 	List items belong in a list. Fix the list's tags.	清單項應位於清單內。請修復清單標記。
 	List labels and bodies belong in a list item. Fix the list's tags.	清單標籤和正文應位於清單項內。請修復清單標記。
-	List view	清單檢視
 	Lists	清單
 	Load document font	載入文件字型
 	Load font…	載入字型…
 	Local cross-PDF links require the desktop app	PDF 之間的本機連結需要桌面應用程式
 	Location: 	位置：
 	Lock comment	鎖定註解
-	Locked	已鎖定
 	Logical Reading Order	邏輯閱讀順序
 	Looking for PDFs…	正在尋找 PDF…
 	Looking for printers…	正在尋找印表機…
-	Low	低
 	Low resolution	低解析度
 	Low Resolution (150 dpi)	低解析度（150 dpi）
-	Magnification	縮放
 	Make accessible	建立無障礙支援
 	Make Current Properties Default	將目前屬性設為預設
 	Make Properties Default	將屬性設為預設
@@ -1069,11 +999,9 @@ key	Home	Home
 	Marquee zoom	選取範圍縮放
 	Mask:	掩碼：
 	Match page at 100%	以 100% 符合頁面
-	Maximize	最大化
 	Maximum	最高
 	maximum	最大值
 	May	五月
-	Measure	測量
 	Measure area	測量面積
 	Measure distance	測量距離
 	Measure objects	測量物件
@@ -1087,18 +1015,13 @@ key	Home	Home
 	Merged 1 file into {path}	已將 1 個檔案合併到{path}
 	Merged {n} files into {path}	已將{n}個檔案合併到{path}
 	Merging data files needs the desktop app	合併資料檔案需要桌面端應用
-	Metadata	中繼資料
 	Microsoft Word (.docx)	Microsoft Word（.docx）
-	Midpoint	中點
 	Midpoints	中點
-	Minimize	最小化
 	Minimum	最低
 	minimum	最小值
 	Mixed	混合
-	Mobile	行動裝置
 	Modified	修改時間
 	Modify page	修改頁面
-	More	更多
 	More options	更多選項
 	More options:	更多選項：
 	More ways to add files	更多新增檔案的方式
@@ -1148,7 +1071,6 @@ key	Home	Home
 	Next / previous match	下一個／上一個符合項目
 	Next figure	下一個圖形
 	Next month	下個月
-	Next page	下一頁
 	Next sheet	下一張
 	Next tab	下一個分頁
 	Next view	下一個檢視
@@ -1185,7 +1107,6 @@ key	Home	Home
 	No preview	無預覽
 	No printers were found. Check that the printer is installed and the print spooler is running, then open Print again.	找不到印表機。請確認印表機已安裝、列印多工緩衝處理器正在執行，然後重新開啟「列印」。
 	No problems found: the document conforms to {level}.	未發現問題：文件符合 {level}。
-	No recent files	沒有最近的檔案
 	No security	無安全性
 	No sheets	無紙張
 	No signature was found in the frame. Move the frame over the signature or raise the ink sensitivity.	框內找不到簽名。請將框移到簽名上，或提高墨跡靈敏度。
@@ -1237,7 +1158,6 @@ animation effects	On	開
 	Only checked properties will change. Mixed means the selected fields have different values.	只會變更勾選的屬性。「混合」表示所選欄位的值不同。
 	Only continue if you trust this document. An address can carry information from the document, such as what you typed into its form.	請僅在信任此文件時繼續。網址可能夾帶文件中的資訊，例如您在表單中輸入的內容。
 	Only the page content changes: links, comments, form fields and bookmarks on the original pages stay.	僅更改頁面內容：原頁面的連結、註解、表單欄位和書籤保留。
-	Opacity	不透明度
 	Opacity:	不透明度:
 	Open a document first	請先開啟文件
 	Open a PDF ({key})	開啟 PDF（{key}）
@@ -1251,7 +1171,6 @@ animation effects	On	開
 	Open in a new tab	在新索引標籤中開啟
 	Open in Full Screen mode	以全螢幕模式開啟
 	Open in Full Screen mode?	要以全螢幕模式開啟嗎？
-	Open link	開啟連結
 	Open Recent	開啟最近的檔案
 	Open the file as it was saved then	開啟當時儲存的檔案
 	Open the older version first	請先開啟舊版本
@@ -1263,7 +1182,6 @@ animation effects	On	開
 	Opened, but its security settings don't allow combining. Enter the permissions password.	已開啟，但其安全性設定不允許合併。請輸入權限密碼。
 	Opening the browser's print dialog…	正在開啟瀏覽器的列印對話方塊…
 	Opens the printer driver's preferences. They are saved for every print from this computer; the copies, two-sided, grayscale and paper chosen here still apply.	開啟印表機驅動程式的喜好設定。這些設定會儲存並用於此電腦的所有列印；此處選擇的份數、雙面、灰階和紙張仍然適用。
-	Open…	開啟…
 	Optimization cancelled	已取消最佳化
 	Optimization is already running	最佳化已在執行
 	Optimize	最佳化
@@ -1279,12 +1197,9 @@ animation effects	On	開
 	Optimizing… writing the copy	正在最佳化…寫入副本
 	Optional	可選
 	Optional: needs an AI provider you configure	選用功能：需要您設定 AI 服務供應商
-	Orange	橙色
 	Organization Name	組織名稱
 	Organizational Unit	組織單位
 	Organize pages	整理頁面
-	Orientation:	方向：
-	Original	原始
 	Original: replace pages	原文件：替換頁面
 	Other colour…	其他顏色…
 	Other elements alternate text	其他元素替代文字
@@ -1292,11 +1207,9 @@ animation effects	On	開
 	Outdent	減少縮排
 	Outline	輪廓
 	Outline colour:	輪廓色彩:
-	Output	輸出
 	Output appears here.	輸出顯示在此處。
 	Output intent: {list}	輸出意圖：{list}
 	Output preview	輸出預覽
-	Overlap:	重疊：
 	Owner password (no restrictions apply)	所有者密碼（無限制）
 	Page background	頁面背景
 	Page Content	頁面內容
@@ -1334,7 +1247,6 @@ animation effects	On	開
 	Pages with links, comments or fields should tab in structure order. The fix sets each page's tab order to Use Document Structure.	包含連結、註解或欄位的頁面應按結構順序 Tab。修復操作將每頁的 Tab 順序設為「使用文件結構」。
 	Pages:	頁面：
 	Pages: {k} of {n}	頁面：{k}/{n}
-	Panels	面板
 	Paper:	紙張：
 	Part of	隸屬於
 	Passed	通過
@@ -1344,8 +1256,6 @@ animation effects	On	開
 	Password-protected	受密碼保護
 	Paste after	在後面貼上
 	Paste pages	貼上頁面
-	Path	路徑
-	Paths	路徑
 	Pattern	模式
 	Patterns	模式
 	Patterns (graphics objects)	圖案
@@ -1365,13 +1275,10 @@ animation effects	On	開
 	PdfCraft {c} is up to date.	PdfCraft {c} 已是最新。
 	PdfCraft {v} is available.	PdfCraft {v} 可用。
 	People may need more time to respond. Check that nothing has a time limit.	人們可能需要更多時間來回應。請檢驗確認沒有時間限制。
-	Percentage	百分比
-	Perimeter	周長
 	Permissions password	許可權密碼
 	Permitted actions after certifying	認證後允許的操作
 	Phone Number	電話號碼
 	Phone Numbers	電話號碼
-	Photo	相片
 	Pick a tool in the quick bar, or type above.	在快捷欄中選擇工具，或在上方輸入。
 	Pictures need alternate text that describes them, or must be marked decorative. Add alternate text to each figure.	圖片需要描述性的替代文字，或標為裝飾性。請為每個圖形新增替代文字。
 	Pictures on those pages are recognized too; words already in the page's text are not added again	這些頁面上的圖片也會被辨識；頁面文字中已有的字詞不會重複加入
@@ -1388,18 +1295,12 @@ animation effects	On	開
 	Planned for milestone {m} — open to see what it will include	計劃於 {m} 里程碑——開啟檢視將包含的內容
 	Planned · {m}	計劃中 · {m}
 	Points from the page's bottom-left corner.	從頁面左下角算起的點數。
-	Polygon	多邊形
-	Polyline	多段線
 	Portable mode is off: {folder} can't be written ({error}). Settings are kept in your user folder instead.	可攜模式已關閉：無法寫入{folder}（{error}）。設定改為儲存在你的使用者資料夾中。
 	Portrait Pages	縱向頁面
 	Portrait pages	縱向頁面
 	Post	張貼
-	Poster	海報
 	PostScript / EPS	PostScript / EPS
 	PostScript XObjects aren't allowed	不允許 PostScript XObject
-	Preferences	偏好設定
-	Preferences…	偏好設定…
-	Prefix	字首
 	Preflight	印前偵測
 	Prepare a form	準備表單
 	Prepare for accessibility	準備無障礙支援
@@ -1415,7 +1316,6 @@ animation effects	On	開
 	Previous / next page	上一頁／下一頁
 	Previous figure	上一個圖形
 	Previous month	上個月
-	Previous page	上一頁
 	Previous sheet	上一張
 	Previous tab	上一個分頁
 	Previous view	上一個檢視
@@ -1431,7 +1331,6 @@ animation effects	On	開
 	Printer properties	印表機內容
 	Printer:	列印機：
 	Printing allowed	允許列印
-	Print…	列印…
 	Privacy	隱私
 	Private data of other applications	其他應用程式的私有資料
 	product (x)	求積 (x)
@@ -1442,9 +1341,7 @@ animation effects	On	開
 	Protect with password	使用密碼保護
 	Protected: the combined file won't keep its security settings	受保護：合併後的檔案不會保留其安全性設定
 	Public key	公鑰
-	Purple	紫色
 	PushButton	按鈕
-	Quality	品質
 	Radio	選項按鈕
 	Radio button	選項按鈕
 	Radio Button Properties	選項按鈕屬性
@@ -1470,7 +1367,6 @@ animation effects	On	開
 	Recognizing text… page {d} of {t}	正在辨識文字…第{d}頁，共{t}頁
 	Recommended tools	推薦工具
 	Recover unsaved documents?	要恢復未儲存的文件嗎？
-	Red	紅色
 	Redact	遮蔽
 	Redact a PDF	遮蔽 PDF
 	Redact all	全部遮蔽
@@ -1489,7 +1385,6 @@ animation effects	On	開
 	Regularity	規則性
 	Rejected	已拒絕
 	Reliable character encoding is provided	提供了可靠的字元編碼
-	Reload	重新載入
 	Reload documents when their files change on disk	檔案在磁碟上變更時重新載入對應的文件
 	Remove "{name}" from this list? The file itself is not deleted.	從此清單中移除「{name}」？檔案本身不會被刪除。
 	Remove all links	移除所有連結
@@ -1550,21 +1445,14 @@ animation effects	On	開
 	Reset panel layout	重設面板配置
 	Reset to printer defaults	還原印表機預設值
 	Resize comment	調整註解大小
-	Resize panel window	調整面板視窗大小
-	Resize panels	調整面板大小
 	Resize window to initial page	調整視窗大小以適合初始頁面
-	Resolution	解析度
-	Resolution:	解析度：
-	Restore	還原
 	Restrictions	限制
 	Restrictions lifted	已解除限制
 	Retain existing	保留現有
 	Reveal in File Explorer	在檔案總管中顯示
-	Reveal in Finder	在 Finder 中顯示
 	Reverse closed arrow	反向閉合箭頭
 	Reverse open arrow	反向開口箭頭
 	Reverse pages	逆序頁面
-	Reverse the order	反轉順序
 	Revert	回復至上次儲存
 	Revert changes	還原變更
 	Revert to the previously saved version of “{name}”? Changes since then can't be undone afterwards.	還原到「{name}」的上次儲存版本？此後的更改將無法復原。
@@ -1592,8 +1480,6 @@ animation effects	On	開
 	Rotate view clockwise	順時針旋轉檢視
 	Rotate view clockwise ({key})	順時針旋轉檢視（{key}）
 	Rotate view counterclockwise	逆時針旋轉檢視
-	Rotate:	旋轉：
-	Rows	列
 	Run	執行
 	Run a JavaScript	執行 JavaScript
 	Run JavaScript	執行 JavaScript
@@ -1642,7 +1528,6 @@ animation effects	On	開
 	Screen readers choose their voice from the document's language. Set it in Document Properties > Advanced > Language.	螢幕閱讀器根據文件語言選擇語音。請在「文件屬性」>「進階」>「語言」中設定。
 	Script Name:	指令碼名稱：
 	Script:	指令碼：
-	Scripts	指令碼
 	Scripts run in a sandbox without file or network access. A script that asks to open a web page needs your permission first. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	指令碼在沙箱中執行，無法存取檔案或網路。指令碼要開啟網頁時，需要先經過您的允許。關閉 JavaScript 後，Acrobat 的標準格式、驗證和計算函式仍可運作。
 	Scripts run in a sandbox without file or network access. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	指令碼在沙箱中執行，無法存取檔案或網路。關閉 JavaScript 後，Acrobat 的標準格式、驗證與計算函式仍可使用。
 	Scroll long text	捲動長文字
@@ -1681,7 +1566,6 @@ animation effects	On	開
 	Self-signed	自簽名
 	Sending sheet {s} of {n} to {printer}…	正在將第 {s} 張（共 {n} 張）傳送到{printer}…
 	Sending to {printer}…	正在傳送到{printer}…
-	Sensitivity	靈敏度
 	Sent to {printer}	已傳送到{printer}
 	Sent to {printer}: {msg}	已傳送到{printer}：{msg}
 	Separate PDFs	個別 PDF
@@ -1711,7 +1595,6 @@ animation effects	On	開
 	Set the image of {name}	設定 {name} 的圖片
 	Set to current page ({n})	設為目前頁（第 {n} 頁）
 	Set to zero	置零
-	Settings	設定
 	Shadings	著色
 	Shared Field Properties	共用欄位屬性
 	Sheet {s} of {n}	第 {s} 張，共 {n} 張
@@ -1733,7 +1616,6 @@ key	Shift	Shift
 	Show the accessibility report	顯示無障礙報告
 	Show this dialog when the Checker starts	啟動檢驗器時顯示此對話方塊
 	Show {n} more	再顯示 {n} 個
-	Show:	顯示：
 	Shown while the pointer is over a mark.	指標位於標記上方時顯示。
 	Shrink oversized pages	縮小過大的頁面
 	Side by side	並排
@@ -1782,17 +1664,14 @@ scroll speed	Slow	慢
 	Sort items	排序項目
 	sorted ascending	遞增排序
 	sorted descending	遞減排序
-	Source	來源
 key	Space	空格
 	Space Audit	空間審計
-	Special	特殊
 	Split document	拆分文件
 	Split document…	分割文件…
 	Split into files…	拆分為多個檔案…
 	Spreadsheet (.xlsx)	試算表（.xlsx）
 	Squiggly underline	波浪底線
 	Squiggly underline text	文字加上波浪底線
-	Stamp	印章
 	Stamp palette	印章選擇工具
 	Stamps	印章
 	Standard Business	標準業務
@@ -1800,7 +1679,6 @@ key	Space	空格
 	Start	開始
 	Start Checking	開始檢驗
 	Start page number	起始頁碼
-	Status	狀態
 	Steps	步驟
 	Sticky note	便利貼註解
 	Strength: {s}	強度：{s}
@@ -1808,12 +1686,10 @@ key	Space	空格
 	Strong	強
 	Structure Info	結構資訊
 	Submit a form	送出表單
-	Subset	子集
 	sum (+)	求和 (+)
 	Summarize	摘要
 	Summarize comments	建立註解摘要
 	Summarize Options	彙總選項
-	Summary	摘要
 	Switch light / dark theme	切換淺色／深色主題
 	Switch to List view to change the pages it takes.	切換到清單檢視以變更要使用的頁面。
 	Switch to two-page view first to show the cover page	請先切換到雙頁檢視，才能顯示封面
@@ -1970,9 +1846,7 @@ key	Space	空格
 	This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…	此印表機的驅動程式不接受其他程式的雙面列印設定，因此使用其自身設定。變更位置：屬性…
 	This web address mixes letters from different alphabets, a common way to imitate another site's name.	這個網址混用了不同字母系統的字母，這是仿冒其他網站名稱的常見手法。
 	This web address uses letters from another alphabet, which can look like familiar ones.	這個網址使用了其他字母系統的字母，看起來可能和常見字母很像。
-	Thumbnails	縮圖
 	Tile scale:	平鋪比例：
-	Time	時間
 	Timed responses	限時回應
 	Timestamp	時間戳記
 	to	到
@@ -1981,7 +1855,6 @@ key	Space	空格
 	To:	至：
 	Today: {date}	今天：{date}
 	Toggle fit page / fit width	切換符合頁面／符合寬度
-	Tool	工具
 	Tools panel side	工具面板位置
 	Tooltip:	提示：
 	Top-level bookmarks ({n})	頂層書籤（{n} 個）
@@ -2001,15 +1874,11 @@ key	Space	空格
 	Type text	輸入文字
 	Type the web address.	輸入網址。
 	Type your {what}.	輸入您的{what}。
-	Typewriter	打字機
 	Unchecked	未勾選
 	Underline text	文字加上底線
 	Undid {label}	已復原{label}
 	Unit	單位
-	Units	單位
-	Unknown	未知
 	Unknown author	未知作者
-	Unlock	解除鎖定
 	Unlock comment	解鎖註解
 	Unlock {name}	解除鎖定 {name}
 	Unlock {n} files	解除鎖定 {n} 個檔案
@@ -2020,7 +1889,6 @@ key	Space	空格
 	Unpin {folder}	取消釘選 {folder}
 	Unplaced	未放置
 	Unsupported measurements	不支援的測量
-	Update	更新
 	Update background	更新背景
 	Update background…	更新背景…
 	Update header & footer	更新頁首與頁尾
@@ -2058,7 +1926,6 @@ key	Space	空格
 	Validity starts	有效期開始
 	Value is not calculated	不計算值
 	Value is the	值為
-	Value:	值：
 	Verify	驗證
 	Verify to see what the document needs.	驗證以檢視文件需要什麼。
 	Version {v}	版本{v}
@@ -2075,7 +1942,6 @@ key	Space	空格
 	Viewport rectangle in page points (x, y, width, height)	以頁面點數指定視埠矩形（x、y、寬度、高度）
 	Visible Rectangle	可見矩形
 	Visual	視覺
-	Warnings	警告
 	watermark	浮水印
 	Weak	弱
 	Welcome to PdfCraft	歡迎使用 PdfCraft
@@ -2083,7 +1949,6 @@ key	Space	空格
 	What word or phrase would you like to search for?	您想搜尋哪個詞或短語？
 	White on black	黑底白字
 	Whole words only	僅全字匹配
-	Width	寬度
 	Window Options	視窗選項
 	Windows store  ·  	Windows 憑證存放區 · 
 	Word count	字詞統計
@@ -2095,9 +1960,7 @@ key	Space	空格
 	Wrote {n} files to {dir}	已將{n}個檔案寫入{dir}
 	X Object Forms	XObject 表單
 	XFA form: its fields and its XFA data are kept in step, so other viewers show what you fill in.	XFA 表單：欄位與 XFA 資料會保持同步，因此其他檢視器也會顯示您填寫的內容。
-	Yellow	黃色
 	Yellow on black	黑底黃字
-	yesterday	昨天
 	You are about to apply 1 redaction mark. Text, images and drawings under the marks, and comments and form fields that overlap them, are removed permanently.	即將套用 1 個遮蔽內容標記。標記下的文字、圖片和繪圖，以及與其重疊的註解和表單欄位，將被永久刪除。
 	You are about to apply {n} redaction marks. Text, images and drawings under the marks, and comments and form fields that overlap them, are removed permanently.	即將套用 {n} 個遮蔽內容標記。標記下的文字、圖片和繪圖，以及與其重疊的註解和表單欄位，將被永久刪除。
 	You can pin up to {n} folders. Unpin one first.	最多可釘選 {n} 個資料夾。請先取消釘選一個。
@@ -2109,10 +1972,8 @@ key	Space	空格
 	ZIP	ZIP
 	Zip Code	郵政編碼
 	Zip Code + 4	郵政編碼 + 4
-	Zoom in	放大
 	Zoom in ({key})	放大（{key}）
 	Zoom in / out (also pinch or {key}-scroll)	放大／縮小（也可用雙指縮放或 {key} 加捲動）
-	Zoom out	縮小
 	Zoom out ({key})	縮小（{key}）
 	Zoom to page level	符合頁面大小
 	{0}: {1}	{0}：{1}
@@ -2148,16 +2009,13 @@ key	Space	空格
 @plural	{n} field name collides with earlier files and will be renamed: {list}|{n} field names collide with earlier files and will be renamed: {list}	{n} 個欄位名稱與先前的檔案衝突，將被重新命名: {list}
 	{n} fields selected	已選取 {n} 個欄位
 @plural	{n} field|{n} fields	{n} 個欄位
-	{n} files	{n} 個檔案
 	{n} files done	{n} 個檔案已完成
 	{n} files need attention	{n} 個檔案需要處理
-	{n} h ago	{n} 小時前
 	{n} instances	{n} 個匹配
 	{n} issues	{n} 個問題
 	{n} marks	{n} 個標記
 	{n} match(es) marked for redaction.	已標記 {n} 個匹配以待遮蔽內容。
 	{n} measurements use an unsupported format and are left out.	{n} 個測量使用了不支援的格式，已被排除。
-	{n} min ago	{n} 分鐘前
 @plural	{n} object selected|{n} objects selected	已選取 {n} 個物件
 	{n} pages	{n} 頁
 	{n} pages selected	已選取 {n} 頁
@@ -2181,5 +2039,4 @@ key	Space	空格
 	“{name}” changed on disk after it was opened or last saved. Saving now replaces that newer version with this one.	「{name}」在開啟或上次儲存後已在磁碟上變更。現在儲存會以此版本取代那個較新的版本。
 	“{name}” has security restrictions. Enter its permissions password to lift them.	「{name}」有安全限制。請輸入其許可權密碼以解除限制。
 	“{name}” is protected. Enter a password to open it.	「{name}」受保護。請輸入密碼以開啟。
-	−Bin	移除二進位
 	−LOC	刪除行
