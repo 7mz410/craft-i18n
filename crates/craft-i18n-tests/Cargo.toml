@@ -9,7 +9,7 @@ rust-version.workspace = true
 publish = false
 
 [dependencies]
-intl_pluralrules = "7"
+intl_pluralrules = "=7.0.2"
 unic-langid = "0.9"
 
 [lints]
