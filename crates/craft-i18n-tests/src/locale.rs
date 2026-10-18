@@ -18,9 +18,15 @@ pub fn check_locale_name(name: &str) -> Result<(), String> {
 
 /// How many plural forms `locale`'s `@plural` rows list: the CLDR cardinal categories whole
 /// numbers 0..=1000 reach. Categories only fractions or huge numbers reach (French `many`) don't
-/// count, as in the apps.
+/// count, as in the apps. CLDR's `pt` is Brazilian, so Portuguese other than `pt-br` takes
+/// `pt-PT`'s rules, as craft-libs' `craft-i18n` does.
 pub fn plural_forms(locale: &str) -> Result<usize, String> {
-    let id: LanguageIdentifier = locale
+    let rules_for = if locale == "pt" || (locale.starts_with("pt-") && locale != "pt-br") {
+        "pt-pt"
+    } else {
+        locale
+    };
+    let id: LanguageIdentifier = rules_for
         .parse()
         .map_err(|e| format!("{locale:?} is not a BCP 47 locale: {e}"))?;
     let language = LanguageIdentifier::from_parts(id.language, None, None, &[]);
@@ -65,6 +71,7 @@ mod tests {
             ("cs", 3),
             ("sl", 4),
             ("ar", 6),
+            ("pt", 2),
             ("pt-br", 2),
             ("tr", 2),
         ] {
