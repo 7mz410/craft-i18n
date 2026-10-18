@@ -40,14 +40,14 @@ app-side in WordCraft's 3a wiring: give the preset a context (`spacing`) and add
 
 ## Apps
 
-As surveyed on 2026-10-16. Locale counts exclude English.
+As surveyed on 2026-10-16 (VectorCraft recounted 2026-10-18). Locale counts exclude English.
 
 | App | Format today | Locales | Plurals | Migrated |
 |---|---|---|---|---|
 | WordCraft | TSV | 22 | none | catalogs |
 | PdfCraft | TSV | 22 | `@plural` | catalogs |
 | PhotoCraft | TSV | 20 | `@plural` | catalogs |
-| VectorCraft | TSV | 19 | `@plural` | catalogs |
+| VectorCraft | TSV | 22 | `@plural` | catalogs |
 | FilmCraft | TSV | 11 | none | catalogs |
 | CADCraft | TSV | 12 | `@plural` + own rules | catalogs |
 | craft-launcher | TSV | 10 | `@plural` | catalogs |
