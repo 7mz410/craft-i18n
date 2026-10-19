@@ -28,3 +28,12 @@ each locale has as many as its language's plural rules need.
 
 **Pseudo locale**: a fake locale that marks every translated string, used to find text that
 bypasses translation. Never shipped as a choice to users.
+
+**Pin**: the craft-i18n version a Crafting App's release embeds. The app moves it forward on purpose,
+never automatically.
+
+**Complete language**: a locale whose strings a Crafting App promises are all translated. A release
+with a missing string in a complete language fails.
+
+**Catch-up**: translating the strings that reached a Crafting App since its last pin, before the pin
+moves forward.
