@@ -41,6 +41,8 @@ pub static CRAFT_I18N: &[(&str, &str, &str)] = &[
 - Web (wasm) builds embed the same locales as desktop.
 
 Use an **absolute** path: Cargo runs build scripts in the crate's own directory.
+Write each path into the generated source with `{:?}` (as craft-fonts' `include_bytes!({:?})`), so
+Windows backslashes are escaped, and don't `canonicalize` it (on Windows that gives `\\?\C:\…`).
 
 ## What the app shows
 
