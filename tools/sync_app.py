@@ -354,5 +354,6 @@ def main(argv=None):
           + (f", {len(kept)} untouched rows differ" if kept else ""))
     return 1 if mismatches else 0
 
+
 if __name__ == "__main__":
     sys.exit(main())

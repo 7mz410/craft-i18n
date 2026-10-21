@@ -1,6 +1,7 @@
 *~
 /target
 .DS_Store
+__pycache__/
 
 # Local planning, agent context and memory: never committed.
 plan/
