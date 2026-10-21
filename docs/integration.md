@@ -14,7 +14,7 @@ in `Cargo.toml`; the build option is an environment variable instead, as for cra
 ## The build option: `CRAFT_I18N_DIR`
 
 ```sh
-git clone https://github.com/benandez/craft-i18n ../craft-i18n
+git clone https://github.com/storytold/craft-i18n ../craft-i18n
 CRAFT_I18N_DIR=$PWD/../craft-i18n cargo build --release
 ```
 
@@ -58,6 +58,40 @@ skipped and logged, and that string shows in English.
 craft-i18n can't see app code. With `CRAFT_I18N_DIR` set, each app's tests report the English
 source texts that have no translation, and the translations of source texts the app no longer
 uses. The report never fails the build.
+
+## Adding strings: two PRs
+
+A feature PR that adds or changes interface text has a companion craft-i18n PR with the
+translations. The feature PR can merge first; its strings show in English until the app's
+[pin](../GLOSSARY.md) reaches the craft-i18n commit that has them.
+
+- **Before the app's cutover** (its branch still has `i18n/*.tsv`): add rows there as today, then
+  write them into craft-i18n with the sync script, run from a craft-i18n checkout:
+
+  ```sh
+  tools/sync_app.py ../wordcraft <SHA last synced> --ref my-branch
+  ```
+
+  The last synced SHA is the app's line in `ATTRIBUTION.md`. The script applies what the branch
+  changed since then: new and corrected rows go to `locales/<locale>/<app>.tsv` (never
+  `common.tsv`; a changed shared string becomes an override there), deleted rows leave it, and a
+  new locale gets its lowercase BCP 47 name and its `@id language.name` row. A row the branch
+  didn't touch keeps craft-i18n's wording. It prints the app SHA it read (record it in
+  `ATTRIBUTION.md`) and checks the round trip: every row the app has at `--ref` must resolve to
+  the same text from `locales/`. `--check` runs only that check. Re-running changes nothing.
+- **After cutover** (the app has no `i18n/*.tsv`): add rows straight to
+  `locales/<locale>/<app>.tsv`. The app's stale and missing report, run with `CRAFT_I18N_DIR`
+  set, lists the source texts with no translation (its missing bucket).
+
+The cutover itself: a final sync against the app's `main`, that craft-i18n PR merges, the app's
+wiring PR merges (deleting `i18n/*.tsv` and pinning a craft-i18n SHA that holds the sync), then the
+sync runs again against the merge's first parent for rows that landed in between.
+
+## Catch-up before a pin bump
+
+Moving an app's pin forward first needs a **catch-up** craft-i18n PR: whatever strings reached
+the app since its last pin and still have no translation, taken from the missing report. The
+release gate fails on a missing string in a complete language, so the pin bump waits for it.
 
 ## Release builds
 
