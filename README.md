@@ -36,6 +36,11 @@ fix a translation, edit `locales/<locale>/<file>.tsv` (GitHub's web editor is fi
 request. The English is exactly what the app shows; copy it from another locale's catalog of the
 same name. Partial catalogs are welcome: anything missing shows in English.
 
+Until an app's cutover it still reads its own `i18n/*.tsv`: translate that app there, in its own
+repository, and the rows reach this repo with `tools/sync_app.py`
+([`docs/integration.md`](docs/integration.md)). [`ROADMAP.md`](ROADMAP.md) lists which apps have
+cut over.
+
 **Clean room:** write every entry from the plain meaning of the English text. Don't consult or copy
 any other product's localisation, string table or translated interface.
 
