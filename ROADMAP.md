@@ -1,6 +1,6 @@
 # craft-i18n roadmap
 
-> **Last updated:** 2026-10-18 · **Change:** minor (milestone 3b catalogs migrated)
+> **Last updated:** 2026-10-22 · **Change:** minor (coordination with storytold/craft-libs#198)
 
 Shared translations for the storytold Crafting Apps: one catalog per locale for shared strings,
 one per app, checked in CI and embedded by each app at build time. Vocabulary is in
@@ -25,6 +25,8 @@ i18n module, and add the app-side stale/missing string report.
 Known migration fixes: PdfCraft's Turkish `@plural` rows listed one form, CLDR (and CI) need two;
 done in 3a by repeating the form (Turkish nouns stay singular after numerals). The runtime crate
 must pin the same `intl_pluralrules` version as the checker, or their plural form counts can disagree.
+storytold/craft-libs#210 moves the crate to `icu_plurals`; the checker follows when it merges, with a
+test that the two agree on every locale's form count.
 
 Done in 3b, format only (no wording changes): Hungarian and Turkish `@plural` rows with one form
 got it repeated (PhotoCraft, VectorCraft); VectorCraft's Korean and CADCraft's Chinese kept one
@@ -37,6 +39,17 @@ Known homograph, not yet fixed: WordCraft's Paragraph Spacing menu has an "Open"
 `("", "Open")` with File > Open, so every locale shows the verb (`es` Abrir, `de` Öffnen). The fix is
 app-side in WordCraft's 3a wiring: give the preset a context (`spacing`) and add rows with context `spacing` to
 `wordcraft.tsv`. Found by FredApps/craftlingo#1.
+
+## Related work
+
+aiongg's language-support plan, [storytold/craft-libs#198](https://github.com/storytold/craft-libs/issues/198)
+(fonts in [#197](https://github.com/storytold/craft-libs/issues/197)), extends the runtime crate
+(scripts, isolation, number formatting, file sizes, sorting) and lists moving the apps onto
+craft-i18n as this roadmap's milestones 3a–3d. Its pilots delete PdfCraft's and CADCraft's own
+Arabic reordering, so those two are wired last, after they move to its patched egui.
+
+Known clash for 3c: aiongg's DesignCraft pilot rewrites the app's 1,010 right-to-left call sites,
+and 3c converts DesignCraft's Rust tables. The order is decided when 3c starts.
 
 ## Apps
 
@@ -78,3 +91,4 @@ As surveyed on 2026-10-16 (VectorCraft recounted 2026-10-18). Locale counts excl
 | 2026-10-18 | patch | Recorded WordCraft's "Open" spacing preset translated as the verb |
 | 2026-10-18 | minor | Milestone 3b catalogs migrated: PhotoCraft, VectorCraft, FilmCraft, CADCraft, craft-launcher (1279 shared strings, 32 locales) |
 | 2026-10-18 | patch | Milestone 2 done: storytold/craft-libs#167 merged after review; app wiring unblocked |
+| 2026-10-22 | minor | Related work: storytold/craft-libs#198; PdfCraft and CADCraft wired last; plural engine follow-up; DesignCraft clash noted for 3c |

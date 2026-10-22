@@ -1,7 +1,7 @@
 # Glossary
 
 **Crafting App**: one of the storytold applications that share these translations (WordCraft,
-PdfCraft, PhotoCraft, …).
+PdfCraft, PhotoCraft, ArtCraft, …).
 
 **Locale**: a language (optionally with region) that strings are translated into.
 
@@ -30,7 +30,11 @@ each locale has as many as its language's plural rules need.
 bypasses translation. Never shipped as a choice to users.
 
 **Pin**: the craft-i18n version a Crafting App's release embeds. The app moves it forward on purpose,
-never automatically.
+never automatically. "Pin" alone always means this one.
+
+**Runtime pin**: the craft-libs version a Crafting App looks its translations up with. It decides how
+translated text is shown (numbers, plural choice, direction marks), so moving it can change what
+users see even when the pin stays put.
 
 **Complete language**: a locale whose strings a Crafting App promises are all translated. A release
 with a missing string in a complete language fails.
