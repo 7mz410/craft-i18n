@@ -2375,7 +2375,6 @@ imageTrace	Outline	Đường viền
 	Package collects a saved document with its linked files and fonts.	Gói thu thập tài liệu đã lưu cùng tệp liên kết và phông chữ.
 	Package created	Đã tạo gói
 	Packaged {n} file(s) in {folder}{note}	Đã đóng gói {n} tệp trong {folder}{note}
-@msg	Packaged {n} file(s) in {folder}{note}	Đã đóng gói {n} tệp trong {folder}{note}
 	Packaged {n} file(s){note}	Đã đóng gói {n} tệp{note}
 @msg	Packaged {n} file(s){note}	Đã đóng gói {n} tệp{note}
 	Page information	Thông tin trang

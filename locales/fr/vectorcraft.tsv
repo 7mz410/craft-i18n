@@ -2562,7 +2562,6 @@ imageTrace	Outline	Contour
 	Package collects a saved document with its linked files and fonts.	Assembler rassemble un document enregistré avec ses fichiers liés et ses polices.
 	Package created	Assemblage créé
 	Packaged {n} file(s) in {folder}{note}	{n} fichier(s) assemblé(s) dans {folder}{note}
-@msg	Packaged {n} file(s) in {folder}{note}	{n} fichier(s) assemblé(s) dans {folder}{note}
 	Packaged {n} file(s){note}	{n} fichier(s) assemblé(s){note}
 @msg	Packaged {n} file(s){note}	{n} fichier(s) assemblé(s){note}
 	Page Cover 1640×624	Couverture de page 1640×624

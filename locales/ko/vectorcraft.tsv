@@ -2382,7 +2382,6 @@ imageTrace	Outline	윤곽선
 	Package collects a saved document with its linked files and fonts.	패키지는 저장된 문서를 연결된 파일 및 글꼴과 함께 수집합니다.
 	Package created	패키지를 만들었습니다
 	Packaged {n} file(s) in {folder}{note}	{folder}에 파일 {n}개를 패키지했습니다{note}
-@msg	Packaged {n} file(s) in {folder}{note}	{folder}에 파일 {n}개를 패키지했습니다{note}
 	Packaged {n} file(s){note}	파일 {n}개를 패키지했습니다{note}
 @msg	Packaged {n} file(s){note}	파일 {n}개를 패키지했습니다{note}
 	Page information	페이지 정보

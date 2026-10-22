@@ -2381,7 +2381,6 @@ imageTrace	Outline	Contorno
 	Package collects a saved document with its linked files and fonts.	Il comando Crea pacchetto raccoglie un documento salvato insieme ai file collegati e ai font.
 	Package created	Pacchetto creato
 	Packaged {n} file(s) in {folder}{note}	Pacchetto creato con {n} file in {folder}{note}
-@msg	Packaged {n} file(s) in {folder}{note}	Pacchetto creato con {n} file in {folder}{note}
 	Packaged {n} file(s){note}	Pacchetto creato con {n} file{note}
 @msg	Packaged {n} file(s){note}	Pacchetto creato con {n} file{note}
 	Page information	Informazioni pagina

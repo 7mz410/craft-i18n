@@ -19,7 +19,10 @@ context <TAB> English source text <TAB> translation
   with `@` mean something to the apps, and only these exist:
   - `@plural`: a string chosen by a count (below).
   - `@id`: the source is a command id, not English; the translation is the command's label.
-  - `@msg`: a longer message (errors, status text); checked like a plain row.
+  - `@msg`: a longer message (errors, status text); checked like a plain row. With a `{name}`
+    placeholder it is a template that matches any text there, and CI rejects one the apps could
+    never match: a `{` with no `}`, two placeholders in a row (`{a}{b}`), or no literal text at all
+    (`{x}` alone). The apps skip such a row and show English.
 - **Escapes** inside a column: `\n`, `\t`, `\\`. No others.
 - `{name}` **placeholders** must appear in both the source text and the translation, in any order.
 - A trailing `…` in one needs one in the other.
@@ -36,7 +39,8 @@ Each `common.tsv` names its language in that language, for the apps' language pi
 @id	language.name	Français
 ```
 
-Without it, a picker shows the locale code.
+Without it, a picker shows the locale code, so CI requires the row in every locale, in its
+`common.tsv` or an app's catalog.
 
 ## Plurals
 
@@ -57,6 +61,12 @@ Russian, 6 for Arabic.
 - Files starting with `.` are ignored; anything else is an error.
 - An app row with the same context, source text **and** translation as `common.tsv` is an error:
   that override changes nothing.
+- A row of a regional locale (`es-mx`) that gives the same translation as its base language
+  (`es`) is an error: the app falls back from region to base, so the row changes nothing. The base
+  is compared as the app sees it, its app row, else its shared one. This applies where the app
+  really falls back: a locale whose last subtag is a region (two letters or three digits) and
+  whose base language has a directory here. Script variants (`sr-latn`, `zh-hans`, `zh-hant`) never
+  fall back, since `sr-latn` to `sr` would show Cyrillic, and `pt-br` falls back only if `pt/` exists.
 - Partial catalogs are welcome. `cargo test coverage_report -- --nocapture` prints each catalog's
   row count against the largest catalog of the same name.
 

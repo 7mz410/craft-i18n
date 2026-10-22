@@ -2538,7 +2538,6 @@ imageTrace	Outline	Körvonal
 	Package collects a saved document with its linked files and fonts.	A csomagolás egy mentett dokumentumot a csatolt fájljaival és betűtípusaival együtt gyűjt össze.
 	Package created	A csomag elkészült
 	Packaged {n} file(s) in {folder}{note}	Becsomagolt fájlok: {n}, mappa: {folder}{note}
-@msg	Packaged {n} file(s) in {folder}{note}	Becsomagolt fájlok: {n}, mappa: {folder}{note}
 	Packaged {n} file(s){note}	Becsomagolt fájlok: {n}{note}
 @msg	Packaged {n} file(s){note}	Becsomagolt fájlok: {n}{note}
 	Page Cover 1640×624	Oldalborító 1640×624

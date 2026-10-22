@@ -2534,7 +2534,6 @@ imageTrace	Outline	Περίγραμμα
 	Package collects a saved document with its linked files and fonts.	Η συσκευασία συγκεντρώνει ένα αποθηκευμένο έγγραφο μαζί με συνδεδεμένα αρχεία και γραμματοσειρές.
 	Package created	Η συσκευασία δημιουργήθηκε
 	Packaged {n} file(s) in {folder}{note}	Συσκευάστηκαν {n} αρχεία στον φάκελο {folder}{note}
-@msg	Packaged {n} file(s) in {folder}{note}	Συσκευάστηκαν {n} αρχεία στον φάκελο {folder}{note}
 	Packaged {n} file(s){note}	Συσκευάστηκαν {n} αρχεία{note}
 @msg	Packaged {n} file(s){note}	Συσκευάστηκαν {n} αρχεία{note}
 	Page Cover 1640×624	Εξώφυλλο σελίδας 1640×624

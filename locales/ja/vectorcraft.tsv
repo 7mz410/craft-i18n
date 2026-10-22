@@ -2408,7 +2408,6 @@ imageTrace	Outline	アウトライン
 	Package collects a saved document with its linked files and fonts.	パッケージは、保存済みのドキュメントをリンクファイルやフォントとともに収集します。
 	Package created	パッケージを作成しました
 	Packaged {n} file(s) in {folder}{note}	{folder} に {n} 個のファイルをパッケージしました{note}
-@msg	Packaged {n} file(s) in {folder}{note}	{n} 個のファイルを {folder} にパッケージしました{note}
 	Packaged {n} file(s){note}	{n} 個のファイルをパッケージしました{note}
 @msg	Packaged {n} file(s){note}	{n} 個のファイルをパッケージしました{note}
 	Page information	ページ情報

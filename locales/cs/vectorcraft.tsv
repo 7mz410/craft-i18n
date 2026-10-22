@@ -2541,7 +2541,6 @@ imageTrace	Outline	Obrys
 	Package collects a saved document with its linked files and fonts.	Sbalení shromáždí uložený dokument s jeho propojenými soubory a písmy.
 	Package created	Balíček vytvořen
 	Packaged {n} file(s) in {folder}{note}	Zabaleno souborů: {n} do {folder}{note}
-@msg	Packaged {n} file(s) in {folder}{note}	Zabaleno souborů: {n} do {folder}{note}
 	Packaged {n} file(s){note}	Zabaleno souborů: {n}{note}
 @msg	Packaged {n} file(s){note}	Zabaleno souborů: {n}{note}
 	Page Cover 1640×624	Úvodní obrázek stránky 1640×624

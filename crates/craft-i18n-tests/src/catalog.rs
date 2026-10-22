@@ -85,9 +85,39 @@ fn parse_row(line: usize, text: &str, forms: usize) -> Result<Row, String> {
             if row.source.ends_with('…') != row.translation.ends_with('…') {
                 return Err("trailing … differs from the source text".into());
             }
+            if row.context == "@msg" {
+                check_template(&row.source)?;
+            }
         }
     }
     Ok(row)
+}
+
+/// An `@msg` source text with `{` is a template whose placeholders match any text. The apps skip
+/// a template that can never match, so the string would silently stay English. Rules:
+/// - `{` with no closing `}` (craft-launcher's `Template::new`, vectorcraft's `Template::parse`);
+/// - two placeholders in a row, as where one ends and the next begins is unknowable (same two);
+/// - no literal text, `{x}` alone, which would match every message (vectorcraft's
+///   `Template::parse`; craft-launcher accepts it, and the stricter rule holds for both).
+fn check_template(source: &str) -> Result<(), String> {
+    let mut literal = 0;
+    let mut after_placeholder = false;
+    let mut rest = source;
+    while let Some((before, after_open)) = rest.split_once('{') {
+        let Some((_, after)) = after_open.split_once('}') else {
+            return Err("@msg template has { with no closing }; it can never match".into());
+        };
+        if before.is_empty() && after_placeholder {
+            return Err("@msg template has two placeholders in a row; it can never match".into());
+        }
+        literal += before.len();
+        after_placeholder = true;
+        rest = after;
+    }
+    if after_placeholder && literal + rest.len() == 0 {
+        return Err("@msg template has no literal text; it would match any message".into());
+    }
+    Ok(())
 }
 
 fn check_plural(source: &str, translation: &str, forms: usize) -> Result<(), String> {
@@ -187,6 +217,9 @@ mod tests {
             ("\tSave\tEn\rreg\n", 1),
             ("\tA\tB\n\u{feff}\tC\tD\n", 2),
             ("\t\tVide\n", 1),
+            ("@msg\t{x}\t{x}\n", 1),
+            ("@msg\tOpen {a}{b}\tOuvrir {a}{b}\n", 1),
+            ("@msg\tOpen {a\tOuvrir {a\n", 1),
         ] {
             let problems = read_catalog(text, 2).1;
             assert_eq!(problems.len(), 1, "{text:?}: {problems:?}");
