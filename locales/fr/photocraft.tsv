@@ -2527,3 +2527,5 @@ cameraRaw	Tint	Teinte
 	…and {n} more	…et {n} de plus
 	↑↓ navigate   {key} run   esc close	↑↓ naviguer   {key} exécuter   échap fermer
 	↑↓ navigate   ↵ run   esc close	↑↓ naviguer   ↵ exécuter   échap fermer
+	Import Brushes… (.abr)	Importer des pinceaux… (.abr)
+	Pick Color From Image	Prélever une couleur dans l'image
