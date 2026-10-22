@@ -2521,7 +2521,6 @@ imageTrace	Outline	Contorno
 	Package collects a saved document with its linked files and fonts.	Empaquetar reúne un documento guardado con sus archivos vinculados y fuentes.
 	Package created	Paquete creado
 	Packaged {n} file(s) in {folder}{note}	Se empaquetaron {n} archivo(s) en {folder}{note}
-@msg	Packaged {n} file(s) in {folder}{note}	Se empaquetaron {n} archivo(s) en {folder}{note}
 	Packaged {n} file(s){note}	Se empaquetaron {n} archivo(s){note}
 @msg	Packaged {n} file(s){note}	Se empaquetaron {n} archivo(s){note}
 	Page Cover 1640×624	Portada de página 1640×624

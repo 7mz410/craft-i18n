@@ -2546,7 +2546,6 @@ imageTrace	Outline	Kontur
 	Package collects a saved document with its linked files and fonts.	Pakning samler et gemt dokument med dets linkede filer og skrifttyper.
 	Package created	Pakke oprettet
 	Packaged {n} file(s) in {folder}{note}	Pakkede {n} fil(er) i {folder}{note}
-@msg	Packaged {n} file(s) in {folder}{note}	Pakkede {n} fil(er) i {folder}{note}
 	Packaged {n} file(s){note}	Pakkede {n} fil(er){note}
 @msg	Packaged {n} file(s){note}	Pakkede {n} fil(er){note}
 	Page Cover 1640×624	Sidebanner 1640×624

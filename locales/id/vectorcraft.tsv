@@ -2580,7 +2580,6 @@ imageTrace	Outline	Kontur
 	Package collects a saved document with its linked files and fonts.	Package mengumpulkan dokumen tersimpan beserta file dan font yang tertaut.
 	Package created	Paket dibuat
 	Packaged {n} file(s) in {folder}{note}	{n} file dipaketkan dalam {folder}{note}
-@msg	Packaged {n} file(s) in {folder}{note}	Berhasil mengemas {n} file di {folder}{note}
 	Packaged {n} file(s){note}	{n} file dipaketkan{note}
 @msg	Packaged {n} file(s){note}	Berhasil mengemas {n} file{note}
 	Page Cover 1640×624	Sampul halaman 1640×624

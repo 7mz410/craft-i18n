@@ -2546,7 +2546,6 @@ imageTrace	Outline	Контур
 	Package collects a saved document with its linked files and fonts.	Пакетът събира запазен документ заедно с неговите свързани файлове и шрифтове.
 	Package created	Пакетът е създаден
 	Packaged {n} file(s) in {folder}{note}	Пакетирани са {n} файла в {folder}{note}
-@msg	Packaged {n} file(s) in {folder}{note}	Пакетирани са {n} файла в {folder}{note}
 	Packaged {n} file(s){note}	Пакетирани са {n} файла{note}
 @msg	Packaged {n} file(s){note}	Пакетирани са {n} файла{note}
 	Page Cover 1640×624	Корица на страница 1640×624

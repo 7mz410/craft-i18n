@@ -2384,7 +2384,6 @@ imageTrace	Outline	Контур
 	Package collects a saved document with its linked files and fonts.	Упаковка собирает сохранённый документ с его связанными файлами и шрифтами.
 	Package created	Пакет создан
 	Packaged {n} file(s) in {folder}{note}	Упаковано файлов: {n} в {folder}{note}
-@msg	Packaged {n} file(s) in {folder}{note}	Упаковано файлов: {n} в {folder}{note}
 	Packaged {n} file(s){note}	Упаковано файлов: {n}{note}
 @msg	Packaged {n} file(s){note}	Упаковано файлов: {n}{note}
 	Page information	Сведения о странице

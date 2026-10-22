@@ -2489,7 +2489,6 @@ imageTrace	Outline	轮廓
 	Package collects a saved document with its linked files and fonts.	打包会将已存储的文件连同其链接文件与字体一并收集。
 	Package created	已创建打包
 	Packaged {n} file(s) in {folder}{note}	已将 {n} 个文件打包于 {folder}{note}
-@msg	Packaged {n} file(s) in {folder}{note}	已将 {n} 个文件打包到 {folder}{note}
 	Packaged {n} file(s){note}	已打包 {n} 个文件{note}
 @msg	Packaged {n} file(s){note}	已打包 {n} 个文件{note}
 	Page Cover 1640×624	主页封面 1640×624

@@ -2564,7 +2564,6 @@ imageTrace	Outline	Contour
 	Package collects a saved document with its linked files and fonts.	Verpakken verzamelt een opgeslagen document met zijn gekoppelde bestanden en lettertypen.
 	Package created	Pakket gemaakt
 	Packaged {n} file(s) in {folder}{note}	{n} bestand(en) verpakt in {folder}{note}
-@msg	Packaged {n} file(s) in {folder}{note}	{n} bestand(en) verpakt in {folder}{note}
 	Packaged {n} file(s){note}	{n} bestand(en) verpakt{note}
 @msg	Packaged {n} file(s){note}	{n} bestand(en) verpakt{note}
 	Page Cover 1640×624	Paginaomslag 1640×624

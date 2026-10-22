@@ -2497,7 +2497,6 @@ imageTrace	Outline	Kontur
 	Package collects a saved document with its linked files and fonts.	Pakowanie zbiera zapisany dokument wraz z połączonymi plikami i czcionkami.
 	Package created	Utworzono pakiet
 	Packaged {n} file(s) in {folder}{note}	Spakowane pliki: {n} w {folder}{note}
-@msg	Packaged {n} file(s) in {folder}{note}	Spakowane pliki: {n} w {folder}{note}
 	Packaged {n} file(s){note}	Spakowane pliki: {n}{note}
 @msg	Packaged {n} file(s){note}	Spakowane pliki: {n}{note}
 	Page Cover 1640×624	Okładka strony 1640×624

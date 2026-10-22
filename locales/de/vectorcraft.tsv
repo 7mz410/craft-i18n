@@ -2363,7 +2363,6 @@ imageTrace	Outline	Kontur
 	Package collects a saved document with its linked files and fonts.	„Verpacken“ sammelt ein gespeichertes Dokument mit seinen verknüpften Dateien und Schriften.
 	Package created	Paket erstellt
 	Packaged {n} file(s) in {folder}{note}	{n} Datei(en) in {folder} verpackt{note}
-@msg	Packaged {n} file(s) in {folder}{note}	{n} Datei(en) in {folder} verpackt{note}
 	Packaged {n} file(s){note}	{n} Datei(en) verpackt{note}
 @msg	Packaged {n} file(s){note}	{n} Datei(en) verpackt{note}
 	Page information	Seiteninformationen

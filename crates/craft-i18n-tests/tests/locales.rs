@@ -5,6 +5,10 @@ use std::path::{Path, PathBuf};
 use craft_i18n_tests::tree::{check_tree, coverage};
 
 const H: &str = "# Clean room: written from the plain meaning.\n";
+/// The row every locale needs for its language picker.
+const NAME: &str = "@id\tlanguage.name\tNom\n";
+/// A regional locale names itself differently from its base.
+const NAME_REGION: &str = "@id\tlanguage.name\tNom (région)\n";
 
 #[test]
 fn repository_catalogs_pass() {
@@ -45,7 +49,7 @@ fn assert_problems(name: &str, files: &[(&str, &str)], expected: &[&str]) {
 
 #[test]
 fn clean_tree_passes() {
-    let common = format!("{H}\tSave\tEnregistrer\n");
+    let common = format!("{H}{NAME}\tSave\tEnregistrer\n");
     let app = format!("{H}\tSave\tSauvegarder\n");
     assert_problems(
         "clean",
@@ -60,11 +64,11 @@ fn clean_tree_passes() {
 
 #[test]
 fn bad_row_names_file_and_line() {
-    let common = format!("{H}\tSave\n");
+    let common = format!("{H}{NAME}\tSave\n");
     assert_problems(
         "bad-row",
         &[("locales/fr/common.tsv", &common)],
-        &["locales/fr/common.tsv: line 2:"],
+        &["locales/fr/common.tsv: line 3:"],
     );
 }
 
@@ -79,18 +83,26 @@ fn bad_locale_name() {
 
 #[test]
 fn stray_file() {
+    let named = format!("{H}{NAME}");
     assert_problems(
         "stray",
-        &[("locales/fr/common.ftl", "")],
+        &[
+            ("locales/fr/common.tsv", &named),
+            ("locales/fr/common.ftl", ""),
+        ],
         &["locales/fr/common.ftl:"],
     );
 }
 
 #[test]
 fn bad_app_file_name() {
+    let named = format!("{H}{NAME}");
     assert_problems(
         "bad-app",
-        &[("locales/fr/Word_Craft.tsv", H)],
+        &[
+            ("locales/fr/common.tsv", &named),
+            ("locales/fr/Word_Craft.tsv", H),
+        ],
         &["locales/fr/Word_Craft.tsv:"],
     );
 }
@@ -99,7 +111,10 @@ fn bad_app_file_name() {
 fn missing_clean_room_rule() {
     assert_problems(
         "no-clean-room",
-        &[("locales/fr/common.tsv", "\tSave\tEnregistrer\n")],
+        &[(
+            "locales/fr/common.tsv",
+            &format!("{NAME}\tSave\tEnregistrer\n"),
+        )],
         &["locales/fr/common.tsv:"],
     );
 }
@@ -107,10 +122,11 @@ fn missing_clean_room_rule() {
 #[test]
 fn redundant_override() {
     let same = format!("{H}\tSave\tEnregistrer\n");
+    let common = format!("{same}{NAME}");
     assert_problems(
         "redundant",
         &[
-            ("locales/fr/common.tsv", &same),
+            ("locales/fr/common.tsv", &common),
             ("locales/fr/wordcraft.tsv", &same),
         ],
         &["locales/fr/wordcraft.tsv: line 2:"],
@@ -119,11 +135,94 @@ fn redundant_override() {
 
 #[test]
 fn plural_count_by_locale() {
-    let common = format!("{H}@plural\t{{n}} a|{{n}} b\t{{n}} x|{{n}} y\n");
+    let common = format!("{H}{NAME}@plural\t{{n}} a|{{n}} b\t{{n}} x|{{n}} y\n");
     assert_problems(
         "plural-ja",
         &[("locales/ja/common.tsv", &common)],
-        &["locales/ja/common.tsv: line 2:"],
+        &["locales/ja/common.tsv: line 3:"],
+    );
+}
+
+#[test]
+fn msg_templates_one_good_two_bad() {
+    // Good: literal text around a placeholder. Bad: no literal text; two placeholders in a row.
+    let common = format!(
+        "{H}{NAME}@msg\tCouldn't open {{name}}\tImpossible d'ouvrir {{name}}\n@msg\t{{x}}\t{{x}}\n@msg\tOpen {{a}}{{b}}\tOuvrir {{a}}{{b}}\n"
+    );
+    assert_problems(
+        "msg-templates",
+        &[("locales/fr/common.tsv", &common)],
+        &[
+            "locales/fr/common.tsv: line 4:",
+            "locales/fr/common.tsv: line 5:",
+        ],
+    );
+}
+
+#[test]
+fn redundant_regional_row() {
+    let es = format!("{H}{NAME}\tSave\tGuardar\n\tOpen\tAbrir\n");
+    let mx = format!("{H}{NAME_REGION}\tSave\tGuardar\n\tOpen\tAbrir ahora\n");
+    assert_problems(
+        "regional",
+        &[
+            ("locales/es/common.tsv", &es),
+            ("locales/es-mx/common.tsv", &mx),
+        ],
+        &["locales/es-mx/common.tsv: \"\" \"Save\": same translation as es"],
+    );
+}
+
+#[test]
+fn regional_app_row_compares_with_base_app_then_shared() {
+    let common = format!("{H}{NAME}\tSave\tGuardar\n");
+    let es_app = format!("{H}\tSave\tSalvar\n");
+    // In wordcraft the base's app row wins: this row, equal to the shared one, is not redundant.
+    let mx_differs = format!("{H}\tSave\tGuardar\n");
+    // In pdfcraft the base has no app row, so the shared one decides: redundant.
+    let mx_same = format!("{H}\tSave\tGuardar\n");
+    let mx_common = format!("{H}{NAME_REGION}");
+    assert_problems(
+        "regional-app",
+        &[
+            ("locales/es/common.tsv", &common),
+            ("locales/es/wordcraft.tsv", &es_app),
+            ("locales/es-mx/common.tsv", &mx_common),
+            ("locales/es-mx/wordcraft.tsv", &mx_differs),
+            ("locales/es-mx/pdfcraft.tsv", &mx_same),
+        ],
+        &["locales/es-mx/pdfcraft.tsv: \"\" \"Save\": same translation as es"],
+    );
+}
+
+#[test]
+fn script_and_baseless_locales_have_no_regional_check() {
+    // `sr-latn` is a script, `pt-br` has no `pt/` here: rows equal to another locale's stay.
+    let row = format!("{H}{NAME}\tSave\tSacuvaj\n");
+    assert_problems(
+        "script",
+        &[
+            ("locales/sr/common.tsv", &row),
+            ("locales/sr-latn/common.tsv", &row),
+            ("locales/pt-br/common.tsv", &row),
+        ],
+        &[],
+    );
+}
+
+#[test]
+fn missing_language_name() {
+    let named = format!("{H}{NAME}\tSave\tEnregistrer\n");
+    let unnamed = format!("{H}\tSave\tSpeichern\n");
+    let app_named = format!("{H}{NAME}");
+    assert_problems(
+        "language-name",
+        &[
+            ("locales/fr/common.tsv", &named),
+            ("locales/de/common.tsv", &unnamed),
+            ("locales/it/wordcraft.tsv", &app_named),
+        ],
+        &["locales/de:"],
     );
 }
 
