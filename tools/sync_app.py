@@ -81,6 +81,18 @@ def placeholders(text):
     return sorted(re.findall(r"\{([^{}]*)\}", text))
 
 
+def template_problem(source):
+    """Why an `@msg` source can never match (the checker's `check_template`), or None."""
+    literals = re.split(r"\{[^}]*\}", source)
+    if "{" in literals[-1]:
+        return "@msg template has { with no closing }"
+    if "" in literals[1:-1]:
+        return "@msg template has two placeholders in a row"
+    if len(literals) > 1 and not "".join(literals):
+        return "@msg template has no literal text"
+    return None
+
+
 def fix(key, value, forms):
     """The row as craft-i18n holds it, after the migration's format fixes; or (None, problem) for
     a row the checker would reject."""
@@ -114,6 +126,8 @@ def fix(key, value, forms):
             return None, "placeholders differ"
         if source.endswith("…") != value.endswith("…"):
             return None, "trailing … differs"
+        if context == "@msg" and (problem := template_problem(source)):
+            return None, problem
     return (context, source), value
 
 

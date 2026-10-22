@@ -192,6 +192,16 @@ class Sync(unittest.TestCase):
         self.assertNotIn(("", "{n} files"), self.rows("fr"))
         self.assertIn("{n} files", out)
 
+    def test_msg_templates_that_never_match_are_skipped(self):
+        self.write_app({"fr.tsv": tsv(("@msg", "Saved {n} in {folder}{note}", "{n} enregistrés dans {folder}{note}"),
+                                      ("@msg", "{a}", "{a}"), ("@msg", "Open {x", "Ouvrir {x"),
+                                      ("@msg", "Saved {n} files", "{n} fichiers enregistrés"))})
+        self.commit()
+        code, out = self.run_sync()
+        self.assertEqual(code, 0, out)
+        self.assertEqual([k for k in self.rows("fr") if k[0] == "@msg"], [("@msg", "Saved {n} files")])
+        self.assertIn("two placeholders in a row", out)
+
     def test_check_lists_mismatches(self):
         (self.root / "locales/fr/demo.tsv").write_text(header("Français", "fr", "Demo") + "\n")
         code, out = self.run_sync("--check")
