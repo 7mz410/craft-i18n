@@ -32,11 +32,5 @@ bypasses translation. Never shipped as a choice to users.
 **Pin**: the craft-i18n version a Crafting App's release embeds. The app moves it forward on purpose,
 never automatically.
 
-**Complete language**: a locale whose strings a Crafting App promises are all translated. A release
-with a missing string in a complete language fails.
-
-**Catch-up**: translating the strings that reached a Crafting App since its last pin, before the pin
-moves forward.
-
 **Offered locale**: a locale a Crafting App lets its users choose. A locale the app has catalogs
 for but doesn't offer (one its interface isn't ready for) still serves as a fallback.
