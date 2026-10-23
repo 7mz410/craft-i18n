@@ -1965,7 +1965,7 @@
 	Speech	Řeč
 	Spelling & Grammar	Pravopis a mluvnice
 	Spelling &\nGrammar	Pravopis\na mluvnice
-	Spelling and grammar are checked in English (United States).	Pravopis a mluvnice se kontrolují v angličtině (Spojené státy).
+	Spelling and grammar are checked in {language}.	Jazyk kontroly pravopisu a mluvnice: {language}.
 	Spelling Suggestions	Návrhy pravopisu
 	Spike	Sběrač
 	Split Cells	Rozdělit buňky
@@ -2112,6 +2112,7 @@
 	The spelling and grammar check is complete.	Kontrola pravopisu a mluvnice je dokončena.
 	the Spike is empty	sběrač je prázdný
 	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	Systémový dialog pro práci se soubory není k dispozici, proto WordCraft zobrazuje vlastní. Chcete-li používat systémový dialog, nainstalujte portál pro výběr souborů (například xdg-desktop-portal-gtk) nebo zenity.
+	The text at the insertion point is marked Do not check spelling or grammar.	Text v místě vkládání je označen: Nekontrolovat pravopis ani mluvnici.
 	The time right now	Aktuální čas
 	Theme Colors	Barvy motivu
 	Theme Fonts	Písma motivu
@@ -2334,6 +2335,7 @@ preview	Title	Ukázka
 	{language} (no dictionary)	{language} (bez slovníku)
 	{language} is now the document's default language.	Výchozím jazykem dokumentu je nyní {language}.
 	{language}: no dictionary found	{language}: slovník nebyl nalezen
+	{language}: WordCraft doesn't check spelling or grammar in this language yet.	{language}: WordCraft v tomto jazyce zatím nekontroluje pravopis ani mluvnici.
 	{language}: {file}	{language}: {file}
 	{names} and {n} more	{names} a dalších {n}
 	{name}   {height} × {width} in	{name}   {height} × {width} palce

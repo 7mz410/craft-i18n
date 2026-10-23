@@ -1711,7 +1711,7 @@
 	Speech	Sprache
 	Spelling & Grammar	Rechtschreibung und Grammatik
 	Spelling &\nGrammar	Rechtschreibung und\nGrammatik
-	Spelling and grammar are checked in English (United States).	Rechtschreibung und Grammatik werden auf Englisch (USA) geprüft.
+	Spelling and grammar are checked in {language}.	Sprache für Rechtschreibung und Grammatik: {language}.
 	Spelling Suggestions	Rechtschreibvorschläge
 	Spike	Sammlung
 	Split Cells	Zellen teilen
@@ -1833,6 +1833,7 @@
 	The recipient-list field that fills each part of an address block and greeting line.	Das Empfängerlistenfeld, das jeden Teil eines Adressblocks und einer Anrede füllt.
 	the Spike is empty	die Sammlung ist leer
 	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	Das Dateidialogfeld des Systems ist nicht verfügbar, daher zeigt WordCraft ein eigenes an. Für das Systemdialogfeld installieren Sie ein Dateiauswahl-Portal (etwa xdg-desktop-portal-gtk) oder zenity.
+	The text at the insertion point is marked Do not check spelling or grammar.	Der Text an der Einfügemarke ist markiert: Rechtschreibung und Grammatik nicht prüfen.
 	The time right now	Die Uhrzeit im Moment
 	Theme Colors	Designfarben
 	Theme Fonts	Designschriftarten
@@ -2020,6 +2021,7 @@
 	{language} (no dictionary)	{language} (kein Wörterbuch)
 	{language} is now the document's default language.	{language} ist jetzt die Standardsprache des Dokuments.
 	{language}: no dictionary found	{language}: kein Wörterbuch gefunden
+	{language}: WordCraft doesn't check spelling or grammar in this language yet.	{language}: WordCraft prüft Rechtschreibung und Grammatik in dieser Sprache noch nicht.
 	{language}: {file}	{language}: {file}
 	{names} and {n} more	{names} und {n} weitere
 	{name}   {height} × {width} in	{name}   {height} × {width} Zoll

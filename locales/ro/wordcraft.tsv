@@ -2330,7 +2330,7 @@ template	Letter	Scrisoare
 	Spelling	Ortografie
 	Spelling & Grammar	Ortografie și gramatică
 	Spelling &\nGrammar	Ortografie și\ngramatică
-	Spelling and grammar are checked in English (United States).	Ortografia și gramatica se verifică în engleză (Statele Unite).
+	Spelling and grammar are checked in {language}.	Limba de verificare a ortografiei și gramaticii: {language}.
 	Spelling Suggestions	Sugestii de ortografie
 	Spike	Spike
 	Split	Împărțire
@@ -2509,6 +2509,7 @@ template	Letter	Scrisoare
 	The spelling and grammar check is complete.	Verificarea ortografiei și a gramaticii s-a terminat.
 	the Spike is empty	spike-ul este gol
 	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	Dialogul de fișiere al sistemului nu este disponibil, așa că WordCraft îl afișează pe al lui. Pentru a obține dialogul sistemului, instalați un portal de selectare a fișierelor (cum ar fi xdg-desktop-portal-gtk) sau zenity.
+	The text at the insertion point is marked Do not check spelling or grammar.	Textul de la punctul de inserare este marcat: Nu verifica ortografia și gramatica.
 	The time right now	Ora de acum
 	Theme Colors	Culori de temă
 	Theme Fonts	Fonturi de temă
@@ -2774,6 +2775,7 @@ preview	Title	Titlu
 	{language} (no dictionary)	{language} (fără dicționar)
 	{language} is now the document's default language.	{language} este acum limba implicită a documentului.
 	{language}: no dictionary found	{language}: nu s-a găsit niciun dicționar
+	{language}: WordCraft doesn't check spelling or grammar in this language yet.	{language}: WordCraft nu verifică încă ortografia și gramatica în această limbă.
 	{language}: {file}	{language}: {file}
 	{names} and {n} more	{names} și încă {n}
 	{name}   {height} × {width} in	{name}   {height} × {width} in

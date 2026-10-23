@@ -2190,7 +2190,7 @@
 	Spelling	Črkovanje
 	Spelling & Grammar	Črkovanje in slovnica
 	Spelling &\nGrammar	Črkovanje\nin slovnica
-	Spelling and grammar are checked in English (United States).	Črkovanje in slovnica se preverjata v angleščini (Združene države).
+	Spelling and grammar are checked in {language}.	Jezik preverjanja črkovanja in slovnice: {language}.
 	Spelling Suggestions	Predlogi za črkovanje
 	Spike	Spike
 	Split Cells	Razdeli celice
@@ -2359,6 +2359,7 @@
 	The spelling and grammar check is complete.	Preverjanje črkovanja in slovnice je končano.
 	the Spike is empty	Spike je prazen
 	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	Sistemsko pogovorno okno za datoteke ni na voljo, zato WordCraft prikaže svoje. Za sistemsko okno namestite portal za izbiro datotek (npr. xdg-desktop-portal-gtk) ali zenity.
+	The text at the insertion point is marked Do not check spelling or grammar.	Besedilo na mestu vstavljanja je označeno: Ne preverjaj črkovanja ali slovnice.
 	The time right now	Trenutni čas
 	Theme Colors	Barve teme
 	Theme Fonts	Pisave teme
@@ -2604,6 +2605,7 @@ preview	Title	Naslov
 	{language} (no dictionary)	{language} (ni slovarja)
 	{language} is now the document's default language.	{language} je zdaj privzeti jezik dokumenta.
 	{language}: no dictionary found	{language}: slovar ni bil najden
+	{language}: WordCraft doesn't check spelling or grammar in this language yet.	{language}: WordCraft v tem jeziku še ne preverja črkovanja ali slovnice.
 	{language}: {file}	{language}: {file}
 	{names} and {n} more	{names} and {n} more
 	{name}   {height} × {width} in	{name}   {height} × {width} in
