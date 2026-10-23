@@ -2009,7 +2009,7 @@ template	Letter	Lettre
 	Speech	Parole
 	Spelling & Grammar	Orthographe et grammaire
 	Spelling &\nGrammar	Orthographe et\ngrammaire
-	Spelling and grammar are checked in English (United States).	L’orthographe et la grammaire sont vérifiées en anglais (États-Unis).
+	Spelling and grammar are checked in {language}.	Langue de vérification de l’orthographe et de la grammaire : {language}.
 	Spelling Suggestions	Suggestions orthographiques
 	Spike	Pique-notes
 	Split Cells	Fractionner les cellules
@@ -2160,6 +2160,7 @@ template	Letter	Lettre
 	The spelling and grammar check is complete.	La vérification de l’orthographe et de la grammaire est terminée.
 	the Spike is empty	le pique-notes est vide
 	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	La boîte de dialogue de fichiers du système n’est pas disponible, WordCraft affiche donc la sienne. Pour utiliser celle du système, installez un portail de sélection de fichiers (comme xdg-desktop-portal-gtk) ou zenity.
+	The text at the insertion point is marked Do not check spelling or grammar.	Le texte au point d’insertion est marqué : Ne pas vérifier l’orthographe ni la grammaire.
 	The time right now	L’heure actuelle
 	Theme Colors	Couleurs du thème
 	Theme Fonts	Polices du thème
@@ -2389,6 +2390,7 @@ preview	Title	Titre
 	{language} (no dictionary)	{language} (pas de dictionnaire)
 	{language} is now the document's default language.	{language} est désormais la langue par défaut du document.
 	{language}: no dictionary found	{language} : aucun dictionnaire trouvé
+	{language}: WordCraft doesn't check spelling or grammar in this language yet.	{language} : WordCraft ne vérifie pas encore l’orthographe ni la grammaire dans cette langue.
 	{language}: {file}	{language} : {file}
 	{names} and {n} more	{names} et {n} autres
 	{name}   {height} × {width} in	{name}   {height} × {width} po

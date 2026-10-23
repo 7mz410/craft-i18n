@@ -1964,7 +1964,7 @@
 	Speech	Речь
 	Spelling & Grammar	Орфография и грамматика
 	Spelling &\nGrammar	Орфография\nи грамматика
-	Spelling and grammar are checked in English (United States).	Орфография и грамматика проверяются для английского языка (США).
+	Spelling and grammar are checked in {language}.	Язык проверки орфографии и грамматики: {language}.
 	Spelling Suggestions	Варианты написания
 	Spike	Копилка
 	Split Cells	Разделить ячейки
@@ -2114,6 +2114,7 @@
 	The recipient-list field that fills each part of an address block and greeting line.	Поле списка получателей, которое заполняет каждую часть блока адреса и строки приветствия.
 	the Spike is empty	копилка пуста
 	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	Системное диалоговое окно выбора файлов недоступно, поэтому WordCraft показывает собственное. Чтобы пользоваться системным, установите портал выбора файлов (например, xdg-desktop-portal-gtk) или zenity.
+	The text at the insertion point is marked Do not check spelling or grammar.	Текст в точке вставки помечен: Не проверять орфографию и грамматику.
 	The time right now	Текущее время
 	Theme Colors	Цвета темы
 	Theme Fonts	Шрифты темы
@@ -2337,6 +2338,7 @@ preview	Title	Пример
 	{language} (no dictionary)	{language} (нет словаря)
 	{language} is now the document's default language.	{language} теперь язык документа по умолчанию.
 	{language}: no dictionary found	{language}: словарь не найден
+	{language}: WordCraft doesn't check spelling or grammar in this language yet.	{language}: WordCraft пока не проверяет орфографию и грамматику на этом языке.
 	{language}: {file}	{language}: {file}
 	{names} and {n} more	{names} и ещё {n}
 	{name}   {height} × {width} in	{name}   {height} × {width} дюйма

@@ -1959,7 +1959,7 @@ template	Letter	Brev
 	Speech	Tal
 	Spelling & Grammar	Stavning och grammatik
 	Spelling &\nGrammar	Stavning och\ngrammatik
-	Spelling and grammar are checked in English (United States).	Stavning och grammatik kontrolleras på engelska (USA).
+	Spelling and grammar are checked in {language}.	Språk för stavnings- och grammatikkontroll: {language}.
 	Spelling Suggestions	Stavningsförslag
 	Spike	Samlare
 	Split Cells	Dela celler
@@ -2108,6 +2108,7 @@ template	Letter	Brev
 	The spelling and grammar check is complete.	Stavnings- och grammatikkontrollen är klar.
 	the Spike is empty	samlaren är tom
 	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	Systemets fildialogruta är inte tillgänglig, så WordCraft visar sin egen. Installera en filväljarportal (till exempel xdg-desktop-portal-gtk) eller zenity för att få systemets dialogruta.
+	The text at the insertion point is marked Do not check spelling or grammar.	Texten vid insättningspunkten är markerad: Kontrollera inte stavning eller grammatik.
 	The time right now	Klockslaget just nu
 	Theme Colors	Temafärger
 	Theme Fonts	Temats typsnitt
@@ -2333,6 +2334,7 @@ preview	Title	Titel
 	{language} (no dictionary)	{language} (ingen ordlista)
 	{language} is now the document's default language.	{language} är nu dokumentets standardspråk.
 	{language}: no dictionary found	{language}: ingen ordlista hittades
+	{language}: WordCraft doesn't check spelling or grammar in this language yet.	{language}: WordCraft kontrollerar inte stavning eller grammatik på det här språket än.
 	{language}: {file}	{language}: {file}
 	{names} and {n} more	{names} och {n} till
 	{name}   {height} × {width} in	{name}   {height} × {width} tum

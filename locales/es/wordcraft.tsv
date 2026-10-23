@@ -1924,7 +1924,7 @@
 	Speech	Voz
 	Spelling & Grammar	Ortografía y gramática
 	Spelling &\nGrammar	Ortografía y\ngramática
-	Spelling and grammar are checked in English (United States).	La ortografía y la gramática se revisan en inglés (Estados Unidos).
+	Spelling and grammar are checked in {language}.	Idioma de revisión de ortografía y gramática: {language}.
 	Spelling Suggestions	Sugerencias ortográficas
 	Spike	Acumulador
 	Split Cells	Dividir celdas
@@ -2071,6 +2071,7 @@
 	The recipient-list field that fills each part of an address block and greeting line.	El campo de la lista de destinatarios que rellena cada parte del bloque de dirección y la línea de saludo.
 	the Spike is empty	el acumulador está vacío
 	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	El cuadro de diálogo de archivos del sistema no está disponible, así que WordCraft muestra el suyo. Para usar el del sistema, instala un portal selector de archivos (como xdg-desktop-portal-gtk) o zenity.
+	The text at the insertion point is marked Do not check spelling or grammar.	El texto en el punto de inserción está marcado como: No revisar la ortografía ni la gramática.
 	The time right now	La hora actual
 	Theme Colors	Colores del tema
 	Theme Fonts	Fuentes del tema
@@ -2291,6 +2292,7 @@ preview	Title	Título
 	{language} (no dictionary)	{language} (sin diccionario)
 	{language} is now the document's default language.	{language} es ahora el idioma predeterminado del documento.
 	{language}: no dictionary found	{language}: no se encontró ningún diccionario
+	{language}: WordCraft doesn't check spelling or grammar in this language yet.	{language}: WordCraft todavía no revisa la ortografía ni la gramática en este idioma.
 	{language}: {file}	{language}: {file}
 	{names} and {n} more	{names} y {n} más
 	{name}   {height} × {width} in	{name}   {height} × {width} pulg.
