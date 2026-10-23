@@ -26,8 +26,11 @@
 	3. Start enforcement	3. Schutz anwenden
 	<< Less	<< Weniger
 	<< Remove	<< Entfernen
+	a drawing canvas can't be ungrouped	die Gruppierung einer Zeichenfläche kann nicht aufgehoben werden
+	a drawing canvas can't go inside a text box	eine Zeichenfläche kann nicht in ein Textfeld eingefügt werden
 	A file dialog is already open.	Ein Dateidialog ist bereits geöffnet.
 	A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team.	Ein kostenloses, quelloffenes Textverarbeitungsprogramm, von Grund auf in Rust geschrieben.\nTeil der Crafting Apps des ArtCraft-Teams.
+	a group holding Word ink can't be ungrouped yet	eine Gruppe mit Word-Freihandtinte lässt sich noch nicht aufheben
 	A mail merge field	Ein Seriendruckfeld
 	A numbered sequence (figures, tables…)	Eine nummerierte Folge (Abbildungen, Tabellen…)
 	A password is required to open this document.	Zum Öffnen dieses Dokuments ist ein Kennwort erforderlich.
@@ -56,6 +59,7 @@
 	Add Condition	Bedingung hinzufügen
 	Add Field	Feld hinzufügen
 	Add Font…	Schriftart hinzufügen…
+	Add gradient stop	Farbverlaufsstopp hinzufügen
 	Add line numbering	Zeilennummerierung hinzufügen
 	Add New Source…	Neue Quelle hinzufügen…
 	Add Object to Selection	Objekt zur Auswahl hinzufügen
@@ -78,7 +82,9 @@
 	Add\nNote	Notiz\nhinzufügen
 	Add\nPen	Stift\nhinzufügen
 	Add\nShape	Form\nhinzufügen
+	Added 1 font	1 Schriftart hinzugefügt
 	Added Fonts	Hinzugefügte Schriftarten
+	Added {n} fonts	{n} Schriftarten hinzugefügt
 	Address	Adresse
 	Address Block	Adressblock
 	Address labels	Adressetiketten
@@ -102,6 +108,7 @@
 	All Caps	GROSSBUCHSTABEN
 	All caps	Großbuchstaben
 	All Commands	Alle Befehle
+	All Fonts	Alle Schriftarten
 	All Levels	Alle Ebenen
 	All Markup	Alle Änderungen
 	All pages in the range	Alle Seiten im Bereich
@@ -123,6 +130,7 @@
 	Another file	Andere Datei
 	Any Character	Beliebiges Zeichen
 	Any Digit	Beliebige Ziffer
+	Any field	Beliebiges Feld
 	Any Letter	Beliebiger Buchstabe
 	Anyone can open this document. Encrypt it with a password to keep it private.	Jeder kann dieses Dokument öffnen. Verschlüsseln Sie es mit einem Kennwort, um es privat zu halten.
 	Anyone who opens the document will need this password.	Jeder, der das Dokument öffnet, braucht dieses Kennwort.
@@ -137,6 +145,7 @@
 	Arch Down	Bogen nach unten
 	Arch Up	Bogen nach oben
 	Arrange\nAll	Alle\nanordnen
+	Article I.	Artikel I.
 	Artistic Effects	Künstlerische Effekte
 	As Recommended	Wie empfohlen
 	As you type	Während der Eingabe
@@ -153,8 +162,11 @@
 	AutoCorrect	AutoKorrektur
 	AutoCorrect Options	AutoKorrektur-Optionen
 	AutoFit	Automatisch anpassen
+	AutoFit behavior	Automatische Anpassung
 	AutoFit Column by Double-Clicking	Spalte per Doppelklick automatisch anpassen
 	AutoFit Contents	An Inhalt anpassen
+	AutoFit to contents	An Inhalt anpassen
+	AutoFit to window	An Fenster anpassen
 	AutoFit Window	An Fenster anpassen
 	AutoFormat As You Type	AutoFormat während der Eingabe
 	Automatic ({language})	Automatisch ({language})
@@ -251,6 +263,7 @@
 	Cell Margins	Zellenränder
 	Cell\nMargins	Zellen-\nränder
 	Center	Zentrieren
+	Center Glow	Leuchten aus der Mitte
 	Change Chart Type	Diagrammtyp ändern
 	Change Colors	Farben ändern
 	Change Layout	Layout ändern
@@ -266,6 +279,7 @@
 	Change\nColors	Farben\nändern
 	Changed lines:	Geänderte Zeilen:
 	Changes	Änderungen
+	Chapter 1	Kapitel 1
 	Chapter in a book	Kapitel in einem Buch
 	Chapters begin at:	Kapitel beginnen mit:
 	Character Border	Zeichenrahmen
@@ -285,6 +299,7 @@
 	Chart Design	Diagrammentwurf
 	Chart Layouts	Diagrammlayouts
 	Chart Title	Diagrammtitel
+	charts and diagrams can't be moved or resized yet	Diagramme und SmartArt können noch nicht verschoben oder in der Größe geändert werden
 	Check Accessibility	Barrierefreiheit prüfen
 	Check Box Content Control	Kontrollkästchen-Inhaltssteuerelement
 	Check Compatibility	Kompatibilität prüfen
@@ -326,6 +341,7 @@
 	Close Outline\nView	Gliederungsansicht\nschließen
 	Clustered Bar	Gruppierte Balken
 	Clustered Column	Gruppierte Säulen
+	cm	cm
 	Col #:	Spalte Nr.:
 	Collapse	Reduzieren
 	Collapse Selection	Auswahl reduzieren
@@ -344,6 +360,7 @@
 	Combine Documents	Dokumente kombinieren
 	Combo Box Content Control	Kombinationsfeld-Inhaltssteuerelement
 	Commands	Befehle
+	Commas	Kommas
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Kommentare neben jeder Seite und nachverfolgte Änderungen in PDFs, Ausdrucken und Bildern; eine Kommentarliste am Ende von Webseiten, Markdown und Text.
 	Comments Pane	Kommentarbereich
 	Communication	Kommunikation
@@ -366,6 +383,7 @@
 	Content Control Properties	Eigenschaften des Inhaltssteuerelements
 	Contents can't be edited	Inhalt kann nicht bearbeitet werden
 	Context	Kontext
+	Continue from previous section	Fortlaufend vom vorherigen Abschnitt
 	Continuous	Fortlaufend
 	Continuous numbering	Fortlaufende Nummerierung
 	Controls	Steuerelemente
@@ -403,6 +421,7 @@
 	Cross-reference	Querverweis
 	Cross-reference:	Querverweis:
 	Current Position	Aktuelle Position
+	Current record	Aktueller Datensatz
 	Current style: {style}	Aktuelle Formatvorlage: {style}
 	Curved Arrow Connector	Gekrümmte Verbindung mit Pfeil
 	Curved Connector	Gekrümmte Verbindung
@@ -425,6 +444,7 @@
 	Danish	Dänisch
 	Dark Mode	Dunkelmodus
 	Dark page (white text on black)	Dunkle Seite (weißer Text auf Schwarz)
+	Dark Variations	Dunkle Varianten
 	Dark with Shadow	Dunkel mit Schatten
 	Darkroom	Darkroom
 	Data Labels	Datenbeschriftungen
@@ -436,6 +456,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Dekorative Objekte dienen nur der Optik: Bildschirmleser überspringen sie.
 	Decrease Font Size	Schriftgrad verkleinern
 	Decrease Indent	Einzug verkleinern
+	Deep	Tief
 	Default tab stops:	Standardtabstopps:
 	Define New Bullet	Neues Aufzählungszeichen definieren
 	Define New Multilevel List	Neue mehrstufige Liste definieren
@@ -479,6 +500,8 @@
 	Discord community	Discord-Community
 	Display for Review	Anzeige zur Überprüfung
 	Display text	Anzeigetext
+	Distance from text	Abstand zum Text
+	Distance from text:	Abstand zum Text:
 	Distribute Columns	Spalten verteilen
 	Distribute letters	Buchstaben verteilen
 	Distribute Rows	Zeilen verteilen
@@ -508,6 +531,7 @@
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Zitate und Literaturverzeichnisse aus Zotero, Mendeley oder EndNote nicht vorlesen
 	Dot dash	Punkt-Strich
 	Dot-dash	Punkt-Strich
+	Dot-dot-dash	Punkt-Punkt-Strich
 	Double	Doppelt
 	Double Closing Quote	Doppeltes schließendes Anführungszeichen
 	Double Opening Quote	Doppeltes öffnendes Anführungszeichen
@@ -526,7 +550,10 @@
 	Drawing\nCanvas	Zeichen-\nfläche
 	Drop Cap	Initiale
 	Drop cap	Initiale
+	Drop Cap Options…	Initialoptionen…
+	drop caps can't go in a table	ein Initial passt nicht in eine Tabelle
 	Drop-Down List Content Control	Dropdownlisten-Inhaltssteuerelement
+	Dropped	Im Text
 	Drops all formatting and pastes plain text.	Verwirft jegliche Formatierung und fügt reinen Text ein.
 	E-mail Messages	E-Mail-Nachrichten
 	Edit Comment	Kommentar bearbeiten
@@ -537,6 +564,7 @@
 	Edit Field…	Feld bearbeiten…
 	Edit Footer	Fußzeile bearbeiten
 	Edit Header	Kopfzeile bearbeiten
+	Edit Individual Documents…	Einzelne Dokumente bearbeiten…
 	Edit Items	Elemente bearbeiten
 	Edit Recipient List	Empfängerliste bearbeiten
 	Edit Source	Quelle bearbeiten
@@ -544,6 +572,8 @@
 	Edit\nRecipient List	Empfängerliste\nbearbeiten
 	Edited	Bearbeitet
 	Editing	Bearbeitung
+	Editing endnote	Endnote bearbeiten
+	Editing footnote	Fußnote bearbeiten
 	Editing header/footer	Kopf-/Fußzeile bearbeiten
 	Editing in this document is restricted.	Die Bearbeitung dieses Dokuments ist eingeschränkt.
 	Editing — edit the document directly	Bearbeitung — das Dokument direkt bearbeiten
@@ -560,10 +590,17 @@
 	End of Word	Wortende
 	Endnotes	Endnoten
 	Endnotes to footnotes	Endnoten in Fußnoten
+	English (Australia)	Englisch (Australien)
+	English (Canada)	Englisch (Kanada)
+	English (India)	Englisch (Indien)
+	English (Ireland)	Englisch (Irland)
+	English (New Zealand)	Englisch (Neuseeland)
+	English (South Africa)	Englisch (Südafrika)
 	English (United Kingdom)	Englisch (Vereinigtes Königreich)
 	English (United States)	Englisch (USA)
 	Engrave	Gravur
 	Enlarge symbol	Symbol vergrößern
+	Enter a number.	Bitte eine Zahl eingeben.
 	Enter formatting for number:	Formatierung für die Nummer eingeben:
 	Enter in Equation	Eingabetaste in der Formel
 	Enter page number:	Seitenzahl eingeben:
@@ -611,12 +648,15 @@
 	Field:	Feld:
 	Field…	Feld…
 	Figure	Abbildung
+	File locations	Dateispeicherorte
 	File name:	Dateiname:
+	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Datei › Neu zeigt die .dotx- und .dotm-Vorlagen von hier unter Persönlich; Als Word-Vorlage speichern beginnt hier.
 	Fill color:	Füllfarbe:
 	Filling in forms	Ausfüllen von Formularen
 	Film	Film
 	Filter and Sort	Filtern und Sortieren
 	Filter Recipients	Empfänger filtern
+	Find in list:	In Liste suchen:
 	Find Next Editable Region	Nächsten bearbeitbaren Bereich suchen
 	Find Previous	Rückwärts suchen
 	Find Recipient	Empfänger suchen
@@ -632,6 +672,7 @@
 	First line	Erste Zeile
 	First line:	Erste Zeile:
 	First Name	Vorname
+	First Record	Erster Datensatz
 	First row of data contains column headers	Erste Datenzeile enthält Spaltenüberschriften
 	Fit	Anpassen
 	Fix Position on Page	Position auf der Seite fixieren
@@ -653,6 +694,9 @@
 	Format Page Numbers	Seitenzahlen formatieren
 	Format Page Numbers…	Seitenzahlen formatieren…
 	Format Painter	Format übertragen
+	Format Shape	Form formatieren
+	Format Shape Pane	Bereich „Form formatieren“
+	Format Shape…	Form formatieren…
 	Formatted	Formatiert
 	Formatted Text	Formatierter Text
 	Formatting	Formatierung
@@ -666,9 +710,16 @@
 	Fraction	Bruch
 	Fractions (1/2) as fraction characters (½)	Brüche (1/2) als Bruchzeichen (½)
 	French (France)	Französisch (Frankreich)
+	From Bottom Left Corner	Aus Ecke unten links
+	From Bottom Right Corner	Aus Ecke unten rechts
+	From Center	Aus der Mitte
 	From text:	Abstand zum Text:
+	From Top Left Corner	Aus Ecke oben links
+	From Top Right Corner	Aus Ecke oben rechts
 	from Unicode (hex)	von Unicode (hexadezimal)
+	From:	Von:
 	Full page of the same label	Ganze Seite mit demselben Etikett
+	Full Screen View	Vollbildansicht
 	Full\nScreen	Voll-\nbild
 	Function	Funktion
 	Gallery	Gallery
@@ -680,9 +731,16 @@
 	Go To	Gehe zu
 	Go to	Gehe zu
 	Go To (⌘⌥G)	Gehe zu (⌘⌥G)
+	Go to Record	Gehe zu Datensatz
 	Go to what:	Gehe zu:
 	Go To…	Gehe zu…
+	Good afternoon	Guten Tag
+	Good evening	Guten Abend
+	Good morning	Guten Morgen
 	Grab bag	Überraschungspaket
+	Gradient	Farbverlauf
+	Gradient fill	Farbverlauf
+	Gradient stops	Farbverlaufsstopps
 	Greater than	Größer als
 	Greater than or equal	Größer oder gleich
 	Greek	Griechisch
@@ -710,6 +768,7 @@
 	Hide Codes	Funktionen ausblenden
 	Hide from style lists	Aus Formatvorlagenlisten ausblenden
 	Hide Ink	Freihand ausblenden
+	Hide Quick Access Toolbar	Symbolleiste für den Schnellzugriff ausblenden
 	Hide White Space	Leerraum ausblenden
 	Hide\nInk	Freihand\nausblenden
 	Hierarchy	Hierarchie
@@ -749,7 +808,9 @@
 	In equations, typing a name after a backslash replaces it with its symbol.	In Formeln wird ein Name nach einem umgekehrten Schrägstrich durch sein Symbol ersetzt.
 	In Front of Text	Vor den Text
 	In Line with Text	Mit Text in Zeile
+	In margin	Im Rand
 	In the margin	Am Rand
+	Include label and number	Bezeichnung und Nummer einbeziehen
 	Include level number from:	Ebenennummer übernehmen aus:
 	Include page numbers	Seitenzahlen einbeziehen
 	Increase Font Size	Schriftgrad vergrößern
@@ -761,7 +822,9 @@
 	Indents	Einzüge
 	Indents and Spacing	Einzüge und Abstände
 	Index and Tables	Index und Verzeichnisse
+	Indonesian	Indonesisch
 	Inflate	Aufblähen
+	Initial column width:	Anfangsspaltenbreite:
 	Initials:	Initialen:
 	Ink	Freihand
 	Ink Replay	Freihand-Wiedergabe
@@ -797,6 +860,7 @@
 	Insert Rows Below	Zeilen unterhalb einfügen
 	Insert Shapes	Formen einfügen
 	Insert SmartArt	SmartArt einfügen
+	Insert Spike	Sammlung einfügen
 	Insert Structure	Struktur einfügen
 	Insert Symbol	Symbol einfügen
 	Insert Table	Tabelle einfügen
@@ -841,6 +905,7 @@
 	Keep with Next	Mit nächstem Absatz zusammenhalten
 	Keep with next	Mit nächstem Absatz zusammenhalten
 	Keeps the fonts and formatting of the copied text.	Behält die Schriftarten und Formatierung des kopierten Textes bei.
+	Kerning for fonts:	Unterschneidung für Schriftarten:
 	Keyboard shortcuts:	Tastenkombinationen:
 	Keys for this command:	Tasten für diesen Befehl:
 	Label changes with:	Änderungen kennzeichnen mit:
@@ -852,6 +917,7 @@
 	Lasso Select	Lasso-Auswahl
 	Last Column	Letzte Spalte
 	Last Name	Nachname
+	Last Record	Letzter Datensatz
 	Last, First; Last, First	Nachname, Vorname; Nachname, Vorname
 	Latin text font:	Schriftart für lateinischen Text:
 	Layout Summary	Layoutübersicht
@@ -861,6 +927,7 @@
 	Leave Equation	Formel verlassen
 	Leave out the date and time of comments and tracked changes when saving	Beim Speichern Datum und Uhrzeit von Kommentaren und nachverfolgten Änderungen weglassen
 	Leave the equation (Esc)	Die Formel verlassen (Esc)
+	leave the equation first	zuerst die Formel verlassen
 	Leave the label out of the caption	Bezeichnung nicht in die Beschriftung aufnehmen
 	Left Border	Linke Rahmenlinie
 	Left border	Linke Rahmenlinie
@@ -878,6 +945,7 @@
 	Letters	Buchstaben
 	Level {n}	Ebene {n}
 	Levels:	Ebenen:
+	Light Variations	Helle Varianten
 	Light with Outline	Hell mit Kontur
 	Limit and\nLog	Grenzwert und\nLogarithmus
 	Limit consecutive hyphens to:	Aufeinanderfolgende Trennstriche begrenzen auf:
@@ -895,11 +963,20 @@
 	Line Spacing Options…	Zeilenabstand-Optionen…
 	Line spacing:	Zeilenabstand:
 	Line Start	Zeilenanfang
+	Linear Diagonal - Bottom Left to Top Right	Linear diagonal – unten links nach oben rechts
+	Linear Diagonal - Bottom Right to Top Left	Linear diagonal – unten rechts nach oben links
+	Linear Diagonal - Top Left to Bottom Right	Linear diagonal – oben links nach unten rechts
+	Linear Diagonal - Top Right to Bottom Left	Linear diagonal – oben rechts nach unten links
+	Linear Down	Linear nach unten
+	Linear Left	Linear links
+	Linear Right	Linear rechts
+	Linear Up	Linear nach oben
 	Lines added	Zeilen hinzugefügt
 	Lines and characters	Zeilen und Zeichen
 	Lines deleted	Zeilen gelöscht
 	Lines only	Nur Zeilen
 	Lines per page:	Zeilen pro Seite:
+	Lines to drop:	Initialhöhe (Zeilen):
 	Link entries to their headings	Einträge mit ihren Überschriften verknüpfen
 	Link level to style:	Ebene mit Formatvorlage verknüpfen:
 	Link to Previous	Mit vorheriger verknüpfen
@@ -911,12 +988,15 @@
 	List	Liste
 	List Definition	Listendefinition
 	List entries	Listeneinträge
+	Lit from Bottom	Von unten beleuchtet
+	Lit from Top	Von oben beleuchtet
 	Load System Installed Fonts…	Installierte Systemschriftarten laden…
 	Loaded {count} system fonts.	{count} Systemschriftarten geladen.
 	Local font access is not supported by your browser.	Lokaler Schriftartenzugriff wird von Ihrem Browser nicht unterstützt.
 	Local font access was denied.	Zugriff auf lokale Schriftarten wurde verweigert.
 	Location	Position
 	Location: {path}	Speicherort: {path}
+	Lock aspect ratio	Seitenverhältnis sperren
 	Lock Fields	Felder sperren
 	Lum:	Hell.:
 	Macros	Makros
@@ -952,11 +1032,13 @@
 	Match Fields	Felder abgleichen
 	Match prefix	Präfix beachten
 	Match suffix	Suffix beachten
+	Matches: {count}	Treffer: {count}
 	Math AutoCorrect	Math. AutoKorrektur
 	Matrix	Matrix
 	Maximum	Maximum
 	Measurement units:	Maßeinheiten:
 	Merge	Verbinden
+	Merge cells before split	Zellen vor dem Teilen verbinden
 	Merge Formatting	Formatierung zusammenführen
 	Merge Record #	Seriendruck-Datensatz-Nr.
 	Merged PRs	Zusammengeführte PRs
@@ -965,6 +1047,7 @@
 	Mirror margins	Gegenüberliegende Seiten
 	Mirrored	Gespiegelt
 	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors.	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors.
+	mm	mm
 	Moderate	Mittel
 	Modify Style	Formatvorlage ändern
 	Modify Table Style	Tabellenformat ändern
@@ -976,9 +1059,12 @@
 	More Colors…	Weitere Farben…
 	More Columns…	Weitere Spalten…
 	More Commands…	Weitere Befehle…
+	More Gradients…	Weitere Farbverläufe…
 	More Paper Sizes…	Weitere Papierformate…
 	More Symbols…	Weitere Symbole…
+	More tabs	Weitere Registerkarten
 	More templates →	Weitere Vorlagen →
+	More Underlines…	Weitere Unterstreichungen…
 	Move Down	Nach unten
 	Move in Equation	In der Formel bewegen
 	Move or Resize	Verschieben oder Größe ändern
@@ -991,10 +1077,13 @@
 	Move Up	Nach oben
 	Move with Text	Mit Text verschieben
 	Moved from	Verschoben von
+	Moved from:	Verschoben von:
 	Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely.	Verschobene Objekte rasten an den Rändern und der Mitte der Seite, an den Seitenrändern und an anderen Objekten ein. Mit gedrückter Alt-Taste frei verschieben.
 	Moved to	Verschoben nach
+	Moved to:	Verschoben nach:
 	Moves	Verschiebungen
 	Multilevel List	Mehrstufige Liste
+	Multilevel List Library	Bibliothek mehrstufiger Listen
 	Multiple Pages	Mehrere Seiten
 	My list has	Meine Liste hat
 	Name of the file this document is saved as	Name der Datei, unter der dieses Dokument gespeichert ist
@@ -1030,9 +1119,12 @@
 	No Color	Keine Farbe
 	No contributor data was built into this copy.	In dieser Version wurden keine Mitwirkenden-Daten eingebaut.
 	No document is open. Create a document or open one first.	Es ist kein Dokument geöffnet. Erstellen oder öffnen Sie zuerst ein Dokument.
+	no equation at the caret	keine Formel an der Einfügemarke
 	No errors found: every merge field is in the recipient list.	Keine Fehler gefunden: Jedes Seriendruckfeld ist in der Empfängerliste.
 	No Fill	Keine Füllung
+	No fill	Keine Füllung
 	No Glow	Kein Leuchten
+	No Gradient	Kein Farbverlauf
 	No grid	Kein Raster
 	No header row	Keine Überschriftszeile
 	No icons match your search.	Keine Symbole entsprechen Ihrer Suche.
@@ -1062,15 +1154,18 @@
 	Norwegian (Bokmål)	Norwegisch (Bokmål)
 	Not	Nicht
 	Not available right now	Derzeit nicht verfügbar
+	not editing an equation	es wird keine Formel bearbeitet
 	Not equal to	Ungleich
 	Not linked: click a text box	Nicht verknüpft: Klicken Sie auf ein Textfeld
 	Not saved	Nicht gespeichert
 	Not saved yet	Noch nicht gespeichert
+	Not set	Nicht festgelegt
 	Not set: the system's usual places	Nicht festgelegt: die üblichen Orte des Systems
 	Not used by any command	Keinem Befehl zugewiesen
 	Not {name}	Nicht {name}
 	Nothing	Keine
 	Nothing collected yet. Items you copy or cut appear here.	Noch nichts gesammelt. Elemente, die Sie kopieren oder ausschneiden, erscheinen hier.
+	nothing is selected	nichts ist markiert
 	Now used by {command}	Derzeit belegt durch {command}
 	Nudge	Feinverschieben
 	Num Occurrences	Anzahl Vorkommen
@@ -1103,6 +1198,7 @@
 	Offset: Top	Versatz: Oben
 	Offset: Top Left	Versatz: Links oben
 	Offset: Top Right	Versatz: Rechts oben
+	Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel.	Alte Menütasten: Alt, {keys}. Weitertippen oder mit Esc abbrechen.
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	Ein: Die Einfügemarke gleitet beim Tippen oder mit den Pfeiltasten an ihre neue Stelle, und ihr Blinken blendet weich. Aus: Sie springt und blinkt hart an und aus.
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	Ein: WordCraft öffnet sich auf Datei › Start mit einem leeren Dokument, den Vorlagen und Ihren zuletzt verwendeten Dokumenten. Aus: Es öffnet ein leeres Dokument.
 	One	Eins
@@ -1114,8 +1210,10 @@
 	Only comments can be added, except in regions marked editable.	Nur Kommentare können hinzugefügt werden, außer in als bearbeitbar markierten Bereichen.
 	Only for the selected text	Nur für den ausgewählten Text
 	Only form fields can be filled in.	Nur Formularfelder können ausgefüllt werden.
+	only in Outline view	nur in der Gliederungsansicht
 	Only the allowed styles can be applied.	Nur die zulässigen Formatvorlagen können angewendet werden.
 	Only web (http, https) and email (mailto) links can be followed	Nur Web- (http, https) und E-Mail-Links (mailto) können geöffnet werden
+	Open a document first	Zuerst ein Dokument öffnen
 	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	Öffnet eine Datei mit dem eigenen Browser von WordCraft, wenn das Dateidialogfeld des Systems nicht erscheint.
 	OpenDocument Text (*.odt)	OpenDocument-Text (*.odt)
 	Opening print dialog…	Druckdialogfeld wird geöffnet…
@@ -1129,8 +1227,10 @@
 	Organizer	Organisieren
 	Organizer…	Organisieren…
 	Original document	Originaldokument
+	Original size	Originalgröße
 	Other	Sonstige
 	Other styles and their TOC level:	Andere Formatvorlagen und ihre Verzeichnisebene:
+	Other:	Andere:
 	Otherwise insert:	Andernfalls einfügen:
 	Outline	Gliederung
 	Outline Level	Gliederungsebene
@@ -1158,7 +1258,9 @@
 	Page image (*.png)	Seitenbild (*.png)
 	Page Movement	Seitennavigation
 	Page Number	Seitenzahl
+	Page Number Format	Format der Seitenzahlen
 	Page number style	Seitenzahlformat
+	Page numbering	Seitenzahlen
 	Page numbers at the right margin	Seitenzahlen am rechten Rand
 	Page on which a bookmarked passage falls	Seite, auf der eine mit Textmarke versehene Passage liegt
 	Page Setup	Seite einrichten
@@ -1204,8 +1306,11 @@
 	Pens	Stifte
 	People	Personen
 	Periodical	Periodikum
+	Personal	Persönlich
+	Personal Templates	Persönliche Vorlagen
 	Personalize	Personalisieren
 	Phonetic Guide	Aussprachehilfe
+	pi	pi
 	Pick a custom group (New Group makes one)	Eigene Gruppe auswählen (mit „Neue Gruppe“ anlegen)
 	Pick a field from the list	Ein Feld aus der Liste wählen
 	Picture	Bild
@@ -1221,12 +1326,14 @@
 	Plain Text Content Control	Nur-Text-Inhaltssteuerelement
 	Play	Wiedergabe
 	Play/Pause	Wiedergabe/Pause
+	Points and above	Punkt und größer
 	Polish	Polnisch
 	Portuguese (Brazil)	Portugiesisch (Brasilien)
 	Portuguese (Portugal)	Portugiesisch (Portugal)
 	Postal Code	Postleitzahl
 	Preferred width:	Bevorzugte Breite:
 	Preserve formatting during updates	Formatierung bei Aktualisierungen bewahren
+	Preset gradients	Vordefinierte Farbverläufe
 	Presets	Voreinstellungen
 	Press a key combination	Tastenkombination drücken
 	Preview Results	Ergebnisvorschau
@@ -1238,9 +1345,12 @@
 	Previous Section	Vorheriger Abschnitt
 	Previous Sentence	Vorheriger Satz
 	Previous sentence	Vorheriger Satz
+	Print Documents	Dokumente drucken
+	Print Documents…	Dokumente drucken…
 	Print failed: the printing worker stopped.	Drucken fehlgeschlagen: Der Druckvorgang wurde angehalten.
 	Print failed: {error}	Drucken fehlgeschlagen: {error}
 	Print job submitted.	Druckauftrag gesendet.
+	Print job submitted: spooled {count} sheet(s)	Druckauftrag gesendet: {count} Blatt an den Spooler übergeben
 	Print job submitted: {receipt}	Druckauftrag gesendet: {receipt}
 	Print Layout	Seitenlayout
 	Print Markup	Markups drucken
@@ -1286,6 +1396,7 @@
 	Reads the clipboard's web content and keeps its formatting.	Liest den Webinhalt der Zwischenablage und behält dessen Formatierung bei.
 	Recent	Zuletzt verwendet
 	Recent documents to show:	Anzahl angezeigter zuletzt verwendeter Dokumente:
+	Recently Used Fonts	Zuletzt verwendete Schriftarten
 	Recently used symbols:	Zuletzt verwendete Symbole:
 	Recipient List	Empfängerliste
 	Recipient lists	Empfängerlisten
@@ -1307,6 +1418,7 @@
 	Reject All Changes	Alle Änderungen ablehnen
 	Reject Change	Änderung ablehnen
 	Relationship	Beziehung
+	Relative to original picture size	Relativ zur ursprünglichen Bildgröße
 	Remove Added Font	Hinzugefügte Schriftart entfernen
 	Remove condition	Bedingung entfernen
 	Remove Content Control	Inhaltssteuerelement entfernen
@@ -1315,6 +1427,7 @@
 	Remove field	Feld entfernen
 	Remove Footer	Fußzeile entfernen
 	Remove from Quick Access Toolbar	Aus der Symbolleiste für den Schnellzugriff entfernen
+	Remove gradient stop	Farbverlaufsstopp entfernen
 	Remove Header	Kopfzeile entfernen
 	Remove Hyperlink	Hyperlink entfernen
 	Remove my name from comments, changes and file properties when saving	Beim Speichern meinen Namen aus Kommentaren, Änderungen und Dateieigenschaften entfernen
@@ -1388,6 +1501,7 @@
 	Rotate all text 90°	Gesamten Text um 90° drehen
 	Rotate Left 90°	Um 90° nach links drehen
 	Rotate Right 90°	Um 90° nach rechts drehen
+	Rotate with shape	Mit Form drehen
 	Row	Zeile
 	Row:	Zeile:
 	Rows & Columns	Zeilen und Spalten
@@ -1397,10 +1511,12 @@
 	Résumé	Lebenslauf
 	Sat:	Sätt.:
 	Save a copy in another format. Printing goes through a PDF you can print from any viewer.	Eine Kopie in einem anderen Format speichern. Gedruckt wird über ein PDF, das sich aus jedem Betrachter drucken lässt.
+	Save as Word Template…	Als Word-Vorlage speichern…
 	Save documents	Dokumente speichern
 	Save the document to turn on AutoSave	Speichern Sie das Dokument, um AutoSpeichern zu aktivieren
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	Speichern Sie das Dokument, um AutoSpeichern zu aktivieren (eine nur geöffnete Datei wird erst beim Speichern neu geschrieben)
 	Save these pages as PDF…	Diese Seiten als PDF speichern…
+	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Speichert eine .dotx-Vorlage in Ihrem Vorlagenordner. Sie erscheint unter Datei › Neu bei Persönlich.
 	Saving {name} was cancelled, so it is still open and nothing was lost.	Das Speichern von {name} wurde abgebrochen. Das Dokument ist weiterhin geöffnet und nichts ist verloren gegangen.
 	Scale	Skalierung
 	Scale Drawing	Zeichnung skalieren
@@ -1415,6 +1531,7 @@
 	Search for templates	Vorlagen suchen
 	Search icons	Symbole suchen
 	Search Options	Suchoptionen
+	Section 1.01	Abschnitt 1.01
 	Section Break	Abschnittsumbruch
 	Section Breaks	Abschnittsumbrüche
 	Section Character	Paragrafzeichen
@@ -1423,8 +1540,20 @@
 	Section Properties	Abschnittseigenschaften
 	Sections	Abschnitte
 	See	Siehe
+	select a chart first	markieren Sie zuerst ein Diagramm
+	select a connector first	markieren Sie zuerst eine Verbindung
+	select a drawing canvas first	markieren Sie zuerst eine Zeichenfläche
+	select a floating picture or shape first	markieren Sie zuerst ein frei positioniertes Bild oder eine Form
+	select a group first	markieren Sie zuerst eine Gruppe
+	select a picture first	markieren Sie zuerst ein Bild
+	select a picture or shape first	markieren Sie zuerst ein Bild oder eine Form
 	Select a picture, shape, chart or table to describe it.	Wählen Sie ein Bild, eine Form, ein Diagramm oder eine Tabelle aus, um es zu beschreiben.
 	Select a printer	Drucker auswählen
+	select a shape first	markieren Sie zuerst eine Form
+	Select a shape, text box or drawing canvas to format its fill.	Wählen Sie eine Form, ein Textfeld oder einen Zeichenbereich aus, um die Füllung zu formatieren.
+	select a SmartArt graphic first	markieren Sie zuerst eine SmartArt-Grafik
+	select a text box first	markieren Sie zuerst ein Textfeld
+	select a text box linked to another first	markieren Sie zuerst ein mit einem anderen verknüpftes Textfeld
 	Select Cell	Zelle auswählen
 	Select Column	Spalte auswählen
 	Select Heading and Content	Überschrift und Inhalt auswählen
@@ -1432,6 +1561,7 @@
 	Select Paragraph	Absatz auswählen
 	Select Range	Bereich auswählen
 	Select Recipients	Empfänger auswählen
+	select recipients first	wählen Sie zuerst Empfänger aus
 	Select recipients first to choose from their fields.	Wählen Sie zuerst Empfänger aus, um aus deren Feldern zu wählen.
 	Select recipients first to match their fields.	Wählen Sie zuerst Empfänger aus, um deren Felder abzugleichen.
 	Select Row	Zeile auswählen
@@ -1442,14 +1572,17 @@
 	Select Text with Similar Formatting	Text mit ähnlicher Formatierung auswählen
 	Select text, then tick who can still edit it.	Markieren Sie Text und haken Sie dann an, wer ihn weiterhin bearbeiten darf.
 	select two or more cells to merge	wählen Sie zum Verbinden zwei oder mehr Zellen aus
+	select two or more pictures or shapes first (Shift+click)	markieren Sie zuerst zwei oder mehr Bilder oder Formen (Umschalt+Klick)
 	Select Word	Wort auswählen
 	Select\nRecipients	Empfänger\nauswählen
 	Selected Fields	Ausgewählte Felder
+	Selected text	Markierter Text
 	Selection Pane	Auswahlbereich
 	Send Backward	Nach hinten setzen
 	Send the document straight to the system print dialog, or save a copy in another format below.	Senden Sie das Dokument direkt an das Druckdialogfeld des Systems, oder speichern Sie unten eine Kopie in einem anderen Format.
 	Sentence	Satz
 	Sentence case.	Nur erstes Wort groß.
+	Separate text at	Text trennen bei
 	Separator:	Trennzeichen:
 	Sequence name:	Folgenname:
 	Serbian (Cyrillic)	Serbisch (Kyrillisch)
@@ -1503,12 +1636,15 @@
 	Show Markup	Änderungen einblenden
 	Show Notes	Notizen einblenden
 	Show only comments and formatting in balloons	Nur Kommentare und Formatierung in Sprechblasen anzeigen
+	Show only records that will be merged	Nur Datensätze anzeigen, die zusammengeführt werden
 	Show or Hide Style	Formatvorlage ein- oder ausblenden
+	Show Quick Access Toolbar	Symbolleiste für den Schnellzugriff einblenden
 	Show revisions in balloons	Änderungen in Sprechblasen anzeigen
 	Show rulers	Lineale einblenden
 	Show Text Formatting	Textformatierung anzeigen
 	Show the community button in the title bar	Die Community-Schaltfläche in der Titelleiste anzeigen
 	Show the mini toolbar when text is selected	Minisymbolleiste bei Textauswahl anzeigen
+	Show the ribbon	Menüband anzeigen
 	Show the Start screen when WordCraft starts	Startbildschirm beim Start von WordCraft anzeigen
 	Show/Hide ¶	¶ ein-/ausblenden
 	Show\nComments	Kommentare\neinblenden
@@ -1551,6 +1687,7 @@
 	Soft Edges	Weiche Kanten
 	Soft Glow	Weiches Leuchten
 	Solid Accent	Akzentfarbe, gefüllt
+	Solid fill	Einfarbige Füllung
 	Sort by:	Sortieren nach:
 	Sort order:	Sortierreihenfolge:
 	Sort Recipients	Empfänger sortieren
@@ -1576,6 +1713,7 @@
 	Spelling &\nGrammar	Rechtschreibung und\nGrammatik
 	Spelling and grammar are checked in English (United States).	Rechtschreibung und Grammatik werden auf Englisch (USA) geprüft.
 	Spelling Suggestions	Rechtschreibvorschläge
+	Spike	Sammlung
 	Split Cells	Zellen teilen
 	Split Table	Tabelle teilen
 	Spreadsheet Table	Tabellenkalkulations-Tabelle
@@ -1640,6 +1778,7 @@
 	Table Properties	Tabelleneigenschaften
 	Table Properties…	Tabelleneigenschaften…
 	Table Row Height	Tabellenzeilenhöhe
+	Table size	Tabellengröße
 	Table Style Options	Tabellenformat-Optionen
 	Table Styles	Tabellenformate
 	Tabs	Tabstopps
@@ -1650,8 +1789,10 @@
 	TC entry fields	TC-Eintragsfelder
 	Technology	Technik
 	Templates and Add-ins	Vorlagen und Add-Ins
+	Templates you save in your templates folder show up here.	Vorlagen, die Sie in Ihrem Vorlagenordner speichern, werden hier angezeigt.
 	Text Box	Textfeld
 	Text boxes	Textfelder
+	text boxes can't go inside a text box	Textfelder können nicht in ein Textfeld eingefügt werden
 	Text Direction	Textrichtung
 	Text Effects	Texteffekte
 	Text Effects and Typography	Texteffekte und Typografie
@@ -1671,18 +1812,26 @@
 	That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on.	Dieses Format bewahrt nicht alles, daher bleibt das Dokument geöffnet. Speichern Sie es als Word-Dokument (.docx), um fortzufahren.
 	That password isn't right. Check it (passwords are case-sensitive) and try again.	Dieses Kennwort stimmt nicht. Prüfen Sie es (Kennwörter unterscheiden Groß- und Kleinschreibung) und versuchen Sie es erneut.
 	The clipboard is empty.	Die Zwischenablage ist leer.
+	the Clipboard pane is empty	der Zwischenablage-Bereich ist leer
+	the cursor isn't in a table	die Einfügemarke befindet sich nicht in einer Tabelle
 	The date it is today	Das heutige Datum
 	The document has no bookmarks yet.	Das Dokument hat noch keine Textmarken.
+	the document is protected	das Dokument ist geschützt
 	The document is read only, except for regions marked editable.	Das Dokument ist schreibgeschützt, außer in als bearbeitbar markierten Bereichen.
 	The document will be saved with a password. Save it to protect it.	Das Dokument wird mit einem Kennwort gespeichert. Speichern Sie es, um es zu schützen.
 	The document you are editing keeps the names and dates; only the saved file leaves them out.	Das bearbeitete Dokument behält Namen und Daten; nur die gespeicherte Datei lässt sie weg.
 	The margins don't fit on a page this size; make the margins smaller first.	Die Ränder passen nicht auf eine Seite dieser Größe; verkleinern Sie zuerst die Ränder.
+	The measurement must be between {min} and {max}.	Das Maß muss zwischen {min} und {max} liegen.
 	The new style takes the formatting of the current paragraph.	Die neue Formatvorlage übernimmt die Formatierung des aktuellen Absatzes.
+	The number must be between 1 and {max}.	Die Zahl muss zwischen 1 und {max} liegen.
+	the paragraph is empty	der Absatz ist leer
+	the paragraph starts with a space	der Absatz beginnt mit einem Leerzeichen
 	The password is optional; without it anyone can stop the protection.	Das Kennwort ist optional; ohne Kennwort kann jeder den Schutz aufheben.
 	The password is removed. Save the document to keep the change.	Das Kennwort ist entfernt. Speichern Sie das Dokument, um die Änderung zu behalten.
 	The passwords don't match.	Die Kennwörter stimmen nicht überein.
 	The printer, two-sided printing and pages per sheet are chosen in that dialog.	Drucker, beidseitiger Druck und Seiten pro Blatt werden in diesem Dialogfeld gewählt.
 	The recipient-list field that fills each part of an address block and greeting line.	Das Empfängerlistenfeld, das jeden Teil eines Adressblocks und einer Anrede füllt.
+	the Spike is empty	die Sammlung ist leer
 	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	Das Dateidialogfeld des Systems ist nicht verfügbar, daher zeigt WordCraft ein eigenes an. Für das Systemdialogfeld installieren Sie ein Dateiauswahl-Portal (etwa xdg-desktop-portal-gtk) oder zenity.
 	The time right now	Die Uhrzeit im Moment
 	Theme Colors	Designfarben
@@ -1692,12 +1841,14 @@
 	Then by	Dann nach
 	Then insert:	Dann einfügen:
 	there is no ink to replay	es gibt keine Freihandeingabe zum Wiedergeben
+	there is nothing to undo	es gibt nichts rückgängig zu machen
 	there's no citation after the caret	nach der Einfügemarke steht kein Zitat
 	Thesaurus	Thesaurus
 	These marks show even when Show/Hide ¶ is off.	Diese Zeichen werden auch angezeigt, wenn ¶ ein-/ausblenden deaktiviert ist.
 	These merge fields aren't in the recipient list:	Diese Seriendruckfelder fehlen in der Empfängerliste:
 	These settings will be used for new documents.	Diese Einstellungen werden für neue Dokumente verwendet.
 	Thick	Stark
+	this chart was made in another program: WordCraft shows it but can't edit it	dieses Diagramm wurde in einem anderen Programm erstellt: WordCraft zeigt es an, kann es aber nicht bearbeiten
 	This document	Dieses Dokument
 	This field has no options.	Dieses Feld hat keine Optionen.
 	This folder can't be read: {error}	Dieser Ordner kann nicht gelesen werden: {error}
@@ -1707,6 +1858,8 @@
 	This password type isn't supported.	Dieser Kennworttyp wird nicht unterstützt.
 	This point forward	Ab dieser Stelle
 	This section	Dieser Abschnitt
+	this SmartArt was made in another program: WordCraft shows it but can't edit it	diese SmartArt-Grafik wurde in einem anderen Programm erstellt: WordCraft zeigt sie an, kann sie aber nicht bearbeiten
+	this text box is already linked: break the link first	dieses Textfeld ist bereits verknüpft: heben Sie zuerst die Verknüpfung auf
 	Three	Drei
 	Through	Durchgehend
 	Tight	Eng
@@ -1715,6 +1868,7 @@
 	Title from the document properties	Titel aus den Dokumenteigenschaften
 	Title:	Titel:
 	To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All.	Um Word-Dokumente standardmäßig mit WordCraft zu öffnen: Wählen Sie eines im Finder aus, wählen Sie Ablage › Informationen, wählen Sie WordCraft unter „Öffnen mit“ und klicken Sie auf „Alle ändern“.
+	To:	Bis:
 	Today	Heute
 	Toggle Check Box	Kontrollkästchen umschalten
 	Toggle Field Codes	Feldfunktionen ein/aus
@@ -1749,6 +1903,7 @@
 	Type +2 or -1 to move from the page you are on.	Geben Sie +2 oder -1 ein, um von der aktuellen Seite aus zu springen.
 	Type a command, e.g. "insert table"	Befehl eingeben, z. B. „Tabelle einfügen“
 	Type a New List…	Neue Liste eingeben…
+	Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions.	Geben Sie eine Größe in einer beliebigen Einheit ein, z. B. 5 cm oder 300 px. Die andere Seite passt sich an, sodass das Bild seine Proportionen behält.
 	Type at least one recipient.	Geben Sie mindestens einen Empfänger ein.
 	Type Character Code	Zeichencode eingeben
 	Type in Equation	In der Formel eingeben
@@ -1761,6 +1916,7 @@
 	Ukrainian	Ukrainisch
 	Unchecked symbol	Symbol für deaktiviert
 	Underline	Unterstrichen
+	Underline Color	Unterstreichungsfarbe
 	Underline color	Unterstreichungsfarbe
 	Underline Words Only	Nur Wörter unterstreichen
 	Undo 1 Action	1 Aktion rückgängig
@@ -1790,6 +1946,7 @@
 	Use wildcards	Platzhalter verwenden
 	User Name	Benutzername
 	User name:	Benutzername:
+	User templates:	Benutzervorlagen:
 	Version History	Versionsverlauf
 	Version {version} ({build})	Version {version} ({build})
 	Vertical alignment:	Vertikale Ausrichtung:
@@ -1850,6 +2007,8 @@
 	Zotero	Zotero
 	Zotero: cancelled	Zotero: abgebrochen
 	Zotero: done	Zotero: fertig
+	{added}; {count} couldn't be read: {names}	{added}; {count} nicht lesbar: {names}
+	{added}; {n} skipped (limit {max})	{added}; {n} übersprungen (Limit {max})
 	{cols}×{rows} Table	{cols}×{rows}-Tabelle
 	{contributors} contributors · {commits} commits	{contributors} Mitwirkende · {commits} Commits
 	{count} items highlighted	Hervorgehobene Elemente: {count}
@@ -1862,6 +2021,7 @@
 	{language} is now the document's default language.	{language} ist jetzt die Standardsprache des Dokuments.
 	{language}: no dictionary found	{language}: kein Wörterbuch gefunden
 	{language}: {file}	{language}: {file}
+	{names} and {n} more	{names} und {n} weitere
 	{name}   {height} × {width} in	{name}   {height} × {width} Zoll
 	{name}   {height} × {width} mm	{name}   {height} × {width} mm
 	{name} already exists. Choose Save again to replace it.	{name} ist bereits vorhanden. Wählen Sie erneut „Speichern“, um die Datei zu ersetzen.
@@ -1873,5 +2033,6 @@
 	{selected} of {words} words	Wörter: {words}; ausgewählt: {selected}
 	{size} pt	{size} pt
 	{width} × {height} mm	{width} × {height} mm
+	{width} × {height} pixels	{width} × {height} Pixel
 	{words} words	Wörter: {words}
 	“{text}” ({row}, {series}) isn't a number.	„{text}“ ({row}, {series}) ist keine Zahl.
