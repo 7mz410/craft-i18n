@@ -17,6 +17,13 @@ app translates that string differently from the apps the shared row came from, i
 both translate, the app keeps an override holding its English instead, so a homograph never
 shows another app's meaning.
 
+## Amendment: `@msg` rows are never promoted (2026-10-18)
+
+An `@msg` row is a template that matches runtime messages, not a fixed string. A generic one such
+as `{path}: {e}` in `common.tsv` would match other apps' messages, so `@msg` rows stay in each
+app's catalog even when two or more apps share them. `Couldn't open {name}: {e}`, promoted in 3b,
+stays shared: existing rows never change, and it is specific enough not to over-match.
+
 ## Considered options
 
 - **Re-seed `common.tsv` from every migrated app at each migration**: rejected, winners can flip,
