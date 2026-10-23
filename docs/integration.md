@@ -55,15 +55,19 @@ skipped and logged, and that string shows in English.
 
 ## Stale and missing strings
 
-craft-i18n can't see app code. With `CRAFT_I18N_DIR` set, each app's tests report the English
+A missing translation never blocks anything: not a feature PR, not a pin bump, not a release.
+The string shows in English.
+
+craft-i18n can't see app code. With `CRAFT_I18N_DIR` set, each app prints a report of the English
 source texts that have no translation, and the translations of source texts the app no longer
-uses. The report never fails the build.
+uses. The report always passes.
 
-## Adding strings: two PRs
+## Adding strings
 
-A feature PR that adds or changes interface text has a companion craft-i18n PR with the
-translations. The feature PR can merge first; its strings show in English until the app's
-[pin](../GLOSSARY.md) reaches the craft-i18n commit that has them.
+A feature PR that adds or changes interface text adds the English only, and merges on its own
+schedule. Translators add the other languages here, in craft-i18n PRs, whenever they get to them.
+The new strings show in English until the app's [pin](../GLOSSARY.md) reaches the craft-i18n
+commit that has their translations.
 
 - **Before the app's cutover** (its branch still has `i18n/*.tsv`): add rows there as today, then
   write them into craft-i18n with the sync script, run from a craft-i18n checkout:
@@ -86,12 +90,6 @@ translations. The feature PR can merge first; its strings show in English until 
 The cutover itself: a final sync against the app's `main`, that craft-i18n PR merges, the app's
 wiring PR merges (deleting `i18n/*.tsv` and pinning a craft-i18n SHA that holds the sync), then the
 sync runs again against the merge's first parent for rows that landed in between.
-
-## Catch-up before a pin bump
-
-Moving an app's pin forward first needs a **catch-up** craft-i18n PR: whatever strings reached
-the app since its last pin and still have no translation, taken from the missing report. The
-release gate fails on a missing string in a complete language, so the pin bump waits for it.
 
 ## Release builds
 
