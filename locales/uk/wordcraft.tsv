@@ -26,8 +26,11 @@
 	3. Start enforcement	3. Увімкнення захисту
 	<< Less	<< Менше
 	<< Remove	<< Видалити
+	a drawing canvas can't be ungrouped	полотно малювання не можна розгрупувати
+	a drawing canvas can't go inside a text box	полотно малювання не можна вставити в текстове поле
 	A file dialog is already open.	Діалогове вікно файлу вже відкрито.
 	A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team.	Безкоштовний текстовий процесор із відкритим кодом, написаний з нуля мовою Rust.\nЧастина Crafting Apps від команди ArtCraft.
+	a group holding Word ink can't be ungrouped yet	групу з рукописним введенням Word поки не можна розгрупувати
 	A mail merge field	Поле злиття
 	A numbered sequence (figures, tables…)	Нумерована послідовність (рисунки, таблиці…)
 	A password is required to open this document.	Щоб відкрити цей документ, потрібен пароль.
@@ -56,6 +59,7 @@
 	Add Condition	Додати умову
 	Add Field	Додати поле
 	Add Font…	Додати шрифт…
+	Add gradient stop	Додати точку градієнта
 	Add line numbering	Додати нумерацію рядків
 	Add New Source…	Додати нове джерело…
 	Add Object to Selection	Додати об'єкт до виділення
@@ -78,7 +82,9 @@
 	Add\nNote	Додати\nпримітку
 	Add\nPen	Додати\nперо
 	Add\nShape	Додати\nфігуру
+	Added 1 font	Додано 1 шрифт
 	Added Fonts	Додані шрифти
+	Added {n} fonts	Додано шрифтів: {n}
 	Address	Адреса
 	Address Block	Блок адреси
 	Address labels	Адресні етикетки
@@ -103,6 +109,7 @@
 	All Caps	Усі великі літери
 	All caps	Усі великі літери
 	All Commands	Усі команди
+	All Fonts	Усі шрифти
 	All Levels	Усі рівні
 	All Markup	Усі позначки
 	All pages in the range	Усі сторінки діапазону
@@ -124,6 +131,7 @@
 	Another file	Інший файл
 	Any Character	Будь-який символ
 	Any Digit	Будь-яка цифра
+	Any field	Будь-яке поле
 	Any Letter	Будь-яка літера
 	Anyone can open this document. Encrypt it with a password to keep it private.	Цей документ може відкрити будь-хто. Зашифруйте його паролем, щоб захистити.
 	Anyone who opens the document will need this password.	Кожному, хто відкриватиме документ, знадобиться цей пароль.
@@ -138,6 +146,7 @@
 	Arch Up	Арка вгору
 	Area	Області
 	Arrange\nAll	Упорядкувати\nвсі
+	Article I.	Стаття I.
 	Artistic Effects	Художні ефекти
 	As Recommended	Як рекомендовано
 	As you type	Під час введення
@@ -154,8 +163,11 @@
 	AutoCorrect	Автовиправлення
 	AutoCorrect Options	Параметри автовиправлення
 	AutoFit	Добір розміру
+	AutoFit behavior	Добір розміру
 	AutoFit Column by Double-Clicking	Добір ширини стовпця подвійним клацанням
 	AutoFit Contents	Добір розміру за вмістом
+	AutoFit to contents	Добір розміру за вмістом
+	AutoFit to window	Добір розміру за шириною вікна
 	AutoFit Window	Добір розміру за шириною вікна
 	AutoFormat As You Type	Автоформат під час введення
 	Automatic ({language})	Автоматично ({language})
@@ -254,6 +266,7 @@
 	Cell Margins	Поля клітинки
 	Cell Size	Розмір клітинки
 	Cell\nMargins	Поля\nклітинки
+	Center Glow	Сяйво з центру
 	Change Chart Type	Змінити тип діаграми
 	Change Colors	Змінити кольори
 	Change Layout	Змінити макет
@@ -269,6 +282,7 @@
 	Change\nColors	Змінити\nкольори
 	Changed lines:	Змінені рядки:
 	Changes	Зміни
+	Chapter 1	Глава 1
 	Chapter in a book	Розділ книги
 	Chapters begin at:	Розділи починаються з:
 	Character Border	Межа символу
@@ -288,6 +302,7 @@
 	Chart Design	Конструктор діаграми
 	Chart Layouts	Макети діаграми
 	Chart Title	Назва діаграми
+	charts and diagrams can't be moved or resized yet	діаграми та схеми поки що не можна переміщувати чи змінювати їхній розмір
 	Check Accessibility	Перевірити доступність
 	Check Box Content Control	Елемент керування вмістом «Прапорець»
 	Check Compatibility	Перевірити сумісність
@@ -327,6 +342,7 @@
 	Close Outline\nView	Закрити\nрежим плану
 	Clustered Bar	Смуги з групуванням
 	Clustered Column	Стовпці з групуванням
+	cm	см
 	Col #:	Стовпець:
 	Collapse Selection	Зняти виділення
 	Collate copies	Розсортувати копії
@@ -344,6 +360,7 @@
 	Combine Documents	Об'єднання документів
 	Combo Box Content Control	Елемент керування вмістом «Поле зі списком»
 	Commands	Команди
+	Commas	Коми
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Коментарі біля кожної сторінки й відстежені зміни в PDF, друку та зображеннях; список коментарів наприкінці вебсторінок, Markdown і тексту.
 	Comments Pane	Панель коментарів
 	Communication	Спілкування
@@ -366,6 +383,7 @@
 	Content Control Properties	Властивості елемента керування вмістом
 	Contents can't be edited	Вміст не можна редагувати
 	Context	Контекст
+	Continue from previous section	Продовжити з попереднього розділу
 	Continuous	Безперервний
 	Continuous numbering	Наскрізна нумерація
 	Controls	Елементи керування
@@ -404,6 +422,7 @@
 	Cross-reference	Перехресне посилання
 	Cross-reference:	Перехресне посилання:
 	Current Position	Поточне положення
+	Current record	Поточний запис
 	Current style: {style}	Поточний стиль: {style}
 	Curved Arrow Connector	Вигнутий з'єднувач зі стрілкою
 	Curved Connector	Вигнутий з'єднувач
@@ -429,6 +448,7 @@
 	Dark	Темна
 	Dark Mode	Темний режим
 	Dark page (white text on black)	Темна сторінка (білий текст на чорному)
+	Dark Variations	Темні варіанти
 	Dark with Shadow	Темний із тінню
 	Darkroom	Фотолабораторія
 	Data Labels	Підписи даних
@@ -439,6 +459,7 @@
 	Decimal	Десяткова
 	Decorative objects only add visual interest: screen readers skip them.	Декоративні об’єкти лише прикрашають документ: засоби читання з екрана їх пропускають.
 	Decrease Indent	Зменшити відступ
+	Deep	Глибокий
 	Default	Типовий
 	Default tab stops:	Типові позиції табуляції:
 	Define New Bullet	Визначити новий маркер
@@ -484,6 +505,8 @@
 	Display for Review	Відображення для рецензування
 	Display name	Відображуване ім'я
 	Display text	Текст для показу
+	Distance from text	Відстань від тексту
+	Distance from text:	Відстань від тексту:
 	Distribute Columns	Розподілити стовпці
 	Distribute letters	Розподілити літери
 	Distribute Rows	Розподілити рядки
@@ -514,6 +537,7 @@
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Не читати цитати й бібліографії Zotero, Mendeley чи EndNote
 	Dot dash	Штрихпунктирна
 	Dot-dash	Штрихпунктирна
+	Dot-dot-dash	Штрихпунктирна з двома крапками
 	Dotted	Пунктирна
 	Double	Подвійна
 	Double Closing Quote	Закривні подвійні лапки
@@ -533,7 +557,10 @@
 	Drawing\nCanvas	Полотно\nмалювання
 	Drop Cap	Буквиця
 	Drop cap	Буквиця
+	Drop Cap Options…	Параметри буквиці…
+	drop caps can't go in a table	буквицю не можна помістити в таблицю
 	Drop-Down List Content Control	Елемент керування вмістом «Розкривний список»
+	Dropped	У тексті
 	Drops all formatting and pastes plain text.	Відкидає все форматування й вставляє звичайний текст.
 	E-mail Messages	Повідомлення електронної пошти
 	Edit Comment	Редагувати коментар
@@ -544,12 +571,15 @@
 	Edit Field…	Змінити поле…
 	Edit Footer	Редагувати нижній колонтитул
 	Edit Header	Редагувати верхній колонтитул
+	Edit Individual Documents…	Редагувати окремі документи…
 	Edit Items	Редагувати елементи
 	Edit Recipient List	Редагувати список одержувачів
 	Edit Source	Редагувати джерело
 	Edit\nData	Редагувати\nдані
 	Edit\nRecipient List	Редагувати\nсписок одержувачів
 	Edited	Відредаговано
+	Editing endnote	Редагування кінцевої виноски
+	Editing footnote	Редагування виноски
 	Editing header/footer	Редагування колонтитула
 	Editing in this document is restricted.	Редагування цього документа обмежено.
 	Editing — edit the document directly	Редагування — безпосередні зміни в документі
@@ -570,10 +600,17 @@
 	End of Word	Кінець слова
 	Endnotes	Кінцеві виноски
 	Endnotes to footnotes	Кінцеві виноски на виноски
+	English (Australia)	Англійська (Австралія)
+	English (Canada)	Англійська (Канада)
+	English (India)	Англійська (Індія)
+	English (Ireland)	Англійська (Ірландія)
+	English (New Zealand)	Англійська (Нова Зеландія)
+	English (South Africa)	Англійська (Південна Африка)
 	English (United Kingdom)	Англійська (Велика Британія)
 	English (United States)	Англійська (США)
 	Engrave	Гравіювання
 	Enlarge symbol	Збільшити символ
+	Enter a number.	Введіть число.
 	Enter formatting for number:	Вигляд номера:
 	Enter in Equation	Enter у рівнянні
 	Enter page number:	Введіть номер сторінки:
@@ -622,13 +659,16 @@
 	Field:	Поле:
 	Field…	Поле…
 	Figure	Рисунок
+	File locations	Розташування файлів
 	File name:	Ім'я файлу:
+	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Файл › Новий показує звідси шаблони .dotx і .dotm у групі «Особисті»; «Зберегти як шаблон Word» починає тут.
 	Fill	Колір заливки
 	Fill color:	Колір заливки:
 	Filling in forms	Заповнення форм
 	Film	Фільм
 	Filter and Sort	Фільтр і сортування
 	Filter Recipients	Фільтр одержувачів
+	Find in list:	Знайти в списку:
 	Find Next	Знайти наступне
 	Find Next Editable Region	Знайти наступну область для редагування
 	Find Previous	Знайти попереднє
@@ -645,6 +685,7 @@
 	First line	Перший рядок
 	First line:	Перший рядок:
 	First Name	Ім'я
+	First Record	Перший запис
 	First row of data contains column headers	Перший рядок даних містить заголовки стовпців
 	Fit	Підігнати
 	Fix Position on Page	Зафіксувати положення на сторінці
@@ -667,6 +708,9 @@
 	Format Page Numbers	Формат номерів сторінок
 	Format Page Numbers…	Формат номерів сторінок…
 	Format Painter	Пензель форматування
+	Format Shape	Формат фігури
+	Format Shape Pane	Область «Формат фігури»
+	Format Shape…	Формат фігури…
 	Formatted	Відформатовано
 	Formatted Text	Форматований текст
 	Formatting	Форматування
@@ -680,10 +724,17 @@
 	Fraction	Дріб
 	Fractions (1/2) as fraction characters (½)	Дроби (1/2) як символи дробів (½)
 	French (France)	Французька (Франція)
+	From Bottom Left Corner	Із кута зліва внизу
+	From Bottom Right Corner	Із кута справа внизу
+	From Center	Із центру
 	From text:	Від тексту:
+	From Top Left Corner	Із кута зліва вгорі
+	From Top Right Corner	Із кута справа вгорі
 	from Unicode (hex)	з Unicode (шістн.)
+	From:	З:
 	Full page of the same label	Ціла сторінка однакових етикеток
 	Full Screen	На весь екран
+	Full Screen View	Повноекранний режим
 	Full\nScreen	На весь\nекран
 	Function	Функція
 	Gallery	Галерея
@@ -694,9 +745,15 @@
 	Go To	Перейти
 	Go to	Перейти
 	Go To (⌘⌥G)	Перейти (⌘⌥G)
+	Go to Record	Перейти до запису
 	Go to what:	Перейти до:
 	Go To…	Перейти…
+	Good afternoon	Добрий день
+	Good evening	Добрий вечір
+	Good morning	Доброго ранку
 	Grab bag	Різне
+	Gradient fill	Градієнтна заливка
+	Gradient stops	Точки градієнта
 	Greater than	Більше
 	Greater than or equal	Більше або дорівнює
 	Greek	Грецька
@@ -726,6 +783,7 @@
 	Hide Codes	Сховати коди
 	Hide from style lists	Сховати зі списків стилів
 	Hide Ink	Сховати чорнило
+	Hide Quick Access Toolbar	Приховати панель швидкого доступу
 	Hide White Space	Приховати порожній простір
 	Hide\nInk	Сховати\nчорнило
 	Hierarchy	Ієрархія
@@ -770,7 +828,9 @@
 	In equations, typing a name after a backslash replaces it with its symbol.	У рівняннях назва після зворотної скісної риски замінюється символом.
 	In Front of Text	Перед текстом
 	In Line with Text	У рядку з текстом
+	In margin	На полі
 	In the margin	На полях
+	Include label and number	Додавати мітку й номер
 	Include level number from:	Додати номер рівня:
 	Include page numbers	Додавати номери сторінок
 	Increase Indent	Збільшити відступ
@@ -782,8 +842,10 @@
 	Indents and Spacing	Відступи й інтервали
 	Index	Покажчик
 	Index and Tables	Покажчики й таблиці
+	Indonesian	Індонезійська
 	Inflate	Роздуття
 	Info	Відомості
+	Initial column width:	Початкова ширина стовпців:
 	Initials:	Ініціали:
 	Ink	Рукописні примітки
 	Ink Replay	Відтворити рукопис
@@ -820,6 +882,7 @@
 	Insert Rows Below	Вставити рядки нижче
 	Insert Shapes	Вставити фігури
 	Insert SmartArt	Вставити SmartArt
+	Insert Spike	Вставити з накопичувача
 	Insert Structure	Вставити структуру
 	Insert Symbol	Вставити символ
 	Insert Table	Вставити таблицю
@@ -862,6 +925,7 @@
 	Keep with Next	Не відривати від наступного
 	Keep with next	Не відривати від наступного
 	Keeps the fonts and formatting of the copied text.	Зберігає шрифти й форматування скопійованого тексту.
+	Kerning for fonts:	Кернінг шрифтів:
 	Keyboard shortcuts:	Сполучення клавіш:
 	Keys for this command:	Клавіші цієї команди:
 	Label changes with:	Позначати зміни іменем:
@@ -873,6 +937,7 @@
 	Lasso Select	Виділення ласо
 	Last Column	Останній стовпець
 	Last Name	Прізвище
+	Last Record	Останній запис
 	Last, First; Last, First	Прізвище, Ім’я; Прізвище, Ім’я
 	Latin text font:	Шрифт латинського тексту:
 	Layout Summary	Зведення макета
@@ -882,6 +947,7 @@
 	Leave Equation	Вийти з рівняння
 	Leave out the date and time of comments and tracked changes when saving	Не зберігати дату й час приміток і відстежуваних змін
 	Leave the equation (Esc)	Вийти з рівняння (Esc)
+	leave the equation first	спершу вийдіть з рівняння
 	Leave the label out of the caption	Не включати мітку в підпис
 	Left Border	Ліва межа
 	Left border	Ліва межа
@@ -901,6 +967,7 @@
 	Level {n}	Рівень {n}
 	Levels:	Рівні:
 	Light	Світла
+	Light Variations	Світлі варіанти
 	Light with Outline	Світлий з контуром
 	Limit and\nLog	Границя та\nлогарифм
 	Limit consecutive hyphens to:	Обмежити кількість переносів поспіль:
@@ -917,11 +984,20 @@
 	Line Spacing Options…	Параметри міжрядкового інтервалу…
 	Line spacing:	Міжрядковий інтервал:
 	Line Start	Початок рядка
+	Linear Diagonal - Bottom Left to Top Right	Лінійний по діагоналі — зліва внизу → справа вгорі
+	Linear Diagonal - Bottom Right to Top Left	Лінійний по діагоналі — справа внизу → зліва вгорі
+	Linear Diagonal - Top Left to Bottom Right	Лінійний по діагоналі — зліва вгорі → справа внизу
+	Linear Diagonal - Top Right to Bottom Left	Лінійний по діагоналі — справа вгорі → зліва внизу
+	Linear Down	Лінійний вниз
+	Linear Left	Лінійний ліворуч
+	Linear Right	Лінійний праворуч
+	Linear Up	Лінійний вгору
 	Lines	Рядки
 	Lines +/−	Рядки +/−
 	Lines and characters	Рядки й символи
 	Lines only	Лише рядки
 	Lines per page:	Рядків на сторінці:
+	Lines to drop:	Висота в рядках:
 	Link entries to their headings	Пов’язати елементи із заголовками
 	Link level to style:	Зв'язати рівень зі стилем:
 	Link to Previous	Як у попередньому
@@ -932,11 +1008,14 @@
 	Link…	Посилання…
 	List Definition	Визначення списку
 	List entries	Елементи списку
+	Lit from Bottom	Освітлення знизу
+	Lit from Top	Освітлення згори
 	Load System Installed Fonts…	Завантажити встановлені системні шрифти…
 	Loaded {count} system fonts.	Завантажено системних шрифтів: {count}.
 	Local font access is not supported by your browser.	Ваш браузер не підтримує доступ до локальних шрифтів.
 	Local font access was denied.	У доступі до локальних шрифтів відмовлено.
 	Location: {path}	Розташування: {path}
+	Lock aspect ratio	Зберігати пропорції
 	Lock Fields	Заблокувати поля
 	lowercase	малі літери
 	Lum:	Яскравість:
@@ -973,11 +1052,13 @@
 	Match Fields	Зіставити поля
 	Match prefix	Збіг префікса
 	Match suffix	Збіг суфікса
+	Matches: {count}	Збігів: {count}
 	Math AutoCorrect	Математичне автовиправлення
 	Matrix	Матриця
 	Measurement units:	Одиниці виміру:
 	Medium	Середня
 	Merge	Об'єднати
+	Merge cells before split	Об'єднати клітинки перед розділенням
 	Merge Formatting	Об'єднати форматування
 	Merge Record #	Номер запису злиття
 	Merged PRs	Об'єднані PR
@@ -986,6 +1067,7 @@
 	Mirror margins	Дзеркальні поля
 	Mirrored	Дзеркальні
 	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors.	MIT OR Apache-2.0. Авторські права (c) 2026 команди ArtCraft і учасників WordCraft.
+	mm	мм
 	Moderate	Помірні
 	Modify Style	Змінити стиль
 	Modify Table Style	Змінити стиль таблиці
@@ -997,9 +1079,12 @@
 	More Colors…	Інші кольори…
 	More Columns…	Інші стовпці…
 	More Commands…	Інші команди…
+	More Gradients…	Інші градієнти…
 	More Paper Sizes…	Інші розміри паперу…
 	More Symbols…	Інші символи…
+	More tabs	Інші вкладки
 	More templates →	Більше шаблонів →
+	More Underlines…	Інші підкреслення…
 	Move in Equation	Переміщення в рівнянні
 	Move or Resize	Перемістити або змінити розмір
 	Move Paragraph Down	Перемістити абзац униз
@@ -1010,10 +1095,13 @@
 	Move Table by Dragging	Перемістити таблицю перетягуванням
 	Move with Text	Переміщувати з текстом
 	Moved from	Переміщено звідси
+	Moved from:	Переміщено звідси:
 	Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely.	Переміщувані об'єкти прилипають до країв і центру сторінки, полів та інших об'єктів. Утримуйте Alt, щоб переміщувати вільно.
 	Moved to	Переміщено сюди
+	Moved to:	Переміщено сюди:
 	Moves	Переміщення
 	Multilevel List	Багаторівневий список
+	Multilevel List Library	Бібліотека багаторівневих списків
 	Multiple Pages	Кілька сторінок
 	My list has	Мій список містить
 	Name	Ім'я
@@ -1051,9 +1139,12 @@
 	No changes (read only)	Без змін (лише читання)
 	No contributor data was built into this copy.	Ця збірка не містить даних про учасників.
 	No document is open. Create a document or open one first.	Немає відкритого документа. Спочатку створіть або відкрийте документ.
+	no equation at the caret	біля курсора немає рівняння
 	No errors found: every merge field is in the recipient list.	Помилок не знайдено: усі поля злиття є в списку одержувачів.
 	No Fill	Без заливки
+	No fill	Без заливки
 	No Glow	Без світіння
+	No Gradient	Без градієнта
 	No grid	Без сітки
 	No header row	Без рядка заголовка
 	No icons match your search.	Немає піктограм, що відповідають пошуку.
@@ -1084,15 +1175,18 @@
 	Norwegian (Bokmål)	Норвезька (букмол)
 	Not	Не
 	Not available right now	Зараз недоступно
+	not editing an equation	рівняння не редагується
 	Not equal to	Не дорівнює
 	Not linked: click a text box	Не зв'язано: клацніть текстове поле
 	Not saved	Не збережено
 	Not saved yet	Ще не збережено
+	Not set	Не задано
 	Not set: the system's usual places	Не задано: стандартні розташування в системі
 	Not used by any command	Не використовується жодною командою
 	Not {name}	Без: {name}
 	Nothing	Нічого
 	Nothing collected yet. Items you copy or cut appear here.	Поки що порожньо. Тут з'являться елементи, які ви скопіюєте або виріжете.
+	nothing is selected	нічого не виділено
 	Now used by {command}	Зараз використовує: {command}
 	Nudge	Злегка зсунути
 	Num Occurrences	Кількість повторень
@@ -1126,6 +1220,7 @@
 	Offset: Top Left	Зміщення: вгору ліворуч
 	Offset: Top Right	Зміщення: вгору праворуч
 	OK	Гаразд
+	Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel.	Старі клавіші меню: Alt, {keys}. Продовжуйте вводити або натисніть Esc, щоб скасувати.
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	Увімкнено: каретка плавно переходить на нове місце, коли ви вводите текст або користуєтеся стрілками, а її блимання згасає поступово. Вимкнено: вона перестрибує й блимає різко.
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	Увімкнено: WordCraft відкривається на сторінці Файл › Основне з порожнім документом, шаблонами та нещодавніми документами. Вимкнено: відкривається порожній документ.
 	One	Один
@@ -1137,8 +1232,10 @@
 	Only comments can be added, except in regions marked editable.	Можна лише додавати коментарі, крім областей, позначених для редагування.
 	Only for the selected text	Лише для виділеного тексту
 	Only form fields can be filled in.	Можна заповнювати лише поля форми.
+	only in Outline view	лише в поданні «План»
 	Only the allowed styles can be applied.	Можна застосовувати лише дозволені стилі.
 	Only web (http, https) and email (mailto) links can be followed	Можна переходити лише за вебпосиланнями (http, https) і посиланнями на електронну пошту (mailto)
+	Open a document first	Спочатку відкрийте документ
 	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	Відкрити файл власним оглядачем WordCraft, коли системне діалогове вікно файлів не з'являється.
 	OpenDocument Text (*.odt)	Текст OpenDocument (*.odt)
 	Opening print dialog…	Відкриття діалогу друку…
@@ -1152,7 +1249,9 @@
 	Organizer	Організатор
 	Organizer…	Організатор…
 	Original document	Вихідний документ
+	Original size	Початковий розмір
 	Other styles and their TOC level:	Інші стилі та їхній рівень у змісті:
+	Other:	Інше:
 	Otherwise insert:	Інакше вставити:
 	Outline	План
 	Outline Level	Рівень плану
@@ -1179,7 +1278,9 @@
 	Page image (*.png)	Зображення сторінки (*.png)
 	Page Movement	Переміщення сторінок
 	Page Number	Номер сторінки
+	Page Number Format	Формат номерів сторінок
 	Page number style	Стиль номера сторінки
+	Page numbering	Нумерація сторінок
 	Page numbers at the right margin	Номери сторінок біля правого поля
 	Page on which a bookmarked passage falls	Номер сторінки закладки
 	Page Setup	Параметри сторінки
@@ -1223,8 +1324,11 @@
 	Pens	Пера
 	People	Люди
 	Periodical	Періодичне видання
+	Personal	Особисті
+	Personal Templates	Особисті шаблони
 	Personalize	Персоналізація
 	Phonetic Guide	Фонетична підказка
+	pi	pi
 	Pick a custom group (New Group makes one)	Виберіть користувацьку групу (її створює «Нова група»)
 	Pick a field from the list	Виберіть поле
 	Picture	Зображення
@@ -1239,12 +1343,14 @@
 	Plain text (*.txt)	Звичайний текст (*.txt)
 	Plain Text Content Control	Елемент керування вмістом «Звичайний текст»
 	Play/Pause	Відтворити/пауза
+	Points and above	пт і більше
 	Polish	Польська
 	Portuguese (Brazil)	Португальська (Бразилія)
 	Portuguese (Portugal)	Португальська (Португалія)
 	Postal Code	Поштовий індекс
 	Preferred width:	Бажана ширина:
 	Preserve formatting during updates	Зберігати форматування під час оновлення
+	Preset gradients	Готові градієнти
 	Presets	Шаблони
 	Press a key combination	Натисніть сполучення клавіш
 	Preview Results	Переглянути результати
@@ -1256,9 +1362,12 @@
 	Previous Section	Попередній розділ
 	Previous Sentence	Попереднє речення
 	Previous sentence	Попереднє речення
+	Print Documents	Друк документів
+	Print Documents…	Друк документів…
 	Print failed: the printing worker stopped.	Друк не вдався: процес друку зупинився.
 	Print failed: {error}	Не вдалося надрукувати: {error}
 	Print job submitted.	Завдання на друк надіслано.
+	Print job submitted: spooled {count} sheet(s)	Завдання друку надіслано: у чергу передано аркушів: {count}
 	Print job submitted: {receipt}	Завдання на друк надіслано: {receipt}
 	Print Layout	Макет друку
 	Print Markup	Друкувати примітки та виправлення
@@ -1306,6 +1415,7 @@
 	Real name	Справжнє ім'я
 	Recent	Останні
 	Recent documents to show:	Кількість останніх документів:
+	Recently Used Fonts	Нещодавно використані шрифти
 	Recently used symbols:	Нещодавно використані символи:
 	Recipient List	Список одержувачів
 	Recipient lists	Списки одержувачів
@@ -1314,6 +1424,7 @@
 	Recolor Selected Ink	Змінити колір виділеного рукопису
 	Record Macro	Записати макрос
 	Recover Unsaved Documents	Відновити незбережені документи
+	Rectangular	Прямокутний
 	Red:	Червоний:
 	Reduce Hanging Indent	Зменшити виступ першого рядка
 	References	Посилання
@@ -1327,6 +1438,7 @@
 	Reject All Changes	Відхилити всі зміни
 	Reject Change	Відхилити зміну
 	Relationship	Зв’язок
+	Relative to original picture size	Відносно початкового розміру зображення
 	Remove	Вилучити
 	Remove Added Font	Видалити доданий шрифт
 	Remove Background	Видалити тло
@@ -1337,6 +1449,7 @@
 	Remove field	Видалити поле
 	Remove Footer	Видалити нижній колонтитул
 	Remove from Quick Access Toolbar	Видалити з панелі швидкого доступу
+	Remove gradient stop	Видалити точку градієнта
 	Remove Header	Видалити верхній колонтитул
 	Remove Hyperlink	Видалити гіперпосилання
 	Remove my name from comments, changes and file properties when saving	Вилучати моє ім’я з приміток, змін і властивостей файлу під час збереження
@@ -1408,6 +1521,7 @@
 	Rotate all text 90°	Повернути весь текст на 90°
 	Rotate Left 90°	Повернути ліворуч на 90°
 	Rotate Right 90°	Повернути праворуч на 90°
+	Rotate with shape	Обертати разом із фігурою
 	Rounded Rectangle	Заокруглений прямокутник
 	Row	Рядок
 	Row:	Рядок:
@@ -1418,10 +1532,12 @@
 	Résumé	Резюме
 	Sat:	Насиченість:
 	Save a copy in another format. Printing goes through a PDF you can print from any viewer.	Збережіть копію в іншому форматі. Для друку створюється PDF, який можна надрукувати з будь-якої програми перегляду.
+	Save as Word Template…	Зберегти як шаблон Word…
 	Save documents	Збереження документів
 	Save the document to turn on AutoSave	Збережіть документ, щоб увімкнути автозбереження
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	Збережіть документ, щоб увімкнути автозбереження (файл, який ви лише відкрили, не перезаписується, доки ви його не збережете)
 	Save these pages as PDF…	Зберегти ці сторінки як PDF…
+	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Зберігає шаблон .dotx у вашій теці шаблонів. Він з’являється в розділі Файл › Новий, у групі «Особисті».
 	Saving {name} was cancelled, so it is still open and nothing was lost.	Збереження {name} скасовано. Документ досі відкритий, нічого не втрачено.
 	Scale Drawing	Масштабувати малюнок
 	Scatter	Точкова
@@ -1435,6 +1551,7 @@
 	Search for templates	Пошук шаблонів
 	Search icons	Пошук піктограм
 	Search Options	Параметри пошуку
+	Section 1.01	Розділ 1.01
 	Section Break	Розрив розділу
 	Section Breaks	Розриви розділів
 	Section Character	Знак параграфа
@@ -1444,8 +1561,20 @@
 	Sections	Розділи
 	See	Див.
 	Select	Виділити
+	select a chart first	спочатку виділіть діаграму
+	select a connector first	спочатку виділіть сполучну лінію
+	select a drawing canvas first	спочатку виділіть полотно малювання
+	select a floating picture or shape first	спочатку виділіть плаваюче зображення або фігуру
+	select a group first	спочатку виділіть групу
+	select a picture first	спочатку виділіть зображення
+	select a picture or shape first	спочатку виділіть зображення або фігуру
 	Select a picture, shape, chart or table to describe it.	Виберіть зображення, фігуру, діаграму або таблицю, щоб описати її.
 	Select a printer	Виберіть принтер
+	select a shape first	спочатку виділіть фігуру
+	Select a shape, text box or drawing canvas to format its fill.	Виберіть фігуру, текстове поле або полотно, щоб налаштувати заливку.
+	select a SmartArt graphic first	спочатку виділіть графічний об’єкт SmartArt
+	select a text box first	спочатку виділіть текстове поле
+	select a text box linked to another first	спочатку виділіть текстове поле, зв’язане з іншим
 	Select All	Виділити все
 	Select Cell	Виділити клітинку
 	Select Column	Виділити стовпець
@@ -1455,6 +1584,7 @@
 	Select Paragraph	Виділити абзац
 	Select Range	Виділити діапазон
 	Select Recipients	Вибрати одержувачів
+	select recipients first	спочатку виберіть одержувачів
 	Select recipients first to choose from their fields.	Спершу виберіть одержувачів, щоб вибрати з їхніх полів.
 	Select recipients first to match their fields.	Спершу виберіть одержувачів, щоб зіставити їхні поля.
 	Select Row	Виділити рядок таблиці
@@ -1465,14 +1595,17 @@
 	Select Text with Similar Formatting	Виділити текст зі схожим форматуванням
 	Select text, then tick who can still edit it.	Виділіть текст і позначте, хто може його редагувати.
 	select two or more cells to merge	виділіть дві або більше клітинок, щоб об'єднати їх
+	select two or more pictures or shapes first (Shift+click)	спочатку виділіть два або більше зображень чи фігур (Shift+клацання)
 	Select Word	Виділити слово
 	Select\nRecipients	Вибрати\nодержувачів
 	Selected Fields	Вибрані поля
+	Selected text	До виділеного тексту
 	Selection	Виділення
 	Selection Pane	Панель виділення
 	Send the document straight to the system print dialog, or save a copy in another format below.	Надішліть документ безпосередньо до системного діалогу друку або збережіть копію в іншому форматі нижче.
 	Sentence	Речення
 	Sentence case.	Як у реченні.
+	Separate text at	Розділювач тексту
 	Separator:	Роздільник:
 	Sequence name:	Назва послідовності:
 	Serbian (Cyrillic)	Сербська (кирилиця)
@@ -1528,11 +1661,14 @@
 	Show Markup	Показати позначки
 	Show Notes	Показати примітки
 	Show only comments and formatting in balloons	Показувати у виносках лише коментарі й форматування
+	Show only records that will be merged	Показувати лише записи для злиття
 	Show or Hide Style	Показати або сховати стиль
+	Show Quick Access Toolbar	Показати панель швидкого доступу
 	Show revisions in balloons	Показувати виправлення у виносках
 	Show Text Formatting	Показати форматування тексту
 	Show the community button in the title bar	Показувати кнопку спільноти в заголовку вікна
 	Show the mini toolbar when text is selected	Показувати міні-панель інструментів під час виділення тексту
+	Show the ribbon	Показати стрічку
 	Show the Start screen when WordCraft starts	Показувати початковий екран під час запуску WordCraft
 	Show/Hide ¶	Показати/приховати ¶
 	Show\nComments	Показати\nкоментарі
@@ -1572,9 +1708,11 @@
 	SmartArt Design	Конструктор SmartArt
 	SmartArt Styles	Стилі SmartArt
 	Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once.	Плавне прокручування й масштабування, а також поступова поява меню та кнопок. Якщо вибрано «Вимкнено», усі зміни відображаються одразу.
+	Soft	М'який
 	Soft Edges	М'які краї
 	Soft Glow	М'яке світіння
 	Solid Accent	Суцільний акцент
+	Solid fill	Суцільна заливка
 	Sort by:	Сортувати за:
 	Sort order:	Порядок сортування:
 	Sort Recipients	Сортування одержувачів
@@ -1601,6 +1739,7 @@
 	Spelling &\nGrammar	Правопис і\nграматика
 	Spelling and grammar are checked in English (United States).	Правопис і граматика перевіряються англійською (США).
 	Spelling Suggestions	Пропозиції правопису
+	Spike	Накопичувач
 	Split Cells	Розділити клітинки
 	Split Table	Розділити таблицю
 	Spreadsheet Table	Таблиця електронної таблиці
@@ -1660,6 +1799,7 @@
 	Table Properties	Властивості таблиці
 	Table Properties…	Властивості таблиці…
 	Table Row Height	Висота рядка таблиці
+	Table size	Розмір таблиці
 	Table Style Options	Параметри стилю таблиці
 	Table Styles	Стилі таблиць
 	Tabs	Табуляція
@@ -1670,8 +1810,10 @@
 	TC entry fields	Поля елементів TC
 	Technology	Технології
 	Templates and Add-ins	Шаблони й надбудови
+	Templates you save in your templates folder show up here.	Тут з’являються шаблони, які ви зберігаєте в теці шаблонів.
 	Text Box	Текстове поле
 	Text boxes	Текстові поля
+	text boxes can't go inside a text box	текстові поля не можна вставити в текстове поле
 	Text Direction	Напрямок тексту
 	Text Effects	Текстові ефекти
 	Text Effects and Typography	Текстові ефекти й типографіка
@@ -1691,17 +1833,25 @@
 	That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on.	Цей формат зберігає не все, тому документ залишається відкритим. Щоб продовжити, збережіть його як документ Word (.docx).
 	That password isn't right. Check it (passwords are case-sensitive) and try again.	Пароль неправильний. Перевірте його (паролі враховують регістр) і спробуйте ще раз.
 	The clipboard is empty.	Буфер обміну порожній.
+	the Clipboard pane is empty	область «Буфер обміну» порожня
+	the cursor isn't in a table	курсор не в таблиці
 	The date it is today	Сьогоднішня дата
 	The document has no bookmarks yet.	У документі ще немає закладок.
+	the document is protected	документ захищено
 	The document is read only, except for regions marked editable.	Документ лише для читання, крім областей, позначених для редагування.
 	The document will be saved with a password. Save it to protect it.	Документ буде збережено з паролем. Збережіть його, щоб захистити.
 	The document you are editing keeps the names and dates; only the saved file leaves them out.	Документ, який ви редагуєте, зберігає імена й дати; їх не буде лише у збереженому файлі.
 	The margins don't fit on a page this size; make the margins smaller first.	Поля не вміщуються на сторінці такого розміру; спершу зменште поля.
+	The measurement must be between {min} and {max}.	Розмір має бути від {min} до {max}.
 	The new style takes the formatting of the current paragraph.	Новий стиль використовує форматування поточного абзацу.
+	The number must be between 1 and {max}.	Число має бути від 1 до {max}.
+	the paragraph is empty	абзац порожній
+	the paragraph starts with a space	абзац починається з пробілу
 	The password is optional; without it anyone can stop the protection.	Пароль необов'язковий; без нього будь-хто може вимкнути захист.
 	The password is removed. Save the document to keep the change.	Пароль видалено. Збережіть документ, щоб зберегти зміну.
 	The printer, two-sided printing and pages per sheet are chosen in that dialog.	Принтер, двобічний друк і кількість сторінок на аркуші вибирають у цьому діалозі.
 	The recipient-list field that fills each part of an address block and greeting line.	Поле списку одержувачів, яке заповнює кожну частину блоку адреси та рядка привітання.
+	the Spike is empty	накопичувач порожній
 	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	Системне діалогове вікно файлів недоступне, тож WordCraft показує власне. Щоб отримати системне вікно, установіть портал вибору файлів (наприклад, xdg-desktop-portal-gtk) або zenity.
 	The time right now	Поточний час
 	Theme Colors	Кольори теми
@@ -1711,12 +1861,14 @@
 	Then by	Потім за
 	Then insert:	Тоді вставити:
 	there is no ink to replay	немає рукописних приміток для відтворення
+	there is nothing to undo	немає чого скасовувати
 	there's no citation after the caret	після курсора немає цитати
 	Thesaurus	Тезаурус
 	These marks show even when Show/Hide ¶ is off.	Ці знаки відображаються, навіть коли «Показати/приховати ¶» вимкнено.
 	These merge fields aren't in the recipient list:	Цих полів злиття немає в списку одержувачів:
 	These settings will be used for new documents.	Ці параметри використовуватимуться для нових документів.
 	Thick	Товста
+	this chart was made in another program: WordCraft shows it but can't edit it	цю діаграму створено в іншій програмі: WordCraft показує її, але не може редагувати
 	This document	Цей документ
 	This field has no options.	Це поле не має параметрів.
 	This folder can't be read: {error}	Не вдається прочитати цю теку: {error}
@@ -1726,6 +1878,8 @@
 	This password type isn't supported.	Цей тип пароля не підтримується.
 	This point forward	Від цього місця
 	This section	Цей розділ
+	this SmartArt was made in another program: WordCraft shows it but can't edit it	цей SmartArt створено в іншій програмі: WordCraft показує його, але не може редагувати
+	this text box is already linked: break the link first	це текстове поле вже зв’язане: спочатку розірвіть зв’язок
 	Three	Три
 	Through	Наскрізне
 	Tight	Щільний
@@ -1735,6 +1889,7 @@
 	Title from the document properties	Назва документа
 	Title:	Заголовок:
 	To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All.	Щоб документи Word типово відкривалися у WordCraft: виберіть документ у Finder, оберіть Файл › Отримати інфо, виберіть WordCraft у розділі «Відкривати за допомогою» і натисніть «Змінити все».
+	To:	По:
 	Today	Сьогодні
 	Toggle Check Box	Перемкнути прапорець
 	Toggle Field Codes	Перемкнути коди полів
@@ -1771,6 +1926,7 @@
 	Type +2 or -1 to move from the page you are on.	Введіть +2 або -1, щоб перейти на стільки сторінок від поточної.
 	Type a command, e.g. "insert table"	Введіть команду, наприклад «вставити таблицю»
 	Type a New List…	Ввести новий список…
+	Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions.	Введіть розмір у будь-яких одиницях, наприклад 5 cm або 300 px. Інша сторона зміниться разом із нею, тож зображення збереже пропорції.
 	Type at least one recipient.	Введіть принаймні одного одержувача.
 	Type Character Code	Ввести код символу
 	Type in Equation	Введення в рівнянні
@@ -1782,6 +1938,7 @@
 	Typing replaces selected text	Введення замінює виділений текст
 	Ukrainian	Українська
 	Unchecked symbol	Символ вимкненого стану
+	Underline Color	Колір підкреслення
 	Underline color	Колір підкреслення
 	Underline Words Only	Підкреслити лише слова
 	Undo 1 Action	Скасувати 1 дію
@@ -1811,6 +1968,7 @@
 	Use wildcards	Використовувати шаблони
 	User Name	Ім'я користувача
 	User name:	Ім'я користувача:
+	User templates:	Шаблони користувача:
 	Username	Ім'я користувача
 	Version History	Історія версій
 	Version {version} ({build})	Версія {version} ({build})
@@ -1875,6 +2033,8 @@
 	Zotero	Zotero
 	Zotero: cancelled	Zotero: скасовано
 	Zotero: done	Zotero: готово
+	{added}; {count} couldn't be read: {names}	{added}; не вдалося прочитати ({count}): {names}
+	{added}; {n} skipped (limit {max})	{added}; пропущено: {n} (ліміт {max})
 	{cols}×{rows} Table	Таблиця {cols}×{rows}
 	{contributors} contributors · {commits} commits	Учасників: {contributors} · комітів: {commits}
 	{count} items highlighted	Виділено елементів: {count}
@@ -1887,6 +2047,7 @@
 	{language} is now the document's default language.	{language} тепер типова мова документа.
 	{language}: no dictionary found	{language}: словник не знайдено
 	{language}: {file}	{language}: {file}
+	{names} and {n} more	{names} та ще {n}
 	{name}   {height} × {width} in	{name}   {height} × {width} дюйма
 	{name}   {height} × {width} mm	{name}   {height} × {width} мм
 	{name} already exists. Choose Save again to replace it.	{name} уже існує. Щоб замінити файл, виберіть «Зберегти» ще раз.
@@ -1898,5 +2059,6 @@
 	{selected} of {words} words	Слів: {words}; виділено: {selected}
 	{size} pt	{size} пт
 	{width} × {height} mm	{width} × {height} мм
+	{width} × {height} pixels	{width} × {height} пікс.
 	{words} words	Слів: {words}
 	“{text}” ({row}, {series}) isn't a number.	«{text}» ({row}, {series}) — не число.

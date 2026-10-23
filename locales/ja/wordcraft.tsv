@@ -29,8 +29,11 @@
 	3. Start enforcement	3. 保護の開始
 	<< Less	<< 表示を減らす
 	<< Remove	<< 削除
+	a drawing canvas can't be ungrouped	描画キャンバスはグループ解除できません
+	a drawing canvas can't go inside a text box	描画キャンバスはテキスト ボックス内に配置できません
 	A file dialog is already open.	ファイル ダイアログが既に開いています。
 	A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team.	Rust でゼロから書かれた、無料のオープンソース ワープロです。\nArtCraft チームの Crafting Apps のひとつです。
+	a group holding Word ink can't be ungrouped yet	Word のインクを含むグループはまだグループ解除できません
 	A mail merge field	差し込み用のフィールド
 	A numbered sequence (figures, tables…)	連番 (図、表…)
 	A password is required to open this document.	この文書を開くにはパスワードが必要です。
@@ -60,6 +63,7 @@
 	Add Condition	条件の追加
 	Add Field	フィールドの追加
 	Add Font…	フォントの追加…
+	Add gradient stop	分岐点を追加
 	Add line numbering	行番号を追加する
 	Add New Source…	新しい資料文献の追加…
 	Add Object to Selection	オブジェクトを選択範囲に追加
@@ -82,7 +86,9 @@
 	Add\nNote	メモの\n追加
 	Add\nPen	ペンの\n追加
 	Add\nShape	図形の\n追加
+	Added 1 font	フォントを 1 件追加しました
 	Added Fonts	追加したフォント
+	Added {n} fonts	フォントを {n} 件追加しました
 	Address	住所
 	Address Block	住所ブロック
 	Address labels	宛名ラベル
@@ -108,6 +114,7 @@
 	All Borders	格子
 	All caps	すべて大文字
 	All Commands	すべてのコマンド
+	All Fonts	すべてのフォント
 	All Levels	すべてのレベル
 	All Markup	すべての変更履歴
 	All pages in the range	範囲内のすべてのページ
@@ -129,6 +136,7 @@
 	Another file	別のファイル
 	Any Character	任意の 1 文字
 	Any Digit	任意の数字
+	Any field	任意のフィールド
 	Any Letter	任意の英字
 	Anyone can open this document. Encrypt it with a password to keep it private.	この文書は誰でも開けます。パスワードで暗号化すると内容を保護できます。
 	Anyone who opens the document will need this password.	この文書を開くすべての人にこのパスワードが必要になります。
@@ -143,6 +151,7 @@
 	Area	面
 	Arrange	配置
 	Arrange\nAll	整列
+	Article I.	第 I 条
 	Artistic Effects	アート効果
 	As Recommended	推奨順
 	As you type	入力中
@@ -158,8 +167,11 @@
 	AutoCorrect	オートコレクト
 	AutoCorrect Options	オートコレクトのオプション
 	AutoFit	自動調整
+	AutoFit behavior	自動調整
 	AutoFit Column by Double-Clicking	ダブルクリックで列の幅を自動調整
 	AutoFit Contents	文字列の幅に合わせる
+	AutoFit to contents	文字列の幅に合わせる
+	AutoFit to window	ウィンドウ幅に合わせる
 	AutoFit Window	ウィンドウ幅に合わせる
 	AutoFormat As You Type	入力オートフォーマット
 	Automatic ({language})	自動（{language}）
@@ -261,6 +273,7 @@
 	Cell Size	セルのサイズ
 	Cell\nMargins	セルの余白
 	Center	中央揃え
+	Center Glow	中央の光彩
 	Change Case	大文字/小文字の変換
 	Change Chart Type	グラフの種類の変更
 	Change Colors	色の変更
@@ -277,6 +290,7 @@
 	Change\nColors	色の\n変更
 	Changed lines:	変更された行:
 	Changes	変更箇所
+	Chapter 1	第 1 章
 	Chapter in a book	書籍の章
 	Chapters begin at:	章の開始:
 	Character Border	文字の罫線
@@ -297,6 +311,7 @@
 	Chart Design	グラフのデザイン
 	Chart Layouts	グラフのレイアウト
 	Chart Title	グラフ タイトル
+	charts and diagrams can't be moved or resized yet	グラフと図はまだ移動やサイズ変更ができません
 	Check Accessibility	アクセシビリティ チェック
 	Check Box Content Control	チェック ボックス コンテンツ コントロール
 	Check Compatibility	互換性チェック
@@ -337,6 +352,7 @@
 	Close Outline\nView	アウトライン表示\nを閉じる
 	Clustered Bar	集合横棒
 	Clustered Column	集合縦棒
+	cm	cm
 	Col #:	段:
 	Collapse	折りたたみ
 	Collapse Selection	選択範囲を縮小
@@ -359,6 +375,7 @@
 	Combine Documents	文書の組み込み
 	Combo Box Content Control	コンボ ボックス コンテンツ コントロール
 	Commands	コマンド
+	Commas	カンマ
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	PDF、印刷、画像では各ページの横にコメントと変更履歴を表示し、Web ページ、Markdown、テキストでは末尾にコメント一覧を付けます。
 	Comments Pane	コメント ウィンドウ
 	Communication	コミュニケーション
@@ -381,6 +398,7 @@
 	Content Control Properties	コンテンツ コントロールのプロパティ
 	Contents can't be edited	内容を編集できない
 	Context	コンテキスト
+	Continue from previous section	前のセクションから続ける
 	Continuous	現在の位置から開始
 	Continuous numbering	通し番号
 	Controls	コントロール
@@ -418,6 +436,7 @@
 	Cross-reference	相互参照
 	Cross-reference:	相互参照:
 	Current Position	現在の位置
+	Current record	現在のレコード
 	Current style: {style}	現在のスタイル: {style}
 	Curved Arrow Connector	曲線矢印コネクタ
 	Curved Connector	曲線コネクタ
@@ -441,6 +460,7 @@
 	Danish	デンマーク語
 	Dark Mode	ダーク モード
 	Dark page (white text on black)	ダーク ページ (黒地に白い文字)
+	Dark Variations	暗いバリエーション
 	Dark with Shadow	暗い色と影
 	Darkroom	暗室
 	Data Labels	データ ラベル
@@ -452,6 +472,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	装飾用のオブジェクトは見た目を整えるだけなので、スクリーン リーダーは読み上げません。
 	Decrease Font Size	フォント サイズの縮小
 	Decrease Indent	インデントを減らす
+	Deep	ディープ
 	Default tab stops:	既定のタブ間隔:
 	Define New Bullet	新しい行頭文字の定義
 	Define New Multilevel List	新しいアウトラインの定義
@@ -496,6 +517,8 @@
 	Discord community	Discord コミュニティ
 	Display for Review	変更内容の表示
 	Display text	表示テキスト
+	Distance from text	本文からの距離
+	Distance from text:	本文からの距離:
 	Distribute Columns	列の幅を揃える
 	Distribute letters	文字を均等に配置
 	Distribute Rows	行の高さを揃える
@@ -526,6 +549,7 @@
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Zotero、Mendeley、EndNote の引用と参考文献は読み上げません
 	Dot dash	一点鎖線
 	Dot-dash	一点鎖線
+	Dot-dot-dash	二点鎖線
 	Double	二重線
 	Double Closing Quote	二重引用符 (閉じ)
 	Double Opening Quote	二重引用符 (開き)
@@ -544,7 +568,10 @@
 	Drawing\nCanvas	描画キャンバス
 	Drop Cap	ドロップ キャップ
 	Drop cap	ドロップ キャップ
+	Drop Cap Options…	ドロップ キャップのオプション…
+	drop caps can't go in a table	ドロップキャップは表の中に入れられません
 	Drop-Down List Content Control	ドロップダウン リスト コンテンツ コントロール
+	Dropped	本文内に表示
 	Drops all formatting and pastes plain text.	書式をすべて取り除き、プレーン テキストとして貼り付けます。
 	E-mail Messages	電子メール
 	Edit Comment	コメントを編集
@@ -555,12 +582,15 @@
 	Edit Field…	フィールドの編集…
 	Edit Footer	フッターの編集
 	Edit Header	ヘッダーの編集
+	Edit Individual Documents…	個々のドキュメントを編集…
 	Edit Items	項目の編集
 	Edit Recipient List	アドレス帳の編集
 	Edit Source	資料文献の編集
 	Edit\nData	データの\n編集
 	Edit\nRecipient List	アドレス帳の編集
 	Edited	編集済み
+	Editing endnote	文末脚注を編集中
+	Editing footnote	脚注を編集中
 	Editing header/footer	ヘッダー/フッターを編集中
 	Editing in this document is restricted.	この文書の編集は制限されています。
 	Editing — edit the document directly	編集 — 文書を直接編集します
@@ -583,10 +613,17 @@
 	End of Word	単語の末尾
 	Endnotes	文末脚注
 	Endnotes to footnotes	文末脚注を脚注に変換
+	English (Australia)	英語（オーストラリア）
+	English (Canada)	英語（カナダ）
+	English (India)	英語（インド）
+	English (Ireland)	英語（アイルランド）
+	English (New Zealand)	英語（ニュージーランド）
+	English (South Africa)	英語（南アフリカ）
 	English (United Kingdom)	英語（英国）
 	English (United States)	英語（米国）
 	Engrave	浮き彫り
 	Enlarge symbol	記号を拡大
+	Enter a number.	数値を入力してください。
 	Enter formatting for number:	番号の書式:
 	Enter in Equation	数式内で Enter
 	Enter page number:	ページ番号を入力:
@@ -636,13 +673,16 @@
 	Field:	フィールド:
 	Field…	フィールド…
 	Figure	図
+	File locations	ファイルの場所
 	File name:	ファイル名:
+	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	[ファイル] › [新規] の [個人用] に、ここにある .dotx と .dotm のテンプレートが表示されます。[Word テンプレートとして保存] はここから始まります。
 	Fill	塗りつぶし
 	Fill color:	塗りつぶしの色:
 	Filling in forms	フォームへの入力
 	Film	映画
 	Filter and Sort	フィルターと並べ替え
 	Filter Recipients	宛先のフィルター
+	Find in list:	リスト内を検索:
 	Find Next Editable Region	次の編集可能な範囲を検索
 	Find Previous	前を検索
 	Find Recipient	宛先の検索
@@ -659,6 +699,7 @@
 	First line	最初の行
 	First line:	最初の行:
 	First Name	名
+	First Record	最初のレコード
 	First row of data contains column headers	データの先頭行を列見出しとして使う
 	Fit	サイズに合わせる
 	Fix Position on Page	ページ上で位置を固定する
@@ -680,6 +721,9 @@
 	Format Page Numbers	ページ番号の書式設定
 	Format Page Numbers…	ページ番号の書式設定…
 	Format Painter	書式のコピー/貼り付け
+	Format Shape	図形の書式設定
+	Format Shape Pane	図形の書式設定ウィンドウ
+	Format Shape…	図形の書式設定…
 	Formatted	書式変更
 	Formatted Text	書式付きテキスト
 	Formatting	書式
@@ -693,10 +737,17 @@
 	Fraction	分数
 	Fractions (1/2) as fraction characters (½)	分数 (1/2) を分数文字 (½) に
 	French (France)	フランス語（フランス）
+	From Bottom Left Corner	左下の角から
+	From Bottom Right Corner	右下の角から
+	From Center	中央から
 	From text:	本文からの距離:
+	From Top Left Corner	左上の角から
+	From Top Right Corner	右上の角から
 	from Unicode (hex)	Unicode (16 進)
+	From:	開始:
 	Full page of the same label	同じラベルで 1 ページ全体
 	Full Screen	全画面表示
+	Full Screen View	全画面ビュー
 	Full\nScreen	全画面\n表示
 	Function	関数
 	Gallery	ギャラリー
@@ -709,9 +760,15 @@
 	Go To	ジャンプ
 	Go to	移動
 	Go To (⌘⌥G)	ジャンプ (⌘⌥G)
+	Go to Record	レコードへ移動
 	Go to what:	移動先:
 	Go To…	ジャンプ…
+	Good afternoon	こんにちは
+	Good evening	こんばんは
+	Good morning	おはようございます
 	Grab bag	ランダム表示
+	Gradient fill	グラデーションの塗りつぶし
+	Gradient stops	グラデーションの分岐点
 	Graphic	図
 	Greater than	より大きい
 	Greater than or equal	以上
@@ -743,6 +800,7 @@
 	Hide Codes	コードを隠す
 	Hide from style lists	スタイルの一覧に表示しない
 	Hide Ink	インクを隠す
+	Hide Quick Access Toolbar	クイック アクセス ツール バーを非表示にする
 	Hide White Space	余白を非表示
 	Hide\nInk	インクを\n隠す
 	Hierarchy	階層構造
@@ -780,11 +838,14 @@
 	Immersive	イマーシブ
 	Immersive Reader	イマーシブ リーダー
 	Immersive\nReader	イマーシブ リーダー
+	Import…	インポート…
 	In Default apps, choose WordCraft for the document types you want it to open.	既定のアプリで、WordCraft で開きたい文書の種類ごとに WordCraft を選んでください。
 	In equations, typing a name after a backslash replaces it with its symbol.	数式では、円記号 (バックスラッシュ) の後に名前を入力すると記号に置き換わります。
 	In Front of Text	前面
 	In Line with Text	行内
+	In margin	余白に表示
 	In the margin	余白に表示
+	Include label and number	ラベルと番号を含める
 	Include level number from:	含めるレベルの番号:
 	Include page numbers	ページ番号を含める
 	Increase Font Size	フォント サイズの拡大
@@ -797,6 +858,8 @@
 	Indents and Spacing	インデントと間隔
 	Index	索引
 	Index and Tables	索引と目次
+	Indonesian	インドネシア語
+	Initial column width:	列の幅の初期値:
 	Initials:	イニシャル:
 	Ink	インク
 	Ink Replay	インクの再生
@@ -832,6 +895,7 @@
 	Insert Rows Below	下に行を挿入
 	Insert Shapes	図形の挿入
 	Insert SmartArt	SmartArt の挿入
+	Insert Spike	スパイクの挿入
 	Insert Structure	構造の挿入
 	Insert Symbol	記号の挿入
 	Insert Table	表の挿入
@@ -875,6 +939,7 @@
 	Keep with Next	次の段落と分離しない
 	Keep with next	次の段落と分離しない
 	Keeps the fonts and formatting of the copied text.	コピーしたテキストのフォントと書式を保持します。
+	Kerning for fonts:	カーニングを行う:
 	Keyboard shortcuts:	キーボード ショートカット:
 	Keys for this command:	このコマンドのキー:
 	Label changes with:	変更者のラベル:
@@ -886,6 +951,7 @@
 	Lasso Select	なげなわ選択
 	Last Column	最後の列
 	Last Name	姓
+	Last Record	最後のレコード
 	Last, First; Last, First	姓, 名; 姓, 名
 	Latin text font:	ラテン文字のフォント:
 	Layout Summary	レイアウトの概要
@@ -895,6 +961,7 @@
 	Leave Equation	数式を終了
 	Leave out the date and time of comments and tracked changes when saving	保存時にコメントと変更履歴の日時を含めない
 	Leave the equation (Esc)	数式を終了 (Esc)
+	leave the equation first	先に数式から出てください
 	Leave the label out of the caption	ラベルを図表番号に含めない
 	Left Border	左罫線
 	Left border	左罫線
@@ -911,6 +978,7 @@
 	Letters	レター
 	Level {n}	レベル {n}
 	Levels:	レベル:
+	Light Variations	明るいバリエーション
 	Light with Outline	明るい色と輪郭
 	Limit and\nLog	極限と\n対数
 	Limit consecutive hyphens to:	連続するハイフンの上限:
@@ -928,12 +996,21 @@
 	Line spacing:	行間:
 	Line Start	行頭
 	Linear	線形形式
+	Linear Diagonal - Bottom Left to Top Right	線形 (斜め) - 左下から右上
+	Linear Diagonal - Bottom Right to Top Left	線形 (斜め) - 右下から左上
+	Linear Diagonal - Top Left to Bottom Right	線形 (斜め) - 左上から右下
+	Linear Diagonal - Top Right to Bottom Left	線形 (斜め) - 右上から左下
+	Linear Down	線形 下方向
+	Linear Left	線形 左方向
+	Linear Right	線形 右方向
+	Linear Up	線形 上方向
 	Lines	行数
 	Lines added	追加行数
 	Lines and characters	行と文字
 	Lines deleted	削除行数
 	Lines only	行のみ
 	Lines per page:	1 ページの行数:
+	Lines to drop:	ドロップする行数:
 	Link entries to their headings	項目を見出しにリンクする
 	Link level to style:	レベルに対応付けるスタイル:
 	Link to Previous	前と同じヘッダー/フッター
@@ -943,11 +1020,14 @@
 	Link…	リンク…
 	List Definition	リストの定義
 	List entries	リストの項目
+	Lit from Bottom	下から照明
+	Lit from Top	上から照明
 	Load System Installed Fonts…	インストール済みシステムフォントを読み込む…
 	Loaded {count} system fonts.	{count} 個のシステムフォントを読み込みました。
 	Local font access is not supported by your browser.	お使いのブラウザーはローカルフォントへのアクセスに対応していません。
 	Local font access was denied.	ローカルフォントへのアクセスが拒否されました。
 	Location: {path}	場所: {path}
+	Lock aspect ratio	縦横比を固定する
 	Lock Fields	フィールドのロック
 	lowercase	小文字
 	Lum:	明るさ:
@@ -984,10 +1064,12 @@
 	Match Fields	フィールドの対応
 	Match prefix	語頭が一致する
 	Match suffix	語尾が一致する
+	Matches: {count}	一致: {count} 件
 	Math AutoCorrect	数式オートコレクト
 	Matrix	行列
 	Maximum	Maximum
 	Measurement units:	単位:
+	Merge cells before split	分割する前にセルを結合する
 	Merge Formatting	書式を結合
 	Merge Record #	差し込みレコード番号
 	Mesosphere	中間圏
@@ -995,6 +1077,7 @@
 	Mirror margins	見開きページ
 	Mirrored	見開きページ
 	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors.	MIT OR Apache-2.0。Copyright (c) 2026 ArtCraft チームおよび WordCraft の貢献者。
+	mm	mm
 	Moderate	やや狭い
 	Modify Style	スタイルの変更
 	Modify Table Style	表スタイルの変更
@@ -1006,9 +1089,12 @@
 	More Colors…	その他の色…
 	More Columns…	段組みの詳細設定…
 	More Commands…	その他のコマンド…
+	More Gradients…	その他のグラデーション…
 	More Paper Sizes…	その他の用紙サイズ…
 	More Symbols…	その他の記号…
+	More tabs	その他のタブ
 	More templates →	その他のテンプレート →
+	More Underlines…	その他の下線…
 	Move in Equation	数式内で移動
 	Move or Resize	移動またはサイズ変更
 	Move Paragraph Down	段落を下へ移動
@@ -1019,10 +1105,13 @@
 	Move Table by Dragging	ドラッグで表を移動
 	Move with Text	文字列と一緒に移動する
 	Moved from	移動元
+	Moved from:	移動元:
 	Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely.	移動したオブジェクトは、ページの端と中央、余白、ほかのオブジェクトに吸着します。Alt キーを押しながら移動すると自由に動かせます。
 	Moved to	移動先
+	Moved to:	移動先:
 	Moves	移動
 	Multilevel List	アウトライン
+	Multilevel List Library	アウトライン ライブラリ
 	Multiple Pages	複数ページ
 	My list has	範囲の先頭行
 	Name of the file this document is saved as	文書のファイル名
@@ -1064,9 +1153,12 @@
 	No Color	色なし
 	No contributor data was built into this copy.	このビルドには貢献者のデータが含まれていません。
 	No document is open. Create a document or open one first.	開いている文書がありません。先に文書を作成するか開いてください。
+	no equation at the caret	カーソル位置に数式がありません
 	No errors found: every merge field is in the recipient list.	エラーは見つかりませんでした。すべての差し込みフィールドが宛先リストにあります。
 	No Fill	塗りつぶしなし
+	No fill	塗りつぶしなし
 	No Glow	光彩なし
+	No Gradient	グラデーションなし
 	No grid	グリッドなし
 	No header row	見出し行なし
 	No icons match your search.	検索に一致するアイコンはありません。
@@ -1095,15 +1187,18 @@
 	Norwegian (Bokmål)	ノルウェー語（ブークモール）
 	Not	否定
 	Not available right now	現在は使用できません
+	not editing an equation	数式を編集していません
 	Not equal to	等しくない
 	Not linked: click a text box	リンクされていません: テキスト ボックスをクリックしてください
 	Not saved	未保存
 	Not saved yet	まだ保存されていません
+	Not set	未設定
 	Not set: the system's usual places	未設定: システムの標準の場所
 	Not used by any command	どのコマンドにも割り当てられていません
 	Not {name}	{name} なし
 	Nothing	なし
 	Nothing collected yet. Items you copy or cut appear here.	まだ何もありません。コピーまたは切り取った項目がここに表示されます。
+	nothing is selected	何も選択されていません
 	Now used by {command}	現在の割り当て: {command}
 	Nudge	少しずつ移動
 	Num Occurrences	繰り返し回数
@@ -1136,6 +1231,7 @@
 	Offset: Top	オフセット: 上
 	Offset: Top Left	オフセット: 左上
 	Offset: Top Right	オフセット: 右上
+	Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel.	旧メニュー キー: Alt, {keys}。続けて入力するか、Esc キーで取り消します。
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	オン: 入力や矢印キーの操作でカーソルが新しい位置へ滑らかに移動し、点滅もフェードします。オフ: カーソルは瞬時に移動し、点滅は表示と非表示が切り替わるだけです。
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	オン: WordCraft は [ファイル] › [ホーム] で開き、白紙の文書、テンプレート、最近使った文書を表示します。オフ: 白紙の文書を開きます。
 	One	1 段
@@ -1147,8 +1243,10 @@
 	Only comments can be added, except in regions marked editable.	編集可能とマークされた範囲を除き、コメントの追加のみ可能です。
 	Only for the selected text	選択したテキストのみ
 	Only form fields can be filled in.	フォーム フィールドへの入力のみ可能です。
+	only in Outline view	アウトライン表示でのみ使用できます
 	Only the allowed styles can be applied.	使用を許可されたスタイルだけを適用できます。
 	Only web (http, https) and email (mailto) links can be followed	開けるのは Web（http、https）とメール（mailto）のリンクだけです
+	Open a document first	先に文書を開いてください
 	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	システムのファイル ダイアログが表示されないときに、WordCraft 独自のブラウザーでファイルを開きます。
 	OpenDocument Text (*.odt)	OpenDocument テキスト (*.odt)
 	Opening print dialog…	印刷ダイアログを開いています…
@@ -1163,7 +1261,9 @@
 	Organizer…	オーガナイザー…
 	Orientation	印刷の向き
 	Original document	元の文書
+	Original size	元のサイズ
 	Other styles and their TOC level:	その他のスタイルと目次レベル:
+	Other:	その他:
 	Otherwise insert:	一致しなければ挿入:
 	Outline Level	アウトライン レベル
 	Outline level	アウトライン レベル
@@ -1189,7 +1289,9 @@
 	Page image (*.png)	ページ画像 (*.png)
 	Page Movement	ページの移動
 	Page Number	ページ番号
+	Page Number Format	ページ番号の書式
 	Page number style	ページ番号のスタイル
+	Page numbering	ページ番号
 	Page numbers at the right margin	ページ番号を右端に配置
 	Page on which a bookmarked passage falls	ブックマークのページ番号
 	Page Setup	ページ設定
@@ -1233,8 +1335,11 @@
 	Pens	ペン
 	People	人物
 	Periodical	定期刊行物
+	Personal	個人用
+	Personal Templates	個人用テンプレート
 	Personalize	個人設定
 	Phonetic Guide	ルビ
+	pi	pi
 	Pick a custom group (New Group makes one)	ユーザー設定グループを選んでください (新しいグループで作成できます)
 	Pick a field from the list	フィールドを選んでください
 	Picture	画像
@@ -1249,12 +1354,14 @@
 	Plain text (*.txt)	テキスト (*.txt)
 	Plain Text Content Control	プレーン テキスト コンテンツ コントロール
 	Play/Pause	再生/一時停止
+	Points and above	pt 以上
 	Polish	ポーランド語
 	Portuguese (Brazil)	ポルトガル語（ブラジル）
 	Portuguese (Portugal)	ポルトガル語（ポルトガル）
 	Postal Code	郵便番号
 	Preferred width:	推奨幅:
 	Preserve formatting during updates	更新時に書式を保持する
+	Preset gradients	グラデーションのプリセット
 	Press a key combination	キーの組み合わせを押してください
 	Preview Results	結果のプレビュー
 	Preview\nResults	結果のプレビュー
@@ -1265,9 +1372,12 @@
 	Previous Section	前へ
 	Previous Sentence	前の文
 	Previous sentence	前の文
+	Print Documents	ドキュメントを印刷
+	Print Documents…	ドキュメントを印刷…
 	Print failed: the printing worker stopped.	印刷に失敗しました：印刷ワーカーが停止しました。
 	Print failed: {error}	印刷できませんでした: {error}
 	Print job submitted.	印刷ジョブを送信しました。
+	Print job submitted: spooled {count} sheet(s)	印刷ジョブを送信しました: {count} 枚をスプールしました
 	Print job submitted: {receipt}	印刷ジョブを送信しました：{receipt}
 	Print Layout	印刷レイアウト
 	Print Markup	変更履歴とコメントを印刷
@@ -1296,6 +1406,7 @@
 	Quick Access Toolbar	クイック アクセス ツール バー
 	Quick Parts	クイック パーツ
 	Quick Tables	クイック表作成
+	Radial	放射
 	Radical	べき乗根
 	Raised/lowered	上げ/下げ
 	Read Aloud	音声読み上げ
@@ -1314,6 +1425,7 @@
 	Reads the clipboard's web content and keeps its formatting.	クリップボードの Web コンテンツを読み込み、書式を保持します。
 	Recent Colors	最近使用した色
 	Recent documents to show:	表示する最近使ったドキュメントの数:
+	Recently Used Fonts	最近使用したフォント
 	Recently used symbols:	最近使った記号:
 	Recipient List	宛先リスト
 	Recipient lists	宛先リスト
@@ -1324,6 +1436,7 @@
 	Recover	回復
 	Recover Unsaved Documents	保存されていない文書の回復
 	Rectangle	四角形
+	Rectangular	四角
 	Red:	赤:
 	Reduce Hanging Indent	ぶら下げインデントを減らす
 	References	参考資料
@@ -1337,6 +1450,7 @@
 	Reject All Changes	すべての変更を元に戻す
 	Reject Change	変更を元に戻す
 	Relationship	関係
+	Relative to original picture size	元の図のサイズを基準にする
 	Relaxed	ゆったり
 	Remove Added Font	追加したフォントの削除
 	Remove Background	背景の削除
@@ -1347,6 +1461,7 @@
 	Remove field	フィールドを削除
 	Remove Footer	フッターの削除
 	Remove from Quick Access Toolbar	クイック アクセス ツール バーから削除
+	Remove gradient stop	分岐点を削除
 	Remove Header	ヘッダーの削除
 	Remove Hyperlink	ハイパーリンクの削除
 	Remove my name from comments, changes and file properties when saving	保存時にコメント、変更、ファイルのプロパティから自分の名前を削除する
@@ -1423,6 +1538,7 @@
 	Rotate all text 90°	すべてのテキストを 90° 回転
 	Rotate Left 90°	左へ 90 度回転
 	Rotate Right 90°	右へ 90 度回転
+	Rotate with shape	図形と一緒に回転する
 	Rotation	回転角度
 	Rounded Rectangle	角丸四角形
 	Row	行
@@ -1435,10 +1551,12 @@
 	Résumé	履歴書
 	Sat:	鮮やかさ:
 	Save a copy in another format. Printing goes through a PDF you can print from any viewer.	コピーを別の形式で保存します。印刷は PDF を経由し、任意のビューアーから印刷できます。
+	Save as Word Template…	Word テンプレートとして保存…
 	Save documents	ドキュメントの保存
 	Save the document to turn on AutoSave	自動保存をオンにするには文書を保存してください
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	自動保存をオンにするには文書を保存してください（開いただけのファイルは、保存するまで書き換えられません）
 	Save these pages as PDF…	このページを PDF として保存…
+	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	.dotx テンプレートをテンプレート フォルダーに保存します。[ファイル] › [新規] の [個人用] に表示されます。
 	Saving {name} was cancelled, so it is still open and nothing was lost.	{name} の保存はキャンセルされました。文書は開いたままで、何も失われていません。
 	Scale	倍率
 	Scale Drawing	描画の拡大縮小
@@ -1453,6 +1571,7 @@
 	Search for templates	テンプレートを検索
 	Search icons	アイコンを検索
 	Search Options	検索オプション
+	Section 1.01	第 1.01 節
 	Section Break	セクション区切り
 	Section Breaks	セクション区切り
 	Section Character	セクション記号
@@ -1461,8 +1580,20 @@
 	Section Properties	セクションのプロパティ
 	Sections	セクション数
 	See	参照
+	select a chart first	先にグラフを選択してください
+	select a connector first	先にコネクタを選択してください
+	select a drawing canvas first	先に描画キャンバスを選択してください
+	select a floating picture or shape first	先に浮動の画像または図形を選択してください
+	select a group first	先にグループを選択してください
+	select a picture first	先に画像を選択してください
+	select a picture or shape first	先に画像または図形を選択してください
 	Select a picture, shape, chart or table to describe it.	説明する画像、図形、グラフ、または表を選択してください。
 	Select a printer	プリンターを選択
+	select a shape first	先に図形を選択してください
+	Select a shape, text box or drawing canvas to format its fill.	塗りつぶしを設定する図形、テキスト ボックス、または描画キャンバスを選択してください。
+	select a SmartArt graphic first	先に SmartArt グラフィックを選択してください
+	select a text box first	先にテキスト ボックスを選択してください
+	select a text box linked to another first	先に別のボックスにリンクされたテキスト ボックスを選択してください
 	Select Cell	セルの選択
 	Select Column	列の選択
 	Select Heading and Content	見出しと内容を選択
@@ -1471,6 +1602,7 @@
 	Select Paragraph	段落の選択
 	Select Range	範囲の選択
 	Select Recipients	宛先の選択
+	select recipients first	先に宛先を選択してください
 	Select recipients first to choose from their fields.	フィールドから選ぶには、まず宛先を選択してください。
 	Select recipients first to match their fields.	フィールドを対応付けるには、まず宛先を選択してください。
 	Select Row	行の選択
@@ -1481,14 +1613,17 @@
 	Select Text with Similar Formatting	同じ書式のテキストを選択
 	Select text, then tick who can still edit it.	テキストを選択し、編集できるユーザーをチェックします。
 	select two or more cells to merge	結合するセルを 2 つ以上選択してください
+	select two or more pictures or shapes first (Shift+click)	先に 2 つ以上の画像または図形を選択してください (Shift+クリック)
 	Select Word	単語の選択
 	Select\nRecipients	宛先の選択
 	Selected Fields	選択したフィールド
+	Selected text	選択したテキスト
 	Selection Pane	オブジェクトの選択と表示
 	Send Backward	背面へ移動
 	Send the document straight to the system print dialog, or save a copy in another format below.	文書をシステムの印刷ダイアログに直接送るか、下で別の形式のコピーを保存します。
 	Sentence	文
 	Sentence case.	文の先頭文字を大文字にする。
+	Separate text at	文字列の区切り
 	Separator:	区切り文字:
 	Sequence name:	連番の名前:
 	Serbian (Cyrillic)	セルビア語（キリル文字）
@@ -1545,12 +1680,15 @@
 	Show Markup	変更履歴とコメントの表示
 	Show Notes	注の表示
 	Show only comments and formatting in balloons	コメントと書式のみを吹き出しに表示
+	Show only records that will be merged	差し込むレコードのみ表示
 	Show or Hide Style	スタイルの表示/非表示
+	Show Quick Access Toolbar	クイック アクセス ツール バーを表示する
 	Show revisions in balloons	変更履歴を吹き出しに表示
 	Show rulers	ルーラーを表示する
 	Show Text Formatting	文字列の書式を表示
 	Show the community button in the title bar	タイトル バーにコミュニティ ボタンを表示する
 	Show the mini toolbar when text is selected	テキストを選択したときにミニ ツール バーを表示する
+	Show the ribbon	リボンを表示
 	Show the Start screen when WordCraft starts	WordCraft の起動時にスタート画面を表示する
 	Show/Hide ¶	編集記号の表示/非表示 ¶
 	Show\nComments	コメントの表示
@@ -1593,6 +1731,7 @@
 	Soft Edges	輪郭のぼかし
 	Soft Glow	柔らかい光彩
 	Solid Accent	アクセントの単色
+	Solid fill	単色の塗りつぶし
 	Sort by	並べ替えの基準
 	Sort by:	並べ替え:
 	Sort order:	並べ替え順:
@@ -1620,6 +1759,7 @@
 	Spelling &\nGrammar	スペル チェックと文章校正
 	Spelling and grammar are checked in English (United States).	スペルと文法は英語 (米国) でチェックされます。
 	Spelling Suggestions	スペルの候補
+	Spike	スパイク
 	Split Cells	セルの分割
 	Split Table	表の分割
 	Spreadsheet Table	スプレッドシート
@@ -1684,6 +1824,7 @@
 	Table Properties	表のプロパティ
 	Table Properties…	表のプロパティ…
 	Table Row Height	表の行の高さ
+	Table size	表のサイズ
 	Table Style Options	表スタイルのオプション
 	Table Styles	表のスタイル
 	Tabs…	タブ…
@@ -1693,8 +1834,10 @@
 	TC entry fields	TC 項目フィールド
 	Technology	テクノロジー
 	Templates and Add-ins	テンプレートとアドイン
+	Templates you save in your templates folder show up here.	テンプレート フォルダーに保存したテンプレートがここに表示されます。
 	Text Box	テキスト ボックス
 	Text boxes	テキスト ボックス
+	text boxes can't go inside a text box	テキスト ボックスはテキスト ボックス内に配置できません
 	Text Direction	文字列の方向
 	Text Effects	文字の効果
 	Text Effects and Typography	文字の効果と体裁
@@ -1714,17 +1857,25 @@
 	That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on.	その形式ではすべてを保存できないため、文書は開いたままです。続けるには Word 文書 (.docx) として保存してください。
 	That password isn't right. Check it (passwords are case-sensitive) and try again.	パスワードが正しくありません。確認して（大文字と小文字は区別されます）もう一度お試しください。
 	The clipboard is empty.	クリップボードは空です。
+	the Clipboard pane is empty	クリップボード ウィンドウは空です
+	the cursor isn't in a table	カーソルが表の中にありません
 	The date it is today	今日の日付
 	The document has no bookmarks yet.	この文書にはまだブックマークがありません。
+	the document is protected	文書は保護されています
 	The document is read only, except for regions marked editable.	編集可能とマークされた範囲を除き、この文書は読み取り専用です。
 	The document will be saved with a password. Save it to protect it.	文書はパスワード付きで保存されます。保護するには文書を保存してください。
 	The document you are editing keeps the names and dates; only the saved file leaves them out.	編集中のドキュメントには名前と日時が残ります。保存したファイルにだけ含まれません。
 	The margins don't fit on a page this size; make the margins smaller first.	この用紙サイズには余白が収まりません。先に余白を小さくしてください。
+	The measurement must be between {min} and {max}.	{min} から {max} までの値を指定してください。
 	The new style takes the formatting of the current paragraph.	新しいスタイルには現在の段落の書式が使われます。
+	The number must be between 1 and {max}.	1 から {max} までの数値を指定してください。
+	the paragraph is empty	段落が空です
+	the paragraph starts with a space	段落がスペースで始まっています
 	The password is optional; without it anyone can stop the protection.	パスワードは省略できます。省略すると、誰でも保護を中止できます。
 	The password is removed. Save the document to keep the change.	パスワードを削除しました。変更を保持するには文書を保存してください。
 	The printer, two-sided printing and pages per sheet are chosen in that dialog.	プリンター、両面印刷、1 枚あたりのページ数は、そのダイアログで選択します。
 	The recipient-list field that fills each part of an address block and greeting line.	住所ブロックとあいさつ文の各部分に使われる宛先リストのフィールドです。
+	the Spike is empty	スパイクは空です
 	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	システムのファイル ダイアログを利用できないため、WordCraft 独自のダイアログを表示しています。システムのダイアログを使うには、ファイル選択ポータル (xdg-desktop-portal-gtk など) または zenity をインストールしてください。
 	The time right now	現在の時刻
 	Theme Colors	テーマの色
@@ -1734,12 +1885,14 @@
 	Then by	次の基準
 	Then insert:	一致したら挿入:
 	there is no ink to replay	再生するインクがありません
+	there is nothing to undo	元に戻す操作はありません
 	there's no citation after the caret	カーソルの後に引用文献がありません
 	Thesaurus	類義語辞典
 	These marks show even when Show/Hide ¶ is off.	これらの記号は、[編集記号の表示/非表示 ¶] がオフでも表示されます。
 	These merge fields aren't in the recipient list:	次の差し込みフィールドは宛先リストにありません:
 	These settings will be used for new documents.	これらの設定は新しい文書に使用されます。
 	Thick	太線
+	this chart was made in another program: WordCraft shows it but can't edit it	このグラフは別のプログラムで作成されました: WordCraft で表示できますが編集はできません
 	This document	この文書
 	This field has no options.	このフィールドにはオプションがありません。
 	This folder can't be read: {error}	このフォルダーを読み取れません: {error}
@@ -1749,6 +1902,8 @@
 	This password type isn't supported.	この種類のパスワードはサポートされていません。
 	This point forward	これ以降
 	This section	このセクション
+	this SmartArt was made in another program: WordCraft shows it but can't edit it	この SmartArt は別のプログラムで作成されました: WordCraft で表示できますが編集はできません
+	this text box is already linked: break the link first	このテキスト ボックスは既にリンクされています: 先にリンクを解除してください
 	Three	3 段
 	Through	内部
 	Tight	狭い
@@ -1757,6 +1912,7 @@
 	Title from the document properties	文書のタイトル
 	Title:	タイトル:
 	To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All.	Word 文書を既定で WordCraft で開くには: Finder で文書を選び、ファイル › 情報を見る を選んで、「このアプリケーションで開く」で WordCraft を選び、「すべてを変更」をクリックします。
+	To:	終了:
 	Today	今日
 	Toggle Check Box	チェック ボックスの切り替え
 	Toggle Field Codes	フィールドコードの表示切り替え
@@ -1791,6 +1947,7 @@
 	Type +2 or -1 to move from the page you are on.	現在のページから移動するには +2 や -1 のように入力します。
 	Type a command, e.g. "insert table"	コマンドを入力（例: "insert table"）
 	Type a New List…	新しいリストを入力…
+	Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions.	5 cm や 300 px など、任意の単位でサイズを入力します。もう一方の辺も合わせて変わるため、図の縦横比は保たれます。
 	Type at least one recipient.	宛先を1件以上入力してください。
 	Type Character Code	文字コードの入力
 	Type in Equation	数式に入力
@@ -1802,6 +1959,7 @@
 	Typing replaces selected text	入力時に選択文字列を置き換える
 	Ukrainian	ウクライナ語
 	Unchecked symbol	オフの記号
+	Underline Color	下線の色
 	Underline color	下線の色
 	Underline Words Only	単語のみ下線
 	Undo	元に戻す
@@ -1833,6 +1991,7 @@
 	Use wildcards	ワイルドカードを使う
 	User Name	ユーザー名
 	User name:	ユーザー名:
+	User templates:	ユーザー テンプレート:
 	Version History	バージョン履歴
 	Version {version} ({build})	バージョン {version}（{build}）
 	Vertical Alignment	垂直方向の配置
@@ -1899,6 +2058,8 @@
 	Zotero	Zotero
 	Zotero: cancelled	Zotero: キャンセルしました
 	Zotero: done	Zotero: 完了
+	{added}; {count} couldn't be read: {names}	{added}。読み込めなかったもの {count} 件: {names}
+	{added}; {n} skipped (limit {max})	{added}。{n} 件をスキップしました (上限 {max})
 	{cols}×{rows} Table	{cols}×{rows} の表
 	{contributors} contributors · {commits} commits	貢献者 {contributors} 人 · コミット {commits} 件
 	{count} items highlighted	{count} 件を強調表示しました
@@ -1911,6 +2072,7 @@
 	{language} is now the document's default language.	{language} がこの文書の既定の言語になりました。
 	{language}: no dictionary found	{language}: 辞書が見つかりません
 	{language}: {file}	{language}: {file}
+	{names} and {n} more	{names} ほか {n} 件
 	{name}   {height} × {width} in	{name}   {height} × {width} インチ
 	{name}   {height} × {width} mm	{name}   {height} × {width} mm
 	{name} already exists. Choose Save again to replace it.	{name} は既に存在します。置き換えるには、もう一度 [保存] を選んでください。
@@ -1922,5 +2084,6 @@
 	{selected} of {words} words	{selected}/{words} 語
 	{size} pt	{size} pt
 	{width} × {height} mm	{width} × {height} mm
+	{width} × {height} pixels	{width} × {height} ピクセル
 	{words} words	{words} 語
 	“{text}” ({row}, {series}) isn't a number.	「{text}」（{row}、{series}）は数値ではありません。

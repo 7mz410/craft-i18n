@@ -43,8 +43,11 @@
 	3×3 Identity Matrix (sparse)	3×3 단위 행렬 (희소)
 	<< Less	<< 간단히
 	<< Remove	<< 제거
+	a drawing canvas can't be ungrouped	그리기 캔버스는 그룹 해제할 수 없습니다
+	a drawing canvas can't go inside a text box	그리기 캔버스는 텍스트 상자 안에 넣을 수 없습니다
 	A file dialog is already open.	파일 대화 상자가 이미 열려 있습니다.
 	A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team.	Rust로 처음부터 새로 만든 무료 오픈 소스 워드 프로세서입니다.\nArtCraft 팀의 Crafting Apps 제품군에 속합니다.
+	a group holding Word ink can't be ungrouped yet	Word 잉크가 들어 있는 그룹은 아직 그룹 해제할 수 없습니다
 	A mail merge field	메일 병합 필드
 	A numbered sequence (figures, tables…)	그림, 표 등에 붙이는 번호 매기기 시퀀스
 	A password is required to open this document.	문서를 열려면 암호가 필요합니다.
@@ -75,6 +78,7 @@
 	Add Chart Element	차트 요소 추가
 	Add Field	필드 추가
 	Add Font…	글꼴 추가…
+	Add gradient stop	그라데이션 중지점 추가
 	Add line numbering	줄 번호 추가
 	Add New Source…	새 원본 추가…
 	Add Object to Selection	선택 영역에 개체 추가
@@ -96,7 +100,9 @@
 	Add\nNote	메모\n추가
 	Add\nPen	펜\n추가
 	Add\nShape	도형\n추가
+	Added 1 font	글꼴 1개를 추가했습니다
 	Added Fonts	추가된 글꼴
+	Added {n} fonts	글꼴 {n}개를 추가했습니다
 	Address	주소
 	Address Block	주소 블록
 	Address labels	주소 레이블
@@ -124,6 +130,7 @@
 	All Borders	모든 테두리
 	All caps	모두 대문자
 	All Commands	모든 명령
+	All Fonts	모든 글꼴
 	All Levels	모든 수준
 	All Markup	모든 변경 내용
 	All pages in the range	범위의 모든 페이지
@@ -150,6 +157,7 @@
 	Another file	다른 파일
 	Any Character	임의의 문자
 	Any Digit	임의의 숫자
+	Any field	모든 필드
 	Any Letter	임의의 알파벳 문자
 	Anyone can open this document. Encrypt it with a password to keep it private.	누구나 이 문서를 열 수 있습니다. 비공개로 유지하려면 암호로 암호화하세요.
 	Anyone who opens the document will need this password.	문서를 여는 사람은 누구나 이 암호가 필요합니다.
@@ -164,6 +172,7 @@
 	Area	영역형
 	Arrange	정렬
 	Arrange\nAll	모두\n정렬
+	Article I.	제 I 조
 	Artistic Effects	예술 효과
 	As Recommended	권장 순서
 	As you type	입력할 때
@@ -180,8 +189,11 @@
 	AutoCorrect	자동 고침
 	AutoCorrect Options	자동 고침 옵션
 	AutoFit	자동 맞춤
+	AutoFit behavior	자동 맞춤
 	AutoFit Column by Double-Clicking	두 번 클릭하여 열 자동 맞춤
 	AutoFit Contents	내용에 맞게 자동 맞춤
+	AutoFit to contents	내용에 맞게 자동 맞춤
+	AutoFit to window	창에 맞게 자동 맞춤
 	AutoFit Window	창에 맞게 자동 맞춤
 	AutoFormat As You Type	입력할 때 자동 서식
 	Automatic ({language})	자동({language})
@@ -298,6 +310,7 @@
 	Cell Margins	셀 여백
 	Cell\nMargins	셀\n여백
 	Center	가운데 맞춤
+	Center Glow	가운데 광선
 	Centered as Group	그룹으로 가운데 맞춤
 	Change Case	대/소문자 바꾸기
 	Change Chart Type	차트 종류 변경
@@ -325,6 +338,7 @@
 	Change\nColors	색\n변경
 	Changed lines:	변경된 줄:
 	Changes	변경 내용
+	Chapter 1	제 1 장
 	Chapter in a book	도서의 장
 	Chapters begin at:	장 시작 번호:
 	Character Border	문자 테두리
@@ -344,6 +358,7 @@
 	Chart Design	차트 디자인
 	Chart Layouts	차트 레이아웃
 	Chart Title	차트 제목
+	charts and diagrams can't be moved or resized yet	차트와 다이어그램은 아직 이동하거나 크기를 조정할 수 없습니다
 	Check	카론(ˇ)
 	Check Accessibility	접근성 검사
 	Check Box Content Control	확인란 콘텐츠 컨트롤
@@ -388,6 +403,7 @@
 	Close Outline\nView	개요 보기\n닫기
 	Clustered Bar	묶은 가로 막대형
 	Clustered Column	묶은 세로 막대형
+	cm	cm
 	Col #:	열 번호:
 	Collapse Selection	선택 영역 축소
 	Collate copies	한 부씩 인쇄
@@ -407,6 +423,7 @@
 	Combine Documents	문서 결합
 	Combo Box Content Control	콤보 상자 콘텐츠 컨트롤
 	Commands	명령
+	Commas	쉼표
 	Comment	댓글
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	PDF, 인쇄물, 이미지에서는 각 페이지 옆에 주석과 변경 내용 추적을 표시하고, 웹 페이지, Markdown, 텍스트에서는 끝에 주석 목록을 표시합니다.
 	Comments Pane	댓글 창
@@ -438,6 +455,7 @@
 	Content Control Properties	콘텐츠 컨트롤 속성
 	Contents can't be edited	내용을 편집할 수 없음
 	Context	상황에 맞게
+	Continue from previous section	이전 구역에서 계속
 	Continuous	연속
 	Continuous numbering	연속 번호 매기기
 	Contour Integral	윤곽 적분
@@ -489,6 +507,7 @@
 	Current - Linear	현재 - 선형
 	Current - Professional	현재 - 전문
 	Current Position	현재 위치
+	Current record	현재 레코드
 	Current style: {style}	현재 스타일: {style}
 	Curved Arrow Connector	곡선 화살표 연결선
 	Curved Connector	곡선 연결선
@@ -510,6 +529,7 @@
 	Danish	덴마크어
 	Dark Mode	어두운 모드
 	Dark page (white text on black)	어두운 페이지(검은 배경에 흰색 텍스트)
+	Dark Variations	어두운 그라데이션
 	Dark with Shadow	그림자가 있는 어두운색
 	Darkroom	Darkroom
 	Data Labels	데이터 레이블
@@ -520,6 +540,7 @@
 	Decimal	소수점
 	Decorative objects only add visual interest: screen readers skip them.	장식용 개체는 시각적 효과만 더하며, 화면 읽기 프로그램에서 건너뜁니다.
 	Decrease Indent	들여쓰기 줄이기
+	Deep	진하게
 	Default Paragraph Font	기본 단락 글꼴
 	Default tab stops:	기본 탭 위치:
 	Define New Bullet	새 글머리 기호 정의
@@ -570,6 +591,8 @@
 	Discord community	Discord 커뮤니티
 	Display for Review	검토용 표시
 	Display text	표시 텍스트
+	Distance from text	본문과의 간격
+	Distance from text:	본문과의 간격:
 	Distribute Columns	열 균등 분할
 	Distribute letters	문자 균등 분할
 	Distribute Rows	행 균등 분할
@@ -598,6 +621,7 @@
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Zotero, Mendeley 또는 EndNote의 인용 및 참고 문헌을 읽지 않음
 	Dot dash	파선
 	Dot-dash	일점쇄선
+	Dot-dot-dash	이점쇄선
 	Double	이중선
 	Double Bar	이중 막대
 	Double Closing Quote	닫는 큰따옴표
@@ -630,7 +654,10 @@
 	Drawing\nCanvas	그리기\n캔버스
 	Drop Cap	문단 첫 글자 장식
 	Drop cap	문단 첫 글자 장식
+	Drop Cap Options…	문단 첫 글자 장식 옵션…
+	drop caps can't go in a table	표 안에는 첫 글자 장식을 넣을 수 없습니다
 	Drop-Down List Content Control	드롭다운 목록 콘텐츠 컨트롤
+	Dropped	본문 안
 	Drops all formatting and pastes plain text.	모든 서식을 제거하고 일반 텍스트로 붙여넣습니다.
 	E-mail Messages	전자 메일 메시지
 	Edit Comment	댓글 편집
@@ -640,12 +667,15 @@
 	Edit Field…	필드 편집…
 	Edit Footer	바닥글 편집
 	Edit Header	머리글 편집
+	Edit Individual Documents…	개별 문서 편집…
 	Edit Items	항목 편집
 	Edit Recipient List	받는 사람 목록 편집
 	Edit Source	원본 편집
 	Edit\nData	데이터\n편집
 	Edit\nRecipient List	받는 사람\n목록 편집
 	Edited	편집됨
+	Editing endnote	미주 편집
+	Editing footnote	각주 편집
 	Editing header/footer	머리글/바닥글 편집
 	Editing in this document is restricted.	이 문서에서는 편집이 제한되어 있습니다.
 	Editing — edit the document directly	편집 — 문서를 직접 편집합니다
@@ -670,10 +700,17 @@
 	Endnote Text	미주 텍스트
 	Endnotes	미주
 	Endnotes to footnotes	미주를 각주로 변환
+	English (Australia)	영어(오스트레일리아)
+	English (Canada)	영어(캐나다)
+	English (India)	영어(인도)
+	English (Ireland)	영어(아일랜드)
+	English (New Zealand)	영어(뉴질랜드)
+	English (South Africa)	영어(남아프리카 공화국)
 	English (United Kingdom)	영어(영국)
 	English (United States)	영어(미국)
 	Engrave	음각
 	Enlarge symbol	기호 확대
+	Enter a number.	숫자를 입력하세요.
 	Enter formatting for number:	번호 서식 입력:
 	Enter in Equation	수식에서 Enter 입력
 	Enter page number:	페이지 번호 입력:
@@ -724,12 +761,15 @@
 	Field:	필드:
 	Field…	필드…
 	Figure	그림
+	File locations	파일 위치
 	File name:	파일 이름:
+	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	파일 › 새로 만들기의 개인 아래에 이 폴더의 .dotx 및 .dotm 서식 파일이 표시됩니다. Word 서식 파일로 저장은 여기에서 시작합니다.
 	Fill	채우기
 	Fill color:	채우기 색:
 	Filling in forms	양식 작성
 	Film	영화
 	Filter Recipients	받는 사람 필터
+	Find in list:	목록에서 찾기:
 	Find Next Editable Region	다음 편집 가능 영역 찾기
 	Find Previous	이전 찾기
 	Find Recipient	받는 사람 찾기
@@ -745,6 +785,7 @@
 	First line	첫 줄
 	First line:	첫 줄:
 	First Name	이름
+	First Record	첫 레코드
 	First row of data contains column headers	데이터의 첫 번째 행에 열 머리글이 포함됨
 	Fix Position on Page	페이지에서 위치 고정
 	Fixed Column Width	고정 열 너비
@@ -767,6 +808,9 @@
 	Format Page Numbers	페이지 번호 서식
 	Format Page Numbers…	페이지 번호 서식…
 	Format Painter	서식 복사
+	Format Shape	도형 서식
+	Format Shape Pane	도형 서식 창
+	Format Shape…	도형 서식…
 	Formatted	서식 지정됨
 	Formatted Text	서식 있는 텍스트
 	Formatting	서식
@@ -780,9 +824,16 @@
 	Fraction	분수
 	Fractions (1/2) as fraction characters (½)	분수(1/2)를 분수 문자(½)로 바꾸기
 	French (France)	프랑스어(프랑스)
+	From Bottom Left Corner	왼쪽 아래 모서리에서
+	From Bottom Right Corner	오른쪽 아래 모서리에서
+	From Center	가운데에서
 	From text:	텍스트에서:
+	From Top Left Corner	왼쪽 위 모서리에서
+	From Top Right Corner	오른쪽 위 모서리에서
 	from Unicode (hex)	Unicode (16진수)에서
+	From:	시작:
 	Full page of the same label	같은 레이블 전체 페이지
+	Full Screen View	전체 화면 보기
 	Function	함수
 	Functions	함수
 	Gallery	Gallery
@@ -794,11 +845,15 @@
 	Go To	이동
 	Go to	이동
 	Go To (⌘⌥G)	이동(⌘⌥G)
+	Go to Record	레코드로 이동
 	Go To…	이동…
 	Good afternoon	좋은 오후입니다
 	Good evening	좋은 저녁입니다
 	Good morning	좋은 아침입니다
 	Grab bag	모음
+	Gradient	그라데이션
+	Gradient fill	그라데이션 채우기
+	Gradient stops	그라데이션 중지점
 	Grave	그레이브(`)
 	Greek	그리스어
 	Greek Letters	그리스 문자
@@ -833,6 +888,7 @@
 	Hide Codes	코드 숨기기
 	Hide from style lists	스타일 목록에서 숨기기
 	Hide Ink	잉크 숨기기
+	Hide Quick Access Toolbar	빠른 실행 도구 모음 숨기기
 	Hide White Space	공백 숨기기
 	Hide\nInk	잉크\n숨기기
 	Hierarchy	계층 구조
@@ -883,6 +939,8 @@
 	In equations, typing a name after a backslash replaces it with its symbol.	수식에서 역슬래시 뒤에 이름을 입력하면 해당 기호로 바뀝니다.
 	In Front of Text	텍스트 앞
 	In Line with Text	텍스트 줄 안
+	In margin	여백에
+	Include label and number	레이블 및 번호 포함
 	Include level number from:	다음 수준 번호 포함:
 	Include page numbers	페이지 번호 포함
 	Increase Indent	들여쓰기 늘리기
@@ -895,6 +953,8 @@
 	Index and Tables	색인 및 목차
 	Index Heading	색인 제목
 	Index {n}	색인 {n}
+	Indonesian	인도네시아어
+	Initial column width:	초기 열 너비:
 	Initials:	이니셜:
 	Ink	잉크
 	Ink Replay	잉크 재생
@@ -930,6 +990,7 @@
 	Insert Rows Below	아래에 행 삽입
 	Insert Shapes	도형 삽입
 	Insert SmartArt	SmartArt 삽입
+	Insert Spike	스파이크 삽입
 	Insert Structure	구조 삽입
 	Insert Symbol	기호 삽입
 	Insert Table	표 삽입
@@ -994,6 +1055,7 @@
 	Keep with Next	다음 단락과 함께 유지
 	Keep with next	다음 단락과 함께 유지
 	Keeps the fonts and formatting of the copied text.	복사한 텍스트의 글꼴과 서식을 유지합니다.
+	Kerning for fonts:	글꼴 커닝:
 	Keyboard shortcuts:	바로 가기 키:
 	Keys for this command:	이 명령의 키:
 	Label changes with:	변경 내용 작성자 표시:
@@ -1003,6 +1065,7 @@
 	Lasso Select	올가미 선택
 	Last Column	마지막 열
 	Last Name	성
+	Last Record	마지막 레코드
 	Last, First; Last, First	성, 이름; 성, 이름
 	Latin text font:	라틴 문자 글꼴:
 	Layout Summary	레이아웃 요약
@@ -1011,6 +1074,7 @@
 	Leave a recipient out of the merge when a field has this value.	필드 값이 이 값인 경우 병합에서 받는 사람을 제외합니다.
 	Leave Equation	수식 종료
 	Leave the equation (Esc)	수식 종료 (Esc)
+	leave the equation first	먼저 수식에서 나가세요
 	Leave the label out of the caption	캡션에서 레이블 제외
 	Left Arrow with Text Above	위에 텍스트가 있는 왼쪽 화살표
 	Left Arrow with Text Below	아래에 텍스트가 있는 왼쪽 화살표
@@ -1044,6 +1108,7 @@
 	Level 9	수준 9
 	Level {n}	수준 {n}
 	Levels:	수준:
+	Light Variations	밝은 그라데이션
 	Light with Outline	윤곽선 있는 밝은색
 	Limit	극한
 	Limit and\nLog	극한 및\n로그
@@ -1064,11 +1129,20 @@
 	Line Spacing Options…	줄 간격 옵션…
 	Line spacing:	줄 간격:
 	Line Start	줄 시작
+	Linear Diagonal - Bottom Left to Top Right	선형 대각선 - 왼쪽 아래에서 오른쪽 위
+	Linear Diagonal - Bottom Right to Top Left	선형 대각선 - 오른쪽 아래에서 왼쪽 위
+	Linear Diagonal - Top Left to Bottom Right	선형 대각선 - 왼쪽 위에서 오른쪽 아래
+	Linear Diagonal - Top Right to Bottom Left	선형 대각선 - 오른쪽 위에서 왼쪽 아래
+	Linear Down	선형 아래쪽
 	Linear Fraction	선형 분수
+	Linear Left	선형 왼쪽
+	Linear Right	선형 오른쪽
+	Linear Up	선형 위쪽
 	Lines	줄
 	Lines and characters	선 및 문자
 	Lines only	선만
 	Lines per page:	페이지당 줄 수:
+	Lines to drop:	장식할 줄 수:
 	Link entries to their headings	항목을 제목에 연결
 	Link level to style:	수준을 스타일에 연결:
 	Link to Previous	이전 머리글/바닥글과 연결
@@ -1082,11 +1156,14 @@
 	List Table 3 – Green	목록 표 3 – 녹색
 	List Table 3 – Orange	목록 표 3 – 주황
 	List Table 3 – Purple	목록 표 3 – 보라
+	Lit from Bottom	아래에서 조명
+	Lit from Top	위에서 조명
 	Load System Installed Fonts…	시스템에 설치된 글꼴 불러오기…
 	Loaded {count} system fonts.	시스템 글꼴 {count}개를 불러왔습니다.
 	Local font access is not supported by your browser.	이 브라우저는 로컬 글꼴 액세스를 지원하지 않습니다.
 	Local font access was denied.	로컬 글꼴 액세스가 거부되었습니다.
 	Location: {path}	위치: {path}
+	Lock aspect ratio	가로 세로 비율 고정
 	Lock Fields	필드 잠금
 	Logarithm	로그
 	Logarithm with Base	밑이 있는 로그
@@ -1127,6 +1204,7 @@
 	Match Fields	필드 일치
 	Match prefix	접두사 일치
 	Match suffix	접미사 일치
+	Matches: {count}	일치: {count}개
 	Math AutoCorrect	수학 자동 고침
 	Matrices with Brackets	괄호 행렬
 	Matrix	행렬
@@ -1134,6 +1212,7 @@
 	Maximum Example	최댓값 예
 	Measured By	측정 기준
 	Measurement units:	측정 단위:
+	Merge cells before split	나누기 전에 셀 병합
 	Merge Formatting	서식 병합
 	Merge Record #	병합 레코드 번호
 	Mesosphere	중간권
@@ -1143,6 +1222,7 @@
 	Mirror indents	좌우 대칭 들여쓰기
 	Mirrored	좌우 대칭
 	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors.	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors.
+	mm	mm
 	Moderate	보통
 	Modify Style	스타일 수정
 	Modify Table Style	표 스타일 수정
@@ -1154,8 +1234,11 @@
 	More Colors…	색 더 보기…
 	More Columns…	열 더 보기…
 	More Commands…	명령 더 보기…
+	More Gradients…	기타 그라데이션…
 	More Symbols…	기호 더 보기…
+	More tabs	탭 더 보기
 	More templates →	템플릿 더 보기 →
+	More Underlines…	밑줄 더 보기…
 	Move in Equation	수식 내에서 이동
 	Move or Resize	이동 또는 크기 조정
 	Move Paragraph Down	단락 아래로 이동
@@ -1169,6 +1252,7 @@
 	Moved to	이동한 위치(끝)
 	Moves	이동
 	Multilevel List	다단계 목록
+	Multilevel List Library	다단계 목록 라이브러리
 	Multiple Pages	여러 페이지
 	My list has	목록 첫 행
 	Name of the file this document is saved as	문서가 저장된 파일 이름
@@ -1204,9 +1288,12 @@
 	No changes (read only)	변경 내용 없음(읽기 전용)
 	No Color	색 없음
 	No contributor data was built into this copy.	이 빌드에는 기여자 정보가 포함되지 않았습니다.
+	no equation at the caret	커서 위치에 수식이 없습니다
 	No errors found: every merge field is in the recipient list.	오류가 없습니다. 모든 병합 필드가 받는 사람 목록에 있습니다.
 	No Fill	채우기 없음
+	No fill	채우기 없음
 	No Glow	광채 없음
+	No Gradient	그라데이션 없음
 	No grid	눈금 없음
 	No header row	머리글 행 없음
 	No icons match your search.	검색 조건에 맞는 아이콘이 없습니다.
@@ -1240,13 +1327,16 @@
 	Norwegian (Bokmål)	노르웨이어(보크몰)
 	Not	아님
 	Not available right now	현재 사용할 수 없음
+	not editing an equation	수식을 편집하고 있지 않습니다
 	Not linked: click a text box	연결되지 않음: 텍스트 상자를 클릭하세요
 	Not saved	저장되지 않음
 	Not saved yet	아직 저장되지 않음
+	Not set	설정 안 됨
 	Not used by any command	어떤 명령에서도 사용되지 않음
 	Not {name}	{name} 아님
 	Nothing	없음
 	Nothing collected yet. Items you copy or cut appear here.	아직 수집된 항목이 없습니다. 복사하거나 잘라낸 항목이 여기에 표시됩니다.
+	nothing is selected	선택한 항목이 없습니다
 	Now used by {command}	현재 {command}에 할당됨
 	Nudge	미세 이동
 	Num Occurrences	발생 횟수
@@ -1281,6 +1371,7 @@
 	Offset: Top	오프셋: 위쪽
 	Offset: Top Left	오프셋: 왼쪽 위
 	Offset: Top Right	오프셋: 오른쪽 위
+	Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel.	이전 메뉴 키: Alt, {keys}. 계속 입력하거나 Esc 키를 눌러 취소하세요.
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	사용: 입력하거나 방향키를 누르면 커서가 새 위치로 부드럽게 이동하고 깜박임이 서서히 사라집니다. 사용 안 함: 커서가 바로 이동하고 깜박임이 켜졌다 꺼집니다.
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	켜기: WordCraft를 실행하면 파일 › 홈에 빈 문서, 서식 파일 및 최근 문서가 표시됩니다. 끄기: 빈 문서가 열립니다.
 	One	하나
@@ -1292,8 +1383,10 @@
 	Only allow this kind of editing:	다음 유형의 편집만 허용:
 	Only comments can be added, except in regions marked editable.	편집 가능으로 표시된 영역을 제외하고 주석만 추가할 수 있습니다.
 	Only form fields can be filled in.	양식 필드만 채울 수 있습니다.
+	only in Outline view	개요 보기에서만 사용할 수 있습니다
 	Only the allowed styles can be applied.	허용된 스타일만 적용할 수 있습니다.
 	Only web (http, https) and email (mailto) links can be followed	웹(http, https) 및 이메일(mailto) 링크만 열 수 있습니다.
+	Open a document first	먼저 문서를 여세요
 	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	시스템 파일 대화상자가 나타나지 않을 때 WordCraft의 파일 브라우저로 파일을 엽니다.
 	OpenDocument Text (*.odt)	OpenDocument Text (*.odt)
 	Opening print dialog…	인쇄 대화 상자 여는 중…
@@ -1308,8 +1401,10 @@
 	Organizer	구성 도우미
 	Organizer…	관리자…
 	Original document	원본 문서
+	Original size	원래 크기
 	Other Large Operators	기타 대형 연산자
 	Other styles and their TOC level:	기타 스타일 및 목차 수준:
+	Other:	기타:
 	Otherwise insert:	그렇지 않으면 삽입:
 	Outline	개요
 	Outline Level	개요 수준
@@ -1340,7 +1435,9 @@
 	Page image (*.png)	페이지 이미지 (*.png)
 	Page Movement	페이지 이동
 	Page Number	페이지 번호
+	Page Number Format	페이지 번호 서식
 	Page number style	페이지 번호 스타일
+	Page numbering	페이지 번호 매기기
 	Page numbers at the right margin	페이지 번호를 오른쪽 여백에 표시
 	Page on which a bookmarked passage falls	책갈피가 지정된 구절이 있는 페이지
 	Page Setup	페이지 설정
@@ -1381,13 +1478,17 @@
 	Paste: Keep Text Only	붙여넣기: 텍스트만 유지
 	Paste: Merge Formatting	붙여넣기: 서식 병합
 	Pastes the clipboard's picture.	클립보드의 그림을 붙여넣습니다.
+	Path	경로
 	Paused	일시 정지됨
 	PDF document (*.pdf)	PDF 문서 (*.pdf)
 	Pens	펜
 	People	사람
 	Periodical	정기간행물
+	Personal	개인
+	Personal Templates	개인 서식 파일
 	Personalize	개인 설정
 	Phonetic Guide	윗주
+	pi	pi
 	Pi Over 2	2분의 파이
 	Pick a custom group (New Group makes one)	사용자 지정 그룹을 선택하세요(새 그룹을 만들려면 ‘새 그룹’을 선택)
 	Pick a field from the list	목록에서 필드 선택
@@ -1404,6 +1505,7 @@
 	Plain Text Content Control	일반 텍스트 콘텐츠 컨트롤
 	Play/Pause	재생/일시 정지
 	Plus Equal	더하기 등호
+	Points and above	pt 이상
 	Polish	폴란드어
 	Portuguese (Brazil)	포르투갈어(브라질)
 	Portuguese (Portugal)	포르투갈어(포르투갈)
@@ -1412,6 +1514,7 @@
 	Power series of (1+x)ⁿ	(1+x)ⁿ의 멱급수
 	Preferred width:	기본 너비:
 	Preserve formatting during updates	업데이트 중 서식 유지
+	Preset gradients	미리 설정된 그라데이션
 	Press a key combination	키 조합을 누르세요
 	Preview Results	결과 미리 보기
 	Preview\nResults	결과\n미리 보기
@@ -1422,9 +1525,12 @@
 	Previous Section	이전 구역
 	Previous Sentence	이전 문장
 	Previous sentence	이전 문장
+	Print Documents	문서 인쇄
+	Print Documents…	문서 인쇄…
 	Print failed: the printing worker stopped.	인쇄 실패: 인쇄 작업자가 중지되었습니다.
 	Print failed: {error}	인쇄 실패: {error}
 	Print job submitted.	인쇄 작업을 전송했습니다.
+	Print job submitted: spooled {count} sheet(s)	인쇄 작업을 보냈습니다: {count}장을 스풀했습니다
 	Print job submitted: {receipt}	인쇄 작업을 전송했습니다: {receipt}
 	Print Layout	인쇄 레이아웃
 	Print Markup	변경 내용 표시 인쇄
@@ -1477,6 +1583,7 @@
 	Reads the clipboard's web content and keeps its formatting.	클립보드의 웹 콘텐츠를 읽어 서식을 유지합니다.
 	Recent Colors	최근 색
 	Recent documents to show:	표시할 최근 문서 수:
+	Recently Used Fonts	최근 사용한 글꼴
 	Recently used symbols:	최근 사용한 기호:
 	Recipient List	받는 사람 목록
 	Recipient lists	받는 사람 목록
@@ -1498,6 +1605,7 @@
 	Reject All Changes	모든 변경 내용 거부
 	Reject Change	변경 내용 거부
 	Relationship	관계
+	Relative to original picture size	원래 그림 크기 기준
 	Relaxed	여유 있게
 	Remove Added Font	추가된 글꼴 제거
 	Remove Content Control	콘텐츠 컨트롤 제거
@@ -1506,6 +1614,7 @@
 	Remove field	필드 제거
 	Remove Footer	바닥글 제거
 	Remove from Quick Access Toolbar	빠른 실행 도구 모음에서 제거
+	Remove gradient stop	그라데이션 중지점 제거
 	Remove Header	머리글 제거
 	Remove Hyperlink	하이퍼링크 제거
 	Remove Password	암호 제거
@@ -1584,6 +1693,7 @@
 	Rotate all text 90°	텍스트를 90° 회전
 	Rotate Left 90°	왼쪽으로 90° 회전
 	Rotate Right 90°	오른쪽으로 90° 회전
+	Rotate with shape	도형과 함께 회전
 	Row	행
 	Row:	행:
 	Rows & Columns	행 및 열
@@ -1594,10 +1704,12 @@
 	SAMPLE	견본
 	Sat:	채도:
 	Save a copy in another format. Printing goes through a PDF you can print from any viewer.	다른 형식으로 사본을 저장합니다. 인쇄하려면 PDF로 저장한 뒤 원하는 뷰어에서 인쇄할 수 있습니다.
+	Save as Word Template…	Word 서식 파일로 저장…
 	Save documents	문서 저장
 	Save the document to turn on AutoSave	자동 저장을 사용하려면 문서를 저장하세요.
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	자동 저장을 사용하려면 문서를 저장하세요(열기만 한 파일은 저장할 때까지 다시 기록되지 않습니다).
 	Save these pages as PDF…	이 페이지를 PDF로 저장…
+	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	.dotx 서식 파일을 서식 파일 폴더에 저장합니다. 파일 › 새로 만들기의 개인 아래에 표시됩니다.
 	Scale	배율
 	Scale Drawing	그리기 크기 조정
 	Scatter	분산형
@@ -1612,6 +1724,7 @@
 	Search icons	아이콘 검색
 	Search Options	검색 옵션
 	Secant Function	시컨트 함수
+	Section 1.01	제 1.01 절
 	Section Break	구역 나누기
 	Section Breaks	구역 나누기
 	Section Character	구역 문자
@@ -1620,8 +1733,20 @@
 	Section Properties	구역 속성
 	Sections	구역
 	See	참조
+	select a chart first	먼저 차트를 선택하세요
+	select a connector first	먼저 연결선을 선택하세요
+	select a drawing canvas first	먼저 그리기 캔버스를 선택하세요
+	select a floating picture or shape first	먼저 떠 있는 그림이나 도형을 선택하세요
+	select a group first	먼저 그룹을 선택하세요
+	select a picture first	먼저 그림을 선택하세요
+	select a picture or shape first	먼저 그림이나 도형을 선택하세요
 	Select a picture, shape, chart or table to describe it.	설명할 그림, 도형, 차트 또는 표를 선택하세요.
 	Select a printer	프린터 선택
+	select a shape first	먼저 도형을 선택하세요
+	Select a shape, text box or drawing canvas to format its fill.	채우기 서식을 지정할 도형, 텍스트 상자 또는 그리기 캔버스를 선택하세요.
+	select a SmartArt graphic first	먼저 SmartArt 그래픽을 선택하세요
+	select a text box first	먼저 텍스트 상자를 선택하세요
+	select a text box linked to another first	먼저 다른 상자에 연결된 텍스트 상자를 선택하세요
 	Select Cell	셀 선택
 	Select Column	열 선택
 	Select Heading and Content	제목 및 내용 선택
@@ -1629,6 +1754,7 @@
 	Select Paragraph	단락 선택
 	Select Range	범위 선택
 	Select Recipients	받는 사람 선택
+	select recipients first	먼저 받는 사람을 선택하세요
 	Select recipients first to choose from their fields.	필드를 선택하려면 먼저 받는 사람을 선택하세요.
 	Select recipients first to match their fields.	필드를 일치시키려면 먼저 받는 사람을 선택하세요.
 	Select Row	행 선택
@@ -1638,13 +1764,16 @@
 	Select Text	텍스트 선택
 	Select Text with Similar Formatting	서식이 비슷한 텍스트 선택
 	Select text, then tick who can still edit it.	텍스트를 선택한 다음 계속 편집할 사용자를 선택하세요.
+	select two or more pictures or shapes first (Shift+click)	먼저 그림이나 도형을 두 개 이상 선택하세요 (Shift+클릭)
 	Select Word	단어 선택
 	Select\nRecipients	받는 사람\n선택
 	Selected Fields	선택한 필드
+	Selected text	선택한 텍스트
 	Selection Pane	선택 창
 	Send the document straight to the system print dialog, or save a copy in another format below.	문서를 시스템 인쇄 대화 상자로 바로 보내거나, 아래에서 다른 형식으로 사본을 저장하세요.
 	Sentence	문장
 	Sentence case.	문장식 대소문자.
+	Separate text at	텍스트 구분 기호
 	Separator:	구분 기호:
 	Sequence name:	시퀀스 이름:
 	Serbian (Cyrillic)	세르비아어(키릴 문자)
@@ -1694,13 +1823,16 @@
 	Show Markup	변경 내용 표시
 	Show Notes	메모 표시
 	Show only comments and formatting in balloons	말풍선에 메모와 서식만 표시
+	Show only records that will be merged	병합할 레코드만 표시
 	Show or Hide Style	스타일 표시 또는 숨기기
+	Show Quick Access Toolbar	빠른 실행 도구 모음 표시
 	Show revisions in balloons	말풍선에 변경 내용 표시
 	Show Text Formatting	텍스트 서식 표시
 	Show the community button in the title bar	제목 표시줄에 커뮤니티 단추 표시
 	Show the equation in the line of text	수식을 텍스트 줄 안에 표시
 	Show the equation on a line of its own	수식을 별도 줄에 표시
 	Show the mini toolbar when text is selected	텍스트를 선택할 때 미니 도구 모음 표시
+	Show the ribbon	리본 표시
 	Show the Start screen when WordCraft starts	WordCraft 시작 시 시작 화면 표시
 	Show/Hide ¶	¶ 표시/숨기기
 	Show\nComments	메모\n표시
@@ -1757,6 +1889,7 @@
 	Soft Edges	부드러운 가장자리
 	Soft Glow	부드러운 광채
 	Solid Accent	강조 단색
+	Solid fill	단색 채우기
 	Sort order:	정렬 순서:
 	Sort Recipients	받는 사람 정렬
 	Source code: github.com/storytold/wordcraft	소스 코드: github.com/storytold/wordcraft
@@ -1781,6 +1914,7 @@
 	Spelling &\nGrammar	맞춤법 및\n문법
 	Spelling and grammar are checked in English (United States).	맞춤법과 문법은 영어(미국)로 검사합니다.
 	Spelling Suggestions	맞춤법 제안
+	Spike	스파이크
 	Split Cells	셀 나누기
 	Split Table	표 나누기
 	Spreadsheet Table	스프레드시트 표
@@ -1866,6 +2000,7 @@
 	Table Properties	표 속성
 	Table Properties…	표 속성…
 	Table Row Height	표 행 높이
+	Table size	표 크기
 	Table Style Options	표 스타일 옵션
 	Table Styles	표 스타일
 	Tabs…	탭…
@@ -1877,8 +2012,10 @@
 	Technology	기술
 	Templates	서식 파일
 	Templates and Add-ins	서식 파일 및 추가 기능
+	Templates you save in your templates folder show up here.	서식 파일 폴더에 저장한 서식 파일이 여기에 표시됩니다.
 	Text Box	텍스트 상자
 	Text boxes	텍스트 상자
+	text boxes can't go inside a text box	텍스트 상자는 텍스트 상자 안에 넣을 수 없습니다
 	Text Direction	텍스트 방향
 	Text Effects	텍스트 효과
 	Text Effects and Typography	텍스트 효과 및 타이포그래피
@@ -1898,16 +2035,24 @@
 	That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on.	이 형식은 모든 내용을 보존하지 못하므로 문서는 계속 열려 있습니다. 계속하려면 Word 문서 (.docx)로 저장하세요.
 	That password isn't right. Check it (passwords are case-sensitive) and try again.	암호가 올바르지 않습니다. 암호는 대/소문자를 구분하므로 확인한 후 다시 시도하세요.
 	The clipboard is empty.	클립보드가 비어 있습니다.
+	the Clipboard pane is empty	클립보드 창이 비어 있습니다
+	the cursor isn't in a table	커서가 표 안에 있지 않습니다
 	The date it is today	오늘 날짜
 	The document has no bookmarks yet.	문서에 책갈피가 아직 없습니다.
+	the document is protected	문서가 보호되어 있습니다
 	The document is read only, except for regions marked editable.	문서는 읽기 전용이며 편집 가능으로 표시된 영역만 편집할 수 있습니다.
 	The document will be saved with a password. Save it to protect it.	문서는 암호를 설정하여 저장됩니다. 문서를 보호하려면 저장하세요.
+	The measurement must be between {min} and {max}.	측정값은 {min}에서 {max} 사이여야 합니다.
 	The new style takes the formatting of the current paragraph.	새 스타일은 현재 단락의 서식을 사용합니다.
+	The number must be between 1 and {max}.	숫자는 1에서 {max} 사이여야 합니다.
+	the paragraph is empty	단락이 비어 있습니다
+	the paragraph starts with a space	단락이 공백으로 시작합니다
 	The password is optional; without it anyone can stop the protection.	암호는 선택 사항입니다. 암호가 없으면 누구나 보호를 중지할 수 있습니다.
 	The password is removed. Save the document to keep the change.	암호가 제거되었습니다. 변경 내용을 유지하려면 문서를 저장하세요.
 	The printer, two-sided printing and pages per sheet are chosen in that dialog.	프린터, 양면 인쇄 및 용지당 페이지 수는 해당 대화 상자에서 선택합니다.
 	The recipient-list field that fills each part of an address block and greeting line.	주소 블록과 인사말의 각 부분에 값을 채우는 받는 사람 목록 필드입니다.
 	The spelling and grammar check is complete.	맞춤법 및 문법 검사가 완료되었습니다.
+	the Spike is empty	스파이크가 비어 있습니다
 	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	시스템 파일 대화상자를 사용할 수 없어 WordCraft의 파일 대화상자를 표시합니다. 시스템 대화상자를 사용하려면 xdg-desktop-portal-gtk 또는 zenity 같은 파일 선택 포털을 설치하세요.
 	The time right now	현재 시각
 	Theme Colors	테마 색
@@ -1915,10 +2060,12 @@
 	Theme List	테마 목록
 	Themes	테마
 	Then insert:	다음 삽입:
+	there is nothing to undo	실행 취소할 작업이 없습니다
 	Thesaurus	유의어 사전
 	These marks show even when Show/Hide ¶ is off.	이 기호는 표시/숨기기 ¶가 꺼져 있어도 표시됩니다.
 	These merge fields aren't in the recipient list:	다음 병합 필드는 받는 사람 목록에 없습니다:
 	Thick	굵게
+	this chart was made in another program: WordCraft shows it but can't edit it	이 차트는 다른 프로그램에서 만들어졌습니다: WordCraft에서 표시할 수는 있지만 편집할 수는 없습니다
 	This document	이 문서
 	This field has no options.	이 필드에는 옵션이 없습니다.
 	This folder can't be read: {error}	이 폴더를 읽을 수 없습니다: {error}
@@ -1927,6 +2074,8 @@
 	This password type isn't supported.	이 암호 유형은 지원되지 않습니다.
 	This point forward	현재 위치부터
 	This section	이 구역
+	this SmartArt was made in another program: WordCraft shows it but can't edit it	이 SmartArt는 다른 프로그램에서 만들어졌습니다: WordCraft에서 표시할 수는 있지만 편집할 수는 없습니다
+	this text box is already linked: break the link first	이 텍스트 상자는 이미 연결되어 있습니다: 먼저 연결을 끊으세요
 	Three	세 개
 	Through	텍스트 통과
 	Tight	좁게
@@ -1937,6 +2086,7 @@ preview	Title	제목
 	Title from the document properties	문서 속성에 지정된 제목
 	Title:	제목:
 	To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All.	Word 문서를 기본적으로 WordCraft에서 열려면 Finder에서 문서를 선택하고 파일 › 정보 가져오기를 선택한 다음, 다음으로 열기에서 WordCraft를 고르고 모두 변경을 클릭하세요.
+	To:	끝:
 	TOA Heading	법률 출처 목차 제목
 	TOC Heading	목차 제목
 	TOC {n}	목차 {n}
@@ -1979,6 +2129,7 @@ preview	Title	제목
 	Two-sided: short edge	양면 인쇄(짧은 쪽 넘김)
 	Type a command, e.g. "insert table"	명령 입력 (예: "insert table")
 	Type a New List…	새 목록 입력…
+	Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions.	5 cm 또는 300 px처럼 원하는 단위로 크기를 입력하세요. 다른 쪽도 함께 바뀌어 그림의 비율이 유지됩니다.
 	Type at least one recipient.	받는 사람을 하나 이상 입력하세요.
 	Type Character Code	문자 코드 입력
 	Type equations in LaTeX	LaTeX로 수식 입력
@@ -1996,6 +2147,7 @@ preview	Title	제목
 	Unchecked symbol	선택되지 않은 기호
 	Underbar	밑줄
 	Underbrace	아래 중괄호
+	Underline Color	밑줄 색
 	Underline color	밑줄 색
 	Underline Words Only	단어에만 밑줄
 	Undo 1 Action	작업 1개 실행 취소
@@ -2029,10 +2181,12 @@ preview	Title	제목
 	Use "an" before a vowel sound	모음 소리 앞에는 "an"을 사용하세요
 	Use an Existing List…	기존 목록 사용…
 	Use system setting	시스템 설정 사용
+	Use the browser's full screen (F11)	브라우저의 전체 화면을 사용하세요 (F11)
 	Use the Insert key to switch overtype on and off	Insert 키를 눌러 겹쳐쓰기 켜기/끄기
 	Use wildcards	와일드카드 사용
 	User Name	사용자 이름
 	User name:	사용자 이름:
+	User templates:	사용자 서식 파일:
 	Vector A	벡터 A
 	Vector AB	벡터 AB
 	Version History	버전 기록
@@ -2105,6 +2259,8 @@ preview	Title	제목
 	Zotero	Zotero
 	Zotero: cancelled	Zotero: 취소됨
 	Zotero: done	Zotero: 완료
+	{added}; {count} couldn't be read: {names}	{added}; 읽을 수 없는 파일 {count}개: {names}
+	{added}; {n} skipped (limit {max})	{added}; {n}개 건너뜀 (한도 {max})
 	{cols}×{rows} Table	{cols}×{rows} 표
 	{contributors} contributors · {commits} commits	기여자 {contributors}명 · 커밋 {commits}개
 	{count} items highlighted	{count}개 항목 강조 표시됨
@@ -2112,6 +2268,7 @@ preview	Title	제목
 	{group} settings	{group} 설정
 	{key}+Click to follow link	{key}+클릭하여 링크 열기
 	{language} is now the document's default language.	{language}을(를) 문서의 기본 언어로 설정했습니다.
+	{names} and {n} more	{names} 외 {n}개
 	{name} already exists. Choose Save again to replace it.	{name}이(가) 이미 있습니다. 바꾸려면 저장을 다시 선택하세요.
 	{name} is protected with a password.	{name} 문서는 암호로 보호됩니다.
 	{name} wasn't found.	{name}을(를) 찾을 수 없습니다.
@@ -2120,6 +2277,7 @@ preview	Title	제목
 	{n} pt	{n} pt
 	{selected} of {words} words	전체 {words}개 중 {selected}개 선택
 	{size} pt	{size} pt
+	{width} × {height} pixels	{width} × {height} 픽셀
 	{words} words	단어 {words}개
 	“{text}” ({row}, {series}) isn't a number.	“{text}”({row}, {series})은(는) 숫자가 아닙니다.
 	✓ None	✓ 없음

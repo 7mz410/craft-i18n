@@ -42,8 +42,11 @@
 	3×3 Identity Matrix (sparse)	3×3 Birim Matris (seyrek)
 	<< Less	<< Daha az
 	<< Remove	<< Kaldır
+	a drawing canvas can't be ungrouped	çizim tuvalinin grubu çözülemez
+	a drawing canvas can't go inside a text box	çizim tuvali bir metin kutusunun içine konamaz
 	A file dialog is already open.	Bir dosya iletişim kutusu zaten açık.
 	A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team.	Rust ile sıfırdan yazılmış ücretsiz, açık kaynak bir kelime işlemci.\nArtCraft ekibinin Crafting Apps ailesinin bir parçası.
+	a group holding Word ink can't be ungrouped yet	Word mürekkebi içeren bir grubun grubu henüz çözülemez
 	A mail merge field	Bir posta birleştirme alanı
 	A numbered sequence (figures, tables…)	Numaralı bir dizi (şekiller, tablolar…)
 	A password is required to open this document.	Bu belgeyi açmak için parola gerekiyor.
@@ -76,6 +79,7 @@
 	Add Condition	Koşul ekle
 	Add Field	Alan Ekle
 	Add Font…	Yazı Tipi Ekle…
+	Add gradient stop	Degrade durağı ekle
 	Add line numbering	Satır numaralandırma ekle
 	Add New Source…	Yeni Kaynak Ekle…
 	Add Object to Selection	Nesneyi Seçime Ekle
@@ -98,7 +102,9 @@
 	Add\nNote	Not\nEkle
 	Add\nPen	Kalem\nEkle
 	Add\nShape	Şekil\nEkle
+	Added 1 font	1 yazı tipi eklendi
 	Added Fonts	Eklenen Yazı Tipleri
+	Added {n} fonts	{n} yazı tipi eklendi
 	Address	Adres
 	Address Block	Adres Bloğu
 	Address labels	Adres etiketleri
@@ -124,6 +130,7 @@
 	All Caps	Tümü Büyük Harf
 	All caps	Tümü büyük harf
 	All Commands	Tüm Komutlar
+	All Fonts	Tüm Yazı Tipleri
 	All Levels	Tüm düzeyler
 	All Markup	Tüm İşaretler
 	All pages in the range	Aralıktaki tüm sayfalar
@@ -151,6 +158,7 @@
 	Another file	Başka bir dosya
 	Any Character	Herhangi Bir Karakter
 	Any Digit	Herhangi Bir Rakam
+	Any field	Herhangi bir alan
 	Any Letter	Herhangi Bir Harf
 	Anyone can open this document. Encrypt it with a password to keep it private.	Bu belgeyi herkes açabilir. Gizli tutmak için parolayla şifreleyin.
 	Anyone who opens the document will need this password.	Belgeyi açmak isteyen herkesin bu parolaya ihtiyacı olacak.
@@ -164,6 +172,7 @@
 	Arch Up	Yukarı Kemer
 	Arrange	Yerleştir
 	Arrange\nAll	Tümünü\nYerleştir
+	Article I.	Madde I.
 	Artistic Effects	Sanatsal Efektler
 	As Recommended	Önerilen sırayla
 	As you type	Yazarken
@@ -179,8 +188,11 @@
 	AutoCorrect	Otomatik Düzelt
 	AutoCorrect Options	Otomatik Düzeltme Seçenekleri
 	AutoFit	Otomatik Sığdır
+	AutoFit behavior	Otomatik sığdırma
 	AutoFit Column by Double-Clicking	Sütunu Çift Tıklayarak Otomatik Sığdır
 	AutoFit Contents	İçeriğe Sığdır
+	AutoFit to contents	İçeriğe sığdır
+	AutoFit to window	Pencereye sığdır
 	AutoFit Window	Pencereye Sığdır
 	AutoFormat As You Type	Yazarken Otomatik Biçimlendir
 	Automatic ({language})	Otomatik ({language})
@@ -294,6 +306,7 @@
 	Cell	Hücre
 	Cell Margins	Hücre Kenar Boşlukları
 	Cell\nMargins	Hücre Kenar\nBoşlukları
+	Center Glow	Merkez parıltısı
 	Centered as Group	Grup Olarak Ortalanmış
 	Change Chart Type	Grafik Türünü Değiştir
 	Change Colors	Renkleri Değiştir
@@ -316,6 +329,7 @@
 	Change\nColors	Renkleri\nDeğiştir
 	Changed lines:	Değişen satırlar:
 	Changes	Değişiklikler
+	Chapter 1	Bölüm 1
 	Chapter in a book	Kitapta bölüm
 	Chapters begin at:	Bölümler şunla başlar:
 	Character Border	Karakter Kenarlığı
@@ -335,6 +349,7 @@
 	Chart Design	Grafik Tasarımı
 	Chart Layouts	Grafik Düzenleri
 	Chart Title	Grafik Başlığı
+	charts and diagrams can't be moved or resized yet	grafikler ve diyagramlar henüz taşınamaz veya yeniden boyutlandırılamaz
 	Check	İşaret
 	Check Accessibility	Erişilebilirliği Denetle
 	Check Box Content Control	Onay Kutusu İçerik Denetimi
@@ -379,6 +394,7 @@
 	Close Outline\nView	Anahat görünümünü\nkapat
 	Clustered Bar	Kümelenmiş Çubuk
 	Clustered Column	Kümelenmiş Sütun
+	cm	cm
 	Col #:	Sütun no.:
 	Collapse Selection	Seçimi Daralt
 	Collate copies	Kopyaları harmanla
@@ -396,6 +412,7 @@
 	Combine Documents	Belgeleri Birleştir
 	Combo Box Content Control	Açılan Kutu İçerik Denetimi
 	Commands	Komutlar
+	Commas	Virgüller
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	PDF'lerde, baskılarda ve görüntülerde her sayfanın yanında açıklamalar ve izlenen değişiklikler; web sayfalarının, Markdown ve metnin sonunda açıklama listesi.
 	Comments Pane	Yorumlar Bölmesi
 	Common Accent Objects	Sık Kullanılan Vurgulu Nesneler
@@ -427,6 +444,7 @@
 	Content Control Properties	İçerik Denetimi Özellikleri
 	Contents can't be edited	İçerik düzenlenemez
 	Context	Bağlam
+	Continue from previous section	Önceki bölümden devam et
 	Continuous	Sürekli
 	Continuous numbering	Sürekli numaralandırma
 	Contour Integral	Çevre İntegrali
@@ -481,6 +499,7 @@
 	Current - Linear	Geçerli - Doğrusal
 	Current - Professional	Geçerli - Profesyonel
 	Current Position	Geçerli Konum
+	Current record	Geçerli kayıt
 	Current style: {style}	Geçerli stil: {style}
 	Curved Arrow Connector	Eğri Oklu Bağlayıcı
 	Curved Connector	Eğri Bağlayıcı
@@ -503,6 +522,7 @@
 	Danish	Danca
 	Dark Mode	Koyu Mod
 	Dark page (white text on black)	Koyu sayfa (siyah üzerine beyaz metin)
+	Dark Variations	Koyu çeşitler
 	Dark with Shadow	Gölgeli Koyu
 	Darkroom	Karanlık Oda
 	Data Labels	Veri Etiketleri
@@ -513,6 +533,7 @@
 	Decimal	Ondalık
 	Decorative objects only add visual interest: screen readers skip them.	Dekoratif nesneler yalnızca görsel çekicilik katar: ekran okuyucular bunları atlar.
 	Decrease Indent	Girintiyi Azalt
+	Deep	Koyu
 	Default Paragraph Font	Varsayılan Paragraf Yazı Tipi
 	Default tab stops:	Varsayılan sekme durakları:
 	Define New Bullet	Yeni Madde İşareti Tanımla
@@ -567,6 +588,8 @@
 	Display	Görüntü
 	Display for Review	İnceleme Görünümü
 	Display text	Görünen metin
+	Distance from text	Metinden uzaklık
+	Distance from text:	Metinden uzaklık:
 	Distribute Columns	Sütunları Eşit Dağıt
 	Distribute letters	Harfleri dağıt
 	Distribute Rows	Satırları Eşit Dağıt
@@ -597,6 +620,7 @@
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Zotero, Mendeley ve EndNote atıfları ile kaynakçaları okunmaz
 	Dot dash	Nokta çizgi
 	Dot-dash	Nokta-çizgi
+	Dot-dot-dash	Nokta-nokta-çizgi
 	Double	Çift
 	Double Bar	Çift Çubuk
 	Double Closing Quote	Çift Kapanış Tırnağı
@@ -629,7 +653,10 @@
 	Drawing\nCanvas	Çizim\nTuvali
 	Drop Cap	Büyük Başlangıç Harfi
 	Drop cap	Büyük başlangıç harfi
+	Drop Cap Options…	Büyük başlangıç harfi seçenekleri…
+	drop caps can't go in a table	tabloya büyük başlangıç harfi konamaz
 	Drop-Down List Content Control	Açılır Liste İçerik Denetimi
+	Dropped	Metin içinde
 	Drops all formatting and pastes plain text.	Tüm biçimlendirmeyi kaldırır ve düz metin yapıştırır.
 	E-mail Messages	E-posta İletileri
 	Edit Comment	Yorumu Düzenle
@@ -640,12 +667,15 @@
 	Edit Field…	Alanı Düzenle…
 	Edit Footer	Altbilgiyi Düzenle
 	Edit Header	Üstbilgiyi Düzenle
+	Edit Individual Documents…	Belgeleri Ayrı Ayrı Düzenle…
 	Edit Items	Öğeleri Düzenle
 	Edit Recipient List	Alıcı Listesini Düzenle
 	Edit Source	Kaynağı Düzenle
 	Edit\nData	Verileri\nDüzenle
 	Edit\nRecipient List	Alıcı Listesini\nDüzenle
 	Edited	Düzenlendi
+	Editing endnote	Sonnot düzenleniyor
+	Editing footnote	Dipnot düzenleniyor
 	Editing header/footer	Üstbilgi/altbilgi düzenleniyor
 	Editing in this document is restricted.	Bu belgede düzenleme kısıtlanmıştır.
 	Editing — edit the document directly	Düzenleme — belgeyi doğrudan düzenleyin
@@ -666,10 +696,17 @@
 	Endnote Text	Sonnot Metni
 	Endnotes	Son notlar
 	Endnotes to footnotes	Son notlardan dipnotlara
+	English (Australia)	İngilizce (Avustralya)
+	English (Canada)	İngilizce (Kanada)
+	English (India)	İngilizce (Hindistan)
+	English (Ireland)	İngilizce (İrlanda)
+	English (New Zealand)	İngilizce (Yeni Zelanda)
+	English (South Africa)	İngilizce (Güney Afrika)
 	English (United Kingdom)	İngilizce (Birleşik Krallık)
 	English (United States)	İngilizce (Amerika Birleşik Devletleri)
 	Engrave	Oyma
 	Enlarge symbol	Simgeyi büyüt
+	Enter a number.	Bir sayı girin.
 	Enter formatting for number:	Numara biçimini girin:
 	Enter in Equation	Denklemde Yeni Satır
 	Enter page number:	Sayfa numarası girin:
@@ -722,13 +759,16 @@
 	Field:	Alan:
 	Field…	Alan…
 	Figure	Şekil
+	File locations	Dosya konumları
 	File name:	Dosya adı:
+	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Dosya › Yeni, buradaki .dotx ve .dotm şablonlarını Kişisel altında listeler; Word şablonu olarak kaydet buradan başlar.
 	Fill	Dolgu
 	Fill color:	Dolgu rengi:
 	Filling in forms	Form doldurma
 	Film	Film
 	Filter and Sort	Filtrele ve sırala
 	Filter Recipients	Alıcıları filtrele
+	Find in list:	Listede bul:
 	Find Next Editable Region	Sonraki Düzenlenebilir Bölgeyi Bul
 	Find Previous	Öncekini Bul
 	Find Recipient	Alıcı Bul
@@ -745,6 +785,7 @@
 	First line	İlk satır
 	First line:	İlk satır:
 	First Name	Ad
+	First Record	İlk Kayıt
 	First row of data contains column headers	Verinin ilk satırı sütun başlıklarını içerir
 	Fix Position on Page	Sayfadaki konumu sabitle
 	Fixed Column Width	Sabit Sütun Genişliği
@@ -768,6 +809,9 @@
 	Format Page Numbers	Sayfa Numaralarını Biçimlendir
 	Format Page Numbers…	Sayfa Numaralarını Biçimlendir…
 	Format Painter	Biçim Fırçası
+	Format Shape	Şekli Biçimlendir
+	Format Shape Pane	Şekli Biçimlendir bölmesi
+	Format Shape…	Şekli Biçimlendir…
 	Formatted	Biçimlendirildi
 	Formatted Text	Biçimlendirilmiş Metin
 	Formatting	Biçimlendirme
@@ -781,9 +825,16 @@
 	Fraction	Kesir
 	Fractions (1/2) as fraction characters (½)	Kesirleri (1/2) kesir karakteri (½) olarak yaz
 	French (France)	Fransızca (Fransa)
+	From Bottom Left Corner	sol alt köşeden
+	From Bottom Right Corner	sağ alt köşeden
+	From Center	Merkezden
 	From text:	Metinden:
+	From Top Left Corner	sol üst köşeden
+	From Top Right Corner	sağ üst köşeden
 	from Unicode (hex)	Unicode'dan (onaltılık)
+	From:	Başlangıç:
 	Full page of the same label	Aynı etiketten tam sayfa
+	Full Screen View	Tam Ekran Görünümü
 	Full\nScreen	Tam\nekran
 	Function	Fonksiyon
 	Gallery	Galeri
@@ -795,12 +846,16 @@
 	Go To	Git
 	Go to	Git
 	Go To (⌘⌥G)	Git (⌘⌥G)
+	Go to Record	Kayda Git
 	Go to what:	Gidilecek yer:
 	Go To…	Git…
 	Good afternoon	Tünaydın
 	Good evening	İyi akşamlar
 	Good morning	Günaydın
 	Grab bag	Çeşitli
+	Gradient	Degrade
+	Gradient fill	Degrade dolgu
+	Gradient stops	Degrade durakları
 	Grave	Pes Vurgu
 	Grayscale	Gri tonlama
 	Greater than	Büyüktür
@@ -842,6 +897,7 @@
 	Hide Codes	Kodları Gizle
 	Hide from style lists	Stil listelerinde gizle
 	Hide Ink	Mürekkebi Gizle
+	Hide Quick Access Toolbar	Hızlı Erişim Araç Çubuğunu Gizle
 	Hide White Space	Boşluğu gizle
 	Hide\nInk	Mürekkebi\nGizle
 	Hierarchy	Hiyerarşi
@@ -891,7 +947,9 @@
 	In equations, typing a name after a backslash replaces it with its symbol.	Denklemlerde ters eğik çizgiden sonra yazılan ad, simgesiyle değiştirilir.
 	In Front of Text	Metnin Önünde
 	In Line with Text	Metinle Aynı Hizada
+	In margin	Kenar boşluğunda
 	In the margin	Kenarda
+	Include label and number	Etiketi ve numarayı ekle
 	Include level number from:	Şu düzeyin numarasını ekle:
 	Include page numbers	Sayfa numaralarını ekle
 	Increase Indent	Girintiyi Artır
@@ -904,6 +962,8 @@
 	Index and Tables	Dizin ve Tablolar
 	Index Heading	Dizin Başlığı
 	Index {n}	Dizin {n}
+	Indonesian	Endonezyaca
+	Initial column width:	Başlangıç sütun genişliği:
 	Initials:	Baş harfler:
 	Ink	Mürekkep
 	Ink Replay	Mürekkep Yeniden Oynatma
@@ -940,6 +1000,7 @@
 	Insert Rows Below	Alta Satır Ekle
 	Insert Shapes	Şekil Ekle
 	Insert SmartArt	SmartArt Ekle
+	Insert Spike	Biriktiriciyi Ekle
 	Insert Structure	Yapı Ekle
 	Insert Symbol	Sembol Ekle
 	Insert Table	Tablo Ekle
@@ -1006,6 +1067,7 @@
 	Keep with Next	Sonrakiyle Birlikte Tut
 	Keep with next	Sonrakiyle birlikte tut
 	Keeps the fonts and formatting of the copied text.	Kopyalanan metnin yazı tiplerini ve biçimlendirmesini korur.
+	Kerning for fonts:	Yazı tipi aralık ayarı:
 	Keyboard shortcuts:	Klavye kısayolları:
 	Keys for this command:	Bu komutun tuşları:
 	Label changes with:	Değişiklikleri şununla etiketle:
@@ -1016,6 +1078,7 @@
 	Lasso Select	Kement Seçimi
 	Last Column	Son Sütun
 	Last Name	Soyad
+	Last Record	Son Kayıt
 	Last, First; Last, First	Soyadı, Adı; Soyadı, Adı
 	Latin text font:	Latin metni yazı tipi:
 	Layout Summary	Düzen Özeti
@@ -1025,6 +1088,7 @@
 	Leave Equation	Denklemden Çık
 	Leave out the date and time of comments and tracked changes when saving	Kaydederken açıklamaların ve izlenen değişikliklerin tarih ve saatini dahil etme
 	Leave the equation (Esc)	Denklemden çık (Esc)
+	leave the equation first	önce denklemden çıkın
 	Leave the label out of the caption	Etiketi başlıktan çıkar
 	Left Arrow with Text Above	Üstünde Metin Olan Sola Ok
 	Left Arrow with Text Below	Altında Metin Olan Sola Ok
@@ -1057,6 +1121,7 @@
 	Level 9	Düzey 9
 	Level {n}	Düzey {n}
 	Levels:	Düzeyler:
+	Light Variations	Açık çeşitler
 	Light with Outline	Anahatlı Açık
 	Limit	Limit
 	Limit and\nLog	Limit ve\nLogaritma
@@ -1076,11 +1141,20 @@
 	Line Spacing Options…	Satır Aralığı Seçenekleri…
 	Line spacing:	Satır aralığı:
 	Line Start	Satırın Başı
+	Linear Diagonal - Bottom Left to Top Right	Doğrusal çapraz – sol alt köşeden sağ üst köşeye
+	Linear Diagonal - Bottom Right to Top Left	Doğrusal çapraz – sağ alt köşeden sol üst köşeye
+	Linear Diagonal - Top Left to Bottom Right	Doğrusal çapraz – sol üst köşeden sağ alt köşeye
+	Linear Diagonal - Top Right to Bottom Left	Doğrusal çapraz – sağ üst köşeden sol alt köşeye
+	Linear Down	Doğrusal aşağı
 	Linear Fraction	Doğrusal Kesir
+	Linear Left	Doğrusal sola
+	Linear Right	Doğrusal sağa
+	Linear Up	Doğrusal yukarı
 	Lines	Satırlar
 	Lines and characters	Satırlar ve karakterler
 	Lines only	Yalnızca satırlar
 	Lines per page:	Sayfa başına satır:
+	Lines to drop:	Kaplayacağı satır:
 	Link entries to their headings	Girdileri başlıklarına bağla
 	Link level to style:	Düzeyi stile bağla:
 	Link to Previous	Öncekine Bağla
@@ -1095,11 +1169,14 @@
 	List Table 3 – Green	Liste Tablosu 3 – Yeşil
 	List Table 3 – Orange	Liste Tablosu 3 – Turuncu
 	List Table 3 – Purple	Liste Tablosu 3 – Mor
+	Lit from Bottom	Alttan aydınlatılmış
+	Lit from Top	Üstten aydınlatılmış
 	Load System Installed Fonts…	Yüklü Sistem Yazı Tiplerini Yükle…
 	Loaded {count} system fonts.	{count} sistem yazı tipi yüklendi.
 	Local font access is not supported by your browser.	Tarayıcınız yerel yazı tipi erişimini desteklemiyor.
 	Local font access was denied.	Yerel yazı tipi erişimi reddedildi.
 	Location: {path}	Konum: {path}
+	Lock aspect ratio	En boy oranını kilitle
 	Lock Fields	Alanları Kilitle
 	Logarithm	Logaritma
 	Logarithm with Base	Tabanlı Logaritma
@@ -1141,12 +1218,14 @@
 	Match Fields	Alanları Eşleştir
 	Match prefix	Ön eke uy
 	Match suffix	Son eke uy
+	Matches: {count}	Eşleşme: {count}
 	Math AutoCorrect	Matematik Otomatik Düzelt
 	Matrices with Brackets	Parantezli Matrisler
 	Matrix	Matris
 	Maximum Example	Maksimum Örneği
 	Measured By	Ölçüm Birimi
 	Measurement units:	Ölçü birimleri:
+	Merge cells before split	Bölmeden önce hücreleri birleştir
 	Merge Formatting	Biçimlendirmeyi Birleştir
 	Merge Record #	Birleştirme Kaydı No.
 	Mesosphere	Mezosfer
@@ -1157,6 +1236,7 @@
 	Mirror margins	Yansıtılmış kenar boşlukları
 	Mirrored	Aynalı
 	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors.	MIT OR Apache-2.0. Telif hakkı (c) 2026 ArtCraft ekibi ve WordCraft'a katkıda bulunanlar.
+	mm	mm
 	Moderate	Orta
 	Modify Style	Stili Değiştir
 	Modify Table Style	Tablo Stilini Değiştir
@@ -1168,9 +1248,12 @@
 	More Colors…	Diğer Renkler…
 	More Columns…	Diğer Sütunlar…
 	More Commands…	Diğer Komutlar…
+	More Gradients…	Diğer degradeler…
 	More Paper Sizes…	Diğer Kağıt Boyutları…
 	More Symbols…	Diğer Semboller…
+	More tabs	Diğer sekmeler
 	More templates →	Diğer şablonlar →
+	More Underlines…	Diğer Alt Çizgiler…
 	Move in Equation	Denklemde İmleci Taşı
 	Move or Resize	Taşı veya Boyutlandır
 	Move Paragraph Down	Paragrafı Aşağı Taşı
@@ -1181,10 +1264,13 @@
 	Move Table by Dragging	Tabloyu Sürükleyerek Taşı
 	Move with Text	Metinle birlikte taşı
 	Moved from	Taşındı (kaynak)
+	Moved from:	Taşındı (kaynak):
 	Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely.	Taşınan nesneler sayfanın kenarlarına ve ortasına, kenar boşluklarına ve diğer nesnelere tutunur. Serbestçe taşımak için Alt tuşunu basılı tutun.
 	Moved to	Taşındı (hedef)
+	Moved to:	Taşındı (hedef):
 	Moves	Taşımalar
 	Multilevel List	Çok Düzeyli Liste
+	Multilevel List Library	Çok Düzeyli Liste Kitaplığı
 	Multiple Pages	Birden Çok Sayfa
 	My list has	Listemde
 	Name of the file this document is saved as	Belgenin kaydedildiği dosyanın adı
@@ -1220,12 +1306,16 @@
 	No changes (read only)	Değişiklik yok (salt okunur)
 	No contributor data was built into this copy.	Bu kopyaya katkıda bulunan verisi eklenmemiş.
 	No document is open. Create a document or open one first.	Açık belge yok. Önce bir belge oluşturun veya açın.
+	no equation at the caret	imleçte denklem yok
 	No errors found: every merge field is in the recipient list.	Hata bulunamadı: her birleştirme alanı alıcı listesinde var.
 	No Fill	Dolgu Yok
+	No fill	Dolgu yok
 	No Glow	Parlama Yok
+	No Gradient	Degrade yok
 	No grid	Kılavuz yok
 	No header row	Başlık satırı yok
 	No icons match your search.	Aramanızla eşleşen simge yok.
+	No items to show.	Gösterilecek öğe yok.
 	No Markup	İşaret Yok
 	No model credits were built into this copy.	Bu kopyaya model katkıları eklenmemiş.
 	No Outline	Anahat Yok
@@ -1255,15 +1345,18 @@
 	Norwegian (Bokmål)	Norveççe (Bokmål)
 	Not	Değil
 	Not available right now	Şu anda kullanılamıyor
+	not editing an equation	düzenlenen bir denklem yok
 	Not equal to	Eşit değildir
 	Not linked: click a text box	Bağlı değil: bir metin kutusuna tıklayın
 	Not saved	Kaydedilmedi
 	Not saved yet	Henüz kaydedilmedi
+	Not set	Ayarlanmadı
 	Not set: the system's usual places	Ayarlanmadı: sistemin olağan konumları
 	Not used by any command	Hiçbir komut kullanmıyor
 	Not {name}	{name} değil
 	Nothing	Hiçbiri
 	Nothing collected yet. Items you copy or cut appear here.	Henüz bir şey toplanmadı. Kopyaladığınız veya kestiğiniz öğeler burada görünür.
+	nothing is selected	hiçbir şey seçili değil
 	Now used by {command}	Şu anda kullanan: {command}
 	Nudge	Az Kaydır
 	Num Occurrences	Tekrar Sayısı
@@ -1299,6 +1392,7 @@
 	Offset: Top	Kaydırma: Üst
 	Offset: Top Left	Kaydırma: Sol Üst
 	Offset: Top Right	Kaydırma: Sağ Üst
+	Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel.	Eski menü tuşları: Alt, {keys}. Yazmaya devam edin ya da iptal etmek için Esc tuşuna basın.
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	Açık: yazarken veya ok tuşlarını kullanırken imleç yeni yerine kayarak gider ve yanıp sönerken solar. Kapalı: imleç yeni yerine atlar, keskin biçimde yanıp söner.
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	Açık: WordCraft, Dosya › Giriş sayfasında boş belge, şablonlar ve son belgelerinizle açılır. Kapalı: boş bir belge açar.
 	One	Bir
@@ -1311,8 +1405,10 @@
 	Only comments can be added, except in regions marked editable.	Düzenlenebilir işaretli bölgeler dışında yalnızca yorum eklenebilir.
 	Only for the selected text	Yalnızca seçili metin için
 	Only form fields can be filled in.	Yalnızca form alanları doldurulabilir.
+	only in Outline view	yalnızca Ana Hat görünümünde
 	Only the allowed styles can be applied.	Yalnızca izin verilen stiller uygulanabilir.
 	Only web (http, https) and email (mailto) links can be followed	Yalnızca web (http, https) ve e-posta (mailto) bağlantıları açılabilir
+	Open a document first	Önce bir belge açın
 	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	Sistemin dosya iletişim kutusu açılmadığında dosyayı WordCraft'ın kendi dosya tarayıcısıyla açın.
 	OpenDocument Text (*.odt)	OpenDocument Metni (*.odt)
 	Opening print dialog…	Yazdırma iletişim kutusu açılıyor…
@@ -1329,8 +1425,10 @@
 	Organizer…	Düzenleyici…
 	Orientation	Sayfa Yönü
 	Original document	Özgün belge
+	Original size	Özgün boyut
 	Other Large Operators	Diğer Büyük İşleçler
 	Other styles and their TOC level:	Diğer stiller ve İçindekiler düzeyleri:
+	Other:	Diğer:
 	Otherwise insert:	Diğer durumda ekle:
 	Outline Level	Ana Hat Düzeyi
 	Outline level	Ana hat düzeyi
@@ -1360,7 +1458,9 @@
 	Page image (*.png)	Sayfa görüntüsü (*.png)
 	Page Movement	Sayfa Geçişi
 	Page Number	Sayfa Numarası
+	Page Number Format	Sayfa numarası biçimi
 	Page number style	Sayfa numarası stili
+	Page numbering	Sayfa numaralandırma
 	Page numbers at the right margin	Sayfa numaraları sağ kenar boşluğunda
 	Page on which a bookmarked passage falls	Yer işaretli metnin bulunduğu sayfa
 	Page Setup	Sayfa Ayarları
@@ -1407,8 +1507,11 @@
 	Pens	Kalemler
 	People	İnsanlar
 	Periodical	Süreli yayın
+	Personal	Kişisel
+	Personal Templates	Kişisel şablonlar
 	Personalize	Kişiselleştir
 	Phonetic Guide	Fonetik Kılavuz
+	pi	pi
 	Pi Over 2	Pi Bölü 2
 	Picas	Pika
 	Pick a custom group (New Group makes one)	Bir özel grup seçin (Yeni Grup bir tane oluşturur)
@@ -1429,13 +1532,16 @@
 	Play/Pause	Oynat/Duraklat
 	Plus Equal	Artı Eşittir
 	Points	Punto
+	Points and above	punto ve üzeri
 	Polish	Lehçe
 	Portuguese (Brazil)	Portekizce (Brezilya)
 	Portuguese (Portugal)	Portekizce (Portekiz)
+	Possible spelling mistake	Olası yazım hatası
 	Postal Code	Posta Kodu
 	Power series of (1+x)ⁿ	(1+x)ⁿ Kuvvet Serisi
 	Preferred width:	Tercih edilen genişlik:
 	Preserve formatting during updates	Güncellemelerde biçimlendirmeyi koru
+	Preset gradients	Hazır degradeler
 	Presets	Hazır ayarlar
 	Press a key combination	Bir tuş birleşimine basın
 	Preview Results	Sonuçları Önizle
@@ -1447,9 +1553,12 @@
 	Previous Section	Önceki Bölüm
 	Previous Sentence	Önceki Cümle
 	Previous sentence	Önceki cümle
+	Print Documents	Belgeleri Yazdır
+	Print Documents…	Belgeleri Yazdır…
 	Print failed: the printing worker stopped.	Yazdırma başarısız oldu: yazdırma işlemi durdu.
 	Print failed: {error}	Yazdırma başarısız: {error}
 	Print job submitted.	Yazdırma işi gönderildi.
+	Print job submitted: spooled {count} sheet(s)	Yazdırma işi gönderildi: {count} sayfa kuyruğa alındı
 	Print job submitted: {receipt}	Yazdırma işi gönderildi: {receipt}
 	Print Layout	Baskı Düzeni
 	Print Markup	İşaretlemeyi Yazdır
@@ -1485,6 +1594,7 @@
 	Quick Parts	Hızlı Parçalar
 	Quick Tables	Hızlı Tablolar
 	Quote	Alıntı
+	Radial	Dairesel
 	Radical	Kök
 	Radical with Degree	Dereceli Kök
 	Radicals	Kökler
@@ -1504,6 +1614,7 @@
 	Reads the clipboard's rich text and keeps its formatting.	Panodaki zengin metni okur ve biçimlendirmesini korur.
 	Reads the clipboard's web content and keeps its formatting.	Panodaki web içeriğini okur ve biçimlendirmesini korur.
 	Recent documents to show:	Gösterilecek son belge sayısı:
+	Recently Used Fonts	Son Kullanılan Yazı Tipleri
 	Recently used symbols:	Son kullanılan semboller:
 	Recipient List	Alıcı Listesi
 	Recipient lists	Alıcı listeleri
@@ -1526,6 +1637,7 @@
 	Reject All Changes	Tüm Değişiklikleri Reddet
 	Reject Change	Değişikliği Reddet
 	Relationship	İlişki
+	Relative to original picture size	Özgün resim boyutuna göre
 	Remove Added Font	Eklenen Yazı Tipini Kaldır
 	Remove condition	Koşulu kaldır
 	Remove Content Control	İçerik Denetimini Kaldır
@@ -1534,6 +1646,7 @@
 	Remove field	Alanı kaldır
 	Remove Footer	Altbilgiyi Kaldır
 	Remove from Quick Access Toolbar	Hızlı Erişim Araç Çubuğundan Kaldır
+	Remove gradient stop	Degrade durağını kaldır
 	Remove Header	Üstbilgiyi Kaldır
 	Remove Hyperlink	Bağlantıyı Kaldır
 	Remove my name from comments, changes and file properties when saving	Kaydederken adımı açıklamalardan, değişikliklerden ve dosya özelliklerinden kaldır
@@ -1614,6 +1727,7 @@
 	Rotate all text 90°	Tüm metni 90° döndür
 	Rotate Left 90°	Sola 90° Döndür
 	Rotate Right 90°	Sağa 90° Döndür
+	Rotate with shape	Şekille birlikte döndür
 	Row	Satır
 	Row:	Satır:
 	Rows & Columns	Satırlar ve Sütunlar
@@ -1624,10 +1738,12 @@
 	SAMPLE	ÖRNEK
 	Sat:	Doygunluk:
 	Save a copy in another format. Printing goes through a PDF you can print from any viewer.	Başka bir biçimde kopya kaydedin. Yazdırma, herhangi bir görüntüleyiciden yazdırabileceğiniz bir PDF üzerinden yapılır.
+	Save as Word Template…	Word şablonu olarak kaydet…
 	Save documents	Belgeleri kaydet
 	Save the document to turn on AutoSave	Otomatik Kaydet'i açmak için belgeyi kaydedin
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	Otomatik Kaydet'i açmak için belgeyi kaydedin (yalnızca açtığınız bir dosya, siz kaydedene kadar yeniden yazılmaz)
 	Save these pages as PDF…	Bu sayfaları PDF olarak kaydet…
+	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Şablon klasörünüze bir .dotx şablonu kaydeder. Dosya › Yeni altında Kişisel bölümünde görünür.
 	Saving {name} was cancelled, so it is still open and nothing was lost.	{name} kaydetme işlemi iptal edildi; belge hâlâ açık ve hiçbir şey kaybolmadı.
 	Scale	Ölçek
 	Scale Drawing	Çizimi Ölçeklendir
@@ -1643,6 +1759,7 @@
 	Search icons	Simgelerde ara
 	Search Options	Arama Seçenekleri
 	Secant Function	Sekant Fonksiyonu
+	Section 1.01	Kısım 1.01
 	Section Break	Bölüm Sonu
 	Section Breaks	Bölüm Sonları
 	Section Character	Bölüm Karakteri
@@ -1651,8 +1768,20 @@
 	Section Properties	Bölüm Özellikleri
 	Sections	Bölümler
 	See	Bkz.
+	select a chart first	önce bir grafik seçin
+	select a connector first	önce bir bağlayıcı seçin
+	select a drawing canvas first	önce bir çizim tuvali seçin
+	select a floating picture or shape first	önce kayan bir resim veya şekil seçin
+	select a group first	önce bir grup seçin
+	select a picture first	önce bir resim seçin
+	select a picture or shape first	önce bir resim veya şekil seçin
 	Select a picture, shape, chart or table to describe it.	Açıklamak için bir resim, şekil, grafik veya tablo seçin.
 	Select a printer	Bir yazıcı seçin
+	select a shape first	önce bir şekil seçin
+	Select a shape, text box or drawing canvas to format its fill.	Dolgusunu biçimlendirmek için bir şekil, metin kutusu veya çizim tuvali seçin.
+	select a SmartArt graphic first	önce bir SmartArt grafiği seçin
+	select a text box first	önce bir metin kutusu seçin
+	select a text box linked to another first	önce başka bir kutuya bağlı bir metin kutusu seçin
 	Select Cell	Hücre Seç
 	Select Column	Tablo Sütunu Seç
 	Select Heading and Content	Başlığı ve içeriğini seç
@@ -1660,6 +1789,7 @@
 	Select Paragraph	Paragraf Seç
 	Select Range	Aralık Seç
 	Select Recipients	Alıcıları Seç
+	select recipients first	önce alıcıları seçin
 	Select recipients first to choose from their fields.	Alanlarından seçim yapmak için önce alıcıları seçin.
 	Select recipients first to match their fields.	Alanları eşleştirmek için önce alıcıları seçin.
 	Select Row	Tablo Satırı Seç
@@ -1670,13 +1800,16 @@
 	Select Text with Similar Formatting	Benzer Biçimlendirilmiş Metni Seç
 	Select text, then tick who can still edit it.	Metni seçin, sonra kimlerin düzenleyebileceğini işaretleyin.
 	select two or more cells to merge	birleştirmek için iki veya daha fazla hücre seçin
+	select two or more pictures or shapes first (Shift+click)	iki veya daha fazla resim ya da şekil seçin (Shift+tıklama)
 	Select Word	Sözcük Seç
 	Select\nRecipients	Alıcıları\nSeç
 	Selected Fields	Seçili Alanlar
+	Selected text	Seçili metin
 	Selection Pane	Seçim Bölmesi
 	Send the document straight to the system print dialog, or save a copy in another format below.	Belgeyi doğrudan sistem yazdırma iletişim kutusuna gönderin veya aşağıdan başka bir biçimde kopya kaydedin.
 	Sentence	Cümle
 	Sentence case.	Cümle düzeni.
+	Separate text at	Metni ayırma yeri
 	Separator:	Ayırıcı:
 	Sequence name:	Dizi adı:
 	Serbian (Cyrillic)	Sırpça (Kiril)
@@ -1729,13 +1862,16 @@
 	Show Markup	İşaretleri Göster
 	Show Notes	Notları Göster
 	Show only comments and formatting in balloons	Balonlarda yalnızca yorumları ve biçimlendirmeyi göster
+	Show only records that will be merged	Yalnızca birleştirilecek kayıtları göster
 	Show or Hide Style	Stili Göster veya Gizle
+	Show Quick Access Toolbar	Hızlı Erişim Araç Çubuğunu Göster
 	Show revisions in balloons	Düzeltmeleri balonlarda göster
 	Show Text Formatting	Metin biçimlendirmesini göster
 	Show the community button in the title bar	Başlık çubuğunda topluluk düğmesini göster
 	Show the equation in the line of text	Denklemi metin satırı içinde göster
 	Show the equation on a line of its own	Denklemi ayrı bir satırda göster
 	Show the mini toolbar when text is selected	Metin seçildiğinde mini araç çubuğunu göster
+	Show the ribbon	Şeridi göster
 	Show the Start screen when WordCraft starts	WordCraft açılırken Başlangıç ekranını göster
 	Show/Hide ¶	Göster/Gizle ¶
 	Show\nComments	Yorumları\nGöster
@@ -1793,6 +1929,7 @@
 	Soft Edges	Yumuşak Kenarlar
 	Soft Glow	Yumuşak Parıltı
 	Solid Accent	Düz Vurgu
+	Solid fill	Düz dolgu
 	Sort by:	Sıralama ölçütü:
 	Sort order:	Sıralama:
 	Sort Recipients	Alıcıları sırala
@@ -1818,6 +1955,7 @@
 	Spelling &\nGrammar	Yazım ve\nDilbilgisi
 	Spelling and grammar are checked in English (United States).	Yazım ve dil bilgisi İngilizce (Amerika Birleşik Devletleri) için denetlenir.
 	Spelling Suggestions	Yazım Önerileri
+	Spike	Biriktirici
 	Split Cells	Hücreleri Böl
 	Split Table	Tabloyu Böl
 	Spreadsheet Table	Elektronik Tablo
@@ -1905,6 +2043,7 @@
 	Table Properties	Tablo Özellikleri
 	Table Properties…	Tablo Özellikleri…
 	Table Row Height	Tablo Satır Yüksekliği
+	Table size	Tablo boyutu
 	Table Style Options	Tablo Stili Seçenekleri
 	Table Styles	Tablo Stilleri
 	Tabs…	Sekmeler…
@@ -1916,8 +2055,10 @@
 	TC entry fields	TC girdi alanları
 	Technology	Teknoloji
 	Templates and Add-ins	Şablonlar ve Eklentiler
+	Templates you save in your templates folder show up here.	Şablon klasörünüze kaydettiğiniz şablonlar burada görünür.
 	Text Box	Metin Kutusu
 	Text boxes	Metin kutuları
+	text boxes can't go inside a text box	metin kutuları bir metin kutusunun içine konamaz
 	Text Direction	Metin Yönü
 	Text Effects	Metin Efektleri
 	Text Effects and Typography	Metin Efektleri ve Tipografi
@@ -1939,17 +2080,25 @@
 	That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on.	Bu biçim her şeyi korumaz; bu yüzden belge açık kalır. Devam etmek için Word belgesi (.docx) olarak kaydedin.
 	That password isn't right. Check it (passwords are case-sensitive) and try again.	Parola yanlış. Kontrol edip yeniden deneyin (parolalar büyük/küçük harfe duyarlıdır).
 	The clipboard is empty.	Pano boş.
+	the Clipboard pane is empty	Pano bölmesi boş
+	the cursor isn't in a table	imleç bir tabloda değil
 	The date it is today	Bugünün tarihi
 	The document has no bookmarks yet.	Belgede henüz yer işareti yok.
+	the document is protected	belge korumalı
 	The document is read only, except for regions marked editable.	Düzenlenebilir işaretli bölgeler dışında belge salt okunurdur.
 	The document will be saved with a password. Save it to protect it.	Belge parolayla kaydedilecek. Korumak için belgeyi kaydedin.
 	The document you are editing keeps the names and dates; only the saved file leaves them out.	Düzenlediğiniz belge adları ve tarihleri korur; yalnızca kaydedilen dosya bunları içermez.
 	The margins don't fit on a page this size; make the margins smaller first.	Kenar boşlukları bu boyuttaki bir sayfaya sığmıyor; önce kenar boşluklarını küçültün.
+	The measurement must be between {min} and {max}.	Ölçü {min} ile {max} arasında olmalıdır.
 	The new style takes the formatting of the current paragraph.	Yeni stil, geçerli paragrafın biçimlendirmesini alır.
+	The number must be between 1 and {max}.	Sayı 1 ile {max} arasında olmalıdır.
+	the paragraph is empty	paragraf boş
+	the paragraph starts with a space	paragraf boşlukla başlıyor
 	The password is optional; without it anyone can stop the protection.	Parola isteğe bağlıdır; olmadan herkes korumayı durdurabilir.
 	The password is removed. Save the document to keep the change.	Parola kaldırıldı. Değişikliği korumak için belgeyi kaydedin.
 	The printer, two-sided printing and pages per sheet are chosen in that dialog.	Yazıcı, çift taraflı yazdırma ve yaprak başına sayfa sayısı o iletişim kutusunda seçilir.
 	The recipient-list field that fills each part of an address block and greeting line.	Adres bloğunun ve selamlama satırının her bölümünü dolduran alıcı listesi alanı.
+	the Spike is empty	biriktirici boş
 	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	Sistemin dosya iletişim kutusu kullanılamadığı için WordCraft kendi iletişim kutusunu gösteriyor. Sistem iletişim kutusunu kullanmak için bir dosya seçici portalı (örneğin xdg-desktop-portal-gtk) ya da zenity yükleyin.
 	The time right now	Şu anki saat
 	Theme Colors	Tema Renkleri
@@ -1959,12 +2108,14 @@
 	Then by	Sonra
 	Then insert:	Bu durumda ekle:
 	there is no ink to replay	yeniden oynatılacak mürekkep yok
+	there is nothing to undo	geri alınacak bir şey yok
 	there's no citation after the caret	imlecin sonrasında atıf yok
 	Thesaurus	Eş Anlamlılar Sözlüğü
 	These marks show even when Show/Hide ¶ is off.	Bu işaretler, Göster/Gizle ¶ kapalıyken de görünür.
 	These merge fields aren't in the recipient list:	Bu birleştirme alanları alıcı listesinde yok:
 	These settings will be used for new documents.	Bu ayarlar yeni belgeler için kullanılacak.
 	Thick	Kalın
+	this chart was made in another program: WordCraft shows it but can't edit it	bu grafik başka bir programda oluşturuldu: WordCraft onu gösterir ancak düzenleyemez
 	This document	Bu belge
 	This field has no options.	Bu alanın seçeneği yok.
 	This folder can't be read: {error}	Bu klasör okunamıyor: {error}
@@ -1974,6 +2125,8 @@
 	This password type isn't supported.	Bu parola türü desteklenmiyor.
 	This point forward	Bu noktadan itibaren
 	This section	Bu bölüm
+	this SmartArt was made in another program: WordCraft shows it but can't edit it	bu SmartArt başka bir programda oluşturuldu: WordCraft onu gösterir ancak düzenleyemez
+	this text box is already linked: break the link first	bu metin kutusu zaten bağlı: önce bağlantıyı kesin
 	Three	Üç
 	Through	Geçişli
 	Tight	Sıkı
@@ -1984,6 +2137,7 @@ preview	Title	Örnek
 	Title from the document properties	Belge özelliklerindeki başlık
 	Title:	Başlık:
 	To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All.	Word belgelerini varsayılan olarak WordCraft ile açmak için: Finder'da bir belge seçin, Dosya › Bilgi Al'ı seçin, Birlikte aç altında WordCraft'ı seçin ve Tümünü Değiştir'e tıklayın.
+	To:	Bitiş:
 	TOA Heading	Yetki Tablosu Başlığı
 	TOC Heading	İçindekiler Başlığı
 	TOC {n}	İçindekiler {n}
@@ -2029,6 +2183,7 @@ preview	Title	Örnek
 	Type +2 or -1 to move from the page you are on.	Bulunduğunuz sayfadan ilerlemek için +2, geri gitmek için -1 yazın.
 	Type a command, e.g. "insert table"	Bir komut yazın, ör. "tablo ekle"
 	Type a New List…	Yeni Liste Yaz…
+	Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions.	Herhangi bir birimde bir boyut yazın, örneğin 5 cm veya 300 px. Diğer kenar da buna uyar, böylece resim oranlarını korur.
 	Type at least one recipient.	En az bir alıcı girin.
 	Type Character Code	Karakter Kodu Yaz
 	Type equations in LaTeX	Denklemleri LaTeX biçiminde yazın
@@ -2045,6 +2200,7 @@ preview	Title	Örnek
 	Unchecked symbol	Seçili olmayan simge
 	Underbar	Alt Çizgi
 	Underbrace	Alt Küme Parantezi
+	Underline Color	Alt Çizgi Rengi
 	Underline color	Alt çizgi rengi
 	Underline Words Only	Yalnızca Sözcüklerin Altını Çiz
 	Undo 1 Action	1 Eylemi Geri Al
@@ -2082,6 +2238,7 @@ preview	Title	Örnek
 	Use wildcards	Joker karakter kullan
 	User Name	Kullanıcı Adı
 	User name:	Kullanıcı adı:
+	User templates:	Kullanıcı şablonları:
 	Vector A	A Vektörü
 	Vector AB	AB Vektörü
 	Version History	Sürüm Geçmişi
@@ -2151,6 +2308,8 @@ preview	Title	Örnek
 	Zotero	Zotero
 	Zotero: cancelled	Zotero: iptal edildi
 	Zotero: done	Zotero: tamamlandı
+	{added}; {count} couldn't be read: {names}	{added}; {count} okunamadı: {names}
+	{added}; {n} skipped (limit {max})	{added}; {n} atlandı (sınır {max})
 	{cols}×{rows} Table	{cols}×{rows} Tablo
 	{contributors} contributors · {commits} commits	{contributors} katkıda bulunan · {commits} commit
 	{count} items highlighted	{count} öğe vurgulandı
@@ -2163,10 +2322,12 @@ preview	Title	Örnek
 	{language} is now the document's default language.	{language} artık belgenin varsayılan dili.
 	{language}: no dictionary found	{language}: sözlük bulunamadı
 	{language}: {file}	{language}: {file}
+	{names} and {n} more	{names} ve {n} tane daha
 	{name}   {height} × {width} in	{name}   {height} × {width} inç
 	{name}   {height} × {width} mm	{name}   {height} × {width} mm
 	{name} already exists. Choose Save again to replace it.	{name} zaten var. Değiştirmek için Kaydet'i yeniden seçin.
 	{name} is protected with a password.	{name} parolayla korunuyor.
+	{name} options	{name} seçenekleri
 	{name} wasn't found.	{name} bulunamadı.
 	{n} entries marked.	{n} girdi işaretlendi.
 	{n} lines	{n} satır
@@ -2174,6 +2335,7 @@ preview	Title	Örnek
 	{selected} of {words} words	{words} sözcükten {selected} seçili
 	{size} pt	{size} pt
 	{width} × {height} mm	{width} × {height} mm
+	{width} × {height} pixels	{width} × {height} piksel
 	{words} words	{words} sözcük
 	“{text}” ({row}, {series}) isn't a number.	“{text}” ({row}, {series}) bir sayı değil.
 	✓ None	✓ Yok
