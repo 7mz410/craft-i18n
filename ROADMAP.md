@@ -77,7 +77,7 @@ As surveyed on 2026-10-16 (VectorCraft recounted 2026-10-18). Locale counts excl
 - **Release builds** (maintainer): whether craft-common-actions' release workflow checks out
   craft-i18n at a pinned ref and sets `CRAFT_I18N_DIR` and `CRAFT_I18N_REQUIRED=1`, as it does for
   craft-fonts. Until then, releases are English-only unless an app sets them itself.
-- **Repository home**: moving from a personal account to storytold.
+- **Repository home**: transferred to storytold/craft-i18n (2026-10-21).
 - **Progress-docs shape**: align this page with the craftrules progress-docs standard once it is
   available to this repository.
 
@@ -91,4 +91,5 @@ As surveyed on 2026-10-16 (VectorCraft recounted 2026-10-18). Locale counts excl
 | 2026-10-18 | patch | Recorded WordCraft's "Open" spacing preset translated as the verb |
 | 2026-10-18 | minor | Milestone 3b catalogs migrated: PhotoCraft, VectorCraft, FilmCraft, CADCraft, craft-launcher (1279 shared strings, 32 locales) |
 | 2026-10-18 | patch | Milestone 2 done: storytold/craft-libs#167 merged after review; app wiring unblocked |
+| 2026-10-22 | patch | Repository transferred to storytold/craft-i18n |
 | 2026-10-22 | minor | Related work: storytold/craft-libs#198; PdfCraft and CADCraft wired last; plural engine follow-up; DesignCraft clash noted for 3c |
