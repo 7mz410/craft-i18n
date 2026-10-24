@@ -43,10 +43,11 @@ catalog came from (`<app>@<sha>`). Translations are contributed under the reposi
 
 ## WordCraft egui 0.37 migration additions
 
-@skylartaylor contributed the `Delete Around in Equation` row in `bg`, `cs`, `da`,
+@skylartaylor contributed the `Delete Around Caret in Equation` row in `bg`, `cs`, `da`,
 `de`, `es`, `et`, `fr`, `hr`, `hu`, `it`, `ja`, `ko`, `nl`, `pl`, `pt-br`, `ro`,
 `ru`, `sl`, `sr`, `sr-latn`, `sv`, `tr`, `uk`, `vi`, `zh-hans` and `zh-hant`. These
 26 rows were prepared in the unpublished WordCraft migration and moved here after
-the app adopted shared catalogs. They were written from the English meaning; no
-native-speaker review is recorded. They are separate from the earlier catalog
+the app adopted shared catalogs. The revised wording names the caret within the
+equation, where the command deletes adjacent editing units. They were written from
+the English meaning; no native-speaker review is recorded. They are separate from the earlier catalog
 migrations and translator credits above.
