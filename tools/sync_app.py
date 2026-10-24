@@ -242,8 +242,8 @@ class Tree:
             path = self.path(locale, self.app)
             if path.exists():
                 head = path.read_text(encoding="utf-8").split("\n", 1)[0]
-                _, _, name = head.rpartition(" interface catalog for ")
-                if name.endswith(".") and name[:-1]:
+                start, sep, name = head.rpartition(" interface catalog for ")
+                if sep and start.startswith("# ") and name.endswith(".") and name[:-1]:
                     return name[:-1]
         return self.app
 
@@ -403,7 +403,7 @@ def app_of(args):
 
 
 def write_sync(tree, names, notes, checkout, base, ref, app, new):
-    """The non-`--check` half of `main.py`: apply the app's changes from `base` to `ref`, write the
+    """The non-`--check` half of `sync_app.py`: apply the app's changes from `base` to `ref`, write the
     catalogs, and give back the rows that came out (changed only, for the round trip)."""
     merged = git(checkout, "merge-base", base, ref).strip()
     if merged != git(checkout, "rev-parse", f"{base}^{{commit}}").strip():
