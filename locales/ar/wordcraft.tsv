@@ -45,7 +45,7 @@
 	<< Remove	<< إزالة
 	a drawing canvas can't be ungrouped	لا يمكن فك تجميع لوحة الرسم
 	a drawing canvas can't go inside a text box	لا يمكن وضع لوحة رسم داخل مربع نص
-	A file dialog is already open.	نافذة اختيار ملف مفتوحة بالفعل.
+	A file dialog is already open.	مربع حوار اختيار ملف مفتوح بالفعل.
 	A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team.	معالج نصوص مجاني مفتوح المصدر، مكتوب من الصفر بلغة Rust.\nجزء من تطبيقات Crafting Apps من فريق ArtCraft.
 	a group holding Word ink can't be ungrouped yet	لا يمكن بعد فك تجميع مجموعة تحتوي على حبر Word
 	A mail merge field	حقل دمج مراسلات
@@ -91,7 +91,7 @@
 	Add Space Before Paragraph	إضافة مسافة قبل الفقرة
 	Add space between Asian and Latin text	إضافة مسافة بين النص الآسيوي والنص اللاتيني
 	Add space between Asian text and numbers	إضافة مسافة بين النص الآسيوي والأرقام
-	Add tab stop at:	إضافة علامة جدولة عند:
+	Add tab stop at:	إضافة موضع جدولة عند:
 	Add Text	إضافة نص
 	Add the chapter number	إضافة رقم الفصل
 	Add to Dictionary	إضافة إلى القاموس
@@ -295,7 +295,7 @@
 	Breve	علامة قصيرة
 	Bring Forward	إحضار للأمام
 	Browse in WordCraft…	الاستعراض في WordCraft…
-	Building Block Gallery Content Control	عنصر تحكم محتوى معرض الكتل الإنشائية
+	Building Block Gallery Content Control	عنصر تحكم في المحتوى (معرض الكتل الإنشائية)
 	Built-In	مضمّن
 	Built-in style	نمط مضمّن
 	Built-in styles can't be deleted.	لا يمكن حذف الأنماط المضمّنة.
@@ -386,7 +386,7 @@
 	charts and diagrams can't be moved or resized yet	لا يمكن بعد نقل المخططات والرسوم التخطيطية أو تغيير حجمها
 	Check	تحديد
 	Check Accessibility	فحص إمكانية الوصول
-	Check Box Content Control	عنصر تحكم محتوى خانة اختيار
+	Check Box Content Control	عنصر تحكم في المحتوى (خانة اختيار)
 	Check Compatibility	فحص التوافق
 	Check for Errors	البحث عن أخطاء
 	Check Spelling as You Type	تدقيق الإملاء أثناء الكتابة
@@ -451,7 +451,7 @@
 	Columns	الأعمدة
 	Columns:	الأعمدة:
 	Combine Documents	دمج المستندات
-	Combo Box Content Control	عنصر تحكم محتوى مربع تحرير وسرد
+	Combo Box Content Control	عنصر تحكم في المحتوى (مربع تحرير وسرد)
 	Commands	الأوامر
 	Commands:	الأوامر:
 	Commas	الفواصل
@@ -484,8 +484,8 @@
 	Connect Shapes	وصل الأشكال
 	Container Title	عنوان الحاوية
 	Contains	يحتوي على
-	Content Control at Selection	عنصر تحكم المحتوى عند التحديد
-	Content Control Properties	خصائص عنصر تحكم المحتوى
+	Content Control at Selection	عنصر التحكم في المحتوى عند التحديد
+	Content Control Properties	خصائص عنصر التحكم في المحتوى
 	Contents can't be edited	لا يمكن تحرير المحتويات
 	Context	السياق
 	Continue from previous section	المتابعة من القسم السابق
@@ -538,8 +538,8 @@
 	Create Source	إنشاء مصدر
 	Croatian	الكرواتية
 	Crop	اقتصاص
-	Cross-reference	إسناد ترافقي
-	Cross-reference:	إسناد ترافقي:
+	Cross-reference	إحالة مرجعية
+	Cross-reference:	إحالة مرجعية:
 	Cube Root	جذر تكعيبي
 	Current	الحالي
 	Current - Linear	الحالي - خطي
@@ -577,7 +577,7 @@
 	Date & Time	التاريخ والوقت
 	Date and Time	التاريخ والوقت
 	Date formats:	تنسيقات التاريخ:
-	Date Picker Content Control	عنصر تحكم محتوى منتقي التاريخ
+	Date Picker Content Control	عنصر تحكم في المحتوى (منتقي التاريخ)
 	Day	اليوم
 	Decimal	عشري
 	Decorative objects only add visual interest: screen readers skip them.	الكائنات الزخرفية للزينة فقط: تتخطاها قارئات الشاشة.
@@ -585,7 +585,7 @@
 	Decrease Indent	إنقاص المسافة البادئة
 	Deep	عميق
 	Default Paragraph Font	خط الفقرة الافتراضي
-	Default tab stops:	علامات الجدولة الافتراضية:
+	Default tab stops:	مواضع الجدولة الافتراضية:
 	Define New Bullet	تعريف تعداد نقطي جديد
 	Define New Multilevel List	تعريف قائمة متعددة المستويات جديدة
 	Define New Multilevel List…	تعريف قائمة متعددة المستويات جديدة…
@@ -713,7 +713,7 @@
 	Drop cap	حرف استهلالي
 	Drop Cap Options…	خيارات الحرف الاستهلالي…
 	drop caps can't go in a table	لا يمكن وضع حرف استهلالي داخل جدول
-	Drop-Down List Content Control	عنصر تحكم محتوى قائمة منسدلة
+	Drop-Down List Content Control	عنصر تحكم في المحتوى (قائمة منسدلة)
 	Dropped	منسدل
 	Drops all formatting and pastes plain text.	يتجاهل كل التنسيق ويلصق نصًا عاديًا.
 	Dutch	الهولندية
@@ -777,7 +777,7 @@
 	Enter formatting for number:	أدخل تنسيق الرقم:
 	Enter in Equation	إدخال في المعادلة
 	Enter page number:	أدخل رقم الصفحة:
-	Entry marked.	تم تعليم الإدخال.
+	Entry marked.	وُضعت علامة على الإدخال.
 	Envelope #10	ظرف رقم 10
 	Envelope #10   4.12" × 9.50"	ظرف رقم 10   4.12" × 9.50"
 	Envelope Address	عنوان الظرف
@@ -873,7 +873,7 @@
 	Font Color	لون الخط
 	Font color	لون الخط
 	Font color:	لون الخط:
-	Font Dialog	نافذة الخط
+	Font Dialog	مربع حوار الخط
 	Font Size	حجم الخط
 	Font: {font}	الخط: {font}
 	Font…	الخط…
@@ -1315,17 +1315,17 @@
 	Manual Page Break	فاصل صفحة يدوي
 	Manual…	يدوي…
 	Many pages	صفحات عديدة
-	Mark	تعليم
-	Mark All	تعليم الكل
-	Mark as decorative	التعليم كزخرفي
-	Mark Citation	تعليم استشهاد
-	Mark Entry	تعليم إدخال
-	Mark Entry…	تعليم إدخال…
-	Mark grammar errors as you type	تعليم الأخطاء النحوية أثناء الكتابة
-	Mark Index Entry	تعليم إدخال فهرس
-	Mark selected text as:	تعليم النص المحدد كـ:
-	Mark\nCitation	تعليم\nاستشهاد
-	Mark\nEntry	تعليم\nإدخال
+	Mark	وضع علامة
+	Mark All	وضع علامة على الكل
+	Mark as decorative	وضع علامة كزخرفي
+	Mark Citation	وضع علامة على الاستشهاد
+	Mark Entry	وضع علامة على إدخال الفهرس
+	Mark Entry…	وضع علامة على إدخال الفهرس…
+	Mark grammar errors as you type	وضع علامة على الأخطاء النحوية أثناء الكتابة
+	Mark Index Entry	وضع علامة على إدخال الفهرس
+	Mark selected text as:	وضع علامة على النص المحدد كـ:
+	Mark\nCitation	وضع علامة على\nالاستشهاد
+	Mark\nEntry	وضع علامة على\nإدخال الفهرس
 	Markdown (*.md)	Markdown (*.md)
 	Match case	مطابقة حالة الأحرف
 	Match Fields	مطابقة الحقول
@@ -1539,9 +1539,9 @@
 	Only the allowed styles can be applied.	يمكن تطبيق الأنماط المسموح بها فقط.
 	Only web (http, https) and email (mailto) links can be followed	يمكن فتح ارتباطات الويب (http، https) والبريد (mailto) فقط
 	Open a document first	افتح مستندًا أولًا
-	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	فتح ملف بمستعرض WordCraft الخاص عندما لا تظهر نافذة ملفات النظام.
+	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	فتح ملف بمستعرض WordCraft الخاص عندما لا يظهر مربع حوار الملفات في النظام.
 	OpenDocument Text (*.odt)	نص OpenDocument (*.odt)
-	Opening print dialog…	جارٍ فتح نافذة الطباعة…
+	Opening print dialog…	جارٍ فتح مربع حوار الطباعة…
 	Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on.	يفتح ملفات .docx و.doc و.rtf و.odt وقوالب Word بـ WordCraft من الآن.
 	Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types.	يفتح الإعدادات › التطبيقات الافتراضية، حيث تختار WordCraft لـ .docx وأنواع المستندات الأخرى.
 	Operator	عامل
@@ -1550,7 +1550,7 @@
 	Optional Hyphen	واصلة اختيارية
 	Or	أو
 	Or save a copy in another format:	أو احفظ نسخة بتنسيق آخر:
-	Ordinals (1st) as superscript	الأعداد الترتيبية (1st) كمرتفع
+	Ordinals (1st) as superscript	الأعداد الترتيبية (1st) كنص مرتفع
 	Organizer	المنظِّم
 	Organizer…	المنظِّم…
 	Orientation	الاتجاه
@@ -1574,8 +1574,8 @@
 	Overbar	شريط علوي
 	Overbars and Underbars	الأشرطة العلوية والسفلية
 	Overbrace	قوس معقوص علوي
-	Overtype	الكتابة الفوقية
-	Overtype (typing replaces the characters after the caret)	الكتابة الفوقية (الكتابة تستبدل الأحرف بعد مؤشر الكتابة)
+	Overtype	الكتابة الاستبدالية
+	Overtype (typing replaces the characters after the caret)	الكتابة الاستبدالية (الكتابة تستبدل الأحرف بعد مؤشر الكتابة)
 	Page Background	خلفية الصفحة
 	Page Border	حد الصفحة
 	Page Borders	حدود الصفحة
@@ -1655,7 +1655,7 @@
 	Pick a field from the list	اختر حقلًا من القائمة
 	Picture	صورة
 	Picture Border	حد الصورة
-	Picture Content Control	عنصر تحكم محتوى صورة
+	Picture Content Control	عنصر تحكم في المحتوى (صورة)
 	Picture Format	تنسيق الصورة
 	Picture Styles	أنماط الصور
 	Pictures	الصور
@@ -1664,7 +1664,7 @@
 	Placeholder text	نص العنصر النائب
 	Plain Table 1	جدول عادي 1
 	Plain text (*.txt)	نص عادي (*.txt)
-	Plain Text Content Control	عنصر تحكم محتوى نص عادي
+	Plain Text Content Control	عنصر تحكم في المحتوى (نص عادي)
 	Play	تشغيل
 	Play/Pause	تشغيل/إيقاف مؤقت
 	Plus Equal	زائد يساوي
@@ -1727,7 +1727,7 @@
 	Protect Document	حماية المستند
 	pt	نقطة
 	Publisher	الناشر
-	Put the caret in a content control first.	ضع مؤشر الكتابة داخل عنصر تحكم محتوى أولًا.
+	Put the caret in a content control first.	ضع مؤشر الكتابة داخل عنصر تحكم في المحتوى أولًا.
 	Put the default commands back on the Quick Access Toolbar?	هل تريد إعادة الأوامر الافتراضية إلى شريط أدوات الوصول السريع؟
 	Quadratic Root	جذر المعادلة التربيعية
 	Quick Access Toolbar	شريط أدوات الوصول السريع
@@ -1783,7 +1783,7 @@
 	Remove Added Font	إزالة الخط المضاف
 	Remove Background	إزالة الخلفية
 	Remove condition	إزالة الشرط
-	Remove Content Control	إزالة عنصر تحكم المحتوى
+	Remove Content Control	إزالة عنصر التحكم في المحتوى
 	Remove every custom shortcut and restore the built-in keys?	هل تريد إزالة كل الاختصارات المخصصة واستعادة المفاتيح المضمّنة؟
 	Remove every custom tab and group and show all tabs again?	هل تريد إزالة كل علامات التبويب والمجموعات المخصصة وإظهار كل علامات التبويب مجددًا؟
 	Remove field	إزالة الحقل
@@ -1810,7 +1810,7 @@
 	Repeat	تكرار
 	Repeat as header row on each page	التكرار كصف رأس في كل صفحة
 	Repeat Header Rows	تكرار صفوف الرأس
-	Repeating Section Content Control	عنصر تحكم محتوى قسم مكرر
+	Repeating Section Content Control	عنصر تحكم في المحتوى (قسم مكرر)
 	Replace All	استبدال الكل
 	Replace as you type	الاستبدال أثناء الكتابة
 	Replace Document Text	استبدال نص المستند
@@ -1852,7 +1852,7 @@
 	Ribbon	الشريط
 	Ribbon and Quick Access Toolbar:	الشريط وشريط أدوات الوصول السريع:
 	Ribbon tabs	علامات تبويب الشريط
-	Rich Text Content Control	عنصر تحكم محتوى نص منسق
+	Rich Text Content Control	عنصر تحكم في المحتوى (نص منسق)
 	Rich Text Format (*.rtf)	تنسيق النص المنسق (*.rtf)
 	Rich Text Format (RTF)	تنسيق النص المنسق (RTF)
 	Right (vertical)	اليمين (عمودي)
@@ -1960,7 +1960,7 @@
 	Selected text	النص المحدد
 	Selection Pane	جزء التحديد
 	Send Backward	إرسال للخلف
-	Send the document straight to the system print dialog, or save a copy in another format below.	أرسل المستند مباشرة إلى نافذة طباعة النظام، أو احفظ نسخة بتنسيق آخر أدناه.
+	Send the document straight to the system print dialog, or save a copy in another format below.	أرسل المستند مباشرة إلى مربع حوار الطباعة في النظام، أو احفظ نسخة بتنسيق آخر أدناه.
 	Sentence	جملة
 	Sentence case.	حالة الجملة.
 	Separate text at	فصل النص عند
@@ -2081,8 +2081,8 @@
 	Skip Record If…	تخطي السجل إذا…
 	Slant Down	ميل للأسفل
 	Slant Up	ميل للأعلى
-	Small Caps	أحرف كبيرة صغيرة
-	Small caps	أحرف كبيرة صغيرة
+	Small Caps	أحرف كبيرة مصغّرة
+	Small caps	أحرف كبيرة مصغّرة
 	Small change	تغيير صغير
 	Smart quotes instead of straight quotes	علامات اقتباس ذكية بدل المستقيمة
 	SmartArt	SmartArt
@@ -2173,7 +2173,7 @@
 	Subentry:	إدخال فرعي:
 	Submit print job	إرسال مهمة الطباعة
 	Submitting print job…	جارٍ إرسال مهمة الطباعة…
-	Subscript	منخفض
+	Subscript	نص منخفض
 	Subscript-Superscript	دليل سفلي وعلوي
 	Subscripts and Superscripts	الأدلة السفلية والعلوية
 	Subset:	المجموعة الفرعية:
@@ -2192,7 +2192,7 @@
 	Summation with Subscript Limit	مجموع بحد كدليل سفلي
 	Summation with Subscript-Superscript Limits	مجموع بحدود سفلية وعلوية
 	Summations	المجاميع
-	Superscript	مرتفع
+	Superscript	نص مرتفع
 	Suppress line numbers	إخفاء أرقام الأسطر
 	Surface Integral	تكامل سطحي
 	Surface Integral with Limits	تكامل سطحي بحدود
@@ -2209,8 +2209,8 @@
 	Tab character	حرف الجدولة
 	Tab characters	أحرف الجدولة
 	Tab leader:	الأحرف السابقة للجدولة:
-	Tab stop position:	موضع علامة الجدولة:
-	Tab stops to be cleared:	علامات الجدولة المراد مسحها:
+	Tab stop position:	موضع الجدولة:
+	Tab stops to be cleared:	مواضع الجدولة المراد مسحها:
 	Table Column Width	عرض عمود الجدول
 	Table Design	تصميم الجدول
 	Table direction:	اتجاه الجدول:
@@ -2229,8 +2229,8 @@
 	Table Style Options	خيارات نمط الجدول
 	Table Styles	أنماط الجدول
 	Tabloid   11.00" × 17.00"	Tabloid   11.00" × 17.00"
-	Tabs	علامات الجدولة
-	Tabs…	علامات الجدولة…
+	Tabs	مواضع الجدولة
+	Tabs…	مواضع الجدولة…
 	Tabular List	قائمة جدولية
 	Tag	العلامة
 	Take the last match on the page	أخذ آخر تطابق في الصفحة
@@ -2282,11 +2282,11 @@
 	the paragraph starts with a space	الفقرة تبدأ بمسافة
 	The password is optional; without it anyone can stop the protection.	كلمة المرور اختيارية؛ بدونها يستطيع أي شخص إيقاف الحماية.
 	The password is removed. Save the document to keep the change.	أُزيلت كلمة المرور. احفظ المستند للإبقاء على التغيير.
-	The printer, two-sided printing and pages per sheet are chosen in that dialog.	تُختار الطابعة والطباعة على الوجهين وعدد الصفحات في الورقة في تلك النافذة.
+	The printer, two-sided printing and pages per sheet are chosen in that dialog.	تُختار الطابعة والطباعة على الوجهين وعدد الصفحات في الورقة في مربع الحوار ذلك.
 	The recipient-list field that fills each part of an address block and greeting line.	حقل قائمة المستلمين الذي يملأ كل جزء من كتلة العنوان وسطر التحية.
 	The spelling and grammar check is complete.	اكتمل تدقيق الإملاء والقواعد.
 	the Spike is empty	حافظة التجميع فارغة
-	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	نافذة ملفات النظام غير متاحة، لذا يعرض WordCraft نافذته الخاصة. للحصول على نافذة النظام، ثبّت بوابة اختيار ملفات (مثل xdg-desktop-portal-gtk) أو zenity.
+	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	مربع حوار الملفات في النظام غير متاح، لذا يعرض WordCraft مربع حواره الخاص. للحصول على مربع حوار النظام، ثبّت بوابة اختيار ملفات (مثل xdg-desktop-portal-gtk) أو zenity.
 	The text at the insertion point is marked Do not check spelling or grammar.	النص عند نقطة الإدراج معلَّم بـ «عدم تدقيق الإملاء أو القواعد».
 	The time right now	الوقت الآن
 	Theme Colors	ألوان السمة
@@ -2298,7 +2298,7 @@
 	there is no ink to replay	لا يوجد حبر لإعادة تشغيله
 	there is nothing to undo	لا يوجد ما يُتراجع عنه
 	there's no citation after the caret	لا يوجد استشهاد بعد مؤشر الكتابة
-	Thesaurus	المعجم
+	Thesaurus	قاموس المرادفات
 	These marks show even when Show/Hide ¶ is off.	تظهر هذه العلامات حتى عند إيقاف إظهار/إخفاء ¶.
 	These merge fields aren't in the recipient list:	حقول الدمج هذه غير موجودة في قائمة المستلمين:
 	These settings will be used for new documents.	ستُستخدم هذه الإعدادات للمستندات الجديدة.
@@ -2430,7 +2430,7 @@
 	Use an Existing List…	استخدام قائمة موجودة…
 	Use system setting	استخدام إعداد النظام
 	Use the browser's full screen (F11)	استخدام ملء الشاشة في المتصفح (F11)
-	Use the Insert key to switch overtype on and off	استخدام مفتاح Insert لتشغيل الكتابة الفوقية وإيقافها
+	Use the Insert key to switch overtype on and off	استخدام مفتاح Insert لتشغيل الكتابة الاستبدالية وإيقافها
 	Use wildcards	استخدام أحرف البدل
 	User Name	اسم المستخدم
 	User name:	اسم المستخدم:
@@ -2533,7 +2533,7 @@
 	{name} is protected with a password.	{name} محمي بكلمة مرور.
 	{name} options	خيارات {name}
 	{name} wasn't found.	لم يُعثر على {name}.
-	{n} entries marked.	تم تعليم {n} إدخال.
+	{n} entries marked.	وُضعت علامة على {n} إدخال.
 	{n} lines	{n} سطر
 	{n} pt	{n} نقطة
 	{selected} of {words} words	{selected} من {words} كلمة
