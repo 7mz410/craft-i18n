@@ -51,3 +51,11 @@ to the Georgian catalog. The revised wording names the caret within the
 equation, where the command deletes adjacent editing units. They were written from
 the English meaning; no native-speaker review is recorded. They are separate from the earlier catalog
 migrations and translator credits above.
+
+## WordCraft: the language name "Romanian"
+
+@vioreltus contributed the `Romanian` row (the language name, for WordCraft's Romanian proofing,
+storytold/wordcraft#3570) in `bg`, `cs`, `da`, `de`, `es`, `et`, `fr`, `hr`, `hu`, `it`, `ja`,
+`ko`, `nl`, `pl`, `pt-br`, `ro`, `ru`, `sl`, `sr`, `sr-latn`, `sv`, `tr`, `uk`, `vi`, `zh-hans` and
+`zh-hant`, AI-assisted with Claude Code and written from the English meaning. `ro` is by a native
+speaker; no native-speaker review is recorded for the other 25.
