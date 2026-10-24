@@ -1215,6 +1215,7 @@
 	Less than	أصغر من
 	Less than or equal	أصغر من أو يساوي
 	Letter	Letter
+template	Letter	رسالة
 	Letter   8.50" × 11.00"	Letter   8.50" × 11.00"
 	Letter headings	عناوين الحروف
 	Letter-Like Symbols	رموز شبيهة بالحروف
@@ -2320,6 +2321,7 @@
 	Tight	متقارب
 	Tilde	علامة التلدة
 	Tips ({n})	تلميحات ({n})
+preview	Title	العنوان
 	Title Bar	شريط العنوان
 	Title from the document properties	العنوان من خصائص المستند
 	Title:	العنوان:
@@ -2545,5 +2547,3 @@
 	✓ None	✓ بلا
 	➕ New comment	➕ تعليق جديد
 	📂  Browse…	📂  استعراض…
-preview	Title	العنوان
-template	Letter	رسالة
