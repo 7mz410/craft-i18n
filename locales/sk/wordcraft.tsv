@@ -2761,7 +2761,7 @@ numerals	System	Podľa systému
 	Dark Variations	Tmavé varianty
 	Deep	Sýty
 	Direction	Smer
-	Dot-dot-dash	Bodka-bodka-čiarka
+	Dot-dot-dash	Bodka-bodka-pomlčka
 	Editing endnote	Úprava vysvetlivky
 	Editing footnote	Úprava poznámky pod čiarou
 	English (Australia)	Angličtina (Austrália)
@@ -2772,9 +2772,9 @@ numerals	System	Podľa systému
 	English (South Africa)	Angličtina (Juhoafrická republika)
 	File locations	Umiestnenia súborov
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Súbor › Nový zobrazuje šablóny .dotx a .dotm odtiaľto v časti Osobné; Uložiť ako šablónu Wordu začína tu.
-	Format Shape	Formát obrazca
-	Format Shape Pane	Podokno Formát obrazca
-	Format Shape…	Formátovať obrazec…
+	Format Shape	Formát tvaru
+	Format Shape Pane	Podokno Formát tvaru
+	Format Shape…	Formátovať tvar…
 	From Bottom Left Corner	Z ľavého dolného rohu
 	From Bottom Right Corner	Z pravého dolného rohu
 	From Center	Zo stredu
@@ -2784,7 +2784,7 @@ numerals	System	Podľa systému
 	Gradient	Prechod
 	Gradient fill	Prechodová výplň
 	Gradient stops	Zarážky prechodu
-	Include label and number	Zahrnúť popis a číslo
+	Include label and number	Zahrnúť označenie a číslo
 	Light Variations	Svetlé varianty
 	Linear Diagonal - Bottom Left to Top Right	Lineárny uhlopriečny – zľava dole doprava hore
 	Linear Diagonal - Bottom Right to Top Left	Lineárny uhlopriečny – sprava dole doľava hore
@@ -2809,14 +2809,14 @@ numerals	System	Podľa systému
 	Personal	Osobné
 	Personal Templates	Osobné šablóny
 	Preset gradients	Predvolené prechody
-	Print job submitted: spooled {count} sheet(s)	Tlačová úloha odoslaná: počet hárkov odovzdaných do tlačovej fronty: {count}
-	Radial	Lúčový
+	Print job submitted: spooled {count} sheet(s)	Tlačová úloha odoslaná. Hárky vo fronte: {count}.
+	Radial	Radiálny
 	Rectangular	Obdĺžnikový
 	Remove gradient stop	Odstrániť zarážku prechodu
-	Rotate with shape	Otáčať s obrazcom
+	Rotate with shape	Otáčať s tvarom
 	Save as Word Template…	Uložiť ako šablónu Wordu…
 	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Uloží šablónu .dotx do vášho priečinka so šablónami. Zobrazí sa v ponuke Súbor › Nový v časti Osobné.
-	Select a shape, text box or drawing canvas to format its fill.	Vyberte obrazec, textové pole alebo kresliace plátno a naformátujte jeho výplň.
+	Select a shape, text box or drawing canvas to format its fill.	Vyberte tvar, textové pole alebo kresliace plátno a upravte jeho výplň.
 	Show the ribbon	Zobraziť pás s nástrojmi
 	Soft	Jemný
 	Solid fill	Plná výplň
@@ -2826,3 +2826,38 @@ numerals	System	Podľa systému
 	cm	cm
 	mm	mm
 	pi	pi
+	First Record	Prvý záznam
+	Last Record	Posledný záznam
+	Go to Record	Prejsť na záznam
+	Edit Individual Documents…	Upraviť jednotlivé dokumenty…
+	Print Documents…	Tlačiť dokumenty…
+	Print Documents	Tlačiť dokumenty
+	Current record	Aktuálny záznam
+	From:	Od:
+	To:	Do:
+	Enter a number.	Zadajte číslo.
+	a drawing canvas can't be ungrouped	Kresliace plátno nemožno rozdeliť na samostatné objekty
+	a drawing canvas can't go inside a text box	Kresliace plátno nemožno vložiť do textového poľa
+	charts and diagrams can't be moved or resized yet	Grafy a diagramy zatiaľ nemožno presúvať ani meniť ich veľkosť
+	no equation at the caret	Na pozícii kurzora nie je rovnica
+	not editing an equation	Práve sa neupravuje rovnica
+	only in Outline view	Dostupné iba v zobrazení Osnova
+	select a SmartArt graphic first	Najprv vyberte grafiku SmartArt
+	select a chart first	Najprv vyberte graf
+	select a connector first	Najprv vyberte spojnicu
+	select a drawing canvas first	Najprv vyberte kresliace plátno
+	select a floating picture or shape first	Najprv vyberte plávajúci obrázok alebo tvar
+	select a group first	Najprv vyberte skupinu
+	select a shape first	Najprv vyberte tvar
+	select a text box first	Najprv vyberte textové pole
+	select a text box linked to another first	Najprv vyberte textové pole prepojené s iným
+	the Clipboard pane is empty	Tabla schránky je prázdna
+	there is nothing to undo	Nie je čo vrátiť späť
+	this SmartArt was made in another program: WordCraft shows it but can't edit it	Tento objekt SmartArt bol vytvorený v inom programe: WordCraft ho zobrazí, ale nemôže ho upraviť
+	this chart was made in another program: WordCraft shows it but can't edit it	Tento graf bol vytvorený v inom programe: WordCraft ho zobrazí, ale nemôže ho upraviť
+	this text box is already linked: break the link first	Toto textové pole je už prepojené: najprv zrušte prepojenie
+	leave the equation first	Najprv ukončite úpravu rovnice
+	the Spike is empty	Zásobník výstrižkov je prázdny
+	a group holding Word ink can't be ungrouped yet	Zoskupenie s rukopisom z Wordu zatiaľ nemožno zrušiť
+	drop caps can't go in a table	Iniciálu nemožno vložiť do tabuľky
+	the document is protected	Dokument je chránený
