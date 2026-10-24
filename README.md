@@ -53,7 +53,8 @@ line.
 ## Add a language
 
 Your language isn't in `locales/` yet? You can start it yourself. Partial work is welcome, so the
-first PR can be as small as you like.
+first PR can be as small as you like. If you'd rather not open a PR, [request the
+language](https://github.com/storytold/craft-i18n/issues/new?template=new-language.yml) instead.
 
 1. **Pick the locale code.** Use lowercase [BCP 47](https://www.rfc-editor.org/info/bcp47): the
    language (`eo`, `ga`, `fa`), then a script or region only when it matters (`pt-br`, `zh-hans`,
