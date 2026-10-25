@@ -1746,6 +1746,7 @@ template	Letter	წერილი
 	Page break before	გვერდის გამყოფი წინ
 	Page Breaks	გვერდის გამყოფები
 	Page Color	გვერდის ფერი
+	Page color	გვერდის ფერი
 	Page display	გვერდების ჩვენება
 	Page Down	გვერდით ქვემოთ
 	Page image (*.png)	გვერდის სურათი (*.png)
@@ -1922,6 +1923,7 @@ template	Letter	წერილი
 	Read\nAloud	ხმამაღლა\nწაკითხვა
 	Read\nMode	კითხვის\nრეჟიმი
 	Reading	კითხვა
+	Reading Page Color	კითხვის გვერდის ფერი
 	Reading Column Width	კითხვის სვეტის სიგანე
 	Reading Highlight	წაკითხვისას გამოკვეთა
 	Reading Line Spacing	კითხვისას სტრიქონთა დაშორება
@@ -2324,6 +2326,8 @@ template	Letter	წერილი
 	Spacing:	ინტერვალი:
 	Spanish (Mexico)	ესპანური (მექსიკა)
 	Spanish (Spain)	ესპანური (ესპანეთი)
+	Spanish (Latin America)	ესპანური (ლათინური ამერიკა)
+	Spanish (Uruguay)	ესპანური (ურუგვაი)
 	Sparse Matrices	იშვიათი მატრიცები
 	Special	სპეციალური
 	Special Characters	სპეციალური სიმბოლოები
