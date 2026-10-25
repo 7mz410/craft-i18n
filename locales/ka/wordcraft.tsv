@@ -1432,7 +1432,7 @@ template	Letter	წერილი
 	lowercase	პატარა ასოები
 	Lum:	სიკაშკ.:
 	Macros	მაკროსები
-	Made from the author and year when empty	ცარიელის შემთხვევაში იქმნება ავტორისა და წლისგან
+	Made from the author and year when empty	ცარიელისას — ავტორი და წელი
 	Magazine or newspaper article	ჟურნალის ან გაზეთის სტატია
 	Mail Merge	წერილების შერწყმა
 	Mailings	დაგზავნა
@@ -1602,7 +1602,7 @@ template	Letter	წერილი
 	No Shadow	ჩრდილის გარეშე
 	No Soft Edges	რბილი კიდეების გარეშე
 	No sources yet.	წყაროები ჯერ არ არის.
-	No Spacing	უინტერვალოდ
+	No Spacing	მჭიდრო
 	No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations.	მართლწერის ლექსიკონი ({language}) დაყენებული არ არის, ამიტომ ტექსტი არ მოწმდება. WordCraft Hunspell-ის ლექსიკონს {name} ეძებს WORDCRAFT_DICTIONARIES საქაღალდეში და სისტემის ჩვეულებრივ მდებარეობებში.
 	No templates match your search.	ძიების შესაბამისი შაბლონი არ მოიძებნა.
 	No Transform	გარდაქმნის გარეშე
@@ -1612,7 +1612,7 @@ template	Letter	წერილი
 	Nonbreaking Hyphen	უწყვეტი დეფისი
 	Nonbreaking Space	უწყვეტი შორისი
 	None	არცერთი
-	Normal	ჩვეულებრივი
+	Normal	ძირითადი
 	Normal  {size} all	ჩვეულებრივი  {size} ყოველ მხარეს
 	Normal Indent	ჩვეულებრივი შეწევა
 	Normal probability density	ნორმალური განაწილების სიმკვრივე
@@ -1631,7 +1631,7 @@ template	Letter	წერილი
 	Not saved	არ არის შენახული
 	Not saved yet	ჯერ არ არის შენახული
 	Not set	არ არის დაყენებული
-	Not set: the system's usual places	არ არის მითითებული: სისტემის ჩვეულებრივი მდებარეობები
+	Not set: the system's usual places	მითითებული არ არის (სისტემური ადგილები)
 	Not used by any command	არცერთი ბრძანება არ იყენებს
 	Not {name}	არა {name}
 	Nothing	არაფერი
