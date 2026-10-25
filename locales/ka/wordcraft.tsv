@@ -2126,7 +2126,7 @@ template	Letter	წერილი
 	select a chart first	ჯერ მონიშნეთ დიაგრამა
 	select a connector first	ჯერ მონიშნეთ შემაერთებელი
 	select a drawing canvas first	ჯერ მონიშნეთ სახატავი ტილო
-	select a floating picture or shape first	ჯერ მონიშნეთ მცურავი სურათი ან ფიგურა
+	select a floating picture or shape first	ჯერ მონიშნეთ თავისუფლად განთავსებული სურათი ან ფიგურა
 	select a group first	ჯერ მონიშნეთ ჯგუფი
 	select a picture first	ჯერ მონიშნეთ სურათი
 	select a picture or shape first	ჯერ მონიშნეთ სურათი ან ფიგურა
@@ -2516,7 +2516,7 @@ template	Letter	წერილი
 	The spelling and grammar check is complete.	მართლწერისა და გრამატიკის შემოწმება დასრულდა.
 	the Spike is empty	კრებული ცარიელია
 	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	სისტემის ფაილის ფანჯარა მიუწვდომელია, ამიტომ WordCraft საკუთარს აჩვენებს. სისტემის ფანჯრისთვის დააინსტალირეთ ფაილის არჩევის პორტალი (მაგალითად, xdg-desktop-portal-gtk) ან zenity.
-	The text at the insertion point is marked Do not check spelling or grammar.	კურსორთან მდებარე ტექსტზე ჩართულია „მართლწერისა და გრამატიკის შემოწმების გარეშე“.
+	The text at the insertion point is marked Do not check spelling or grammar.	კურსორთან მდებარე ტექსტი მონიშნულია, როგორც „მართლწერისა და გრამატიკის შემოწმების გარეშე“.
 	The time right now	მიმდინარე დრო
 	Theme Colors	თემის ფერები
 	Theme Fonts	თემის შრიფტები
