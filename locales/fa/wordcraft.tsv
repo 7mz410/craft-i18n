@@ -11,8 +11,6 @@
 # computing vocabulary. No other product's localisation, string table or translated UI was
 # consulted or copied; add entries the same way.
 
-
-
 	(All)	(همه)
 	(no style)	(بدون سبک)
 	(no suggestions)	(بدون پیشنهاد)
@@ -63,11 +61,11 @@
 	Above the item	بالای مورد
 	Above/below	بالا/پایین
 	Absolute value cases	حالت‌های قدر مطلق
-	Accent	لهجه
-	Accent Gradient	گرادیان تأکیدی
-	Accent with Reflection	تأکیدی با بازتاب
-	Accent {n}	تأکیدی {n}
-	Accents	لهجه‌ها
+	Accent	رنگ تأکیدی
+	Accent Gradient	گرادیان رنگ تأکیدی
+	Accent with Reflection	رنگ تأکیدی با بازتاب
+	Accent {n}	رنگ تأکیدی {n}
+	Accents	رنگ‌های تأکیدی
 	Accept	پذیرفتن
 	Accept All Changes	پذیرفتن همهٔ تغییرات
 	Accept This Change	پذیرفتن این تغییر
@@ -170,6 +168,7 @@
 	Apply formatting to:	اعمال قالب‌بندی بر:
 	Apply Style	اعمال سبک
 	Apply Styles	اعمال سبک‌ها
+	Arabic	عربی
 numerals	Arabic	عربی
 	Arch Down	قوس رو به پایین
 	Arch Up	قوس رو به بالا
@@ -460,6 +459,7 @@ numerals	Arabic	عربی
 	Content Control at Selection	کنترل محتوا در انتخاب
 	Content Control Properties	ویژگی‌های کنترل محتوا
 	Contents can't be edited	محتوا ویرایش‌شدنی نیست
+	Context	زمینه
 numerals	Context	زمینه
 	Continue from previous section	ادامه از بخش پیشین
 	Continue without restoring	ادامه بدون بازیابی
@@ -787,7 +787,7 @@ numerals	Context	زمینه
 	Figure	شکل
 	File locations	مکان‌های فایل
 	File name:	نام فایل:
-	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	File › New قالب‌های .dotx و .dotm را اینجا زیر Personal فهرست می‌کند؛ ذخیره به‌عنوان قالب Word از اینجا آغاز می‌شود.
+	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	فایل › جدید قالب‌های .dotx و .dotm را اینجا زیر شخصی فهرست می‌کند؛ «ذخیره به‌عنوان قالب Word» از اینجا آغاز می‌شود.
 	Fill color:	رنگ پُرکننده:
 	Filling in forms	پرکردن فرم‌ها
 	Film	فیلم
@@ -1437,7 +1437,7 @@ template	Letter	Letter
 	Offset: Top Right	افست: بالا راست
 	Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel.	کلیدهای منوی قدیمی: Alt، {keys}. به تایپ ادامه دهید، یا برای لغو Esc را بزنید.
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	روشن: نشانگر هنگام تایپ یا استفاده از کلیدهای جهت به جای جدید می‌سُرد و چشمک‌زدنش محو می‌شود. خاموش: می‌پرد و چشمک می‌زند.
-	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	روشن: WordCraft روی File › Home باز می‌شود، با سند خالی، قالب‌ها و سندهای اخیر شما. خاموش: یک سند خالی باز می‌کند.
+	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	روشن: WordCraft روی فایل › خانه باز می‌شود، با سند خالی، قالب‌ها و سندهای اخیر شما. خاموش: یک سند خالی باز می‌کند.
 	One	یک
 	One half	یک‌دوم
 	One label per recipient	یک برچسب برای هر گیرنده
@@ -1457,7 +1457,7 @@ template	Letter	Letter
 	OpenDocument Text (*.odt)	OpenDocument Text (*.odt)
 	Opening print dialog…	گشودن گفت‌وگوی چاپ…
 	Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on.	از این پس فایل‌های .docx، .doc، .rtf و .odt و قالب‌های Word را با WordCraft باز می‌کند.
-	Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types.	Settings › Default apps را باز می‌کند، جایی که WordCraft را برای .docx و دیگر انواع سند انتخاب می‌کنید.
+	Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types.	تنظیمات › اپ‌های پیش‌فرض را باز می‌کند، جایی که WordCraft را برای .docx و دیگر انواع سند انتخاب می‌کنید.
 	Operator	عملگر
 	Operator Structures	ساختارهای عملگر
 	Operators	عملگرها
@@ -1788,7 +1788,7 @@ template	Letter	Letter
 	Save the document to turn on AutoSave	برای روشن‌کردن ذخیرهٔ خودکار سند را ذخیره کنید
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	برای روشن‌کردن ذخیرهٔ خودکار سند را ذخیره کنید (فایلی که فقط باز کرده‌اید تا ذخیره نکنید بازنویسی نمی‌شود)
 	Save these pages as PDF…	ذخیرهٔ این صفحه‌ها به‌صورت PDF…
-	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	یک قالب .dotx در پوشهٔ قالب‌های شما ذخیره می‌کند. در File › New زیر Personal ظاهر می‌شود.
+	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	یک قالب .dotx در پوشهٔ قالب‌های شما ذخیره می‌کند. در فایل › جدید زیر شخصی ظاهر می‌شود.
 	Saving {name} was cancelled, so it is still open and nothing was lost.	ذخیرهٔ {name} لغو شد، بنابراین هنوز باز است و چیزی از دست نرفت.
 	Scale Drawing	مقیاس ترسیم
 	Scale to paper size	مقیاس به اندازهٔ کاغذ
@@ -1887,7 +1887,7 @@ template	Letter	Letter
 	Show changes at:	نمایش تغییرات در:
 	Show changes in:	نمایش تغییرات در:
 	Show Comments	نمایش نظرها
-	Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged.	نمایش سندها با رنگ‌های معکوس، مانند View › Switch Modes. ذخیره، چاپ و PDFها بدون تغییر می‌مانند.
+	Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged.	نمایش سندها با رنگ‌های معکوس، مانند نما › تغییر حالت‌ها. ذخیره، چاپ و PDFها بدون تغییر می‌مانند.
 	Show every bibliography field	نمایش همهٔ فیلدهای کتاب‌نامه
 	Show First Line Only	نمایش فقط خط اول
 	Show in the Styles gallery	نمایش در گالری سبک‌ها
@@ -2238,10 +2238,10 @@ preview	Title	عنوان
 	Two-sided printing	چاپ دورو
 	Two-sided: long edge	دورو: لبهٔ بلند
 	Two-sided: short edge	دورو: لبهٔ کوتاه
-	Type +2 or -1 to move from the page you are on.	برای جابه‌جایی از صفحهٔ کنونی +۲ یا -۱ تایپ کنید.
+	Type +2 or -1 to move from the page you are on.	برای جابه‌جایی از صفحهٔ کنونی +2 یا -1 تایپ کنید.
 	Type a command, e.g. "insert table"	یک فرمان تایپ کنید، مثلاً «insert table»
 	Type a New List…	تایپ فهرست جدید…
-	Type a page number, or +2 / -1.	یک شمارهٔ صفحه، یا +۲ / -۱ تایپ کنید.
+	Type a page number, or +2 / -1.	یک شمارهٔ صفحه، یا +2 / -1 تایپ کنید.
 	Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions.	اندازه‌ای با هر واحدی تایپ کنید، مانند ۵ cm یا ۳۰۰ px. ضلع دیگر پیروی می‌کند، بنابراین تصویر تناسب خود را نگه می‌دارد.
 	Type at least one recipient.	حداقل یک گیرنده تایپ کنید.
 	Type Character Code	درج کد کاراکتر
@@ -2392,7 +2392,7 @@ preview	Title	عنوان
 	{names} and {n} more	{names} و {n} مورد دیگر
 	{name}   {height} × {width} in	{name}   {height} × {width} اینچ
 	{name}   {height} × {width} mm	{name}   {height} × {width} میلی‌متر
-	{name} already exists. Choose Save again to replace it.	{name} از قبل وجود دارد. برای جایگزینی دوباره Save را بزنید.
+	{name} already exists. Choose Save again to replace it.	{name} از قبل وجود دارد. برای جایگزینی دوباره ذخیره را بزنید.
 	{name} is protected with a password.	{name} با گذرواژه محافظت شده است.
 	{name} options	گزینه‌های {name}
 	{name} wasn't found.	{name} یافت نشد.
@@ -2409,5 +2409,3 @@ preview	Title	عنوان
 	✓ None	✓ هیچ‌کدام
 	➕ New comment	➕ نظر جدید
 	📂  Browse…	📂  مرور…
-	Arabic	عربی
-	Context	زمینه
