@@ -1614,11 +1614,11 @@ template	Letter	წერილი
 	None	არცერთი
 	Normal	ძირითადი
 	Normal  {size} all	ჩვეულებრივი  {size} ყოველ მხარეს
-	Normal Indent	ჩვეულებრივი შეწევა
+	Normal Indent	ძირითადი შეწევა
 	Normal probability density	ნორმალური განაწილების სიმკვრივე
 	Normal speed	ჩვეულებრივი სიჩქარე
-	Normal Style	ჩვეულებრივი სტილი
-	Normal Table	ჩვეულებრივი ცხრილი
+	Normal Style	ძირითადი სტილი
+	Normal Table	ძირითადი ცხრილი
 	Normal Text	ჩვეულებრივი ტექსტი
 	Normal Word Document	ჩვეულებრივი Word დოკუმენტი
 	North	ჩრდილოეთი
@@ -1923,11 +1923,11 @@ template	Letter	წერილი
 	Read\nAloud	ხმამაღლა\nწაკითხვა
 	Read\nMode	კითხვის\nრეჟიმი
 	Reading	კითხვა
-	Reading Page Color	კითხვის გვერდის ფერი
 	Reading Column Width	კითხვის სვეტის სიგანე
 	Reading Highlight	წაკითხვისას გამოკვეთა
 	Reading Line Spacing	კითხვისას სტრიქონთა დაშორება
 	Reading Mode	კითხვის რეჟიმი
+	Reading Page Color	კითხვის გვერდის ფერი
 	Reading Speed	კითხვის სიჩქარე
 	Reading Text Size	კითხვისას ტექსტის ზომა
 	Reads the clipboard's rich text and keeps its formatting.	კითხულობს ბუფერის ფორმატირებულ ტექსტს (RTF) და ინარჩუნებს მის ფორმატირებას.
@@ -2324,9 +2324,9 @@ template	Letter	წერილი
 	Spacing	ინტერვალი
 	Spacing (pt):	ინტერვალი (პტ):
 	Spacing:	ინტერვალი:
+	Spanish (Latin America)	ესპანური (ლათინური ამერიკა)
 	Spanish (Mexico)	ესპანური (მექსიკა)
 	Spanish (Spain)	ესპანური (ესპანეთი)
-	Spanish (Latin America)	ესპანური (ლათინური ამერიკა)
 	Spanish (Uruguay)	ესპანური (ურუგვაი)
 	Sparse Matrices	იშვიათი მატრიცები
 	Special	სპეციალური
