@@ -60,3 +60,11 @@ storytold/wordcraft#3570) in `bg`, `cs`, `da`, `de`, `es`, `et`, `fr`, `hr`, `hu
 `ko`, `nl`, `pl`, `pt-br`, `ro`, `ru`, `sl`, `sr`, `sr-latn`, `sv`, `tr`, `uk`, `vi`, `zh-hans` and
 `zh-hant`, AI-assisted with Claude Code and written from the English meaning. `ro` is by a native
 speaker; no native-speaker review is recorded for the other 25.
+
+## WordCraft: the Assistant, Nib
+
+Martin Ball (@benandez) contributed the rows for WordCraft's Assistant, Nib (its tips, sayings and
+agent messages, storytold/wordcraft#2600) in `bg`, `cs`, `de`, `es`, `et`, `fr`, `hr`, `hu`, `it`,
+`ja`, `ko`, `pl`, `pt-br`, `ru`, `sr-latn`, `sr`, `sv`, `tr`, `uk`, `vi`, `zh-hans` and `zh-hant`,
+AI-assisted with Claude Code and written from the English meaning. No native-speaker review is
+recorded.
