@@ -296,7 +296,7 @@
 	By author	작성자별
 	Calendar	달력
 	Can't be deleted	삭제할 수 없음
-	Can't find a command? Press {key} and type what you want to do.	명령을 찾을 수 없나요? {key}를 누르고 하고 싶은 일을 입력하세요.
+	Can't find a command? Press {key} and type what you want to do.	명령을 찾을 수 없나요? {key} 키를 누르고 하고 싶은 일을 입력하세요.
 	Canvas Member	캔버스 구성원
 	Capitalize Each Word	각 단어의 첫 글자를 대문자로
 	Capitalize first letter of sentences	문장 첫 글자를 대문자로 바꾸기
@@ -514,10 +514,10 @@
 	Create Source	원본 만들기
 	Cross-reference	상호 참조
 	Cross-reference:	상호 참조:
-	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key}를 누르면 새 페이지가 시작됩니다. 페이지가 넘어갈 때까지 Enter를 누르는 것보다 훨씬 깔끔해요.
-	{key} finds and replaces text, formatting and special characters.	{key}를 누르면 텍스트, 서식, 특수 문자를 찾아 바꿀 수 있습니다.
-	{key} turns the selected text into a link.	{key}를 누르면 선택한 텍스트가 링크로 바뀝니다.
-	{key} counts your words, characters and paragraphs.	{key}를 누르면 단어, 문자, 단락 수를 세어 줍니다.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} 키를 누르면 새 페이지가 시작됩니다. 페이지가 넘어갈 때까지 Enter를 누르는 것보다 훨씬 깔끔해요.
+	{key} finds and replaces text, formatting and special characters.	{key} 키를 누르면 텍스트, 서식, 특수 문자를 찾아 바꿀 수 있습니다.
+	{key} turns the selected text into a link.	{key} 키를 누르면 선택한 텍스트가 링크로 바뀝니다.
+	{key} counts your words, characters and paragraphs.	{key} 키를 누르면 단어, 문자, 단락 수를 세어 줍니다.
 	Cube Root	세제곱근
 	Current - Linear	현재 - 선형
 	Current - Professional	현재 - 전문
@@ -769,8 +769,8 @@
 	Extend Selection	선택 영역 확장
 	Extend Selection by Units	단위별로 선택 영역 확장
 	Extra space	불필요한 공백
-	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key}를 누르면 마지막 작업이 반복됩니다. 제목 열 개 서식 지정이 순식간에 클릭 한 번과 키 아홉 번으로 끝나요.
-	{key} checks the spelling and grammar of the whole document.	{key}을 누르면 문서 전체의 맞춤법 및 문법을 검사합니다.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} 키를 누르면 마지막 작업이 반복됩니다. 제목 열 개 서식 지정이 순식간에 클릭 한 번과 키 아홉 번으로 끝나요.
+	{key} checks the spelling and grammar of the whole document.	{key} 키를 누르면 문서 전체의 맞춤법 및 문법을 검사합니다.
 	Faster: {command} is {key} on the keyboard.	더 빠른 방법: {command} 기능은 키보드에서 {key}입니다.
 	Field code:	필드 코드:
 	Field Codes	필드 코드
@@ -1851,7 +1851,7 @@
 	Shape Outline	도형 윤곽선
 	Shape Styles	도형 스타일
 	Shapes	도형
-	{key} starts a new line without starting a new paragraph.	{key}를 누르면 새 단락 없이 줄만 바꿉니다.
+	{key} starts a new line without starting a new paragraph.	{key} 키를 누르면 새 단락 없이 줄만 바꿉니다.
 	Shift+Tab	Shift+Tab
 	Shipping labels	배송 레이블
 	Shortcut key:	바로 가기 키:

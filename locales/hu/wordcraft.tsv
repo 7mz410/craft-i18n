@@ -296,7 +296,7 @@
 	By author	Szerző szerint
 	Calendar	Naptár
 	Can't be deleted	Nem törölhető
-	Can't find a command? Press {key} and type what you want to do.	Nem találsz egy parancsot? Nyomd meg az {key} billentyűt, és írd be, mit szeretnél tenni.
+	Can't find a command? Press {key} and type what you want to do.	Nem találsz egy parancsot? Nyomd meg a(z) {key} billentyűt, és írd be, mit szeretnél tenni.
 	can't split at the first row	a táblázat nem osztható fel az első sornál
 	Canvas Member	Vászonelem
 	Capitalize Each Word	Minden Szó Nagy Kezdőbetűs
@@ -519,10 +519,10 @@
 	Croatian	Horvát
 	Cross-reference	Kereszthivatkozás
 	Cross-reference:	Kereszthivatkozás:
-	{key} starts a new page. Much tidier than pressing Enter until it happens.	A {key} új oldalt kezd. Sokkal rendezettebb, mint addig nyomkodni az Entert, amíg magától megtörténik.
-	{key} finds and replaces text, formatting and special characters.	A {key} szöveget, formázást és speciális karaktereket keres és cserél.
-	{key} turns the selected text into a link.	A {key} linkké alakítja a kijelölt szöveget.
-	{key} counts your words, characters and paragraphs.	A {key} megszámolja a szavaidat, karaktereidet és bekezdéseidet.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	A(z) {key} új oldalt kezd. Sokkal rendezettebb, mint addig nyomkodni az Entert, amíg magától megtörténik.
+	{key} finds and replaces text, formatting and special characters.	A(z) {key} szöveget, formázást és speciális karaktereket keres és cserél.
+	{key} turns the selected text into a link.	A(z) {key} linkké alakítja a kijelölt szöveget.
+	{key} counts your words, characters and paragraphs.	A(z) {key} megszámolja a szavaidat, karaktereidet és bekezdéseidet.
 	Cube Root	Köbgyök
 	Current - Linear	Aktuális – lineáris
 	Current - Professional	Aktuális – kétdimenziós
@@ -787,8 +787,8 @@
 	Extend Selection	Kijelölés bővítése
 	Extend Selection by Units	Kijelölés bővítése egységenként
 	Extra space	Felesleges szóköz
-	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	Az {key} megismétli az utolsó műveletet. Tíz címsor formázása hirtelen egy kattintás és kilenc koppintás.
-	{key} checks the spelling and grammar of the whole document.	Az {key} ellenőrzi az egész dokumentum helyesírását és nyelvtanát.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	A(z) {key} megismétli az utolsó műveletet. Tíz címsor formázása hirtelen egy kattintás és kilenc koppintás.
+	{key} checks the spelling and grammar of the whole document.	A(z) {key} ellenőrzi az egész dokumentum helyesírását és nyelvtanát.
 	Faster: {command} is {key} on the keyboard.	Gyorsabban megy: {command} billentyűparancsa {key}.
 	Field code:	Mezőkód:
 	Field Codes	Mezőkódok
@@ -1911,7 +1911,7 @@
 	Shape Format	Alakzatformátum
 	Shape Outline	Alakzat körvonala
 	Shape Styles	Alakzatstílusok
-	{key} starts a new line without starting a new paragraph.	A {key} új sort kezd anélkül, hogy új bekezdést kezdene.
+	{key} starts a new line without starting a new paragraph.	A(z) {key} új sort kezd anélkül, hogy új bekezdést kezdene.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Szállítási címkék
 	Shortcut key:	Billentyűparancs:
