@@ -132,6 +132,7 @@
 	All Borders	Alla kantlinjer
 	All caps	Versaler
 	All Commands	Alla kommandon
+	All documents based on the Normal template?	Alla dokument som baseras på mallen Normal?
 	All Fonts	Alla typsnitt
 	All Levels	Alla nivåer
 	All Markup	All märkning
@@ -554,6 +555,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Dekorativa objekt är bara utsmyckning: skärmläsare hoppar över dem.
 	Decrease Indent	Minska indraget
 	Deep	Djup
+	Default formatting	Standardformatering
 	Default Paragraph Font	Standardtypsnitt för stycke
 	Default tab stops:	Standardtabbstopp:
 	Define New Bullet	Definiera ny punkt
@@ -846,6 +848,7 @@
 	Formatting at Selection	Formatering vid markeringen
 	Formatting exceptions	Formateringsundantag
 	Formatting marks	Formateringstecken
+	Formatting saved for new documents:	Formatering som sparats för nya dokument:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Formatering, ändrat skiftläge, blanktecken och tabeller jämförs; de andra inställningarna sparas till senare.
 	Formula	Formel
 	Formula:	Formel:
@@ -1328,6 +1331,8 @@ template	Letter	Brev
 	Negated Relations	Negerade relationer
 	New Comment	Ny kommentar
 	New comments and tracked changes are recorded under this name and these initials.	Nya kommentarer och spårade ändringar sparas med det här namnet och de här initialerna.
+	New documents based on this template	Nya dokument som baseras på den här mallen
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Nya dokument använder WordCrafts inbyggda formatering. Dina sparade standardinställningar går inte att hämta tillbaka. Vill du återställa?
 	New Drawing Canvas	Ny rityta
 	New Entry	Ny post
 	New Label	Ny etikett
@@ -1454,6 +1459,7 @@ template	Letter	Brev
 	Only for the selected text	Endast för den markerade texten
 	Only form fields can be filled in.	Bara formulärfält kan fyllas i.
 	only in Outline view	bara i dispositionsvyn
+	Only in this document	Bara i det här dokumentet
 	Only the allowed styles can be applied.	Bara de tillåtna stilarna kan användas.
 	Only web (http, https) and email (mailto) links can be followed	Bara webblänkar (http, https) och e-postlänkar (mailto) kan följas
 	Open a document first	Öppna först ett dokument
@@ -1718,6 +1724,7 @@ template	Letter	Brev
 	Reset All…	Återställ alla…
 	Reset Character Formatting	Återställ teckenformatering
 	Reset Crop	Återställ beskärning
+	Reset Default Formatting	Återställ standardformatering
 	Reset Graphic	Återställ grafik
 	Reset Paragraph Formatting	Återställ styckeformatering
 	Reset Picture	Återställ bild
@@ -2172,6 +2179,7 @@ template	Letter	Brev
 	Thick	Tjock
 	this chart was made in another program: WordCraft shows it but can't edit it	detta diagram skapades i ett annat program: WordCraft visar det men kan inte redigera det
 	This document	Det här dokumentet
+	This document only?	Bara det här dokumentet?
 	This field has no options.	Det här fältet har inga alternativ.
 	This folder can't be read: {error}	Den här mappen kan inte läsas: {error}
 	This font has no characters to show.	Det här typsnittet har inga tecken att visa.
@@ -2295,6 +2303,7 @@ preview	Title	Titel
 	Use system setting	Använd systeminställningen
 	Use the browser's full screen (F11)	Använd webbläsarens helskärmsläge (F11)
 	Use the Insert key to switch overtype on and off	Använd Insert-tangenten för att slå på och av överskrivning
+	Use this formatting as the default for:	Använd den här formateringen som standard för:
 	Use wildcards	Använd jokertecken
 	User Name	Användarnamn
 	User name:	Användarnamn:

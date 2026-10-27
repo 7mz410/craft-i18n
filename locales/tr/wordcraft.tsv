@@ -133,6 +133,7 @@
 	All Caps	Tümü Büyük Harf
 	All caps	Tümü büyük harf
 	All Commands	Tüm Komutlar
+	All documents based on the Normal template?	Normal şablonunu temel alan tüm belgeler mi?
 	All Fonts	Tüm Yazı Tipleri
 	All Levels	Tüm düzeyler
 	All Markup	Tüm İşaretler
@@ -548,6 +549,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Dekoratif nesneler yalnızca görsel çekicilik katar: ekran okuyucular bunları atlar.
 	Decrease Indent	Girintiyi Azalt
 	Deep	Koyu
+	Default formatting	Varsayılan biçimlendirme
 	Default Paragraph Font	Varsayılan Paragraf Yazı Tipi
 	Default tab stops:	Varsayılan sekme durakları:
 	Define New Bullet	Yeni Madde İşareti Tanımla
@@ -837,6 +839,7 @@
 	Formatting at Selection	Seçimdeki Biçimlendirme
 	Formatting exceptions	Biçimlendirme özel durumları
 	Formatting marks	Biçimlendirme işaretleri
+	Formatting saved for new documents:	Yeni belgeler için kaydedilen biçimlendirme:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Biçimlendirme, harf büyüklüğü, boşluklar ve tablolar karşılaştırılır; diğer ayarlar daha sonra için saklanır.
 	Formula	Formül
 	Formula:	Formül:
@@ -1312,6 +1315,8 @@
 	Negated Relations	Olumsuzlanmış Bağıntılar
 	New Comment	Yeni Yorum
 	New comments and tracked changes are recorded under this name and these initials.	Yeni açıklamalar ve izlenen değişiklikler bu ad ve baş harflerle kaydedilir.
+	New documents based on this template	Bu şablonu temel alan yeni belgeler
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Yeni belgeler WordCraft'ın yerleşik biçimlendirmesini kullanacak. Kaydedilmiş varsayılanlarınız kurtarılamaz. Sıfırlansın mı?
 	New Drawing Canvas	Yeni Çizim Tuvali
 	New Entry	Yeni Girdi
 	New Label	Yeni Etiket
@@ -1439,6 +1444,7 @@
 	Only for the selected text	Yalnızca seçili metin için
 	Only form fields can be filled in.	Yalnızca form alanları doldurulabilir.
 	only in Outline view	yalnızca Ana Hat görünümünde
+	Only in this document	Yalnızca bu belgede
 	Only the allowed styles can be applied.	Yalnızca izin verilen stiller uygulanabilir.
 	Only web (http, https) and email (mailto) links can be followed	Yalnızca web (http, https) ve e-posta (mailto) bağlantıları açılabilir
 	Open a document first	Önce bir belge açın
@@ -1710,6 +1716,7 @@
 	Reset All…	Tümünü Sıfırla…
 	Reset Character Formatting	Karakter Biçimlendirmesini Sıfırla
 	Reset Crop	Kırpmayı Sıfırla
+	Reset Default Formatting	Varsayılan Biçimlendirmeyi Sıfırla
 	Reset Graphic	Grafiği Sıfırla
 	Reset Paragraph Formatting	Paragraf Biçimlendirmesini Sıfırla
 	Reset Picture	Resmi Sıfırla
@@ -2164,6 +2171,7 @@
 	Thick	Kalın
 	this chart was made in another program: WordCraft shows it but can't edit it	bu grafik başka bir programda oluşturuldu: WordCraft onu gösterir ancak düzenleyemez
 	This document	Bu belge
+	This document only?	Yalnızca bu belge mi?
 	This field has no options.	Bu alanın seçeneği yok.
 	This folder can't be read: {error}	Bu klasör okunamıyor: {error}
 	This font has no characters to show.	Bu yazı tipinde gösterilecek karakter yok.
@@ -2284,6 +2292,7 @@ preview	Title	Örnek
 	Use system setting	Sistem ayarını kullan
 	Use the browser's full screen (F11)	Tarayıcının tam ekran modunu kullanın (F11)
 	Use the Insert key to switch overtype on and off	Üzerine yazmayı açıp kapatmak için Insert tuşunu kullan
+	Use this formatting as the default for:	Bu biçimlendirmeyi şunun için varsayılan olarak kullan:
 	Use wildcards	Joker karakter kullan
 	User Name	Kullanıcı Adı
 	User name:	Kullanıcı adı:

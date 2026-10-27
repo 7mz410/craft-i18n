@@ -109,6 +109,7 @@
 	All Borders	Све ивице
 	All caps	Сва велика слова
 	All Commands	Све команде
+	All documents based on the Normal template?	Сви документи засновани на шаблону „Нормално“?
 	All Fonts	Сви фонтови
 	All Levels	Сви нивои
 	All Markup	Све измене
@@ -454,6 +455,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Декоративни објекти само доприносе изгледу: читачи екрана их прескачу.
 	Decrease Indent	Смањи увлачење
 	Deep	Дубок
+	Default formatting	Подразумевано обликовање
 	Default tab stops:	Подразумевани табулатори:
 	Define New Bullet	Дефиниши нову ознаку
 	Define New Multilevel List	Дефиниши нову вишенивоску листу
@@ -698,6 +700,7 @@
 	Formatting at Selection	Форматирање на избору
 	Formatting exceptions	Изузеци форматирања
 	Formatting marks	Ознаке обликовања
+	Formatting saved for new documents:	Обликовање сачувано за нове документе:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Пореде се обликовање, величина слова, размаци и табеле; остала подешавања се чувају за касније.
 	Formula	Формула
 	Formula:	Формула:
@@ -1081,6 +1084,8 @@
 	Navigation Pane	Окно за навигацију
 	New Comment	Нови коментар
 	New comments and tracked changes are recorded under this name and these initials.	Нови коментари и праћене измене бележе се под овим именом и иницијалима.
+	New documents based on this template	Нови документи засновани на овом шаблону
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Нови документи ће користити уграђено обликовање програма WordCraft. Сачувана подразумевана подешавања не могу да се поврате. Вратити?
 	New Drawing Canvas	Ново платно за цртање
 	New Entry	Нова ставка
 	New Label	Нова ознака
@@ -1198,6 +1203,7 @@
 	Only for the selected text	Само за изабрани текст
 	Only form fields can be filled in.	Могу се попунити само поља обрасца.
 	only in Outline view	само у приказу Контура
+	Only in this document	Само у овом документу
 	Only the allowed styles can be applied.	Могу се применити само дозвољени стилови.
 	Only web (http, https) and email (mailto) links can be followed	Могу се отворити само веб (http, https) и везе за е-пошту (mailto)
 	Open a document first	Прво отворите документ
@@ -1438,6 +1444,7 @@
 	Reset All…	Ресетуј све…
 	Reset Character Formatting	Поништи форматирање знакова
 	Reset Crop	Поништи исецање
+	Reset Default Formatting	Врати подразумевано обликовање
 	Reset Graphic	Ресетуј графику
 	Reset Paragraph Formatting	Поништи форматирање пасуса
 	Reset Picture	Ресетуј слику
@@ -1829,6 +1836,7 @@
 	Thick	Дебело
 	this chart was made in another program: WordCraft shows it but can't edit it	овај графикон је направљен у другом програму: WordCraft га приказује, али не може да га уређује
 	This document	Овај документ
+	This document only?	Само овај документ?
 	This field has no options.	Ово поље нема опција.
 	This folder can't be read: {error}	Ова фасцикла не може да се прочита: {error}
 	This font has no characters to show.	Овај фонт нема знакове за приказ.
@@ -1920,6 +1928,7 @@
 	Use system setting	Према подешавању система
 	Use the browser's full screen (F11)	Користите приказ преко целог екрана у прегледачу (F11)
 	Use the Insert key to switch overtype on and off	Тастер Insert укључује и искључује преписивање
+	Use this formatting as the default for:	Користи ово обликовање као подразумевано за:
 	Use wildcards	Користи џокер знаке
 	User Name	Корисничко име
 	User name:	Корисничко име:

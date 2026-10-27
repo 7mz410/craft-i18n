@@ -109,6 +109,7 @@
 	All Borders	Todas as bordas
 	All caps	Tudo em maiúsculas
 	All Commands	Todos os comandos
+	All documents based on the Normal template?	Todos os documentos baseados no modelo Normal?
 	All Fonts	Todas as fontes
 	All Levels	Todos os níveis
 	All Markup	Todas as marcações
@@ -465,6 +466,7 @@
 	Decrease Font Size	Diminuir tamanho da fonte
 	Decrease Indent	Diminuir recuo
 	Deep	Profundo
+	Default formatting	Formatação padrão
 	Default tab stops:	Tabulações padrão:
 	Define New Bullet	Definir novo marcador
 	Define New Multilevel List	Definir nova lista de vários níveis
@@ -719,6 +721,7 @@
 	Formatting at Selection	Formatação na seleção
 	Formatting exceptions	Exceções de formatação
 	Formatting marks	Marcas de formatação
+	Formatting saved for new documents:	Formatação salva para novos documentos:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Formatação, maiúsculas, espaços em branco e tabelas são comparados; as outras configurações ficam para depois.
 	Formula	Fórmula
 	Formula:	Fórmula:
@@ -1110,6 +1113,8 @@
 	Navigation Pane	Painel de navegação
 	New Comment	Novo comentário
 	New comments and tracked changes are recorded under this name and these initials.	Novos comentários e alterações controladas são registrados com este nome e estas iniciais.
+	New documents based on this template	Novos documentos baseados neste modelo
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Os novos documentos usarão a formatação integrada do WordCraft. Seus padrões salvos não poderão ser recuperados. Redefinir?
 	New Drawing Canvas	Nova tela de desenho
 	New Entry	Nova entrada
 	New from Template	Novo a partir de modelo
@@ -1234,6 +1239,7 @@
 	Only for the selected text	Somente para o texto selecionado
 	Only form fields can be filled in.	Somente os campos de formulário podem ser preenchidos.
 	only in Outline view	somente no modo de exibição Estrutura de tópicos
+	Only in this document	Somente neste documento
 	Only the allowed styles can be applied.	Somente os estilos permitidos podem ser aplicados.
 	Only web (http, https) and email (mailto) links can be followed	Só é possível seguir links da web (http, https) e de e-mail (mailto)
 	Open a document first	Abra um documento primeiro
@@ -1476,6 +1482,7 @@
 	Reset All…	Redefinir tudo…
 	Reset Character Formatting	Redefinir formatação de caracteres
 	Reset Crop	Redefinir corte
+	Reset Default Formatting	Redefinir formatação padrão
 	Reset Graphic	Redefinir gráfico
 	Reset Paragraph Formatting	Redefinir formatação de parágrafo
 	Reset Picture	Redefinir imagem
@@ -1873,6 +1880,7 @@
 	Thick	Grossa
 	this chart was made in another program: WordCraft shows it but can't edit it	este gráfico foi criado em outro programa: o WordCraft o exibe, mas não pode editá-lo
 	This document	Este documento
+	This document only?	Somente este documento?
 	This field has no options.	Este campo não tem opções.
 	This folder can't be read: {error}	Não é possível ler esta pasta: {error}
 	This font has no characters to show.	Esta fonte não tem caracteres para mostrar.
@@ -1965,6 +1973,7 @@
 	Use system setting	Usar a configuração do sistema
 	Use the browser's full screen (F11)	Use a tela inteira do navegador (F11)
 	Use the Insert key to switch overtype on and off	Usar a tecla Insert para ativar e desativar a sobrescrita
+	Use this formatting as the default for:	Usar esta formatação como padrão para:
 	Use wildcards	Usar caracteres curinga
 	User Name	Nome de usuário
 	User name:	Nome de usuário:

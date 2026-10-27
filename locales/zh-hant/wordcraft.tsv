@@ -114,6 +114,7 @@
 	All Borders	所有框線
 	All caps	全部大寫
 	All Commands	所有命令
+	All documents based on the Normal template?	以「正常」範本為基礎的所有文件？
 	All Fonts	所有字型
 	All Levels	所有階層
 	All Markup	所有標記
@@ -475,6 +476,7 @@
 	Decrease Font Size	縮小字型大小
 	Decrease Indent	減少縮排
 	Deep	深沉
+	Default formatting	預設格式設定
 	Default tab stops:	預設定位點間距：
 	Define New Bullet	定義新的項目符號
 	Define New Multilevel List	定義新的多層次清單
@@ -729,6 +731,7 @@
 	Formatting at Selection	選取範圍的格式
 	Formatting exceptions	格式例外
 	Formatting marks	格式化標記
+	Formatting saved for new documents:	為新文件儲存的格式設定：
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	會比較格式、大小寫、空白和表格；其他設定留待日後支援。
 	Formula	公式
 	Formula:	公式：
@@ -1126,6 +1129,8 @@
 	New Comment	新增註解
 	New comments and tracked changes are recorded under this name and these initials.	新的註解和追蹤修訂會以此名稱和縮寫記錄。
 	New Document	新文件
+	New documents based on this template	以此範本為基礎的新文件
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	新文件將使用 WordCraft 的內建格式設定。已儲存的預設值將無法復原。要重設嗎？
 	New Drawing Canvas	新增繪圖畫布
 	New Entry	新增項目
 	New Label	新增標籤
@@ -1249,6 +1254,7 @@
 	Only for the selected text	僅針對所選文字
 	Only form fields can be filled in.	只能填寫表單欄位。
 	only in Outline view	僅在大綱檢視中可用
+	Only in this document	僅限此文件
 	Only the allowed styles can be applied.	只能套用允許的樣式。
 	Only web (http, https) and email (mailto) links can be followed	只能開啟網頁（http、https）和電子郵件（mailto）連結
 	Open a document first	請先開啟文件
@@ -1495,6 +1501,7 @@
 	Reset All…	全部重設…
 	Reset Character Formatting	重設字元格式
 	Reset Crop	重設裁剪
+	Reset Default Formatting	重設預設格式設定
 	Reset Graphic	重設圖形
 	Reset Paragraph Formatting	重設段落格式
 	Reset Picture	重設圖片
@@ -1903,6 +1910,7 @@
 	Thick	粗線
 	this chart was made in another program: WordCraft shows it but can't edit it	此圖表由其他程式建立: WordCraft 可以顯示但無法編輯
 	This document	此文件
+	This document only?	僅此文件？
 	This field has no options.	此功能變數沒有選項。
 	This folder can't be read: {error}	無法讀取此資料夾：{error}
 	This font has no characters to show.	此字型沒有可顯示的字元。
@@ -1999,6 +2007,7 @@
 	Use system setting	使用系統設定
 	Use the browser's full screen (F11)	請使用瀏覽器的全螢幕模式 (F11)
 	Use the Insert key to switch overtype on and off	使用 Insert 鍵切換取代模式
+	Use this formatting as the default for:	將此格式設定作為以下項目的預設值：
 	Use wildcards	使用萬用字元
 	User Name	使用者名稱
 	User name:	使用者名稱：

@@ -133,6 +133,7 @@
 	All Borders	모든 테두리
 	All caps	모두 대문자
 	All Commands	모든 명령
+	All documents based on the Normal template?	기본 서식 파일을 기반으로 하는 모든 문서?
 	All Fonts	모든 글꼴
 	All Levels	모든 수준
 	All Markup	모든 변경 내용
@@ -555,6 +556,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	장식용 개체는 시각적 효과만 더하며, 화면 읽기 프로그램에서 건너뜁니다.
 	Decrease Indent	들여쓰기 줄이기
 	Deep	진하게
+	Default formatting	기본 서식
 	Default Paragraph Font	기본 단락 글꼴
 	Default tab stops:	기본 탭 위치:
 	Define New Bullet	새 글머리 기호 정의
@@ -836,6 +838,7 @@
 	Formatting at Selection	선택 영역의 서식
 	Formatting exceptions	서식 예외
 	Formatting marks	서식 기호
+	Formatting saved for new documents:	새 문서용으로 저장된 서식:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	서식, 대소문자 변경, 공백 및 표를 비교합니다. 다른 설정은 나중에 지원됩니다.
 	Formula	수식
 	Formula:	수식:
@@ -1294,6 +1297,8 @@
 	Negated Relations	부정 관계
 	New Comment	새 댓글
 	New comments and tracked changes are recorded under this name and these initials.	새 댓글과 변경 내용 추적은 이 이름과 이니셜로 기록됩니다.
+	New documents based on this template	이 서식 파일을 기반으로 하는 새 문서
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	새 문서에는 WordCraft의 기본 제공 서식이 사용됩니다. 저장한 기본값은 복구할 수 없습니다. 재설정하시겠습니까?
 	New Drawing Canvas	새 그리기 캔버스
 	New Entry	새 항목
 	New Label	새 레이블
@@ -1417,6 +1422,7 @@
 	Only comments can be added, except in regions marked editable.	편집 가능으로 표시된 영역을 제외하고 주석만 추가할 수 있습니다.
 	Only form fields can be filled in.	양식 필드만 채울 수 있습니다.
 	only in Outline view	개요 보기에서만 사용할 수 있습니다
+	Only in this document	이 문서에서만
 	Only the allowed styles can be applied.	허용된 스타일만 적용할 수 있습니다.
 	Only web (http, https) and email (mailto) links can be followed	웹(http, https) 및 이메일(mailto) 링크만 열 수 있습니다.
 	Open a document first	먼저 문서를 여세요
@@ -1676,6 +1682,7 @@
 	Reset All…	모두 초기화…
 	Reset Character Formatting	문자 서식 초기화
 	Reset Crop	자르기 재설정
+	Reset Default Formatting	기본 서식 재설정
 	Reset Graphic	그래픽 초기화
 	Reset Paragraph Formatting	단락 서식 초기화
 	Reset Picture	그림 재설정
@@ -2114,6 +2121,7 @@
 	Thick	굵게
 	this chart was made in another program: WordCraft shows it but can't edit it	이 차트는 다른 프로그램에서 만들어졌습니다: WordCraft에서 표시할 수는 있지만 편집할 수는 없습니다
 	This document	이 문서
+	This document only?	이 문서만?
 	This field has no options.	이 필드에는 옵션이 없습니다.
 	This folder can't be read: {error}	이 폴더를 읽을 수 없습니다: {error}
 	This font has no characters to show.	이 글꼴에는 표시할 문자가 없습니다.
@@ -2232,6 +2240,7 @@ preview	Title	제목
 	Use system setting	시스템 설정 사용
 	Use the browser's full screen (F11)	브라우저의 전체 화면을 사용하세요 (F11)
 	Use the Insert key to switch overtype on and off	Insert 키를 눌러 겹쳐쓰기 켜기/끄기
+	Use this formatting as the default for:	이 서식을 기본값으로 사용할 대상:
 	Use wildcards	와일드카드 사용
 	User Name	사용자 이름
 	User name:	사용자 이름:

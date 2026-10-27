@@ -133,6 +133,7 @@
 	All Caps	Всички главни
 	All caps	Всички главни
 	All Commands	Всички команди
+	All documents based on the Normal template?	Всички документи, базирани на шаблона „Нормален“?
 	All Fonts	Всички шрифтове
 	All Levels	Всички нива
 	All Markup	Всички маркировки
@@ -555,6 +556,7 @@
 	Decrease Font Size	Намаляване на размера на шрифта
 	Decrease Indent	Намаляване на отстъпа
 	Deep	Наситено
+	Default formatting	Форматиране по подразбиране
 	Default Paragraph Font	Шрифт на абзаца по подразбиране
 	Default tab stops:	Позиции на табулатора по подразбиране:
 	Define New Bullet	Дефиниране на нов водещ символ
@@ -846,6 +848,7 @@
 	Formatting at Selection	Форматиране при селекцията
 	Formatting exceptions	Изключения за форматирането
 	Formatting marks	Знаци за форматиране
+	Formatting saved for new documents:	Форматиране, запазено за нови документи:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Сравняват се форматирането, промените в регистъра, празното пространство и таблиците; другите настройки се запазват за по-късно.
 	Formula	Формула
 	Formula:	Формула:
@@ -1333,6 +1336,8 @@
 	Negated Relations	Отрицания на релации
 	New Comment	Нов коментар
 	New comments and tracked changes are recorded under this name and these initials.	Новите коментари и проследени промени се записват с това име и тези инициали.
+	New documents based on this template	Нови документи, базирани на този шаблон
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Новите документи ще използват вграденото форматиране на WordCraft. Запазените ви настройки по подразбиране не могат да бъдат възстановени. Нулиране?
 	New Drawing Canvas	Ново платно за рисуване
 	New Entry	Нов запис
 	New Label	Нов етикет
@@ -1461,6 +1466,7 @@
 	Only for the selected text	Само за избрания текст
 	Only form fields can be filled in.	Могат да се попълват само полета на формуляри.
 	only in Outline view	само в изгледа „Структура“
+	Only in this document	Само в този документ
 	Only the allowed styles can be applied.	Могат да се прилагат само разрешените стилове.
 	Only web (http, https) and email (mailto) links can be followed	Могат да се отварят само уеб (http, https) и имейл (mailto) връзки
 	Open a document first	Първо отворете документ
@@ -1734,6 +1740,7 @@
 	Reset All…	Нулиране на всички…
 	Reset Character Formatting	Нулиране на форматирането на знаците
 	Reset Crop	Нулиране на изрязването
+	Reset Default Formatting	Нулиране на форматирането по подразбиране
 	Reset Graphic	Нулиране на графиката
 	Reset Paragraph Formatting	Нулиране на форматирането на абзаца
 	Reset Picture	Нулиране на изображението
@@ -2191,6 +2198,7 @@
 	Thick	Дебело
 	this chart was made in another program: WordCraft shows it but can't edit it	тази диаграма е създадена в друга програма: WordCraft я показва, но не може да я редактира
 	This document	Този документ
+	This document only?	Само този документ?
 	This field has no options.	Това поле няма опции.
 	This folder can't be read: {error}	Тази папка не може да бъде прочетена: {error}
 	This font has no characters to show.	Този шрифт няма знаци за показване.
@@ -2311,6 +2319,7 @@
 	Use system setting	Според системната настройка
 	Use the browser's full screen (F11)	Използвайте режима на цял екран на браузъра (F11)
 	Use the Insert key to switch overtype on and off	Използване на клавиша Insert за включване и изключване на заместването
+	Use this formatting as the default for:	Използване на това форматиране по подразбиране за:
 	Use wildcards	Използване на заместващи символи
 	User Name	Потребителско име
 	User name:	Потребителско име:

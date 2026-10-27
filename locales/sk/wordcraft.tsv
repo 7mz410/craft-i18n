@@ -148,6 +148,7 @@
 	All Caps	Všetky veľké písmená
 	All caps	Všetky veľké písmená
 	All Commands	Všetky príkazy
+	All documents based on the Normal template?	Všetky dokumenty založené na šablóne Normálne?
 	All files	Všetky súbory
 	All Fonts	Všetky písma
 	All Levels	Všetky úrovne
@@ -655,6 +656,7 @@ numerals	Context	Podľa okolitého textu
 	Decrease Indent	Zmenšiť odsadenie
 	Deep	Sýty
 	Default	Predvolené
+	Default formatting	Predvolené formátovanie
 	Default Paragraph Font	Predvolené písmo odseku
 	Default tab stops:	Predvolené zarážky tabulátora:
 	Define New Bullet	Definovať novú odrážku
@@ -1008,6 +1010,7 @@ numerals	Context	Podľa okolitého textu
 	Formatting at Selection	Formátovanie výberu
 	Formatting exceptions	Výnimky formátovania
 	Formatting marks	Formátovacie značky
+	Formatting saved for new documents:	Formátovanie uložené pre nové dokumenty:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Porovnávajú sa formátovanie, zmeny veľkosti písmen, biele znaky a tabuľky; ostatné nastavenia sa zachovajú na neskôr.
 	Formula	Vzorec
 	Formula:	Vzorec:
@@ -1578,6 +1581,8 @@ template	Letter	List
 	New comments and tracked changes are recorded under this name and these initials.	Nové komentáre a sledované zmeny sa budú zaznamenávať pod týmto menom a týmito iniciálami.
 	New Document	Nový dokument
 	New document	Nový dokument
+	New documents based on this template	Nové dokumenty založené na tejto šablóne
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Nové dokumenty budú používať vstavané formátovanie WordCraftu. Uložené predvolené nastavenia sa už nebudú dať vrátiť. Obnoviť?
 	New Drawing Canvas	Nové kresliace plátno
 	New Entry	Nová položka
 	New from Template	Nový zo šablóny
@@ -1726,6 +1731,7 @@ template	Letter	List
 	Only for the selected text	Iba pre vybraný text
 	Only form fields can be filled in.	Vyplniť možno len polia formulára.
 	only in Outline view	dostupné iba v zobrazení Osnova
+	Only in this document	Iba v tomto dokumente
 	Only label and number	Len označenie a číslo
 	Only the allowed styles can be applied.	Použiť možno len povolené štýly.
 	Only web (http, https) and email (mailto) links can be followed	Otvárať možno len webové odkazy (http, https) a e-mailové odkazy (mailto)
@@ -2055,6 +2061,7 @@ template	Letter	List
 	Reset All…	Obnoviť všetko…
 	Reset Character Formatting	Obnoviť formátovanie znakov
 	Reset Crop	Obnoviť orezanie
+	Reset Default Formatting	Obnoviť predvolené formátovanie
 	Reset Graphic	Obnoviť grafiku
 	Reset Paragraph Formatting	Obnoviť formátovanie odseku
 	Reset Picture	Obnoviť obrázok
@@ -2588,6 +2595,7 @@ numerals	System	Podľa systému
 	this chart was made in another program: WordCraft shows it but can't edit it	tento graf bol vytvorený v inom programe: WordCraft ho zobrazí, ale nemôže ho upraviť
 	This document	Tento dokument
 	This document has no bookmarks.	Tento dokument nemá žiadne záložky.
+	This document only?	Iba tento dokument?
 	This field has no options.	Toto pole nemá možnosti.
 	This folder can't be read: {error}	Tento priečinok sa nedá prečítať: {error}
 	This font has no characters to show.	Toto písmo neobsahuje žiadne znaky na zobrazenie.
@@ -2728,6 +2736,7 @@ preview	Title	Názov
 	Use system setting	Použiť systémové nastavenie
 	Use the browser's full screen (F11)	Použiť režim celej obrazovky prehliadača (F11)
 	Use the Insert key to switch overtype on and off	Klávesom Insert zapínať a vypínať prepisovanie
+	Use this formatting as the default for:	Použiť toto formátovanie ako predvolené pre:
 	Use wildcards	Používať zástupné znaky
 	User Name	Meno používateľa
 	User name:	Meno používateľa:

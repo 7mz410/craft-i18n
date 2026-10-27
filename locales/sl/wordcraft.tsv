@@ -138,6 +138,7 @@
 	All Caps	Vse velike črke
 	All caps	Vse velike črke
 	All Commands	Vsi ukazi
+	All documents based on the Normal template?	Vse dokumente, ki temeljijo na predlogi Navadno?
 	All files	Vse datoteke
 	All Fonts	All Fonts
 	All Levels	Vse ravni
@@ -597,6 +598,7 @@
 	Decrease Font Size	Zmanjšaj velikost pisave
 	Decrease Indent	Zmanjšaj zamik
 	Deep	Deep
+	Default formatting	Privzeto oblikovanje
 	Default Paragraph Font	Privzeta pisava odstavka
 	Default tab stops:	Privzeti tabulatorji:
 	Define New Bullet	Določi novo oznako
@@ -921,6 +923,7 @@
 	Formatting at Selection	Oblikovanje pri izboru
 	Formatting exceptions	Izjeme oblikovanja
 	Formatting marks	Oznake oblikovanja
+	Formatting saved for new documents:	Oblikovanje, shranjeno za nove dokumente:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Primerjajo se oblikovanje, spremembe velikosti črk, presledki in tabele; druge nastavitve so shranjene za pozneje.
 	Formula	Formula
 	Formula:	Formula:
@@ -1449,6 +1452,8 @@
 	New comments and tracked changes are recorded under this name and these initials.	Novi komentarji in sledene spremembe se beležijo pod tem imenom in temi začetnicami.
 	New Document	Nov dokument
 	New document	Nov dokument
+	New documents based on this template	Novi dokumenti, ki temeljijo na tej predlogi
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Novi dokumenti bodo uporabljali vgrajeno oblikovanje programa WordCraft. Shranjenih privzetih nastavitev ne bo mogoče obnoviti. Želite ponastaviti?
 	New Drawing Canvas	Novo risalno platno
 	New Entry	Nov vnos
 	New from Template	Nov dokument iz predloge
@@ -1586,6 +1591,7 @@
 	Only for the selected text	Samo za izbrano besedilo
 	Only form fields can be filled in.	Izpolnjevati je mogoče samo polja obrazca.
 	only in Outline view	samo v pogledu orisa
+	Only in this document	Samo v tem dokumentu
 	Only the allowed styles can be applied.	Uporabiti je mogoče samo dovoljene sloge.
 	Only web (http, https) and email (mailto) links can be followed	Slediti je mogoče samo spletnim (http, https) in e-poštnim (mailto) povezavam
 	Open a document first	Najprej odprite dokument
@@ -1885,6 +1891,7 @@
 	Reset All…	Ponastavi vse …
 	Reset Character Formatting	Ponastavi oblikovanje znakov
 	Reset Crop	Ponastavi obrezovanje
+	Reset Default Formatting	Ponastavi privzeto oblikovanje
 	Reset Graphic	Ponastavi grafiko
 	Reset Paragraph Formatting	Ponastavi oblikovanje odstavka
 	Reset Picture	Ponastavi sliko
@@ -2379,6 +2386,7 @@
 	Thick	Debelo
 	this chart was made in another program: WordCraft shows it but can't edit it	ta grafikon je bil ustvarjen v drugem programu: WordCraft ga prikaže, vendar ga ne more urejati
 	This document	Ta dokument
+	This document only?	Samo ta dokument?
 	This field has no options.	To polje nima možnosti.
 	This folder can't be read: {error}	Te mape ni mogoče prebrati: {error}
 	This font has no characters to show.	Ta pisava nima znakov za prikaz.
@@ -2509,6 +2517,7 @@ preview	Title	Naslov
 	Use system setting	Uporabi sistemsko nastavitev
 	Use the browser's full screen (F11)	Uporabi celozaslonski način brskalnika (F11)
 	Use the Insert key to switch overtype on and off	S tipko Insert vklopi in izklopi prepisovanje
+	Use this formatting as the default for:	Uporabi to oblikovanje kot privzeto za:
 	Use wildcards	Uporabi nadomestne znake
 	User Name	Uporabniško ime
 	User name:	Uporabniško ime:

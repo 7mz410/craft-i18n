@@ -117,6 +117,7 @@
 	All Borders	格子
 	All caps	すべて大文字
 	All Commands	すべてのコマンド
+	All documents based on the Normal template?	通常テンプレートを基にしたすべての文書?
 	All Fonts	すべてのフォント
 	All Levels	すべてのレベル
 	All Markup	すべての変更履歴
@@ -487,6 +488,7 @@
 	Decrease Font Size	フォント サイズの縮小
 	Decrease Indent	インデントを減らす
 	Deep	ディープ
+	Default formatting	既定の書式
 	Default tab stops:	既定のタブ間隔:
 	Define New Bullet	新しい行頭文字の定義
 	Define New Multilevel List	新しいアウトラインの定義
@@ -749,6 +751,7 @@
 	Formatting at Selection	選択範囲の書式
 	Formatting exceptions	書式の例外
 	Formatting marks	編集記号
+	Formatting saved for new documents:	新しい文書用に保存された書式:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	書式、大文字/小文字、空白、表を比較します。その他の設定は今後の対応です。
 	Formula	計算式
 	Formula:	計算式:
@@ -1154,6 +1157,8 @@
 	New comments and tracked changes are recorded under this name and these initials.	新しいコメントと変更履歴は、この名前とイニシャルで記録されます。
 	New Document	新規文書
 	New document	新規文書
+	New documents based on this template	このテンプレートを基にした新しい文書
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	新しい文書では WordCraft の組み込みの書式が使われます。保存した既定の設定は元に戻せません。リセットしますか?
 	New Drawing Canvas	新しい描画キャンバス
 	New Entry	新しいエントリ
 	New Group	新しいグループ
@@ -1278,6 +1283,7 @@
 	Only for the selected text	選択したテキストのみ
 	Only form fields can be filled in.	フォーム フィールドへの入力のみ可能です。
 	only in Outline view	アウトライン表示でのみ使用できます
+	Only in this document	この文書のみ
 	Only the allowed styles can be applied.	使用を許可されたスタイルだけを適用できます。
 	Only web (http, https) and email (mailto) links can be followed	開けるのは Web（http、https）とメール（mailto）のリンクだけです
 	Open a document first	先に文書を開いてください
@@ -1529,6 +1535,7 @@
 	Reset All…	すべてリセット…
 	Reset Character Formatting	文字書式のリセット
 	Reset Crop	トリミングのリセット
+	Reset Default Formatting	既定の書式のリセット
 	Reset Graphic	グラフィックのリセット
 	Reset Paragraph Formatting	段落書式のリセット
 	Reset Picture	図のリセット
@@ -1942,6 +1949,7 @@
 	Thick	太線
 	this chart was made in another program: WordCraft shows it but can't edit it	このグラフは別のプログラムで作成されました: WordCraft で表示できますが編集はできません
 	This document	この文書
+	This document only?	この文書のみ?
 	This field has no options.	このフィールドにはオプションがありません。
 	This folder can't be read: {error}	このフォルダーを読み取れません: {error}
 	This font has no characters to show.	このフォントには表示できる文字がありません。
@@ -2038,6 +2046,7 @@
 	Use system setting	システム設定を使用
 	Use the browser's full screen (F11)	ブラウザーの全画面表示を使用してください (F11)
 	Use the Insert key to switch overtype on and off	Insert キーで上書きのオンとオフを切り替える
+	Use this formatting as the default for:	この書式を既定として使用する対象:
 	Use wildcards	ワイルドカードを使う
 	User Name	ユーザー名
 	User name:	ユーザー名:

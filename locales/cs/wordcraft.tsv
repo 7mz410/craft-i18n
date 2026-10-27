@@ -133,6 +133,7 @@
 	All Caps	Všechna velká
 	All caps	Všechna velká
 	All Commands	Všechny příkazy
+	All documents based on the Normal template?	Všechny dokumenty založené na šabloně Normální?
 	All Fonts	Všechna písma
 	All Levels	Všechny úrovně
 	All Markup	Všechny revize
@@ -556,6 +557,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Dekorativní objekty slouží pouze jako vizuální doplněk: čtečky obrazovky je přeskakují.
 	Decrease Indent	Zmenšit odsazení
 	Deep	Sytý
+	Default formatting	Výchozí formátování
 	Default Paragraph Font	Standardní písmo odstavce
 	Default tab stops:	Výchozí krok tabulátoru:
 	Define New Bullet	Definovat novou odrážku
@@ -844,6 +846,7 @@
 	Formatting at Selection	Formátování výběru
 	Formatting exceptions	Výjimky formátování
 	Formatting marks	Formátovací značky
+	Formatting saved for new documents:	Formátování uložené pro nové dokumenty:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Porovnává se formátování, změny velikosti písmen, mezery a tabulky; ostatní nastavení jsou zachována pro pozdější využití.
 	Formula	Vzorec
 	Formula:	Vzorec:
@@ -1323,6 +1326,8 @@
 	Negated Relations	Negované relace
 	New Comment	Nový komentář
 	New comments and tracked changes are recorded under this name and these initials.	Nové komentáře a sledované změny se zaznamenávají pod tímto jménem a iniciálami.
+	New documents based on this template	Nové dokumenty založené na této šabloně
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Nové dokumenty budou používat vestavěné formátování WordCraftu. Uložená výchozí nastavení už nepůjde vrátit zpět. Obnovit?
 	New Drawing Canvas	Nové kreslicí plátno
 	New Entry	Nová položka
 	New Label	Nový popisek
@@ -1450,6 +1455,7 @@
 	Only for the selected text	Pouze pro vybraný text
 	Only form fields can be filled in.	Lze vyplňovat pouze formulářová pole.
 	only in Outline view	pouze v zobrazení Osnova
+	Only in this document	Pouze v tomto dokumentu
 	Only the allowed styles can be applied.	Lze použít pouze povolené styly.
 	Only web (http, https) and email (mailto) links can be followed	Otevřít lze pouze webové (http, https) a e-mailové (mailto) odkazy
 	Open a document first	Nejprve otevřete dokument
@@ -1719,6 +1725,7 @@
 	Reset All…	Obnovit vše…
 	Reset Character Formatting	Obnovit formátování znaků
 	Reset Crop	Zrušit oříznutí
+	Reset Default Formatting	Obnovit výchozí formátování
 	Reset Graphic	Obnovit grafiku
 	Reset Paragraph Formatting	Obnovit formátování odstavce
 	Reset Picture	Obnovit obrázek
@@ -2176,6 +2183,7 @@
 	Thick	Silné
 	this chart was made in another program: WordCraft shows it but can't edit it	tento graf byl vytvořen v jiném programu: WordCraft ho zobrazí, ale nemůže ho upravit
 	This document	Tento dokument
+	This document only?	Pouze tento dokument?
 	This field has no options.	Toto pole nemá žádné možnosti.
 	This folder can't be read: {error}	Tuto složku nelze přečíst: {error}
 	This font has no characters to show.	Toto písmo neobsahuje žádné znaky k zobrazení.
@@ -2296,6 +2304,7 @@ preview	Title	Ukázka
 	Use system setting	Podle nastavení systému
 	Use the browser's full screen (F11)	Použijte celou obrazovku prohlížeče (F11)
 	Use the Insert key to switch overtype on and off	Přepínat režim přepisování klávesou Insert
+	Use this formatting as the default for:	Použít toto formátování jako výchozí pro:
 	Use wildcards	Používat zástupné znaky
 	User Name	Uživatelské jméno
 	User name:	Uživatelské jméno:

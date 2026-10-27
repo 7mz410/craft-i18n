@@ -133,6 +133,7 @@
 	All Borders	Minden szegély
 	All caps	Csupa nagybetű
 	All Commands	Összes parancs
+	All documents based on the Normal template?	Minden, a Normál sablonon alapuló dokumentumban?
 	All Fonts	Összes betűtípus
 	All Levels	Minden szint
 	All Markup	Minden jelölés
@@ -561,6 +562,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	A díszítőelemek csak a látványt szolgálják, a képernyőolvasók kihagyják őket.
 	Decrease Indent	Behúzás csökkentése
 	Deep	Mély
+	Default formatting	Alapértelmezett formázás
 	Default Paragraph Font	Alapértelmezett bekezdésbetűtípus
 	Default tab stops:	Alapértelmezett tabulátortávolság:
 	Define New Bullet	Új felsorolásjel megadása
@@ -854,6 +856,7 @@
 	Formatting at Selection	A kijelölés formázása
 	Formatting exceptions	Formázási kivételek
 	Formatting marks	Formázási jelek
+	Formatting saved for new documents:	Új dokumentumokhoz mentett formázás:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	A formázás, a kis- és nagybetű-változások, az üres karakterek és a táblázatok összevetése működik; a többi beállítás egyelőre csak megőrződik.
 	Formula	Képlet
 	Formula:	Képlet:
@@ -1343,6 +1346,8 @@
 	Negated Relations	Tagadott relációk
 	New Comment	Új megjegyzés
 	New comments and tracked changes are recorded under this name and these initials.	Az új megjegyzések és követett módosítások ezzel a névvel és monogrammal rögzülnek.
+	New documents based on this template	Az ezen a sablonon alapuló új dokumentumokban
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Az új dokumentumok a WordCraft beépített formázását használják. A mentett alapértelmezések nem állíthatók helyre. Visszaállítod?
 	New Drawing Canvas	Új rajzvászon
 	New Entry	Új bejegyzés
 	New Label	Új címke
@@ -1470,6 +1475,7 @@
 	Only for the selected text	Csak a kijelölt szövegnél
 	Only form fields can be filled in.	Csak az űrlapmezők tölthetők ki.
 	only in Outline view	csak Vázlat nézetben
+	Only in this document	Csak ebben a dokumentumban
 	Only the allowed styles can be applied.	Csak az engedélyezett stílusok alkalmazhatók.
 	Only web (http, https) and email (mailto) links can be followed	Csak webes (http, https) és e-mail (mailto) link nyitható meg
 	Open a document first	Először nyisson meg egy dokumentumot
@@ -1738,6 +1744,7 @@
 	Reset All…	Összes visszaállítása…
 	Reset Character Formatting	Karakterformázás visszaállítása
 	Reset Crop	Körülvágás visszaállítása
+	Reset Default Formatting	Alapértelmezett formázás visszaállítása
 	Reset Graphic	Ábra visszaállítása
 	Reset Paragraph Formatting	Bekezdésformázás visszaállítása
 	Reset Picture	Kép visszaállítása
@@ -2191,6 +2198,7 @@
 	Thick	Vastag
 	this chart was made in another program: WordCraft shows it but can't edit it	ez a diagram egy másik programban készült: a WordCraft megjeleníti, de nem tudja szerkeszteni
 	This document	Ez a dokumentum
+	This document only?	Csak ebben a dokumentumban?
 	This field has no options.	Ennek a mezőnek nincsenek beállításai.
 	This folder can't be read: {error}	Ez a mappa nem olvasható: {error}
 	This font has no characters to show.	Ebben a betűtípusban nincs megjeleníthető karakter.
@@ -2312,6 +2320,7 @@
 	Use system setting	A rendszerbeállítás követése
 	Use the browser's full screen (F11)	Használja a böngésző teljes képernyős módját (F11)
 	Use the Insert key to switch overtype on and off	Az Insert billentyű ki- és bekapcsolja a felülírást
+	Use this formatting as the default for:	Legyen ez a formázás az alapértelmezett:
 	Use wildcards	Helyettesítő karakterek használata
 	User Name	Felhasználónév
 	User name:	Felhasználónév:

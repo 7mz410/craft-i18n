@@ -132,6 +132,7 @@
 	All Borders	Svi obrubi
 	All caps	Sva velika slova
 	All Commands	Sve naredbe
+	All documents based on the Normal template?	Sve dokumente temeljene na predlošku Uobičajeni?
 	All Fonts	Svi fontovi
 	All Levels	Sve razine
 	All Markup	Sve oznake
@@ -553,6 +554,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Ukrasni objekti samo daju vizualni dojam: čitači zaslona ih preskaču.
 	Decrease Indent	Smanji uvlaku
 	Deep	Duboko
+	Default formatting	Zadano oblikovanje
 	Default Paragraph Font	Zadani font odlomka
 	Default tab stops:	Zadani tabulatori:
 	Define New Bullet	Definiraj novu oznaku
@@ -844,6 +846,7 @@
 	Formatting at Selection	Oblikovanje na odabiru
 	Formatting exceptions	Iznimke oblikovanja
 	Formatting marks	Oznake oblikovanja
+	Formatting saved for new documents:	Oblikovanje spremljeno za nove dokumente:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Uspoređuju se oblikovanje, promjene veličine slova, razmaci i tablice; ostale postavke čuvaju se za kasnije.
 	Formula	Formula
 	Formula:	Formula:
@@ -1327,6 +1330,8 @@ template	Letter	Pismo
 	Negated Relations	Negirane relacije
 	New Comment	Novi komentar
 	New comments and tracked changes are recorded under this name and these initials.	Novi komentari i praćene promjene bilježe se pod ovim imenom i ovim inicijalima.
+	New documents based on this template	Novi dokumenti temeljeni na ovom predlošku
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Novi dokumenti koristit će ugrađeno oblikovanje programa WordCraft. Spremljene zadane postavke nije moguće vratiti. Vratiti na zadano?
 	New Drawing Canvas	Novo platno za crtanje
 	New Entry	Novi unos
 	New Label	Nova oznaka
@@ -1453,6 +1458,7 @@ template	Letter	Pismo
 	Only for the selected text	Samo za odabrani tekst
 	Only form fields can be filled in.	Mogu se ispunjavati samo polja obrasca.
 	only in Outline view	samo u prikazu Struktura
+	Only in this document	Samo u ovom dokumentu
 	Only the allowed styles can be applied.	Mogu se primijeniti samo dopušteni stilovi.
 	Only web (http, https) and email (mailto) links can be followed	Mogu se otvarati samo web-poveznice (http, https) i poveznice e-pošte (mailto)
 	Open a document first	Prvo otvorite dokument
@@ -1720,6 +1726,7 @@ template	Letter	Pismo
 	Reset All…	Vrati sve na zadano…
 	Reset Character Formatting	Vrati zadano oblikovanje znakova
 	Reset Crop	Poništi obrezivanje
+	Reset Default Formatting	Vrati zadano oblikovanje
 	Reset Graphic	Vrati grafiku
 	Reset Paragraph Formatting	Vrati zadano oblikovanje odlomka
 	Reset Picture	Vrati sliku
@@ -2173,6 +2180,7 @@ template	Letter	Pismo
 	Thick	Debelo
 	this chart was made in another program: WordCraft shows it but can't edit it	ovaj grafikon izrađen je u drugom programu: WordCraft ga prikazuje, ali ga ne može uređivati
 	This document	Ovaj dokument
+	This document only?	Samo ovaj dokument?
 	This field has no options.	Ovo polje nema mogućnosti.
 	This folder can't be read: {error}	Ova se mapa ne može pročitati: {error}
 	This font has no characters to show.	Ovaj font nema znakova za prikaz.
@@ -2294,6 +2302,7 @@ preview	Title	Naslov
 	Use system setting	Koristi postavku sustava
 	Use the browser's full screen (F11)	Koristi cijeli zaslon preglednika (F11)
 	Use the Insert key to switch overtype on and off	Koristite tipku Umetni (Insert) za uključivanje i isključivanje prepisivanja
+	Use this formatting as the default for:	Koristi ovo oblikovanje kao zadano za:
 	Use wildcards	Koristi zamjenske znakove
 	User Name	Korisničko ime
 	User name:	Korisničko ime:

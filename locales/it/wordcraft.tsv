@@ -133,6 +133,7 @@
 	All Caps	Tutto maiuscole
 	All caps	Tutto maiuscole
 	All Commands	Tutti i comandi
+	All documents based on the Normal template?	Tutti i documenti basati sul modello Normale?
 	All Fonts	Tutti i caratteri
 	All Levels	Tutti i livelli
 	All Markup	Tutte le revisioni
@@ -560,6 +561,7 @@
 	Decrease Font Size	Riduci dimensione carattere
 	Decrease Indent	Riduci rientro
 	Deep	Profondo
+	Default formatting	Formattazione predefinita
 	Default Paragraph Font	Carattere predefinito del paragrafo
 	Default tab stops:	Tabulazioni predefinite:
 	Define New Bullet	Definisci nuovo punto elenco
@@ -859,6 +861,7 @@
 	Formatting at Selection	Formattazione nella selezione
 	Formatting exceptions	Eccezioni di formattazione
 	Formatting marks	Segni di formattazione
+	Formatting saved for new documents:	Formattazione salvata per i nuovi documenti:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Vengono confrontati formattazione, maiuscole/minuscole, spazi vuoti e tabelle; le altre impostazioni restano per un secondo momento.
 	Formula	Formula
 	Formula:	Formula:
@@ -1348,6 +1351,8 @@ template	Letter	Lettera
 	Negated Relations	Relazioni negate
 	New Comment	Nuovo commento
 	New comments and tracked changes are recorded under this name and these initials.	I nuovi commenti e le revisioni vengono registrati con questo nome e queste iniziali.
+	New documents based on this template	Nuovi documenti basati su questo modello
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	I nuovi documenti useranno la formattazione integrata di WordCraft. Le impostazioni predefinite salvate non potranno essere recuperate. Reimpostare?
 	New Drawing Canvas	Nuova area di disegno
 	New Entry	Nuova voce
 	New Label	Nuova etichetta
@@ -1476,6 +1481,7 @@ template	Letter	Lettera
 	Only for the selected text	Solo per il testo selezionato
 	Only form fields can be filled in.	Si possono compilare solo i campi modulo.
 	only in Outline view	solo nella visualizzazione Struttura
+	Only in this document	Solo in questo documento
 	Only the allowed styles can be applied.	Si possono applicare solo gli stili consentiti.
 	Only web (http, https) and email (mailto) links can be followed	Si possono seguire solo collegamenti web (http, https) e di posta elettronica (mailto)
 	Open a document first	Aprire prima un documento
@@ -1745,6 +1751,7 @@ template	Letter	Lettera
 	Reset All…	Reimposta tutto…
 	Reset Character Formatting	Reimposta formattazione carattere
 	Reset Crop	Reimposta ritaglio
+	Reset Default Formatting	Reimposta formattazione predefinita
 	Reset Graphic	Reimposta elemento grafico
 	Reset Paragraph Formatting	Reimposta formattazione paragrafo
 	Reset Picture	Reimposta immagine
@@ -2203,6 +2210,7 @@ template	Letter	Lettera
 	Thick	Spessa
 	this chart was made in another program: WordCraft shows it but can't edit it	questo grafico è stato creato in un altro programma: WordCraft lo mostra ma non può modificarlo
 	This document	Questo documento
+	This document only?	Solo questo documento?
 	This field has no options.	Questo campo non ha opzioni.
 	This folder can't be read: {error}	Impossibile leggere questa cartella: {error}
 	This font has no characters to show.	Questo carattere non ha caratteri da mostrare.
@@ -2327,6 +2335,7 @@ preview	Title	Esempio
 	Use system setting	Usa impostazione di sistema
 	Use the browser's full screen (F11)	Usa lo schermo intero del browser (F11)
 	Use the Insert key to switch overtype on and off	Usa il tasto Ins per attivare e disattivare la sovrascrittura
+	Use this formatting as the default for:	Usa questa formattazione come predefinita per:
 	Use wildcards	Usa caratteri jolly
 	User Name	Nome utente
 	User name:	Nome utente:

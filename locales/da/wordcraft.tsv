@@ -140,6 +140,7 @@
 	All Caps	Alle store bogstaver
 	All caps	Alle store bogstaver
 	All Commands	Alle kommandoer
+	All documents based on the Normal template?	Alle dokumenter baseret på skabelonen Normal?
 	All files	Alle filer
 	All Levels	Alle niveauer
 	All Markup	Alle markeringer
@@ -583,6 +584,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Dekorative objekter giver kun visuel interesse: skærmlæsere springer dem over.
 	Decrease Font Size	Formindr skriftstørrelse
 	Decrease Indent	Formindr indrykning
+	Default formatting	Standardformatering
 	Default Paragraph Font	Skrifttype til standardafsnit
 	Default tab stops:	Standardtabulatorstop:
 	Define New Bullet	Definer nyt punktnummer
@@ -878,6 +880,7 @@
 	Formatting at Selection	Formatering af markering
 	Formatting exceptions	Formateringsundtagelser
 	Formatting marks	Formattegn
+	Formatting saved for new documents:	Formatering gemt til nye dokumenter:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Formatering, ændringer af store og små bogstaver, mellemrum og tabeller sammenlignes; de øvrige indstillinger gemmes til senere.
 	Formula	Formel
 	Formula:	Formel:
@@ -1339,6 +1342,8 @@
 	New comments and tracked changes are recorded under this name and these initials.	Nye kommentarer og sporede ændringer registreres under dette navn og disse initialer.
 	New Document	Nyt dokument
 	New document	Nyt dokument
+	New documents based on this template	Nye dokumenter baseret på denne skabelon
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Nye dokumenter bruger WordCrafts indbyggede formatering. Dine gemte standarder kan ikke gendannes. Vil du nulstille?
 	New Drawing Canvas	Nyt lærred
 	New Entry	Ny post
 	New from Template	Ny fra skabelon
@@ -1467,6 +1472,7 @@
 	Only for the selected text	Kun for den markerede tekst
 	Only form fields can be filled in.	Der kan kun udfyldes formularfelter.
 	only in Outline view	kun i oversigtsvisning
+	Only in this document	Kun i dette dokument
 	Only the allowed styles can be applied.	Der kan kun anvendes tilladte stile.
 	Only web (http, https) and email (mailto) links can be followed	Kun weblinks (http, https) og e-mail-links (mailto) kan følges
 	Open a document first	Åbn først et dokument
@@ -1745,6 +1751,7 @@
 	Reset All…	Nulstil alle…
 	Reset Character Formatting	Nulstil tegnformatering
 	Reset Crop	Nulstil beskæring
+	Reset Default Formatting	Nulstil standardformatering
 	Reset Graphic	Nulstil grafik
 	Reset Paragraph Formatting	Nulstil afsnitsformatering
 	Reset Picture	Nulstil billede
@@ -2206,6 +2213,7 @@
 	Thickness	Tykkelse
 	this chart was made in another program: WordCraft shows it but can't edit it	dette diagram er lavet i et andet program: WordCraft viser det, men kan ikke redigere det
 	This document	Dette dokument
+	This document only?	Kun dette dokument?
 	This field has no options.	Dette felt har ingen indstillinger.
 	This folder can't be read: {error}	Denne mappe kan ikke læses: {error}
 	This font has no characters to show.	Denne skrifttype har ingen tegn at vise.
@@ -2333,6 +2341,7 @@ preview	Title	Titel
 	Use system setting	Brug systemets indstilling
 	Use the browser's full screen (F11)	Brug browserens fuldskærm (F11)
 	Use the Insert key to switch overtype on and off	Brug Insert-tasten til at slå overskrivning til og fra
+	Use this formatting as the default for:	Brug denne formatering som standard for:
 	Use wildcards	Brug jokertegn
 	User Name	Brugernavn
 	User name:	Brugernavn:

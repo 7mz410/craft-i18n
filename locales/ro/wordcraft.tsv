@@ -147,6 +147,7 @@
 	All Caps	Toate majusculele
 	All caps	Toate majusculele
 	All Commands	Toate comenzile
+	All documents based on the Normal template?	Toate documentele bazate pe șablonul „Normală”?
 	All files	Toate fișierele
 	All Fonts	Toate fonturile
 	All Levels	Toate nivelurile
@@ -639,6 +640,7 @@
 	Decrease Indent	Micșorare indent
 	Deep	Adânc
 	Default	Implicit
+	Default formatting	Formatare implicită
 	Default Paragraph Font	Font implicit pentru paragraf
 	Default tab stops:	Opriri de tabulator implicite:
 	Define New Bullet	Definire marcator nou
@@ -989,6 +991,7 @@
 	Formatting at Selection	Formatare la selecție
 	Formatting exceptions	Excepții de formatare
 	Formatting marks	Semne de formatare
+	Formatting saved for new documents:	Formatare salvată pentru documentele noi:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Se compară formatarea, schimbările de majuscule, spațiile albe și tabelele; celelalte setări sunt păstrate pentru mai târziu.
 	Formula	Formulă
 	Formula:	Formulă:
@@ -1547,6 +1550,8 @@ template	Letter	Scrisoare
 	New comments and tracked changes are recorded under this name and these initials.	Comentariile noi și modificările urmărite sunt înregistrate sub acest nume și aceste inițiale.
 	New Document	Document nou
 	New document	Document nou
+	New documents based on this template	Documente noi bazate pe acest șablon
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Documentele noi vor folosi formatarea încorporată a WordCraft. Setările implicite salvate nu vor mai putea fi recuperate. Resetați?
 	New Drawing Canvas	Canvas de desen nou
 	New Entry	Intrare nouă
 	New from Template	Nou din șablon
@@ -1691,6 +1696,7 @@ template	Letter	Scrisoare
 	Only for the selected text	Doar pentru textul selectat
 	Only form fields can be filled in.	Se pot completa doar câmpurile de formular.
 	only in Outline view	doar în vizualizarea Schiță
+	Only in this document	Doar în acest document
 	Only the allowed styles can be applied.	Se pot aplica doar stilurile permise.
 	Only web (http, https) and email (mailto) links can be followed	Se pot urma doar linkurile web (http, https) și de e-mail (mailto)
 	Open	Deschidere
@@ -2013,6 +2019,7 @@ template	Letter	Scrisoare
 	Reset All…	Resetare totală…
 	Reset Character Formatting	Resetare formatare caractere
 	Reset Crop	Resetare decupare
+	Reset Default Formatting	Resetare formatare implicită
 	Reset Graphic	Resetare grafică
 	Reset Paragraph Formatting	Resetare formatare paragraf
 	Reset Picture	Resetare imagine
@@ -2531,6 +2538,7 @@ template	Letter	Scrisoare
 	this chart was made in another program: WordCraft shows it but can't edit it	această diagramă a fost creată în alt program: WordCraft o afișează, dar nu o poate edita
 	This document	Acest document
 	This document has no bookmarks.	Acest document nu are marcaje.
+	This document only?	Doar acest document?
 	This field has no options.	Acest câmp nu are opțiuni.
 	This folder can't be read: {error}	Acest folder nu poate fi citit: {error}
 	This font has no characters to show.	Acest font nu are caractere de afișat.
@@ -2670,6 +2678,7 @@ preview	Title	Titlu
 	Use system setting	Folosire setarea sistemului
 	Use the browser's full screen (F11)	Folosiți ecranul complet al browserului (F11)
 	Use the Insert key to switch overtype on and off	Folosiți tasta Insert pentru a activa și dezactiva suprascrierea
+	Use this formatting as the default for:	Utilizați această formatare ca implicită pentru:
 	Use wildcards	Folosiți metacaractere
 	User Name	Nume utilizator
 	User name:	Nume utilizator:

@@ -132,6 +132,7 @@
 	All Borders	Wszystkie krawędzie
 	All caps	Wersaliki
 	All Commands	Wszystkie polecenia
+	All documents based on the Normal template?	Wszystkich dokumentów opartych na szablonie Normalny?
 	All Fonts	Wszystkie czcionki
 	All Levels	Wszystkie poziomy
 	All Markup	Wszystkie znaczniki
@@ -560,6 +561,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Obiekty dekoracyjne służą tylko ozdobie: czytniki ekranu je pomijają.
 	Decrease Indent	Zmniejsz wcięcie
 	Deep	Głęboki
+	Default formatting	Formatowanie domyślne
 	Default Paragraph Font	Domyślna czcionka akapitu
 	Default tab stops:	Domyślne tabulatory:
 	Define New Bullet	Zdefiniuj nowy punktor
@@ -856,6 +858,7 @@
 	Formatting at Selection	Formatowanie zaznaczenia
 	Formatting exceptions	Wyjątki formatowania
 	Formatting marks	Znaki formatowania
+	Formatting saved for new documents:	Formatowanie zapisane dla nowych dokumentów:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Porównywane są formatowanie, wielkość liter, odstępy i tabele; pozostałe ustawienia są zachowywane na później.
 	Formula	Formuła
 	Formula:	Formuła:
@@ -1351,6 +1354,8 @@
 	Negated Relations	Relacje zanegowane
 	New Comment	Nowy komentarz
 	New comments and tracked changes are recorded under this name and these initials.	Nowe komentarze i śledzone zmiany są zapisywane pod tą nazwą i tymi inicjałami.
+	New documents based on this template	Nowe dokumenty oparte na tym szablonie
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Nowe dokumenty będą używać wbudowanego formatowania WordCraft. Zapisanych ustawień domyślnych nie da się odzyskać. Zresetować?
 	New Drawing Canvas	Nowa kanwa rysunku
 	New Entry	Nowy wpis
 	New Label	Nowa etykieta
@@ -1479,6 +1484,7 @@
 	Only for the selected text	Tylko dla zaznaczonego tekstu
 	Only form fields can be filled in.	Można wypełniać tylko pola formularza.
 	only in Outline view	tylko w widoku Konspekt
+	Only in this document	Tylko w tym dokumencie
 	Only the allowed styles can be applied.	Można stosować tylko dozwolone style.
 	Only web (http, https) and email (mailto) links can be followed	Otwierać można tylko linki internetowe (http, https) i e-mailowe (mailto)
 	Open a document first	Najpierw otwórz dokument
@@ -1750,6 +1756,7 @@
 	Reset All…	Resetuj wszystko…
 	Reset Character Formatting	Resetuj formatowanie znaków
 	Reset Crop	Resetuj przycięcie
+	Reset Default Formatting	Resetuj formatowanie domyślne
 	Reset Graphic	Resetuj grafikę
 	Reset Paragraph Formatting	Resetuj formatowanie akapitu
 	Reset Picture	Resetuj obraz
@@ -2209,6 +2216,7 @@
 	this chart was made in another program: WordCraft shows it but can't edit it	ten wykres został utworzony w innym programie: WordCraft go wyświetla, ale nie może go edytować
 	This document	Ten dokument
 	This document has no bookmarks.	This document has no bookmarks.
+	This document only?	Tylko tego dokumentu?
 	This field has no options.	To pole nie ma opcji.
 	This folder can't be read: {error}	Nie można odczytać tego folderu: {error}
 	This font has no characters to show.	Ta czcionka nie zawiera znaków do pokazania.
@@ -2332,6 +2340,7 @@ preview	Title	Tytuł
 	Use system setting	Użyj ustawienia systemowego
 	Use the browser's full screen (F11)	Użyj trybu pełnoekranowego przeglądarki (F11)
 	Use the Insert key to switch overtype on and off	Używaj klawisza Insert do przełączania trybu zastępowania
+	Use this formatting as the default for:	Użyj tego formatowania jako domyślnego dla:
 	Use wildcards	Użyj symboli wieloznacznych
 	User Name	Nazwa użytkownika
 	User name:	Nazwa użytkownika:

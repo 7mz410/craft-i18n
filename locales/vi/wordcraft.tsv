@@ -135,6 +135,7 @@
 	All Borders	Tất cả viền
 	All caps	Viết hoa toàn bộ
 	All Commands	Mọi lệnh
+	All documents based on the Normal template?	Tất cả tài liệu dựa trên mẫu Thường?
 	All Fonts	Tất cả phông chữ
 	All Levels	Mọi cấp
 	All Markup	Tất cả đánh dấu
@@ -570,6 +571,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Các đối tượng trang trí chỉ để tăng phần nhìn: trình đọc màn hình sẽ bỏ qua chúng.
 	Decrease Indent	Giảm thụt lề
 	Deep	Sâu
+	Default formatting	Định dạng mặc định
 	Default Paragraph Font	Phông chữ mặc định của đoạn
 	Default tab stops:	Mốc tab mặc định:
 	Define New Bullet	Tạo dấu đầu dòng mới
@@ -875,6 +877,7 @@
 	Formatting at Selection	Định dạng tại vùng chọn
 	Formatting exceptions	Ngoại lệ định dạng
 	Formatting marks	Dấu định dạng
+	Formatting saved for new documents:	Định dạng đã lưu cho tài liệu mới:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Định dạng, thay đổi chữ hoa/thường, khoảng trắng và bảng được đưa vào so sánh; các tùy chọn khác được lưu để dùng sau.
 	Formula	Công thức
 	Formula:	Công thức:
@@ -1385,6 +1388,8 @@ template	Letter	Thư
 	New Comment	Nhận xét mới
 	New comments and tracked changes are recorded under this name and these initials.	Nhận xét mới và các thay đổi được theo dõi được ghi dưới tên và chữ viết tắt này.
 	New Document	Tạo tài liệu mới
+	New documents based on this template	Tài liệu mới dựa trên mẫu này
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Tài liệu mới sẽ dùng định dạng tích hợp sẵn của WordCraft. Không thể khôi phục các mặc định bạn đã lưu. Đặt lại?
 	New Drawing Canvas	Khung vẽ mới
 	New Entry	Mục mới
 	New from Template	Tạo mới từ mẫu
@@ -1516,6 +1521,7 @@ template	Letter	Thư
 	Only for the selected text	Chỉ cho văn bản được chọn
 	Only form fields can be filled in.	Chỉ có thể điền vào các trường biểu mẫu.
 	only in Outline view	chỉ trong dạng xem Dàn ý
+	Only in this document	Chỉ trong tài liệu này
 	Only the allowed styles can be applied.	Chỉ có thể áp dụng các kiểu được cho phép.
 	Only web (http, https) and email (mailto) links can be followed	Chỉ mở được liên kết web (http, https) và email (mailto)
 	Open a document first	Hãy mở một tài liệu trước
@@ -1789,6 +1795,7 @@ template	Letter	Thư
 	Reset All…	Đặt lại tất cả…
 	Reset Character Formatting	Đặt lại định dạng ký tự
 	Reset Crop	Đặt lại cắt xén
+	Reset Default Formatting	Đặt lại định dạng mặc định
 	Reset Graphic	Đặt lại đồ họa
 	Reset Paragraph Formatting	Đặt lại định dạng đoạn
 	Reset Picture	Đặt lại ảnh
@@ -2261,6 +2268,7 @@ template	Letter	Thư
 	Thick	Dày
 	this chart was made in another program: WordCraft shows it but can't edit it	biểu đồ này được tạo trong chương trình khác: WordCraft hiển thị được nhưng không sửa được
 	This document	Tài liệu này
+	This document only?	Chỉ tài liệu này?
 	This field has no options.	Trường này không có tùy chọn nào.
 	This folder can't be read: {error}	Không thể đọc thư mục này: {error}
 	This font has no characters to show.	Phông chữ này không có ký tự nào để hiển thị.
@@ -2385,6 +2393,7 @@ template	Letter	Thư
 	Use system setting	Dùng theo hệ thống
 	Use the browser's full screen (F11)	Dùng chế độ toàn màn hình của trình duyệt (F11)
 	Use the Insert key to switch overtype on and off	Dùng phím Insert để bật/tắt gõ đè
+	Use this formatting as the default for:	Dùng định dạng này làm mặc định cho:
 	Use wildcards	Dùng ký tự đại diện
 	User Name	Tên người dùng
 	User name:	Tên người dùng:
