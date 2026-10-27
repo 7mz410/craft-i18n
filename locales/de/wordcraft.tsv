@@ -253,7 +253,7 @@
 	By author	Nach Autor
 	Calendar	Kalender
 	Can't be deleted	Kann nicht gelöscht werden
-	Can't find a command? Press Alt+Q and type what you want to do.	Befehl nicht gefunden? Drücken Sie Alt+Q und tippen Sie ein, was Sie tun möchten.
+	Can't find a command? Press {key} and type what you want to do.	Befehl nicht gefunden? Drücken Sie {key} und tippen Sie ein, was Sie tun möchten.
 	can't split at the first row	die Tabelle kann nicht an der ersten Zeile geteilt werden
 	Canvas Member	Element der Zeichenfläche
 	Capitalize Each Word	Jedes Wort großschreiben
@@ -431,10 +431,10 @@
 	Crop	Zuschneiden
 	Cross-reference	Querverweis
 	Cross-reference:	Querverweis:
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter beginnt eine neue Seite. Viel ordentlicher, als so lange die Eingabetaste zu drücken, bis es passiert.
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H sucht und ersetzt Text, Formatierungen und Sonderzeichen.
-	Ctrl+K turns the selected text into a link.	Ctrl+K macht aus dem markierten Text einen Link.
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G zählt Ihre Wörter, Zeichen und Absätze.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} beginnt eine neue Seite. Viel ordentlicher, als so lange die Eingabetaste zu drücken, bis es passiert.
+	{key} finds and replaces text, formatting and special characters.	{key} sucht und ersetzt Text, Formatierungen und Sonderzeichen.
+	{key} turns the selected text into a link.	{key} macht aus dem markierten Text einen Link.
+	{key} counts your words, characters and paragraphs.	{key} zählt Ihre Wörter, Zeichen und Absätze.
 	Current Position	Aktuelle Position
 	Current record	Aktueller Datensatz
 	Current style: {style}	Aktuelle Formatvorlage: {style}
@@ -656,8 +656,8 @@
 	Exported {path}	Exportiert: {path}
 	Extend Selection	Auswahl erweitern
 	Extend Selection by Units	Auswahl einheitenweise erweitern
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 wiederholt Ihre letzte Aktion. Zehn Überschriften formatieren? Plötzlich nur noch ein Klick und neun Tastendrücke.
-	F7 checks the spelling and grammar of the whole document.	F7 prüft Rechtschreibung und Grammatik im ganzen Dokument.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} wiederholt Ihre letzte Aktion. Zehn Überschriften formatieren? Plötzlich nur noch ein Klick und neun Tastendrücke.
+	{key} checks the spelling and grammar of the whole document.	{key} prüft Rechtschreibung und Grammatik im ganzen Dokument.
 	Faster: {command} is {key} on the keyboard.	Schneller: {command} geht auch mit {key} auf der Tastatur.
 	Field code:	Feldfunktion:
 	Field Codes	Feldfunktionen
@@ -1659,7 +1659,7 @@
 	Shape Format	Formformat
 	Shape Outline	Formkontur
 	Shape Styles	Formformate
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter beginnt eine neue Zeile, ohne einen neuen Absatz zu beginnen.
+	{key} starts a new line without starting a new paragraph.	{key} beginnt eine neue Zeile, ohne einen neuen Absatz zu beginnen.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Versandetiketten
 	Shortcut key:	Tastenkombination:
@@ -1705,7 +1705,7 @@
 	Show the Start screen when WordCraft starts	Startbildschirm beim Start von WordCraft anzeigen
 	Show the tips you asked not to see again.	Zeigt die Tipps wieder an, die Sie ausgeblendet haben.
 	Show/Hide ¶	¶ ein-/ausblenden
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	¶ ein-/ausblenden (Ctrl+Shift+8) zeigt die Leerzeichen, Tabstopps und Umbrüche, die sich in Ihrem Text verstecken.
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	¶ ein-/ausblenden ({key}) zeigt die Leerzeichen, Tabstopps und Umbrüche, die sich in Ihrem Text verstecken.
 	Show\nComments	Kommentare\neinblenden
 	Showing the first {count} items.	Die ersten {count} Elemente werden angezeigt.
 	Shows a tree: each item below the item it belongs to.	Zeigt einen Baum: jedes Element unter dem Element, zu dem es gehört.

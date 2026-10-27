@@ -251,7 +251,7 @@
 	By author	Por autor
 	Calendar	Calendário
 	Can't be deleted	Não pode ser excluído
-	Can't find a command? Press Alt+Q and type what you want to do.	Não encontra um comando? Pressione Alt+Q e digite o que você quer fazer.
+	Can't find a command? Press {key} and type what you want to do.	Não encontra um comando? Pressione {key} e digite o que você quer fazer.
 	can't split at the first row	não é possível dividir a tabela na primeira linha
 	Canvas Member	Item da tela
 	Capitalize Each Word	Capitalizar cada palavra
@@ -424,10 +424,10 @@
 	Croatian	Croata
 	Cross-reference	Referência cruzada
 	Cross-reference:	Referência cruzada:
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter inicia uma nova página. Bem mais organizado do que apertar Enter até acontecer.
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H localiza e substitui texto, formatação e caracteres especiais.
-	Ctrl+K turns the selected text into a link.	Ctrl+K transforma o texto selecionado em um link.
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G conta suas palavras, caracteres e parágrafos.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} inicia uma nova página. Bem mais organizado do que apertar Enter até acontecer.
+	{key} finds and replaces text, formatting and special characters.	{key} localiza e substitui texto, formatação e caracteres especiais.
+	{key} turns the selected text into a link.	{key} transforma o texto selecionado em um link.
+	{key} counts your words, characters and paragraphs.	{key} conta suas palavras, caracteres e parágrafos.
 	Current Position	Posição atual
 	Current record	Registro atual
 	Current style: {style}	Estilo atual: {style}
@@ -653,8 +653,8 @@
 	Exported {path}	Exportado {path}
 	Extend Selection	Expandir seleção
 	Extend Selection by Units	Expandir seleção por unidades
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 repete sua última ação. Formatar dez títulos vira, de repente, um clique e nove toques.
-	F7 checks the spelling and grammar of the whole document.	F7 verifica a ortografia e a gramática do documento inteiro.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} repete sua última ação. Formatar dez títulos vira, de repente, um clique e nove toques.
+	{key} checks the spelling and grammar of the whole document.	{key} verifica a ortografia e a gramática do documento inteiro.
 	Faster: {command} is {key} on the keyboard.	Mais rápido: {command} é {key} no teclado.
 	Field code:	Código de campo:
 	Field Codes	Códigos de campo
@@ -1643,7 +1643,7 @@
 	Shape Format	Formato da forma
 	Shape Outline	Contorno da forma
 	Shape Styles	Estilos de forma
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter inicia uma nova linha sem iniciar um novo parágrafo.
+	{key} starts a new line without starting a new paragraph.	{key} inicia uma nova linha sem iniciar um novo parágrafo.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Etiquetas de envio
 	Shortcut key:	Tecla de atalho:
@@ -1687,7 +1687,7 @@
 	Show the Start screen when WordCraft starts	Mostrar a tela inicial ao abrir o WordCraft
 	Show the tips you asked not to see again.	Mostra de novo as dicas que você pediu para não ver.
 	Show/Hide ¶	Mostrar/ocultar ¶
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	Mostrar/ocultar ¶ (Ctrl+Shift+8) mostra os espaços, tabulações e quebras escondidos no seu texto.
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Mostrar/ocultar ¶ ({key}) mostra os espaços, tabulações e quebras escondidos no seu texto.
 	Show\nComments	Mostrar\ncomentários
 	Showing the first {count} items.	Mostrando os primeiros {count} itens.
 	Shows a tree: each item below the item it belongs to.	Mostra uma árvore: cada item abaixo do item ao qual pertence.

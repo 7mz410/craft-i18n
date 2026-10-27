@@ -255,7 +255,7 @@
 	By author	按作者
 	Calendar	日历
 	Can't be deleted	无法删除
-	Can't find a command? Press Alt+Q and type what you want to do.	找不到命令？按 Alt+Q，然后输入你想做的事。
+	Can't find a command? Press {key} and type what you want to do.	找不到命令？按 {key}，然后输入你想做的事。
 	can't split at the first row	无法在第一行处拆分表格
 	Canvas Member	画布成员
 	Capitalize Each Word	每个单词首字母大写
@@ -433,10 +433,10 @@
 	Croatian	克罗地亚语
 	Cross-reference	交叉引用
 	Cross-reference:	交叉引用：
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter 可以开始新的一页。比一直按 Enter 直到换页整洁多了。
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H 可以查找和替换文字、格式和特殊字符。
-	Ctrl+K turns the selected text into a link.	Ctrl+K 可以将所选文字变成链接。
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G 可以统计字数、字符数和段落数。
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} 可以开始新的一页。比一直按 Enter 直到换页整洁多了。
+	{key} finds and replaces text, formatting and special characters.	{key} 可以查找和替换文字、格式和特殊字符。
+	{key} turns the selected text into a link.	{key} 可以将所选文字变成链接。
+	{key} counts your words, characters and paragraphs.	{key} 可以统计字数、字符数和段落数。
 	Current Position	当前位置
 	Current record	当前记录
 	Current style: {style}	当前样式：{style}
@@ -660,8 +660,8 @@
 	Export Page as PNG	将页面导出为 PNG
 	Extend Selection	扩展选定范围
 	Extend Selection by Units	按单位扩展选定范围
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 可以重复上一个操作。设置十个标题的格式，一下子就变成点一次再按九下。
-	F7 checks the spelling and grammar of the whole document.	F7 可以检查整个文档的拼写和语法。
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} 可以重复上一个操作。设置十个标题的格式，一下子就变成点一次再按九下。
+	{key} checks the spelling and grammar of the whole document.	{key} 可以检查整个文档的拼写和语法。
 	Faster: {command} is {key} on the keyboard.	更快的方法：{command} 的键盘快捷键是 {key}。
 	Field	域
 	Field code:	域代码：
@@ -1670,7 +1670,7 @@
 	Shape Format	形状格式
 	Shape Outline	形状轮廓
 	Shape Styles	形状样式
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter 可以换行，但不开始新段落。
+	{key} starts a new line without starting a new paragraph.	{key} 可以换行，但不开始新段落。
 	Shift+Tab	Shift+Tab
 	Shipping labels	运输标签
 	Shortcut key:	快捷键：
@@ -1714,7 +1714,7 @@
 	Show the Start screen when WordCraft starts	启动 WordCraft 时显示开始屏幕
 	Show the tips you asked not to see again.	重新显示你要求不再显示的提示。
 	Show/Hide ¶	显示/隐藏 ¶
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	显示/隐藏 ¶ (Ctrl+Shift+8) 会显示藏在文字中的空格、制表符和分隔符。
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	显示/隐藏 ¶ ({key}) 会显示藏在文字中的空格、制表符和分隔符。
 	Show\nComments	显示批注
 	Showing the first {count} items.	仅显示前 {count} 项。
 	Shows a tree: each item below the item it belongs to.	显示树形结构：每个项目位于其所属项目的下方。

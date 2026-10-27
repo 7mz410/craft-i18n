@@ -300,7 +300,7 @@
 	By author	Według autora
 	Calendar	Kalendarz
 	Can't be deleted	Nie można usunąć
-	Can't find a command? Press Alt+Q and type what you want to do.	Nie możesz znaleźć polecenia? Naciśnij Alt+Q i wpisz, co chcesz zrobić.
+	Can't find a command? Press {key} and type what you want to do.	Nie możesz znaleźć polecenia? Naciśnij {key} i wpisz, co chcesz zrobić.
 	can't split at the first row	nie można podzielić tabeli na pierwszym wierszu
 	Canvas Member	Element kanwy
 	Capitalize Each Word	Każdy Wyraz Wielką Literą
@@ -518,10 +518,10 @@
 	Croatian	Chorwacki
 	Cross-reference	Odsyłacz
 	Cross-reference:	Odsyłacz:
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter zaczyna nową stronę. Dużo schludniej niż wciskanie Enter, aż w końcu się uda.
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H znajduje i zamienia tekst, formatowanie i znaki specjalne.
-	Ctrl+K turns the selected text into a link.	Ctrl+K zamienia zaznaczony tekst w link.
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G liczy słowa, znaki i akapity.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} zaczyna nową stronę. Dużo schludniej niż wciskanie Enter, aż w końcu się uda.
+	{key} finds and replaces text, formatting and special characters.	{key} znajduje i zamienia tekst, formatowanie i znaki specjalne.
+	{key} turns the selected text into a link.	{key} zamienia zaznaczony tekst w link.
+	{key} counts your words, characters and paragraphs.	{key} liczy słowa, znaki i akapity.
 	Cube Root	Pierwiastek sześcienny
 	Current - Linear	Bieżące — liniowe
 	Current - Professional	Bieżące — profesjonalne
@@ -787,8 +787,8 @@
 	Extend Selection	Rozszerz zaznaczenie
 	Extend Selection by Units	Rozszerz zaznaczenie o jednostki
 	Extra space	Zbędna spacja
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 powtarza ostatnią czynność. Formatowanie dziesięciu nagłówków to nagle jedno kliknięcie i dziewięć stuknięć.
-	F7 checks the spelling and grammar of the whole document.	F7 sprawdza pisownię i gramatykę całego dokumentu.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} powtarza ostatnią czynność. Formatowanie dziesięciu nagłówków to nagle jedno kliknięcie i dziewięć stuknięć.
+	{key} checks the spelling and grammar of the whole document.	{key} sprawdza pisownię i gramatykę całego dokumentu.
 	Faster: {command} is {key} on the keyboard.	Szybciej: {command} to {key} na klawiaturze.
 	Field code:	Kod pola:
 	Field Codes	Kody pól
@@ -1926,7 +1926,7 @@
 	Shape Format	Formatowanie kształtu
 	Shape Outline	Kontur kształtu
 	Shape Styles	Style kształtu
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter zaczyna nowy wiersz bez zaczynania nowego akapitu.
+	{key} starts a new line without starting a new paragraph.	{key} zaczyna nowy wiersz bez zaczynania nowego akapitu.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Etykiety wysyłkowe
 	Shortcut key:	Klawisz skrótu:
@@ -1972,7 +1972,7 @@
 	Show the Start screen when WordCraft starts	Pokazuj ekran startowy po uruchomieniu programu WordCraft
 	Show the tips you asked not to see again.	Ponownie pokazuje porady, które ukryto.
 	Show/Hide ¶	Pokaż/ukryj ¶
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	Pokaż/ukryj ¶ (Ctrl+Shift+8) pokazuje spacje, tabulatory i podziały ukryte w tekście.
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Pokaż/ukryj ¶ ({key}) pokazuje spacje, tabulatory i podziały ukryte w tekście.
 	Show\nComments	Pokaż\nkomentarze
 	Showing the first {count} items.	Pokazano pierwsze elementy: {count}.
 	Shows a tree: each item below the item it belongs to.	Pokazuje drzewo: każdy element pod elementem, do którego należy.

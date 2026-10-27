@@ -247,7 +247,7 @@
 	By author	Po autoru
 	Calendar	Kalendar
 	Can't be deleted	Ne može da se izbriše
-	Can't find a command? Press Alt+Q and type what you want to do.	Ne možete da nađete komandu? Pritisnite Alt+Q i otkucajte šta želite da uradite.
+	Can't find a command? Press {key} and type what you want to do.	Ne možete da nađete komandu? Pritisnite {key} i otkucajte šta želite da uradite.
 	can't split at the first row	tabela ne može da se podeli kod prvog reda
 	Canvas Member	Član platna
 	Capitalize Each Word	Veliko početno slovo svake reči
@@ -422,10 +422,10 @@
 	Crop	Iseci
 	Cross-reference	Unakrsna referenca
 	Cross-reference:	Unakrsna referenca:
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter počinje novu stranicu. Mnogo urednije nego pritiskati Enter dok se ne desi.
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H pronalazi i zamenjuje tekst, oblikovanje i specijalne znakove.
-	Ctrl+K turns the selected text into a link.	Ctrl+K pretvara izabrani tekst u vezu.
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G broji vaše reči, znakove i pasuse.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} počinje novu stranicu. Mnogo urednije nego pritiskati Enter dok se ne desi.
+	{key} finds and replaces text, formatting and special characters.	{key} pronalazi i zamenjuje tekst, oblikovanje i specijalne znakove.
+	{key} turns the selected text into a link.	{key} pretvara izabrani tekst u vezu.
+	{key} counts your words, characters and paragraphs.	{key} broji vaše reči, znakove i pasuse.
 	Current	Trenutna
 	Current Position	Trenutni položaj
 	Current record	Trenutni zapis
@@ -647,8 +647,8 @@
 	Export Page as PNG	Izvezi stranu kao PNG
 	Extend Selection	Proširi izbor
 	Extend Selection by Units	Proširi izbor po jedinicama
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 ponavlja poslednju radnju. Formatiranje deset naslova odjednom postaje jedan klik i devet pritisaka.
-	F7 checks the spelling and grammar of the whole document.	F7 proverava pravopis i gramatiku celog dokumenta.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} ponavlja poslednju radnju. Formatiranje deset naslova odjednom postaje jedan klik i devet pritisaka.
+	{key} checks the spelling and grammar of the whole document.	{key} proverava pravopis i gramatiku celog dokumenta.
 	Faster: {command} is {key} on the keyboard.	Brže: {command} je {key} na tastaturi.
 	Field code:	Kod polja:
 	Field Codes	Kodovi polja
@@ -1627,7 +1627,7 @@
 	Shape Format	Format oblika
 	Shape Outline	Kontura oblika
 	Shape Styles	Stilovi oblika
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter počinje novi red bez započinjanja novog pasusa.
+	{key} starts a new line without starting a new paragraph.	{key} počinje novi red bez započinjanja novog pasusa.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Nalepnice za pošiljke
 	Shortcut key:	Prečica na tastaturi:
@@ -1671,7 +1671,7 @@
 	Show the Start screen when WordCraft starts	Prikaži početni ekran pri pokretanju programa WordCraft
 	Show the tips you asked not to see again.	Ponovo prikazuje savete koje ste sakrili.
 	Show/Hide ¶	Prikaži/sakrij ¶
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	Prikaži/sakrij ¶ (Ctrl+Shift+8) prikazuje razmake, tabulatore i prelome koji se kriju u vašem tekstu.
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Prikaži/sakrij ¶ ({key}) prikazuje razmake, tabulatore i prelome koji se kriju u vašem tekstu.
 	Show\nComments	Prikaži\nkomentare
 	Showing the first {count} items.	Prikazane su samo prve stavke: {count}.
 	Shows a tree: each item below the item it belongs to.	Prikazuje stablo: svaka stavka ispod stavke kojoj pripada.
