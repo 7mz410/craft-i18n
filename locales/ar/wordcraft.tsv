@@ -136,6 +136,7 @@
 	All Caps	أحرف كبيرة بالكامل
 	All caps	أحرف كبيرة بالكامل
 	All Commands	كل الأوامر
+	All documents based on the Normal template?	كل المستندات المستندة إلى القالب «عادي»؟
 	All Fonts	كل الخطوط
 	All Levels	كل المستويات
 	All Markup	كل العلامات
@@ -584,6 +585,7 @@
 	Decrease Font Size	تصغير حجم الخط
 	Decrease Indent	إنقاص المسافة البادئة
 	Deep	عميق
+	Default formatting	التنسيق الافتراضي
 	Default Paragraph Font	خط الفقرة الافتراضي
 	Default tab stops:	مواضع الجدولة الافتراضية:
 	Define New Bullet	تعريف تعداد نقطي جديد
@@ -898,6 +900,7 @@
 	Formatting at Selection	التنسيق عند التحديد
 	Formatting exceptions	استثناءات التنسيق
 	Formatting marks	علامات التنسيق
+	Formatting saved for new documents:	التنسيق المحفوظ للمستندات الجديدة:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	تُقارن التنسيقات وتغييرات حالة الأحرف والمسافات البيضاء والجداول؛ وتُحفظ الإعدادات الأخرى لاحقًا.
 	Formula	صيغة
 	Formula:	الصيغة:
@@ -1405,6 +1408,14 @@ template	Letter	رسالة
 	New comments and tracked changes are recorded under this name and these initials.	تُسجَّل التعليقات والتغييرات المتعقَّبة الجديدة بهذا الاسم وهذه الأحرف الأولى.
 	New Document	مستند جديد
 	New document	مستند جديد
+	New Documents Based on This Template	المستندات الجديدة المستندة إلى هذا القالب
+	New documents based on this template	المستندات الجديدة المستندة إلى هذا القالب
+	New documents will use this font.	ستستخدم المستندات الجديدة هذا الخط.
+	New documents will use this page setup.	ستستخدم المستندات الجديدة إعداد الصفحة هذا.
+	New documents will use this paragraph formatting.	ستستخدم المستندات الجديدة تنسيق الفقرة هذا.
+	New documents will use this style.	ستستخدم المستندات الجديدة هذا النمط.
+	New documents will use WordCraft's built-in formatting.	ستستخدم المستندات الجديدة التنسيق المضمّن في WordCraft.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	ستستخدم المستندات الجديدة التنسيق المضمّن في WordCraft. لا يمكن استرداد الإعدادات الافتراضية المحفوظة. هل تريد إعادة التعيين؟
 	New Drawing Canvas	لوحة رسم جديدة
 	New Entry	إدخال جديد
 	New from Template	جديد من قالب
@@ -1538,6 +1549,7 @@ template	Letter	رسالة
 	Only for the selected text	للنص المحدد فقط
 	Only form fields can be filled in.	يمكن تعبئة حقول النماذج فقط.
 	only in Outline view	في طريقة عرض المخطط التفصيلي فقط
+	Only in this document	في هذا المستند فقط
 	Only the allowed styles can be applied.	يمكن تطبيق الأنماط المسموح بها فقط.
 	Only web (http, https) and email (mailto) links can be followed	يمكن فتح ارتباطات الويب (http، https) والبريد (mailto) فقط
 	Open a document first	افتح مستندًا أولًا
@@ -1827,6 +1839,7 @@ template	Letter	رسالة
 	Reset All…	إعادة تعيين الكل…
 	Reset Character Formatting	إعادة تعيين تنسيق الأحرف
 	Reset Crop	إعادة تعيين الاقتصاص
+	Reset Default Formatting	إعادة تعيين التنسيق الافتراضي
 	Reset Graphic	إعادة تعيين الرسم
 	Reset Paragraph Formatting	إعادة تعيين تنسيق الفقرة
 	Reset Picture	إعادة تعيين الصورة
@@ -1975,6 +1988,9 @@ template	Letter	رسالة
 	Set	تعيين
 	Set As Default	تعيين كافتراضي
 	Set as Default	تعيين كافتراضي
+	Set As Default (Font)	تعيين كافتراضي (الخط)
+	Set As Default (Page Setup)	تعيين كافتراضي (إعداد الصفحة)
+	Set As Default (Paragraph)	تعيين كافتراضي (فقرة)
 	Set Caret	وضع مؤشر الكتابة
 	Set Character Formatting	تعيين تنسيق الأحرف
 	Set Date	تعيين التاريخ
@@ -2279,6 +2295,7 @@ template	Letter	رسالة
 	The margins don't fit on a page this size; make the margins smaller first.	الهوامش لا تتسع في صفحة بهذا الحجم؛ صغّر الهوامش أولًا.
 	The measurement must be between {min} and {max}.	يجب أن يكون القياس بين {min} و{max}.
 	The new style takes the formatting of the current paragraph.	يأخذ النمط الجديد تنسيق الفقرة الحالية.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	تعذّرت قراءة القالب «عادي»، لذا يستخدم هذا المستند التنسيق المضمّن في WordCraft.
 	The number must be between 1 and {max}.	يجب أن يكون الرقم بين 1 و{max}.
 	the paragraph is empty	الفقرة فارغة
 	the paragraph starts with a space	الفقرة تبدأ بمسافة
@@ -2307,6 +2324,7 @@ template	Letter	رسالة
 	Thick	سميك
 	this chart was made in another program: WordCraft shows it but can't edit it	أُنشئ هذا المخطط في برنامج آخر: يعرضه WordCraft لكنه لا يستطيع تحريره
 	This document	هذا المستند
+	This document only?	هذا المستند فقط؟
 	This field has no options.	لا توجد خيارات لهذا الحقل.
 	This folder can't be read: {error}	تعذّرت قراءة هذا المجلد: {error}
 	This font has no characters to show.	لا توجد أحرف في هذا الخط لعرضها.
@@ -2315,6 +2333,8 @@ template	Letter	رسالة
 	This password type isn't supported.	نوع كلمة المرور هذا غير مدعوم.
 	This point forward	من هذه النقطة فصاعدًا
 	This section	هذا القسم
+	this session has no Normal template (headless or without preferences)	لا يوجد في هذه الجلسة قالب «عادي» (بدون واجهة أو بدون تفضيلات)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	لا يوجد في هذه الجلسة قالب «عادي» (بدون واجهة أو بدون تفضيلات): استخدم "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	أُنشئ رسم SmartArt هذا في برنامج آخر: يعرضه WordCraft لكنه لا يستطيع تحريره
 	this text box is already linked: break the link first	مربع النص هذا مرتبط بالفعل: اقطع الارتباط أولًا
 	Three	ثلاثة
@@ -2433,7 +2453,9 @@ preview	Title	العنوان
 	Use an Existing List…	استخدام قائمة موجودة…
 	Use system setting	استخدام إعداد النظام
 	Use the browser's full screen (F11)	استخدام ملء الشاشة في المتصفح (F11)
+	Use the current style set and theme for all new documents?	هل تريد استخدام مجموعة الأنماط والسمة الحاليتين لكل المستندات الجديدة؟
 	Use the Insert key to switch overtype on and off	استخدام مفتاح Insert لتشغيل الكتابة الاستبدالية وإيقافها
+	Use this formatting as the default for:	استخدام هذا التنسيق كافتراضي لـ:
 	Use wildcards	استخدام أحرف البدل
 	User Name	اسم المستخدم
 	User name:	اسم المستخدم:

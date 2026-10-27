@@ -14,17 +14,20 @@ catalog came from (`<app>@<sha>`). Translations are contributed under the reposi
 | `el` | PdfCraft: Camthalion77 and contributors; PhotoCraft: PhotoCraft contributors; VectorCraft: mostly agent-written (`bflatastic`), not recorded as native-reviewed | `pdfcraft@924c4da`, `photocraft@8d2e615`, `vectorcraft@73f40e3` |
 | `es` | WordCraft: no individual credit recorded upstream; PdfCraft: PdfCraft contributors; PhotoCraft: @gorevyoneticisi; AI contributor: OpenAI Codex; VectorCraft: mostly agent-written (`bflatastic`), not recorded as native-reviewed; FilmCraft: no individual credit recorded upstream; CADCraft: @PedroGuille; ArtCraft Launcher: no individual credit recorded upstream | `wordcraft@67a0e72`, `pdfcraft@924c4da`, `photocraft@8d2e615`, `vectorcraft@73f40e3`, `filmcraft@48088e3`, `cadcraft@b23d362`, `craft-launcher@ad7f24a` |
 | `et` | WordCraft: @henno with Codex | `wordcraft@67a0e72` |
+| `fa` | WordCraft: @shahriar-hd with an AI agent (opencode), AI-assisted, written from the plain meaning of the English; reviewed by the translator, a native speaker, who skimmed the catalogs and corrected wording that mismatched or read poorly (not a line-by-line review) | `wordcraft@4095cc34` |
 | `fi` | VectorCraft: mostly agent-written (`bflatastic`), AI-assisted (Claude Code), checked by a native speaker in the running app, not proofread line by line | `vectorcraft@73f40e3` |
 | `fr` | WordCraft: @pechnikov2026-star; PdfCraft: PdfCraft contributors; PhotoCraft: no individual credit recorded upstream (some rows from PR #582 by neko233-com); PhotoCraft (2 additional rows): Erwan Paccard (@erwanpaccard) with Claude, AI-translated, partially human-reviewed; VectorCraft: mostly agent-written (`bflatastic`), not recorded as native-reviewed; FilmCraft: FilmCraft contributors (catalog added by vangel76); CADCraft: @pechnikov2026-star; ArtCraft Launcher: no individual credit recorded upstream | `wordcraft@67a0e72`, `pdfcraft@924c4da`, `photocraft@8d2e615`, `vectorcraft@73f40e3`, `filmcraft@48088e3`, `cadcraft@b23d362`, `craft-launcher@ad7f24a` |
+| `he` | WordCraft: Chagai Wild (@WildChagai) with Claude Code, AI-assisted; used in the running app (Hebrew interface, mirrored right to left) on Windows 11; individual rows not yet reviewed by a second speaker | catalog of storytold/wordcraft#1303 (`wordcraft@553d2ee`) |
 | `hr` | WordCraft: Andrej Škvorc (@andrejskvorc) with Claude Code (Sonnet 5.5); proofread with Gemini | `wordcraft@67a0e72` |
 | `hu` | WordCraft: @Skaywalker; PdfCraft: PdfCraft contributors; PhotoCraft: PhotoCraft contributors; VectorCraft: mostly agent-written (`bflatastic`), not recorded as native-reviewed; ArtCraft Launcher: no individual credit recorded upstream | `wordcraft@67a0e72`, `pdfcraft@924c4da`, `photocraft@8d2e615`, `vectorcraft@73f40e3`, `craft-launcher@ad7f24a` |
 | `id` | PhotoCraft: no individual credit recorded upstream; VectorCraft: mostly agent-written (`bflatastic`), not recorded as native-reviewed; FilmCraft: FilmCraft contributors (catalog added by vangel76) | `photocraft@8d2e615`, `vectorcraft@73f40e3`, `filmcraft@48088e3` |
-| `it` | WordCraft: no individual credit recorded upstream; PdfCraft: PdfCraft contributors; PhotoCraft: PhotoCraft contributors; VectorCraft: mostly agent-written (`bflatastic`), not recorded as native-reviewed; FilmCraft: FilmCraft contributors (catalog added by Nai-ITA); CADCraft: Emanuele Bottelli (AI-assisted, Claude) | `wordcraft@67a0e72`, `pdfcraft@924c4da`, `photocraft@8d2e615`, `vectorcraft@73f40e3`, `filmcraft@48088e3`, `cadcraft@b23d362` |
+| `it` | WordCraft: no individual credit recorded upstream; WordCraft wording corrections: Andrea Brandi (@starise), AI-assisted with OpenAI Codex and reviewed by the contributor, a native speaker; PdfCraft: PdfCraft contributors; PhotoCraft: PhotoCraft contributors; VectorCraft: mostly agent-written (`bflatastic`), not recorded as native-reviewed; FilmCraft: FilmCraft contributors (catalog added by Nai-ITA); CADCraft: Emanuele Bottelli (AI-assisted, Claude) | `wordcraft@67a0e72`, `pdfcraft@924c4da`, `photocraft@8d2e615`, `vectorcraft@73f40e3`, `filmcraft@48088e3`, `cadcraft@b23d362` |
 | `ja` | WordCraft: no individual credit recorded upstream; PdfCraft: PdfCraft contributors; PhotoCraft: no individual credit recorded upstream; VectorCraft: mostly agent-written (`bflatastic`), not recorded as native-reviewed (Japanese by `imachus`); FilmCraft: no individual credit recorded upstream; ArtCraft Launcher: no individual credit recorded upstream | `wordcraft@67a0e72`, `pdfcraft@924c4da`, `photocraft@8d2e615`, `vectorcraft@73f40e3`, `filmcraft@48088e3`, `craft-launcher@ad7f24a` |
 | `ka` | WordCraft: Davit Matchakhelidze (@devius), native speaker, with Claude Code; VectorCraft: Davit Matchakhelidze (@devius), native speaker, with Claude Code | `wordcraft@23d1092`, `vectorcraft@589f0ea` |
 | `kk` | PdfCraft: PdfCraft contributors | `pdfcraft@924c4da` |
 | `ko` | WordCraft: no individual credit recorded upstream; PhotoCraft: PhotoCraft contributors; VectorCraft: mostly agent-written (`bflatastic`), not recorded as native-reviewed, AI-drafted; FilmCraft: FilmCraft contributors; CADCraft: @huk082 (AI-assisted) | `wordcraft@67a0e72`, `photocraft@8d2e615`, `vectorcraft@73f40e3`, `filmcraft@48088e3`, `cadcraft@b23d362` |
 | `lt` | PdfCraft: PdfCraft contributors | `pdfcraft@924c4da` |
+| `nb` | Shared catalog and WordCraft: @alehel with Claude Code (Opus 5.5), AI-translated from the English meaning; not yet reviewed line by line by a native speaker | — (written here) |
 | `nl` | WordCraft: @pechnikov2026-star (commits as sanches), not recorded as native-reviewed; wording fixes by jvspier (@jvspier), a native speaker, with Claude; PhotoCraft: PhotoCraft contributors; VectorCraft: mostly agent-written (`bflatastic`), not recorded as native-reviewed | `wordcraft@67a0e72`, `photocraft@8d2e615`, `vectorcraft@73f40e3` |
 | `pl` | WordCraft: Konrad Witkowski with Claude (AI agent); PdfCraft: PdfCraft contributors; PhotoCraft: PhotoCraft contributors; VectorCraft: mostly agent-written (`bflatastic`), not recorded as native-reviewed, drafted with Claude; ArtCraft Launcher: no individual credit recorded upstream | `wordcraft@67a0e72`, `pdfcraft@924c4da`, `photocraft@8d2e615`, `vectorcraft@73f40e3`, `craft-launcher@ad7f24a` |
 | `pt-br` | WordCraft: @edurbs with ZCode; PdfCraft: André Cardoso (andrecards), PdfCraft contributors; PhotoCraft: PhotoCraft contributors; VectorCraft: mostly agent-written (`bflatastic`), not recorded as native-reviewed; FilmCraft: FilmCraft contributors (catalog added by vangel76); CADCraft: @WladmirJunior; ArtCraft Launcher: no individual credit recorded upstream | `wordcraft@67a0e72`, `pdfcraft@924c4da`, `photocraft@8d2e615`, `vectorcraft@73f40e3`, `filmcraft@48088e3`, `cadcraft@b23d362`, `craft-launcher@ad7f24a` |
@@ -64,7 +67,20 @@ speaker; no native-speaker review is recorded for the other 25.
 ## WordCraft: the Assistant, Nib
 
 Martin Ball (@benandez) contributed the rows for WordCraft's Assistant, Nib (its tips, sayings and
-agent messages, storytold/wordcraft#2600) in `bg`, `cs`, `de`, `es`, `et`, `fr`, `hr`, `hu`, `it`,
-`ja`, `ko`, `pl`, `pt-br`, `ru`, `sr-latn`, `sr`, `sv`, `tr`, `uk`, `vi`, `zh-hans` and `zh-hant`,
-AI-assisted with Claude Code and written from the English meaning. No native-speaker review is
-recorded.
+agent messages, storytold/wordcraft#2600) in `bg`, `cs`, `da`, `de`, `es`, `et`, `fr`, `hr`, `hu`,
+`it`, `ja`, `ko`, `nl`, `pl`, `pt-br`, `ro`, `ru`, `sl`, `sr-latn`, `sr`, `sv`, `tr`, `uk`, `vi`,
+`zh-hans` and `zh-hant`, AI-assisted with Claude Code and written from the English meaning (`da`,
+`nl`, `ro` and `sl` were added in a later commit, using each locale's existing WordCraft terms). No
+native-speaker review is recorded.
+
+## WordCraft: the Normal template
+
+Martin Ball (@benandez) contributed the 22 rows for WordCraft's Normal template (Set As Default's
+choice in Design and the Font, Paragraph and Page Setup dialogs, their commands and status
+messages, Modify Style's "New documents based on this template", Options › Advanced › Reset
+Default Formatting, and the errors when a session has no Normal template or it can't be read,
+storytold/wordcraft#4237) in `ar`, `bg`, `cs`, `da`, `de`, `es`, `et`, `fr`,
+`hr`, `hu`, `it`, `ja`, `ka`, `ko`, `nl`, `pl`, `pt-br`, `ro`, `ru`, `sk`, `sl`, `sr`, `sr-latn`,
+`sv`, `tr`, `uk`, `vi`, `zh-hans` and `zh-hant`, AI-assisted with Claude Code and written from the
+English meaning, using each locale's existing WordCraft terms (its name for the Normal style,
+template, default and Reset). No native-speaker review is recorded.
