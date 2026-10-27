@@ -301,6 +301,7 @@
 	Capitalize first letter of sentences	Делать первые буквы предложений прописными
 	Capitalize first letter of table cells	Делать первые буквы ячеек таблиц прописными
 	Capitalize names of days	Названия дней с прописной буквы
+	Capitalize the first word of a sentence	Начинать предложение с прописной буквы
 	Caption Numbering	Нумерация названий
 	Caption text	Текст названия
 	Caption:	Название:
@@ -338,6 +339,10 @@
 	Change to Level 3	Перейти на уровень 3
 	Change to Level 4	Перейти на уровень 4
 	Change to Level 5	Перейти на уровень 5
+	Change to Level 6	Перейти на уровень 6
+	Change to Level 7	Перейти на уровень 7
+	Change to Level 8	Перейти на уровень 8
+	Change to Level 9	Перейти на уровень 9
 	Change\nChart Type	Изменить\nтип диаграммы
 	Change\nColors	Изменить\nцвета
 	Changed lines:	Изменённые строки:
@@ -602,7 +607,6 @@
 	Differential y	Дифференциал y
 	Differentials	Дифференциалы
 	Direct formatting	Прямое форматирование
-	Direction	Направление
 	Directory	Каталог
 	Discord community	Сообщество в Discord
 	Display for Review	Отображение исправлений
@@ -733,12 +737,15 @@
 	Engrave	Утопленный
 	Enlarge symbol	Увеличить символ
 	Enter a number.	Введите число.
+	Enter bookmark name:	Введите имя закладки:
 	Enter formatting for number:	Формат номера:
 	Enter in Equation	Новая строка в уравнении
 	Enter page number:	Введите номер страницы:
 	Entry marked.	Запись помечена.
 	Envelope #10	Конверт №10
+	Envelope #10   4.12" × 9.50"	Конверт №10   4.12" × 9.50"
 	Envelope Address	Адрес на конверте
+	Envelope DL   4.33" × 8.66"	Конверт DL   4.33" × 8.66"
 	Envelope Return	Обратный адрес
 	Envelope size:	Размер конверта:
 	Envelopes	Конверты
@@ -777,6 +784,7 @@
 	Export PDF	Экспорт в PDF
 	Extend Selection	Расширить выделение
 	Extend Selection by Units	Расширить выделение по единицам
+	Extra space	Лишний пробел
 	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 повторяет последнее действие. Оформить десять заголовков — теперь один щелчок и девять нажатий.
 	F7 checks the spelling and grammar of the whole document.	F7 проверяет орфографию и грамматику во всём документе.
 	Faster: {command} is {key} on the keyboard.	Быстрее: {command} — это {key} на клавиатуре.
@@ -805,6 +813,7 @@
 	Find What Expression	Найденное выражение
 	Find What Text	Текст для поиска
 	Find what:	Найти:
+	Find “{text}” in the document	Найти «{text}» в документе
 	Finding printers…	Поиск принтеров…
 	Finish & Merge	Завершить и объединить
 	Finish &\nMerge	Завершить\nи объединить
@@ -882,6 +891,8 @@
 	Good afternoon	Добрый день
 	Good evening	Добрый вечер
 	Good morning	Доброе утро
+	GOST (name sort)	ГОСТ (сортировка по имени)
+	GOST (title sort)	ГОСТ (сортировка по названию)
 	Grab bag	Разное
 	Gradient fill	Градиентная заливка
 	Gradient stops	Точки градиента
@@ -1086,11 +1097,14 @@
 	Ionosphere	Ионосфера
 	Is blank	Пусто
 	Is not blank	Не пусто
+	ISO 690 (author-date)	ISO 690 (автор, дата)
+	ISO 690 (numerical)	ISO 690 (числовой)
 	Issue	Выпуск
 	It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?	Похоже, вы пишете письмо. Подготовить для него конверт или начать с шаблона письма?
 	Join the ArtCraft community on Discord	Присоединяйтесь к сообществу ArtCraft в Discord
 	Join us on Discord: discord.gg/artcraft	Присоединяйтесь к нам в Discord: discord.gg/artcraft
 	Journal	Журнал
+	Journal article	Статья в журнале
 	Justification	Выравнивание
 	Justification of a display equation	Выравнивание отдельного уравнения
 	Justified	По ширине
@@ -1146,6 +1160,7 @@
 	Less than	Меньше
 	Less than or equal	Меньше или равно
 	Letter	Письмо
+template	Letter	Письмо
 	Letter headings	Заголовки с буквами
 	Letter template	Шаблон письма
 	Letter-Like Symbols	Буквоподобные символы
@@ -1160,6 +1175,7 @@
 	Light Variations	Светлые варианты
 	Light with Outline	Светлый с контуром
 	Limit	Предел
+	Limit and	Предел и
 	Limit and\nLog	Предел\nи логарифм
 	Limit consecutive hyphens to:	Максимум последовательных переносов:
 	Limit Example	Пример предела
@@ -1216,6 +1232,7 @@
 	Location: {path}	Расположение: {path}
 	Lock aspect ratio	Сохранять пропорции
 	Lock Fields	Заблокировать поля
+	Log	логарифм
 	Logarithm	Логарифм
 	Logarithm with Base	Логарифм по основанию
 	Logical AND	Логическое И
@@ -1699,6 +1716,7 @@
 	Remove Space After Paragraph	Удалить интервал после абзаца
 	Remove Table of Contents	Удалить оглавление
 	Remove the control once edited	Удалить элемент управления после редактирования
+	Remove the space before the punctuation	Удалить пробел перед знаком препинания
 	Remove Watermark	Удалить подложку
 	Rename Document	Переименовать документ
 	Reopen	Открыть снова
@@ -1821,6 +1839,7 @@
 	select a picture first	сначала выделите рисунок
 	select a picture or shape first	сначала выделите рисунок или фигуру
 	Select a picture, shape, chart or table to describe it.	Выберите рисунок, фигуру, диаграмму или таблицу, чтобы описать её.
+	Select a place in this document:	Выберите место в документе:
 	Select a printer	Выберите принтер
 	select a shape first	сначала выделите фигуру
 	Select a shape, text box or drawing canvas to format its fill.	Выберите фигуру, надпись или полотно, чтобы настроить заливку.
@@ -2048,6 +2067,7 @@
 	Style name:	Имя стиля:
 	Style Set	Набор стилей
 	Style:	Тип линии:
+	Style: APA	Стиль: APA
 	Style: {style}	Стиль: {style}
 	Styles Pane	Область стилей
 	Styles:	Стили:
@@ -2158,6 +2178,7 @@
 	The password is removed. Save the document to keep the change.	Пароль убран. Сохраните документ, чтобы изменение осталось.
 	The printer, two-sided printing and pages per sheet are chosen in that dialog.	Принтер, двусторонняя печать и число страниц на листе выбираются в этом диалоге.
 	The recipient-list field that fills each part of an address block and greeting line.	Поле списка получателей, которое заполняет каждую часть блока адреса и строки приветствия.
+	The spelling and grammar check is complete.	Проверка правописания завершена.
 	the Spike is empty	копилка пуста
 	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	Системное диалоговое окно выбора файлов недоступно, поэтому WordCraft показывает собственное. Чтобы пользоваться системным, установите портал выбора файлов (например, xdg-desktop-portal-gtk) или zenity.
 	The text at the insertion point is marked Do not check spelling or grammar.	Текст в точке вставки помечен: Не проверять орфографию и грамматику.
@@ -2213,6 +2234,7 @@ preview	Title	Пример
 	Top Left Cell	Левая верхняя ячейка
 	Top Margin	Верхнее поле
 	Top of Page	Вверху страницы
+	Top of the Document	Начало документа
 	Top Right Cell	Правая верхняя ячейка
 	Total Row	Строка итогов
 	Track Changes	Отслеживать изменения
@@ -2245,6 +2267,7 @@ preview	Title	Пример
 	Type +2 or -1 to move from the page you are on.	Введите +2 или -1, чтобы перейти на столько страниц от текущей.
 	Type a command, e.g. "insert table"	Введите команду, например «вставить таблицу»
 	Type a New List…	Ввести новый список…
+	Type a page number, or +2 / -1.	Введите номер страницы или +2 / -1.
 	Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions.	Введите размер в любых единицах, например 5 cm или 300 px. Другая сторона изменится вместе с ней, и рисунок сохранит пропорции.
 	Type at least one recipient.	Введите хотя бы одного получателя.
 	Type Character Code	Ввести код символа
@@ -2295,6 +2318,8 @@ preview	Title	Пример
 	UPPERCASE	ВСЕ ПРОПИСНЫЕ
 	URGENT	СРОЧНО!
 	URL	URL
+	Use "a" before a consonant sound	Перед согласным звуком используйте "a"
+	Use "an" before a vowel sound	Перед гласным звуком используйте "an"
 	Use an Existing List…	Использовать существующий список…
 	Use system setting	Как в системе
 	Use the browser's full screen (F11)	Используйте полноэкранный режим браузера (F11)
@@ -2320,6 +2345,7 @@ preview	Title	Пример
 	Volume Integral	Объёмный интеграл
 	Volume Integral with Limits	Объёмный интеграл с пределами
 	Volume Integral with Stacked Limits	Объёмный интеграл с пределами сверху и снизу
+	Wait for the print job to finish submitting before closing.	Дождитесь окончания отправки задания на печать, прежде чем закрывать.
 	Waiting for the save to finish…	Ожидание завершения сохранения…
 	Waiting for Zotero…	Ожидание Zotero…
 	Warm Gradient with Outline	Тёплый градиент с контуром
@@ -2345,6 +2371,7 @@ preview	Title	Пример
 	Widow/Orphan Control	Запрет висячих строк
 	Widow/Orphan control	Запрет висячих строк
 	Width and spacing	Ширина и промежуток
+	Wildcards (regex)	Подстановочные знаки (regex)
 	With:	На:
 	Word 2003 XML Document (*.xml)	Документ Word 2003 XML (*.xml)
 	Word Count	Число слов
@@ -2413,3 +2440,5 @@ preview	Title	Пример
 	{words} words. That's {words} more than I've written today.	Слов: {words}. Это на {words} больше, чем я написал сегодня.
 	“{text}” ({row}, {series}) isn't a number.	«{text}» ({row}, {series}) — не число.
 	✓ None	✓ Нет
+	➕ New comment	➕ Новое примечание
+	📂  Browse…	📂  Обзор…
