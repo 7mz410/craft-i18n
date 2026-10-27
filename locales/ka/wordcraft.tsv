@@ -147,6 +147,7 @@
 	All Caps	მთავრული
 	All caps	მთავრული
 	All Commands	ყველა ბრძანება
+	All documents based on the Normal template?	ყველა დოკუმენტი, რომელიც „ძირითადი“ შაბლონს ეფუძნება?
 	All files	ყველა ფაილი
 	All Fonts	ყველა შრიფტი
 	All Levels	ყველა დონე
@@ -639,6 +640,7 @@
 	Decrease Indent	შეწევის შემცირება
 	Deep	ღრმა
 	Default	ნაგულისხმევი
+	Default formatting	ნაგულისხმევი ფორმატირება
 	Default Paragraph Font	აბზაცის ნაგულისხმევი შრიფტი
 	Default tab stops:	ნაგულისხმევი ტაბულაციის გაჩერებები:
 	Define New Bullet	ახალი ბურთულის განსაზღვრა
@@ -989,6 +991,7 @@
 	Formatting at Selection	მონიშნულის ფორმატირება
 	Formatting exceptions	ფორმატირების გამონაკლისები
 	Formatting marks	ფორმატირების ნიშნები
+	Formatting saved for new documents:	ახალი დოკუმენტებისთვის შენახული ფორმატირება:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	შედარდება ფორმატირება, რეგისტრის ცვლილებები, ცარიელი სივრცე და ცხრილები; დანარჩენი პარამეტრები შემდგომისთვის ინახება.
 	Formula	ფორმულა
 	Formula:	ფორმულა:
@@ -1548,6 +1551,14 @@ template	Letter	წერილი
 	New comments and tracked changes are recorded under this name and these initials.	ახალი კომენტარები და ჩაწერილი ცვლილებები ამ სახელითა და ინიციალებით აღირიცხება.
 	New Document	ახალი დოკუმენტი
 	New document	ახალი დოკუმენტი
+	New Documents Based on This Template	ამ შაბლონზე დაფუძნებული ახალი დოკუმენტები
+	New documents based on this template	ამ შაბლონზე დაფუძნებული ახალი დოკუმენტები
+	New documents will use this font.	ახალი დოკუმენტები ამ შრიფტს გამოიყენებს.
+	New documents will use this page setup.	ახალი დოკუმენტები გვერდის ამ პარამეტრებს გამოიყენებს.
+	New documents will use this paragraph formatting.	ახალი დოკუმენტები აბზაცის ამ ფორმატირებას გამოიყენებს.
+	New documents will use this style.	ახალი დოკუმენტები ამ სტილს გამოიყენებს.
+	New documents will use WordCraft's built-in formatting.	ახალი დოკუმენტები WordCraft-ის ჩაშენებულ ფორმატირებას გამოიყენებს.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	ახალი დოკუმენტები WordCraft-ის ჩაშენებულ ფორმატირებას გამოიყენებს. შენახული ნაგულისხმევი პარამეტრების აღდგენა შეუძლებელი იქნება. ჩამოვყაროთ?
 	New Drawing Canvas	ახალი სახატავი ტილო
 	New Entry	ახალი ჩანაწერი
 	New from Template	შაბლონიდან შექმნა
@@ -1692,6 +1703,7 @@ template	Letter	წერილი
 	Only for the selected text	მხოლოდ მონიშნული ტექსტისთვის
 	Only form fields can be filled in.	შესაძლებელია მხოლოდ ფორმის ველების შევსება.
 	only in Outline view	მხოლოდ სტრუქტურის ხედში
+	Only in this document	მხოლოდ ამ დოკუმენტში
 	Only the allowed styles can be applied.	შესაძლებელია მხოლოდ დაშვებული სტილების გამოყენება.
 	Only web (http, https) and email (mailto) links can be followed	გადასვლა შესაძლებელია მხოლოდ ვებ (http, https) და ელფოსტის (mailto) ბმულებზე
 	Open	გახსნა
@@ -2016,10 +2028,11 @@ template	Letter	წერილი
 	Reset All…	ყველაფრის ჩამოყრა…
 	Reset Character Formatting	სიმბოლოს ფორმატირების ჩამოყრა
 	Reset Crop	ჩამოჭრის გაუქმება
+	Reset Default Formatting	ნაგულისხმევი ფორმატირების ჩამოყრა
 	Reset Graphic	გრაფიკის ჩამოყრა
 	Reset Paragraph Formatting	აბზაცის ფორმატირების ჩამოყრა
 	Reset Picture	სურათის ჩამოყრა
-	Reset to Normal	ჩვეულებრივზე დაბრუნება
+	Reset to Normal	ძირითადზე დაბრუნება
 	Reset\nGraphic	გრაფიკის\nჩამოყრა
 	Reset…	ჩამოყრა…
 	Resize Table by Dragging	ცხრილის ზომის შეცვლა გადათრევით
@@ -2180,6 +2193,9 @@ template	Letter	წერილი
 	Set	დაყენება
 	Set As Default	ნაგულისხმევად დაყენება
 	Set as Default	ნაგულისხმევად დაყენება
+	Set As Default (Font)	ნაგულისხმევად დაყენება (შრიფტი)
+	Set As Default (Page Setup)	ნაგულისხმევად დაყენება (გვერდის პარამეტრები)
+	Set As Default (Paragraph)	ნაგულისხმევად დაყენება (აბზაცი)
 	Set Caret	კურსორის დაყენება
 	Set Character Formatting	სიმბოლოს ფორმატირების დაყენება
 	Set Date	თარიღის დაყენება
@@ -2505,6 +2521,7 @@ template	Letter	წერილი
 	The margins don't fit on a page this size; make the margins smaller first.	ველები ამ ზომის გვერდზე არ ეტევა; ჯერ ველები შეამცირეთ.
 	The measurement must be between {min} and {max}.	ზომა უნდა იყოს {min}–{max} შუალედში.
 	The new style takes the formatting of the current paragraph.	ახალი სტილი მიმდინარე აბზაცის ფორმატირებას იღებს.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	„ძირითადი“ შაბლონის წაკითხვა ვერ მოხერხდა, ამიტომ ეს დოკუმენტი WordCraft-ის ჩაშენებულ ფორმატირებას იყენებს.
 	The number must be between 1 and {max}.	რიცხვი უნდა იყოს 1–{max} შუალედში.
 	the paragraph is empty	აბზაცი ცარიელია
 	the paragraph starts with a space	აბზაცი ჰარით იწყება
@@ -2536,6 +2553,7 @@ template	Letter	წერილი
 	this chart was made in another program: WordCraft shows it but can't edit it	ეს დიაგრამა სხვა პროგრამაშია შექმნილი: WordCraft მას აჩვენებს, მაგრამ ვერ არედაქტირებს
 	This document	ეს დოკუმენტი
 	This document has no bookmarks.	ამ დოკუმენტს სანიშნეები არ აქვს.
+	This document only?	მხოლოდ ეს დოკუმენტი?
 	This field has no options.	ამ ველს პარამეტრები არ აქვს.
 	This folder can't be read: {error}	ამ საქაღალდის წაკითხვა ვერ მოხერხდა: {error}
 	This font has no characters to show.	ამ შრიფტს საჩვენებელი სიმბოლოები არ აქვს.
@@ -2544,6 +2562,8 @@ template	Letter	წერილი
 	This password type isn't supported.	პაროლის ეს ტიპი მხარდაჭერილი არ არის.
 	This point forward	აქედან მოყოლებული
 	This section	ეს სექცია
+	this session has no Normal template (headless or without preferences)	ამ სესიას „ძირითადი“ შაბლონი არ აქვს (ინტერფეისის ან პარამეტრების გარეშე)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	ამ სესიას „ძირითადი“ შაბლონი არ აქვს (ინტერფეისის ან პარამეტრების გარეშე): გამოიყენეთ "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	ეს SmartArt სხვა პროგრამაშია შექმნილი: WordCraft მას აჩვენებს, მაგრამ ვერ არედაქტირებს
 	this text box is already linked: break the link first	ეს ტექსტური ბლოკი უკვე დაკავშირებულია: ჯერ გაწყვიტეთ ბმული
 	Three	სამი
@@ -2675,7 +2695,9 @@ preview	Title	სათაური
 	Use an Existing List…	არსებული სიის გამოყენება…
 	Use system setting	სისტემის პარამეტრის მიხედვით
 	Use the browser's full screen (F11)	გამოიყენეთ ბრაუზერის სრულეკრანიანი რეჟიმი (F11)
+	Use the current style set and theme for all new documents?	გამოვიყენოთ მიმდინარე სტილების ნაკრები და თემა ყველა ახალ დოკუმენტში?
 	Use the Insert key to switch overtype on and off	გადაწერის ჩართვა და გამორთვა Insert კლავიშით
+	Use this formatting as the default for:	ამ ფორმატირების ნაგულისხმევად გამოყენება:
 	Use wildcards	შაბლონების გამოყენება
 	User Name	მომხმარებლის სახელი
 	User name:	მომხმარებლის სახელი:
