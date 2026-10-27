@@ -1317,6 +1317,11 @@
 	New comments and tracked changes are recorded under this name and these initials.	Yeni açıklamalar ve izlenen değişiklikler bu ad ve baş harflerle kaydedilir.
 	New Documents Based on This Template	Bu şablonu temel alan yeni belgeler
 	New documents based on this template	Bu şablonu temel alan yeni belgeler
+	New documents will use this font.	Yeni belgeler bu yazı tipini kullanacak.
+	New documents will use this page setup.	Yeni belgeler bu sayfa ayarlarını kullanacak.
+	New documents will use this paragraph formatting.	Yeni belgeler bu paragraf biçimlendirmesini kullanacak.
+	New documents will use this style.	Yeni belgeler bu stili kullanacak.
+	New documents will use WordCraft's built-in formatting.	Yeni belgeler WordCraft'ın yerleşik biçimlendirmesini kullanacak.
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Yeni belgeler WordCraft'ın yerleşik biçimlendirmesini kullanacak. Kaydedilmiş varsayılanlarınız kurtarılamaz. Sıfırlansın mı?
 	New Drawing Canvas	Yeni Çizim Tuvali
 	New Entry	Yeni Girdi
@@ -2148,6 +2153,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	Kenar boşlukları bu boyuttaki bir sayfaya sığmıyor; önce kenar boşluklarını küçültün.
 	The measurement must be between {min} and {max}.	Ölçü {min} ile {max} arasında olmalıdır.
 	The new style takes the formatting of the current paragraph.	Yeni stil, geçerli paragrafın biçimlendirmesini alır.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Normal şablonu okunamadı, bu nedenle bu belge WordCraft'ın yerleşik biçimlendirmesini kullanıyor.
 	The number must be between 1 and {max}.	Sayı 1 ile {max} arasında olmalıdır.
 	the paragraph is empty	paragraf boş
 	the paragraph starts with a space	paragraf boşlukla başlıyor
@@ -2297,6 +2303,7 @@ preview	Title	Örnek
 	Use an Existing List…	Var Olan Listeyi Kullan…
 	Use system setting	Sistem ayarını kullan
 	Use the browser's full screen (F11)	Tarayıcının tam ekran modunu kullanın (F11)
+	Use the current style set and theme for all new documents?	Geçerli stil kümesi ve tema tüm yeni belgeler için kullanılsın mı?
 	Use the Insert key to switch overtype on and off	Üzerine yazmayı açıp kapatmak için Insert tuşunu kullan
 	Use this formatting as the default for:	Bu biçimlendirmeyi şunun için varsayılan olarak kullan:
 	Use wildcards	Joker karakter kullan

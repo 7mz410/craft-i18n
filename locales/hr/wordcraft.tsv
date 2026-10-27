@@ -1332,6 +1332,11 @@ template	Letter	Pismo
 	New comments and tracked changes are recorded under this name and these initials.	Novi komentari i praćene promjene bilježe se pod ovim imenom i ovim inicijalima.
 	New Documents Based on This Template	Novi dokumenti temeljeni na ovom predlošku
 	New documents based on this template	Novi dokumenti temeljeni na ovom predlošku
+	New documents will use this font.	Novi dokumenti koristit će ovaj font.
+	New documents will use this page setup.	Novi dokumenti koristit će ovo postavljanje stranice.
+	New documents will use this paragraph formatting.	Novi dokumenti koristit će ovo oblikovanje odlomka.
+	New documents will use this style.	Novi dokumenti koristit će ovaj stil.
+	New documents will use WordCraft's built-in formatting.	Novi dokumenti koristit će ugrađeno oblikovanje programa WordCraft.
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Novi dokumenti koristit će ugrađeno oblikovanje programa WordCraft. Spremljene zadane postavke nije moguće vratiti. Vratiti na zadano?
 	New Drawing Canvas	Novo platno za crtanje
 	New Entry	Novi unos
@@ -2156,6 +2161,7 @@ template	Letter	Pismo
 	The margins don't fit on a page this size; make the margins smaller first.	Margine ne stanu na stranicu ove veličine; najprije smanjite margine.
 	The measurement must be between {min} and {max}.	Mjera mora biti između {min} i {max}.
 	The new style takes the formatting of the current paragraph.	Novi stil preuzima oblikovanje trenutačnog odlomka.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Predložak Uobičajeni nije moguće pročitati pa ovaj dokument koristi ugrađeno oblikovanje programa WordCraft.
 	The number must be between 1 and {max}.	Broj mora biti između 1 i {max}.
 	the paragraph is empty	odlomak je prazan
 	the paragraph starts with a space	odlomak počinje razmakom
@@ -2307,6 +2313,7 @@ preview	Title	Naslov
 	Use an Existing List…	Koristi postojeći popis…
 	Use system setting	Koristi postavku sustava
 	Use the browser's full screen (F11)	Koristi cijeli zaslon preglednika (F11)
+	Use the current style set and theme for all new documents?	Koristiti trenutačni skup stilova i temu za sve nove dokumente?
 	Use the Insert key to switch overtype on and off	Koristite tipku Umetni (Insert) za uključivanje i isključivanje prepisivanja
 	Use this formatting as the default for:	Koristi ovo oblikovanje kao zadano za:
 	Use wildcards	Koristi zamjenske znakove

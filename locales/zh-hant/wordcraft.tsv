@@ -1131,6 +1131,11 @@
 	New Document	新文件
 	New Documents Based on This Template	以此範本為基礎的新文件
 	New documents based on this template	以此範本為基礎的新文件
+	New documents will use this font.	新文件將使用此字型。
+	New documents will use this page setup.	新文件將使用此版面設定。
+	New documents will use this paragraph formatting.	新文件將使用此段落格式設定。
+	New documents will use this style.	新文件將使用此樣式。
+	New documents will use WordCraft's built-in formatting.	新文件將使用 WordCraft 的內建格式設定。
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	新文件將使用 WordCraft 的內建格式設定。已儲存的預設值將無法復原。要重設嗎？
 	New Drawing Canvas	新增繪圖畫布
 	New Entry	新增項目
@@ -1887,6 +1892,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	邊界放不進此大小的頁面；請先縮小邊界。
 	The measurement must be between {min} and {max}.	度量值必須介於 {min} 和 {max} 之間。
 	The new style takes the formatting of the current paragraph.	新樣式會採用目前段落的格式。
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	無法讀取「正常」範本，因此此文件使用 WordCraft 的內建格式設定。
 	The number must be between 1 and {max}.	數字必須介於 1 和 {max} 之間。
 	the paragraph is empty	段落是空的
 	the paragraph starts with a space	段落以空格開頭
@@ -2012,6 +2018,7 @@
 	Use an Existing List…	使用現有清單…
 	Use system setting	使用系統設定
 	Use the browser's full screen (F11)	請使用瀏覽器的全螢幕模式 (F11)
+	Use the current style set and theme for all new documents?	要將目前的樣式集和佈景主題用於所有新文件嗎？
 	Use the Insert key to switch overtype on and off	使用 Insert 鍵切換取代模式
 	Use this formatting as the default for:	將此格式設定作為以下項目的預設值：
 	Use wildcards	使用萬用字元

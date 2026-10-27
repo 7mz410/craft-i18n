@@ -1338,6 +1338,11 @@
 	New comments and tracked changes are recorded under this name and these initials.	Новите коментари и проследени промени се записват с това име и тези инициали.
 	New Documents Based on This Template	Нови документи, базирани на този шаблон
 	New documents based on this template	Нови документи, базирани на този шаблон
+	New documents will use this font.	Новите документи ще използват този шрифт.
+	New documents will use this page setup.	Новите документи ще използват тази настройка на страницата.
+	New documents will use this paragraph formatting.	Новите документи ще използват това форматиране на абзаците.
+	New documents will use this style.	Новите документи ще използват този стил.
+	New documents will use WordCraft's built-in formatting.	Новите документи ще използват вграденото форматиране на WordCraft.
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Новите документи ще използват вграденото форматиране на WordCraft. Запазените ви настройки по подразбиране не могат да бъдат възстановени. Нулиране?
 	New Drawing Canvas	Ново платно за рисуване
 	New Entry	Нов запис
@@ -2175,6 +2180,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	Полетата не се побират на страница с този размер; първо намалете полетата.
 	The measurement must be between {min} and {max}.	Размерът трябва да е между {min} и {max}.
 	The new style takes the formatting of the current paragraph.	Новият стил приема форматирането на текущия абзац.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Шаблонът „Нормален“ не можа да бъде прочетен, затова този документ използва вграденото форматиране на WordCraft.
 	The number must be between 1 and {max}.	Числото трябва да е между 1 и {max}.
 	the paragraph is empty	абзацът е празен
 	the paragraph starts with a space	абзацът започва с интервал
@@ -2324,6 +2330,7 @@
 	Use an Existing List…	Използване на съществуващ списък…
 	Use system setting	Според системната настройка
 	Use the browser's full screen (F11)	Използвайте режима на цял екран на браузъра (F11)
+	Use the current style set and theme for all new documents?	Да се използват ли текущият набор от стилове и темата за всички нови документи?
 	Use the Insert key to switch overtype on and off	Използване на клавиша Insert за включване и изключване на заместването
 	Use this formatting as the default for:	Използване на това форматиране по подразбиране за:
 	Use wildcards	Използване на заместващи символи

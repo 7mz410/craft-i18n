@@ -1344,6 +1344,11 @@
 	New document	Nyt dokument
 	New Documents Based on This Template	Nye dokumenter baseret på denne skabelon
 	New documents based on this template	Nye dokumenter baseret på denne skabelon
+	New documents will use this font.	Nye dokumenter bruger denne skrifttype.
+	New documents will use this page setup.	Nye dokumenter bruger denne sideopsætning.
+	New documents will use this paragraph formatting.	Nye dokumenter bruger denne afsnitsformatering.
+	New documents will use this style.	Nye dokumenter bruger denne stil.
+	New documents will use WordCraft's built-in formatting.	Nye dokumenter bruger WordCrafts indbyggede formatering.
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Nye dokumenter bruger WordCrafts indbyggede formatering. Dine gemte standarder kan ikke gendannes. Vil du nulstille?
 	New Drawing Canvas	Nyt lærred
 	New Entry	Ny post
@@ -2188,6 +2193,7 @@
 	The document you are editing keeps the names and dates; only the saved file leaves them out.	Det dokument, du redigerer, bevarer navnene og datoerne; det er kun den gemte fil, der udelader dem.
 	The margins don't fit on a page this size; make the margins smaller first.	Margenerne passer ikke på en side i denne størrelse; gør margenerne mindre først.
 	The new style takes the formatting of the current paragraph.	Den nye stil bruger formateringen af det aktuelle afsnit.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Skabelonen Normal kunne ikke læses, så dette dokument bruger WordCrafts indbyggede formatering.
 	the paragraph is empty	afsnittet er tomt
 	the paragraph starts with a space	afsnittet starter med et mellemrum
 	The password is optional; without it anyone can stop the protection.	Adgangskoden er valgfri; uden den kan alle slå beskyttelsen fra.
@@ -2346,6 +2352,7 @@ preview	Title	Titel
 	Use an Existing List…	Brug en eksisterende liste…
 	Use system setting	Brug systemets indstilling
 	Use the browser's full screen (F11)	Brug browserens fuldskærm (F11)
+	Use the current style set and theme for all new documents?	Vil du bruge det aktuelle stilsæt og tema til alle nye dokumenter?
 	Use the Insert key to switch overtype on and off	Brug Insert-tasten til at slå overskrivning til og fra
 	Use this formatting as the default for:	Brug denne formatering som standard for:
 	Use wildcards	Brug jokertegn

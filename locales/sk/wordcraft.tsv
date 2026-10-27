@@ -1583,6 +1583,11 @@ template	Letter	List
 	New document	Nový dokument
 	New Documents Based on This Template	Nové dokumenty založené na tejto šablóne
 	New documents based on this template	Nové dokumenty založené na tejto šablóne
+	New documents will use this font.	Nové dokumenty budú používať toto písmo.
+	New documents will use this page setup.	Nové dokumenty budú používať toto nastavenie strany.
+	New documents will use this paragraph formatting.	Nové dokumenty budú používať toto formátovanie odseku.
+	New documents will use this style.	Nové dokumenty budú používať tento štýl.
+	New documents will use WordCraft's built-in formatting.	Nové dokumenty budú používať vstavané formátovanie WordCraftu.
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Nové dokumenty budú používať vstavané formátovanie WordCraftu. Uložené predvolené nastavenia sa už nebudú dať vrátiť. Obnoviť?
 	New Drawing Canvas	Nové kresliace plátno
 	New Entry	Nová položka
@@ -2564,6 +2569,7 @@ numerals	System	Podľa systému
 	The margins don't fit on a page this size; make the margins smaller first.	Okraje sa na stranu tejto veľkosti nezmestia; najprv ich zmenšite.
 	The measurement must be between {min} and {max}.	Rozmer musí byť od {min} do {max}.
 	The new style takes the formatting of the current paragraph.	Nový štýl prevezme formátovanie aktuálneho odseku.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Šablónu Normálne sa nepodarilo prečítať, preto tento dokument používa vstavané formátovanie WordCraftu.
 	The number must be a divisor of {max}.	Číslo musí byť deliteľom čísla {max}.
 	The number must be between 1 and {max}.	Číslo musí byť od 1 do {max}.
 	the paragraph is empty	odsek je prázdny
@@ -2741,6 +2747,7 @@ preview	Title	Názov
 	Use an Existing List…	Použiť existujúci zoznam…
 	Use system setting	Použiť systémové nastavenie
 	Use the browser's full screen (F11)	Použiť režim celej obrazovky prehliadača (F11)
+	Use the current style set and theme for all new documents?	Použiť aktuálnu sadu štýlov a motív pre všetky nové dokumenty?
 	Use the Insert key to switch overtype on and off	Klávesom Insert zapínať a vypínať prepisovanie
 	Use this formatting as the default for:	Použiť toto formátovanie ako predvolené pre:
 	Use wildcards	Používať zástupné znaky

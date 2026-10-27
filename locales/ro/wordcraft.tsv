@@ -1552,6 +1552,11 @@ template	Letter	Scrisoare
 	New document	Document nou
 	New Documents Based on This Template	Documente noi bazate pe acest șablon
 	New documents based on this template	Documente noi bazate pe acest șablon
+	New documents will use this font.	Documentele noi vor folosi acest font.
+	New documents will use this page setup.	Documentele noi vor folosi această configurare a paginii.
+	New documents will use this paragraph formatting.	Documentele noi vor folosi această formatare a paragrafului.
+	New documents will use this style.	Documentele noi vor folosi acest stil.
+	New documents will use WordCraft's built-in formatting.	Documentele noi vor folosi formatarea încorporată a WordCraft.
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Documentele noi vor folosi formatarea încorporată a WordCraft. Setările implicite salvate nu vor mai putea fi recuperate. Resetați?
 	New Drawing Canvas	Canvas de desen nou
 	New Entry	Intrare nouă
@@ -2511,6 +2516,7 @@ template	Letter	Scrisoare
 	The margins don't fit on a page this size; make the margins smaller first.	Marginile nu încap pe o pagină de această dimensiune; micșorează mai întâi marginile.
 	The measurement must be between {min} and {max}.	Măsura trebuie să fie între {min} și {max}.
 	The new style takes the formatting of the current paragraph.	Stilul nou preia formatarea paragrafului curent.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Șablonul „Normală” nu a putut fi citit, așa că acest document folosește formatarea încorporată a WordCraft.
 	The number must be between 1 and {max}.	Numărul trebuie să fie între 1 și {max}.
 	the paragraph is empty	paragraful este gol
 	the paragraph starts with a space	paragraful începe cu un spațiu
@@ -2683,6 +2689,7 @@ preview	Title	Titlu
 	Use an Existing List…	Folosire listă existentă…
 	Use system setting	Folosire setarea sistemului
 	Use the browser's full screen (F11)	Folosiți ecranul complet al browserului (F11)
+	Use the current style set and theme for all new documents?	Folosiți setul de stiluri și tema curente pentru toate documentele noi?
 	Use the Insert key to switch overtype on and off	Folosiți tasta Insert pentru a activa și dezactiva suprascrierea
 	Use this formatting as the default for:	Utilizați această formatare ca implicită pentru:
 	Use wildcards	Folosiți metacaractere

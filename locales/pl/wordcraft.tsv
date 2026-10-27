@@ -1356,6 +1356,11 @@
 	New comments and tracked changes are recorded under this name and these initials.	Nowe komentarze i śledzone zmiany są zapisywane pod tą nazwą i tymi inicjałami.
 	New Documents Based on This Template	Nowe dokumenty oparte na tym szablonie
 	New documents based on this template	Nowe dokumenty oparte na tym szablonie
+	New documents will use this font.	Nowe dokumenty będą używać tej czcionki.
+	New documents will use this page setup.	Nowe dokumenty będą używać tych ustawień strony.
+	New documents will use this paragraph formatting.	Nowe dokumenty będą używać tego formatowania akapitu.
+	New documents will use this style.	Nowe dokumenty będą używać tego stylu.
+	New documents will use WordCraft's built-in formatting.	Nowe dokumenty będą używać wbudowanego formatowania WordCraft.
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Nowe dokumenty będą używać wbudowanego formatowania WordCraft. Zapisanych ustawień domyślnych nie da się odzyskać. Zresetować?
 	New Drawing Canvas	Nowa kanwa rysunku
 	New Entry	Nowy wpis
@@ -2191,6 +2196,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	Marginesy nie mieszczą się na stronie tego rozmiaru; najpierw zmniejsz marginesy.
 	The measurement must be between {min} and {max}.	Miara musi być z zakresu od {min} do {max}.
 	The new style takes the formatting of the current paragraph.	Nowy styl przejmie formatowanie bieżącego akapitu.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Nie udało się odczytać szablonu Normalny, więc ten dokument używa wbudowanego formatowania WordCraft.
 	The number must be between 1 and {max}.	Liczba musi być z zakresu od 1 do {max}.
 	the paragraph is empty	akapit jest pusty
 	the paragraph starts with a space	akapit zaczyna się od spacji
@@ -2345,6 +2351,7 @@ preview	Title	Tytuł
 	Use an Existing List…	Użyj istniejącej listy…
 	Use system setting	Użyj ustawienia systemowego
 	Use the browser's full screen (F11)	Użyj trybu pełnoekranowego przeglądarki (F11)
+	Use the current style set and theme for all new documents?	Użyć bieżącego zestawu stylów i motywu dla wszystkich nowych dokumentów?
 	Use the Insert key to switch overtype on and off	Używaj klawisza Insert do przełączania trybu zastępowania
 	Use this formatting as the default for:	Użyj tego formatowania jako domyślnego dla:
 	Use wildcards	Użyj symboli wieloznacznych

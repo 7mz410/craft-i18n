@@ -1342,6 +1342,11 @@
 	New comments and tracked changes are recorded under this name and these initials.	Nieuwe opmerkingen en bijgehouden wijzigingen worden vastgelegd onder deze naam en deze initialen.
 	New Documents Based on This Template	Nieuwe documenten op basis van dit sjabloon
 	New documents based on this template	Nieuwe documenten op basis van dit sjabloon
+	New documents will use this font.	Nieuwe documenten gebruiken dit lettertype.
+	New documents will use this page setup.	Nieuwe documenten gebruiken deze pagina-instelling.
+	New documents will use this paragraph formatting.	Nieuwe documenten gebruiken deze alinea-opmaak.
+	New documents will use this style.	Nieuwe documenten gebruiken deze stijl.
+	New documents will use WordCraft's built-in formatting.	Nieuwe documenten gebruiken de ingebouwde opmaak van WordCraft.
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Nieuwe documenten gebruiken de ingebouwde opmaak van WordCraft. Je opgeslagen standaardinstellingen kunnen niet worden hersteld. Opnieuw instellen?
 	New Drawing Canvas	Nieuwe tekencanvas
 	New Entry	Nieuw item
@@ -2174,6 +2179,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	De marges passen niet op een pagina van dit formaat; maak de marges eerst kleiner.
 	The measurement must be between {min} and {max}.	De maat moet tussen {min} en {max} liggen.
 	The new style takes the formatting of the current paragraph.	De nieuwe stijl neemt de opmaak van de huidige alinea over.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Het sjabloon Standaard kon niet worden gelezen, dus dit document gebruikt de ingebouwde opmaak van WordCraft.
 	The number must be between 1 and {max}.	Het getal moet tussen 1 en {max} liggen.
 	the paragraph is empty	de alinea is leeg
 	the paragraph starts with a space	de alinea begint met een spatie
@@ -2332,6 +2338,7 @@ preview	Title	Titel
 	Use an Existing List…	Een bestaande lijst gebruiken…
 	Use system setting	Systeeminstelling gebruiken
 	Use the browser's full screen (F11)	Volledig scherm van de browser gebruiken (F11)
+	Use the current style set and theme for all new documents?	De huidige stijlset en het huidige thema gebruiken voor alle nieuwe documenten?
 	Use the Insert key to switch overtype on and off	Gebruik de Insert-toets om overtypen aan en uit te schakelen
 	Use this formatting as the default for:	Deze opmaak als standaard gebruiken voor:
 	Use wildcards	Wildcards gebruiken

@@ -1390,6 +1390,11 @@ template	Letter	Thư
 	New Document	Tạo tài liệu mới
 	New Documents Based on This Template	Tài liệu mới dựa trên mẫu này
 	New documents based on this template	Tài liệu mới dựa trên mẫu này
+	New documents will use this font.	Tài liệu mới sẽ dùng phông chữ này.
+	New documents will use this page setup.	Tài liệu mới sẽ dùng thiết lập trang này.
+	New documents will use this paragraph formatting.	Tài liệu mới sẽ dùng định dạng đoạn này.
+	New documents will use this style.	Tài liệu mới sẽ dùng kiểu này.
+	New documents will use WordCraft's built-in formatting.	Tài liệu mới sẽ dùng định dạng tích hợp sẵn của WordCraft.
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Tài liệu mới sẽ dùng định dạng tích hợp sẵn của WordCraft. Không thể khôi phục các mặc định bạn đã lưu. Đặt lại?
 	New Drawing Canvas	Khung vẽ mới
 	New Entry	Mục mới
@@ -2243,6 +2248,7 @@ template	Letter	Thư
 	The margins don't fit on a page this size; make the margins smaller first.	Lề không vừa với trang có kích thước này; hãy thu nhỏ lề trước.
 	The measurement must be between {min} and {max}.	Số đo phải nằm trong khoảng từ {min} đến {max}.
 	The new style takes the formatting of the current paragraph.	Kiểu mới sẽ lấy định dạng của đoạn hiện tại.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Không đọc được mẫu Thường, nên tài liệu này dùng định dạng tích hợp sẵn của WordCraft.
 	The number must be between 1 and {max}.	Số phải nằm trong khoảng từ 1 đến {max}.
 	the paragraph is empty	đoạn văn trống
 	the paragraph starts with a space	đoạn văn bắt đầu bằng dấu cách
@@ -2398,6 +2404,7 @@ template	Letter	Thư
 	Use an Existing List…	Dùng danh sách hiện có…
 	Use system setting	Dùng theo hệ thống
 	Use the browser's full screen (F11)	Dùng chế độ toàn màn hình của trình duyệt (F11)
+	Use the current style set and theme for all new documents?	Dùng bộ kiểu và chủ đề hiện tại cho mọi tài liệu mới?
 	Use the Insert key to switch overtype on and off	Dùng phím Insert để bật/tắt gõ đè
 	Use this formatting as the default for:	Dùng định dạng này làm mặc định cho:
 	Use wildcards	Dùng ký tự đại diện

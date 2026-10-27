@@ -1328,6 +1328,11 @@
 	New comments and tracked changes are recorded under this name and these initials.	Nové komentáře a sledované změny se zaznamenávají pod tímto jménem a iniciálami.
 	New Documents Based on This Template	Nové dokumenty založené na této šabloně
 	New documents based on this template	Nové dokumenty založené na této šabloně
+	New documents will use this font.	Nové dokumenty budou používat toto písmo.
+	New documents will use this page setup.	Nové dokumenty budou používat toto nastavení vzhledu stránky.
+	New documents will use this paragraph formatting.	Nové dokumenty budou používat toto formátování odstavce.
+	New documents will use this style.	Nové dokumenty budou používat tento styl.
+	New documents will use WordCraft's built-in formatting.	Nové dokumenty budou používat vestavěné formátování WordCraftu.
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Nové dokumenty budou používat vestavěné formátování WordCraftu. Uložená výchozí nastavení už nepůjde vrátit zpět. Obnovit?
 	New Drawing Canvas	Nové kreslicí plátno
 	New Entry	Nová položka
@@ -2159,6 +2164,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	Okraje se na stránku této velikosti nevejdou; nejprve okraje zmenšete.
 	The measurement must be between {min} and {max}.	Míra musí být mezi {min} a {max}.
 	The new style takes the formatting of the current paragraph.	Nový styl převezme formátování aktuálního odstavce.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Šablonu Normální se nepodařilo přečíst, proto tento dokument používá vestavěné formátování WordCraftu.
 	The number must be between 1 and {max}.	Číslo musí být mezi 1 a {max}.
 	the paragraph is empty	odstavec je prázdný
 	the paragraph starts with a space	odstavec začíná mezerou
@@ -2309,6 +2315,7 @@ preview	Title	Ukázka
 	Use an Existing List…	Použít existující seznam…
 	Use system setting	Podle nastavení systému
 	Use the browser's full screen (F11)	Použijte celou obrazovku prohlížeče (F11)
+	Use the current style set and theme for all new documents?	Použít aktuální sadu stylů a motiv pro všechny nové dokumenty?
 	Use the Insert key to switch overtype on and off	Přepínat režim přepisování klávesou Insert
 	Use this formatting as the default for:	Použít toto formátování jako výchozí pro:
 	Use wildcards	Používat zástupné znaky

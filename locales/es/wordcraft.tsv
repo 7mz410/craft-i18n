@@ -1298,6 +1298,11 @@
 	New comments and tracked changes are recorded under this name and these initials.	Los comentarios y cambios con seguimiento nuevos se registran con este nombre y estas iniciales.
 	New Documents Based on This Template	Documentos nuevos basados en esta plantilla
 	New documents based on this template	Documentos nuevos basados en esta plantilla
+	New documents will use this font.	Los documentos nuevos usarán esta fuente.
+	New documents will use this page setup.	Los documentos nuevos usarán esta configuración de página.
+	New documents will use this paragraph formatting.	Los documentos nuevos usarán este formato de párrafo.
+	New documents will use this style.	Los documentos nuevos usarán este estilo.
+	New documents will use WordCraft's built-in formatting.	Los documentos nuevos usarán el formato integrado de WordCraft.
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Los documentos nuevos usarán el formato integrado de WordCraft. Tus valores predeterminados guardados no se podrán recuperar. ¿Restablecer?
 	New Drawing Canvas	Nuevo lienzo de dibujo
 	New Entry	Nueva entrada
@@ -2119,6 +2124,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	Los márgenes no caben en una página de este tamaño; reduzca primero los márgenes.
 	The measurement must be between {min} and {max}.	La medida debe estar entre {min} y {max}.
 	The new style takes the formatting of the current paragraph.	El nuevo estilo toma el formato del párrafo actual.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	No se pudo leer la plantilla Normal, así que este documento usa el formato integrado de WordCraft.
 	The number must be between 1 and {max}.	El número debe estar entre 1 y {max}.
 	the paragraph is empty	el párrafo está vacío
 	the paragraph starts with a space	el párrafo empieza con un espacio
@@ -2266,6 +2272,7 @@ preview	Title	Título
 	Use an Existing List…	Usar una lista existente…
 	Use system setting	Usar la configuración del sistema
 	Use the browser's full screen (F11)	Use la pantalla completa del navegador (F11)
+	Use the current style set and theme for all new documents?	¿Usar el conjunto de estilos y el tema actuales para todos los documentos nuevos?
 	Use the Insert key to switch overtype on and off	Usar la tecla Insert para activar y desactivar la sobrescritura
 	Use this formatting as the default for:	Usar este formato como predeterminado para:
 	Use wildcards	Usar caracteres comodín

@@ -1159,6 +1159,11 @@
 	New document	新規文書
 	New Documents Based on This Template	このテンプレートを基にした新しい文書
 	New documents based on this template	このテンプレートを基にした新しい文書
+	New documents will use this font.	新しい文書ではこのフォントが使われます。
+	New documents will use this page setup.	新しい文書ではこのページ設定が使われます。
+	New documents will use this paragraph formatting.	新しい文書ではこの段落書式が使われます。
+	New documents will use this style.	新しい文書ではこのスタイルが使われます。
+	New documents will use WordCraft's built-in formatting.	新しい文書では WordCraft の組み込みの書式が使われます。
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	新しい文書では WordCraft の組み込みの書式が使われます。保存した既定の設定は元に戻せません。リセットしますか?
 	New Drawing Canvas	新しい描画キャンバス
 	New Entry	新しいエントリ
@@ -1926,6 +1931,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	この用紙サイズには余白が収まりません。先に余白を小さくしてください。
 	The measurement must be between {min} and {max}.	{min} から {max} までの値を指定してください。
 	The new style takes the formatting of the current paragraph.	新しいスタイルには現在の段落の書式が使われます。
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	通常テンプレートを読み込めなかったため、この文書では WordCraft の組み込みの書式を使用しています。
 	The number must be between 1 and {max}.	1 から {max} までの数値を指定してください。
 	the paragraph is empty	段落が空です
 	the paragraph starts with a space	段落がスペースで始まっています
@@ -2051,6 +2057,7 @@
 	Use an Existing List…	既存のリストを使用…
 	Use system setting	システム設定を使用
 	Use the browser's full screen (F11)	ブラウザーの全画面表示を使用してください (F11)
+	Use the current style set and theme for all new documents?	現在のスタイル セットとテーマをすべての新しい文書に使用しますか?
 	Use the Insert key to switch overtype on and off	Insert キーで上書きのオンとオフを切り替える
 	Use this formatting as the default for:	この書式を既定として使用する対象:
 	Use wildcards	ワイルドカードを使う

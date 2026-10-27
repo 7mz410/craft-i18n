@@ -1097,6 +1097,11 @@
 	New comments and tracked changes are recorded under this name and these initials.	Uued kommentaarid ja jälitatud muudatused salvestatakse selle nime ja nende initsiaalidega.
 	New Documents Based on This Template	Uued dokumendid, mis põhinevad sellel mallil
 	New documents based on this template	Uued dokumendid, mis põhinevad sellel mallil
+	New documents will use this font.	Uued dokumendid kasutavad seda fonti.
+	New documents will use this page setup.	Uued dokumendid kasutavad seda lehe seadistust.
+	New documents will use this paragraph formatting.	Uued dokumendid kasutavad seda lõiguvormingut.
+	New documents will use this style.	Uued dokumendid kasutavad seda stiili.
+	New documents will use WordCraft's built-in formatting.	Uued dokumendid kasutavad WordCrafti sisseehitatud vormingut.
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Uued dokumendid kasutavad WordCrafti sisseehitatud vormingut. Salvestatud vaikesätteid ei saa taastada. Kas lähtestada?
 	New Drawing Canvas	Uus joonistuslõuend
 	New Entry	Uus kirje
@@ -1829,6 +1834,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	Veerised ei mahu selle suurusega lehele; vähendage esmalt veeriseid.
 	The measurement must be between {min} and {max}.	Mõõt peab olema vahemikus {min} kuni {max}.
 	The new style takes the formatting of the current paragraph.	Uus stiil kasutab praeguse lõigu vormindust.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Malli Tavaline ei õnnestunud lugeda, seega kasutab see dokument WordCrafti sisseehitatud vormingut.
 	The number must be between 1 and {max}.	Arv peab olema vahemikus 1 kuni {max}.
 	the paragraph is empty	lõik on tühi
 	the paragraph starts with a space	lõik algab tühikuga
@@ -1953,6 +1959,7 @@
 	Use an Existing List…	Kasuta olemasolevat loendit…
 	Use system setting	Kasuta süsteemi seadistust
 	Use the browser's full screen (F11)	Kasutage brauseri täisekraani (F11)
+	Use the current style set and theme for all new documents?	Kas kasutada praegust stiilikomplekti ja kujundust kõigis uutes dokumentides?
 	Use the Insert key to switch overtype on and off	Kasuta Insert-klahvi ülekirjutuse sisse- ja väljalülitamiseks
 	Use this formatting as the default for:	Kasuta seda vormingut vaikevorminguna:
 	Use wildcards	Kasuta metamärke

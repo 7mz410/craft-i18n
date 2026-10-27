@@ -1299,6 +1299,11 @@
 	New comments and tracked changes are recorded under this name and these initials.	새 댓글과 변경 내용 추적은 이 이름과 이니셜로 기록됩니다.
 	New Documents Based on This Template	이 서식 파일을 기반으로 하는 새 문서
 	New documents based on this template	이 서식 파일을 기반으로 하는 새 문서
+	New documents will use this font.	새 문서에 이 글꼴이 사용됩니다.
+	New documents will use this page setup.	새 문서에 이 페이지 설정이 사용됩니다.
+	New documents will use this paragraph formatting.	새 문서에 이 단락 서식이 사용됩니다.
+	New documents will use this style.	새 문서에 이 스타일이 사용됩니다.
+	New documents will use WordCraft's built-in formatting.	새 문서에 WordCraft의 기본 제공 서식이 사용됩니다.
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	새 문서에는 WordCraft의 기본 제공 서식이 사용됩니다. 저장한 기본값은 복구할 수 없습니다. 재설정하시겠습니까?
 	New Drawing Canvas	새 그리기 캔버스
 	New Entry	새 항목
@@ -2101,6 +2106,7 @@
 	The document will be saved with a password. Save it to protect it.	문서는 암호를 설정하여 저장됩니다. 문서를 보호하려면 저장하세요.
 	The measurement must be between {min} and {max}.	측정값은 {min}에서 {max} 사이여야 합니다.
 	The new style takes the formatting of the current paragraph.	새 스타일은 현재 단락의 서식을 사용합니다.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	기본 서식 파일을 읽을 수 없어 이 문서는 WordCraft의 기본 제공 서식을 사용합니다.
 	The number must be between 1 and {max}.	숫자는 1에서 {max} 사이여야 합니다.
 	the paragraph is empty	단락이 비어 있습니다
 	the paragraph starts with a space	단락이 공백으로 시작합니다
@@ -2245,6 +2251,7 @@ preview	Title	제목
 	Use an Existing List…	기존 목록 사용…
 	Use system setting	시스템 설정 사용
 	Use the browser's full screen (F11)	브라우저의 전체 화면을 사용하세요 (F11)
+	Use the current style set and theme for all new documents?	현재 스타일 모음과 테마를 모든 새 문서에 사용하시겠습니까?
 	Use the Insert key to switch overtype on and off	Insert 키를 눌러 겹쳐쓰기 켜기/끄기
 	Use this formatting as the default for:	이 서식을 기본값으로 사용할 대상:
 	Use wildcards	와일드카드 사용

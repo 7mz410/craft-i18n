@@ -1086,6 +1086,11 @@
 	New comments and tracked changes are recorded under this name and these initials.	Нови коментари и праћене измене бележе се под овим именом и иницијалима.
 	New Documents Based on This Template	Нови документи засновани на овом шаблону
 	New documents based on this template	Нови документи засновани на овом шаблону
+	New documents will use this font.	Нови документи ће користити овај фонт.
+	New documents will use this page setup.	Нови документи ће користити ово подешавање стране.
+	New documents will use this paragraph formatting.	Нови документи ће користити ово обликовање пасуса.
+	New documents will use this style.	Нови документи ће користити овај стил.
+	New documents will use WordCraft's built-in formatting.	Нови документи ће користити уграђено обликовање програма WordCraft.
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Нови документи ће користити уграђено обликовање програма WordCraft. Сачувана подразумевана подешавања не могу да се поврате. Вратити?
 	New Drawing Canvas	Ново платно за цртање
 	New Entry	Нова ставка
@@ -1813,6 +1818,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	Маргине не стају на страну ове величине; прво смањите маргине.
 	The measurement must be between {min} and {max}.	Мера мора бити између {min} и {max}.
 	The new style takes the formatting of the current paragraph.	Нови стил преузима форматирање тренутног пасуса.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Шаблон „Нормално“ није могао да се прочита, па овај документ користи уграђено обликовање програма WordCraft.
 	The number must be between 1 and {max}.	Број мора бити између 1 и {max}.
 	the paragraph is empty	пасус је празан
 	the paragraph starts with a space	пасус почиње размаком
@@ -1933,6 +1939,7 @@
 	Use an Existing List…	Користи постојећу листу…
 	Use system setting	Према подешавању система
 	Use the browser's full screen (F11)	Користите приказ преко целог екрана у прегледачу (F11)
+	Use the current style set and theme for all new documents?	Користити тренутни скуп стилова и тему за све нове документе?
 	Use the Insert key to switch overtype on and off	Тастер Insert укључује и искључује преписивање
 	Use this formatting as the default for:	Користи ово обликовање као подразумевано за:
 	Use wildcards	Користи џокер знаке

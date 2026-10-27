@@ -1353,6 +1353,11 @@ template	Letter	Lettera
 	New comments and tracked changes are recorded under this name and these initials.	I nuovi commenti e le revisioni vengono registrati con questo nome e queste iniziali.
 	New Documents Based on This Template	Nuovi documenti basati su questo modello
 	New documents based on this template	Nuovi documenti basati su questo modello
+	New documents will use this font.	I nuovi documenti useranno questo carattere.
+	New documents will use this page setup.	I nuovi documenti useranno questa impostazione di pagina.
+	New documents will use this paragraph formatting.	I nuovi documenti useranno questa formattazione del paragrafo.
+	New documents will use this style.	I nuovi documenti useranno questo stile.
+	New documents will use WordCraft's built-in formatting.	I nuovi documenti useranno la formattazione integrata di WordCraft.
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	I nuovi documenti useranno la formattazione integrata di WordCraft. Le impostazioni predefinite salvate non potranno essere recuperate. Reimpostare?
 	New Drawing Canvas	Nuova area di disegno
 	New Entry	Nuova voce
@@ -2186,6 +2191,7 @@ template	Letter	Lettera
 	The margins don't fit on a page this size; make the margins smaller first.	I margini non entrano in una pagina di queste dimensioni; riduci prima i margini.
 	The measurement must be between {min} and {max}.	La misura deve essere compresa tra {min} e {max}.
 	The new style takes the formatting of the current paragraph.	Il nuovo stile assume la formattazione del paragrafo corrente.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Impossibile leggere il modello Normale, quindi questo documento usa la formattazione integrata di WordCraft.
 	The number must be between 1 and {max}.	Il numero deve essere compreso tra 1 e {max}.
 	the paragraph is empty	il paragrafo è vuoto
 	the paragraph starts with a space	il paragrafo inizia con uno spazio
@@ -2340,6 +2346,7 @@ preview	Title	Esempio
 	Use an Existing List…	Usa un elenco esistente…
 	Use system setting	Usa impostazione di sistema
 	Use the browser's full screen (F11)	Usa lo schermo intero del browser (F11)
+	Use the current style set and theme for all new documents?	Usare il set di stili e il tema correnti per tutti i nuovi documenti?
 	Use the Insert key to switch overtype on and off	Usa il tasto Ins per attivare e disattivare la sovrascrittura
 	Use this formatting as the default for:	Usa questa formattazione come predefinita per:
 	Use wildcards	Usa caratteri jolly

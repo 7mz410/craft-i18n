@@ -1348,6 +1348,11 @@
 	New comments and tracked changes are recorded under this name and these initials.	Az új megjegyzések és követett módosítások ezzel a névvel és monogrammal rögzülnek.
 	New Documents Based on This Template	Az ezen a sablonon alapuló új dokumentumokban
 	New documents based on this template	Az ezen a sablonon alapuló új dokumentumokban
+	New documents will use this font.	Az új dokumentumok ezt a betűtípust használják.
+	New documents will use this page setup.	Az új dokumentumok ezt az oldalbeállítást használják.
+	New documents will use this paragraph formatting.	Az új dokumentumok ezt a bekezdésformázást használják.
+	New documents will use this style.	Az új dokumentumok ezt a stílust használják.
+	New documents will use WordCraft's built-in formatting.	Az új dokumentumok a WordCraft beépített formázását használják.
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Az új dokumentumok a WordCraft beépített formázását használják. A mentett alapértelmezések nem állíthatók helyre. Visszaállítod?
 	New Drawing Canvas	Új rajzvászon
 	New Entry	Új bejegyzés
@@ -2174,6 +2179,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	A margók nem férnek el ekkora oldalon; először csökkentse a margókat.
 	The measurement must be between {min} and {max}.	A méretnek {min} és {max} között kell lennie.
 	The new style takes the formatting of the current paragraph.	Az új stílus az aktuális bekezdés formázását veszi át.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	A Normál sablon nem olvasható, ezért ez a dokumentum a WordCraft beépített formázását használja.
 	The number must be between 1 and {max}.	A számnak 1 és {max} között kell lennie.
 	the paragraph is empty	a bekezdés üres
 	the paragraph starts with a space	a bekezdés szóközzel kezdődik
@@ -2325,6 +2331,7 @@
 	Use an Existing List…	Meglévő lista használata…
 	Use system setting	A rendszerbeállítás követése
 	Use the browser's full screen (F11)	Használja a böngésző teljes képernyős módját (F11)
+	Use the current style set and theme for all new documents?	Az aktuális stíluskészlet és téma legyen minden új dokumentumban?
 	Use the Insert key to switch overtype on and off	Az Insert billentyű ki- és bekapcsolja a felülírást
 	Use this formatting as the default for:	Legyen ez a formázás az alapértelmezett:
 	Use wildcards	Helyettesítő karakterek használata

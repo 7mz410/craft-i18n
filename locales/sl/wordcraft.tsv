@@ -1454,6 +1454,11 @@
 	New document	Nov dokument
 	New Documents Based on This Template	Novi dokumenti, ki temeljijo na tej predlogi
 	New documents based on this template	Novi dokumenti, ki temeljijo na tej predlogi
+	New documents will use this font.	Novi dokumenti bodo uporabljali to pisavo.
+	New documents will use this page setup.	Novi dokumenti bodo uporabljali to nastavitev strani.
+	New documents will use this paragraph formatting.	Novi dokumenti bodo uporabljali to oblikovanje odstavka.
+	New documents will use this style.	Novi dokumenti bodo uporabljali ta slog.
+	New documents will use WordCraft's built-in formatting.	Novi dokumenti bodo uporabljali vgrajeno oblikovanje programa WordCraft.
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Novi dokumenti bodo uporabljali vgrajeno oblikovanje programa WordCraft. Shranjenih privzetih nastavitev ne bo mogoče obnoviti. Želite ponastaviti?
 	New Drawing Canvas	Novo risalno platno
 	New Entry	Nov vnos
@@ -2362,6 +2367,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	Robovi ne sodijo na stran te velikosti; najprej pomanjšajte robove.
 	The measurement must be between {min} and {max}.	The measurement must be between {min} and {max}.
 	The new style takes the formatting of the current paragraph.	Nov slog prevzame oblikovanje trenutnega odstavka.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Predloge Navadno ni bilo mogoče prebrati, zato ta dokument uporablja vgrajeno oblikovanje programa WordCraft.
 	The number must be between 1 and {max}.	The number must be between 1 and {max}.
 	the paragraph is empty	the paragraph is empty
 	the paragraph starts with a space	the paragraph starts with a space
@@ -2522,6 +2528,7 @@ preview	Title	Naslov
 	Use an Existing List…	Uporabi obstoječi seznam …
 	Use system setting	Uporabi sistemsko nastavitev
 	Use the browser's full screen (F11)	Uporabi celozaslonski način brskalnika (F11)
+	Use the current style set and theme for all new documents?	Želite uporabiti trenutni nabor slogov in temo za vse nove dokumente?
 	Use the Insert key to switch overtype on and off	S tipko Insert vklopi in izklopi prepisovanje
 	Use this formatting as the default for:	Uporabi to oblikovanje kot privzeto za:
 	Use wildcards	Uporabi nadomestne znake

@@ -1327,6 +1327,11 @@
 	New comments and tracked changes are recorded under this name and these initials.	Новые примечания и исправления записываются под этим именем и инициалами.
 	New Documents Based on This Template	В новых документах на основе этого шаблона
 	New documents based on this template	В новых документах на основе этого шаблона
+	New documents will use this font.	Новые документы будут использовать этот шрифт.
+	New documents will use this page setup.	Новые документы будут использовать эти параметры страницы.
+	New documents will use this paragraph formatting.	Новые документы будут использовать это форматирование абзаца.
+	New documents will use this style.	Новые документы будут использовать этот стиль.
+	New documents will use WordCraft's built-in formatting.	Новые документы будут использовать встроенное форматирование WordCraft.
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Новые документы будут использовать встроенное форматирование WordCraft. Сохранённые параметры по умолчанию нельзя будет восстановить. Сбросить?
 	New Drawing Canvas	Новое полотно для рисования
 	New Entry	Новая запись
@@ -2162,6 +2167,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	Поля не помещаются на странице такого размера; сначала уменьшите поля.
 	The measurement must be between {min} and {max}.	Размер должен быть от {min} до {max}.
 	The new style takes the formatting of the current paragraph.	Новый стиль получит форматирование текущего абзаца.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Не удалось прочитать шаблон «Обычный», поэтому в этом документе используется встроенное форматирование WordCraft.
 	The number must be between 1 and {max}.	Число должно быть от 1 до {max}.
 	the paragraph is empty	абзац пуст
 	the paragraph starts with a space	абзац начинается с пробела
@@ -2312,6 +2318,7 @@ preview	Title	Пример
 	Use an Existing List…	Использовать существующий список…
 	Use system setting	Как в системе
 	Use the browser's full screen (F11)	Используйте полноэкранный режим браузера (F11)
+	Use the current style set and theme for all new documents?	Использовать текущий набор стилей и тему для всех новых документов?
 	Use the Insert key to switch overtype on and off	Клавиша Insert включает и выключает режим замены
 	Use this formatting as the default for:	Использовать это форматирование по умолчанию для:
 	Use wildcards	Подстановочные знаки

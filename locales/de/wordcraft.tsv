@@ -1128,6 +1128,11 @@
 	New comments and tracked changes are recorded under this name and these initials.	Neue Kommentare und nachverfolgte Änderungen werden unter diesem Namen und diesen Initialen erfasst.
 	New Documents Based on This Template	Neue Dokumente, die auf dieser Vorlage basieren
 	New documents based on this template	Neue Dokumente, die auf dieser Vorlage basieren
+	New documents will use this font.	Neue Dokumente verwenden diese Schriftart.
+	New documents will use this page setup.	Neue Dokumente verwenden diese Seiteneinrichtung.
+	New documents will use this paragraph formatting.	Neue Dokumente verwenden diese Absatzformatierung.
+	New documents will use this style.	Neue Dokumente verwenden diese Formatvorlage.
+	New documents will use WordCraft's built-in formatting.	Neue Dokumente verwenden die integrierte Formatierung von WordCraft.
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Neue Dokumente verwenden die integrierte Formatierung von WordCraft. Ihre gespeicherten Standardeinstellungen lassen sich nicht wiederherstellen. Zurücksetzen?
 	New Drawing Canvas	Neue Zeichenfläche
 	New Entry	Neuer Eintrag
@@ -1880,6 +1885,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	Die Ränder passen nicht auf eine Seite dieser Größe; verkleinern Sie zuerst die Ränder.
 	The measurement must be between {min} and {max}.	Das Maß muss zwischen {min} und {max} liegen.
 	The new style takes the formatting of the current paragraph.	Die neue Formatvorlage übernimmt die Formatierung des aktuellen Absatzes.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Die Vorlage „Normal“ konnte nicht gelesen werden, daher verwendet dieses Dokument die integrierte Formatierung von WordCraft.
 	The number must be between 1 and {max}.	Die Zahl muss zwischen 1 und {max} liegen.
 	the paragraph is empty	der Absatz ist leer
 	the paragraph starts with a space	der Absatz beginnt mit einem Leerzeichen
@@ -2005,6 +2011,7 @@
 	Use an Existing List…	Vorhandene Liste verwenden…
 	Use system setting	Systemeinstellung verwenden
 	Use the browser's full screen (F11)	Verwenden Sie den Vollbildmodus des Browsers (F11)
+	Use the current style set and theme for all new documents?	Den aktuellen Formatvorlagensatz und das aktuelle Design für alle neuen Dokumente verwenden?
 	Use the Insert key to switch overtype on and off	Überschreibmodus mit der Einfg-Taste ein- und ausschalten
 	Use this formatting as the default for:	Diese Formatierung als Standard verwenden für:
 	Use wildcards	Platzhalter verwenden

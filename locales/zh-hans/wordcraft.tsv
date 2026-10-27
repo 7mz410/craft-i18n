@@ -1135,6 +1135,11 @@
 	New comments and tracked changes are recorded under this name and these initials.	新批注和修订将以此名称和缩写记录。
 	New Documents Based on This Template	基于此模板的新文档
 	New documents based on this template	基于此模板的新文档
+	New documents will use this font.	新文档将使用此字体。
+	New documents will use this page setup.	新文档将使用此页面设置。
+	New documents will use this paragraph formatting.	新文档将使用此段落格式。
+	New documents will use this style.	新文档将使用此样式。
+	New documents will use WordCraft's built-in formatting.	新文档将使用 WordCraft 的内置格式。
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	新文档将使用 WordCraft 的内置格式。已保存的默认设置无法恢复。是否重置？
 	New Drawing Canvas	新建绘图画布
 	New Entry	新建条目
@@ -1890,6 +1895,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	页边距放不进此大小的页面；请先减小页边距。
 	The measurement must be between {min} and {max}.	度量值必须介于 {min} 和 {max} 之间。
 	The new style takes the formatting of the current paragraph.	新样式将采用当前段落的格式。
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	无法读取“正常”模板，因此此文档使用 WordCraft 的内置格式。
 	The number must be between 1 and {max}.	数字必须介于 1 和 {max} 之间。
 	the paragraph is empty	段落为空
 	the paragraph starts with a space	段落以空格开头
@@ -2017,6 +2023,7 @@
 	Use an Existing List…	使用现有列表…
 	Use system setting	使用系统设置
 	Use the browser's full screen (F11)	请使用浏览器的全屏模式 (F11)
+	Use the current style set and theme for all new documents?	将当前样式集和主题用于所有新文档？
 	Use the Insert key to switch overtype on and off	用 Insert 键切换改写模式
 	Use this formatting as the default for:	将此格式用作以下内容的默认格式：
 	Use wildcards	使用通配符

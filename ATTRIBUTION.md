@@ -71,10 +71,11 @@ recorded.
 
 ## WordCraft: the Normal template
 
-Martin Ball (@benandez) contributed the 15 rows for WordCraft's Normal template (Set As Default's
-choice and the Font, Paragraph and Page Setup Set As Default commands, Modify Style's "New
-documents based on this template", Options › Advanced › Reset Default Formatting, and the error
-when a session has no Normal template, storytold/wordcraft#4237) in `ar`, `bg`, `cs`, `da`, `de`, `es`, `et`, `fr`,
+Martin Ball (@benandez) contributed the 22 rows for WordCraft's Normal template (Set As Default's
+choice in Design and the Font, Paragraph and Page Setup dialogs, their commands and status
+messages, Modify Style's "New documents based on this template", Options › Advanced › Reset
+Default Formatting, and the errors when a session has no Normal template or it can't be read,
+storytold/wordcraft#4237) in `ar`, `bg`, `cs`, `da`, `de`, `es`, `et`, `fr`,
 `hr`, `hu`, `it`, `ja`, `ka`, `ko`, `nl`, `pl`, `pt-br`, `ro`, `ru`, `sk`, `sl`, `sr`, `sr-latn`,
 `sv`, `tr`, `uk`, `vi`, `zh-hans` and `zh-hant`, AI-assisted with Claude Code and written from the
 English meaning, using each locale's existing WordCraft terms (its name for the Normal style,

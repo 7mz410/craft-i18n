@@ -1553,6 +1553,11 @@ template	Letter	წერილი
 	New document	ახალი დოკუმენტი
 	New Documents Based on This Template	ამ შაბლონზე დაფუძნებული ახალი დოკუმენტები
 	New documents based on this template	ამ შაბლონზე დაფუძნებული ახალი დოკუმენტები
+	New documents will use this font.	ახალი დოკუმენტები ამ შრიფტს გამოიყენებს.
+	New documents will use this page setup.	ახალი დოკუმენტები გვერდის ამ პარამეტრებს გამოიყენებს.
+	New documents will use this paragraph formatting.	ახალი დოკუმენტები აბზაცის ამ ფორმატირებას გამოიყენებს.
+	New documents will use this style.	ახალი დოკუმენტები ამ სტილს გამოიყენებს.
+	New documents will use WordCraft's built-in formatting.	ახალი დოკუმენტები WordCraft-ის ჩაშენებულ ფორმატირებას გამოიყენებს.
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	ახალი დოკუმენტები WordCraft-ის ჩაშენებულ ფორმატირებას გამოიყენებს. შენახული ნაგულისხმევი პარამეტრების აღდგენა შეუძლებელი იქნება. ჩამოვყაროთ?
 	New Drawing Canvas	ახალი სახატავი ტილო
 	New Entry	ახალი ჩანაწერი
@@ -2516,6 +2521,7 @@ template	Letter	წერილი
 	The margins don't fit on a page this size; make the margins smaller first.	ველები ამ ზომის გვერდზე არ ეტევა; ჯერ ველები შეამცირეთ.
 	The measurement must be between {min} and {max}.	ზომა უნდა იყოს {min}–{max} შუალედში.
 	The new style takes the formatting of the current paragraph.	ახალი სტილი მიმდინარე აბზაცის ფორმატირებას იღებს.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	„ძირითადი“ შაბლონის წაკითხვა ვერ მოხერხდა, ამიტომ ეს დოკუმენტი WordCraft-ის ჩაშენებულ ფორმატირებას იყენებს.
 	The number must be between 1 and {max}.	რიცხვი უნდა იყოს 1–{max} შუალედში.
 	the paragraph is empty	აბზაცი ცარიელია
 	the paragraph starts with a space	აბზაცი ჰარით იწყება
@@ -2689,6 +2695,7 @@ preview	Title	სათაური
 	Use an Existing List…	არსებული სიის გამოყენება…
 	Use system setting	სისტემის პარამეტრის მიხედვით
 	Use the browser's full screen (F11)	გამოიყენეთ ბრაუზერის სრულეკრანიანი რეჟიმი (F11)
+	Use the current style set and theme for all new documents?	გამოვიყენოთ მიმდინარე სტილების ნაკრები და თემა ყველა ახალ დოკუმენტში?
 	Use the Insert key to switch overtype on and off	გადაწერის ჩართვა და გამორთვა Insert კლავიშით
 	Use this formatting as the default for:	ამ ფორმატირების ნაგულისხმევად გამოყენება:
 	Use wildcards	შაბლონების გამოყენება
