@@ -297,7 +297,7 @@
 	By author	По автор
 	Calendar	Календар
 	Can't be deleted	Не може да се изтрие
-	Can't find a command? Press Alt+Q and type what you want to do.	Не намирате команда? Натиснете Alt+Q и напишете какво искате да направите.
+	Can't find a command? Press {key} and type what you want to do.	Не намирате команда? Натиснете {key} и напишете какво искате да направите.
 	can't split at the first row	таблицата не може да се раздели на първия ред
 	Canvas Member	Елемент на платното
 	Capitalize Each Word	Всяка дума с главна буква
@@ -511,10 +511,10 @@
 	Crop	Отрязване
 	Cross-reference	Кръстосана препратка
 	Cross-reference:	Кръстосана препратка:
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter започва нова страница. Много по-спретнато, отколкото да натискате Enter, докато не стане.
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H търси и заменя текст, форматиране и специални знаци.
-	Ctrl+K turns the selected text into a link.	Ctrl+K превръща маркирания текст във връзка.
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G брои думите, знаците и абзаците ви.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} започва нова страница. Много по-спретнато, отколкото да натискате Enter, докато не стане.
+	{key} finds and replaces text, formatting and special characters.	{key} търси и заменя текст, форматиране и специални знаци.
+	{key} turns the selected text into a link.	{key} превръща маркирания текст във връзка.
+	{key} counts your words, characters and paragraphs.	{key} брои думите, знаците и абзаците ви.
 	Cube Root	Кубичен корен
 	Current - Linear	Текущо – линеен формат
 	Current - Professional	Текущо – професионален формат
@@ -775,8 +775,8 @@
 	Export Page as PNG	Експортиране на страницата като PNG
 	Extend Selection	Разширяване на селекцията
 	Extend Selection by Units	Разширяване на селекцията по единици
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 повтаря последното ви действие. Форматирането на десет заглавия изведнъж става едно щракване и девет натискания.
-	F7 checks the spelling and grammar of the whole document.	F7 проверява правописа и граматиката в целия документ.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} повтаря последното ви действие. Форматирането на десет заглавия изведнъж става едно щракване и девет натискания.
+	{key} checks the spelling and grammar of the whole document.	{key} проверява правописа и граматиката в целия документ.
 	Faster: {command} is {key} on the keyboard.	По-бързо: {command} е {key} от клавиатурата.
 	Field code:	Код на полето:
 	Field Codes	Кодове на полета
@@ -1896,7 +1896,7 @@
 	Shape Format	Формат на фигура
 	Shape Outline	Контур на фигура
 	Shape Styles	Стилове на фигури
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter започва нов ред, без да започва нов абзац.
+	{key} starts a new line without starting a new paragraph.	{key} започва нов ред, без да започва нов абзац.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Етикети за пратки
 	Shortcut key:	Клавишна комбинация:
@@ -1942,7 +1942,7 @@
 	Show the Start screen when WordCraft starts	Показване на началния екран при стартиране на WordCraft
 	Show the tips you asked not to see again.	Отново показва съветите, които сте скрили.
 	Show/Hide ¶	Показване/скриване на ¶
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	Показване/скриване на ¶ (Ctrl+Shift+8) показва интервалите, табулациите и прекъсванията, скрити в текста ви.
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Показване/скриване на ¶ ({key}) показва интервалите, табулациите и прекъсванията, скрити в текста ви.
 	Show\nComments	Показване на\nкоментарите
 	Showing the first {count} items.	Показани са първите {count} елемента.
 	Shows a tree: each item below the item it belongs to.	Показва дърво: всеки елемент е под елемента, към който принадлежи.

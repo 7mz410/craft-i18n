@@ -255,7 +255,7 @@
 	By author	За автором
 	Calendar	Календар
 	Can't be deleted	Не можна видалити
-	Can't find a command? Press Alt+Q and type what you want to do.	Не можете знайти команду? Натисніть Alt+Q і напишіть, що хочете зробити.
+	Can't find a command? Press {key} and type what you want to do.	Не можете знайти команду? Натисніть {key} і напишіть, що хочете зробити.
 	can't split at the first row	не можна розділити таблицю на першому рядку
 	Canvas Member	Об’єкт полотна
 	Capitalize Each Word	Кожне слово з великої літери
@@ -431,10 +431,10 @@
 	Crop	Обітнути
 	Cross-reference	Перехресне посилання
 	Cross-reference:	Перехресне посилання:
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter починає нову сторінку. Значно охайніше, ніж тиснути Enter, доки вона не з’явиться.
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H знаходить і замінює текст, форматування та спеціальні символи.
-	Ctrl+K turns the selected text into a link.	Ctrl+K перетворює виділений текст на посилання.
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G рахує слова, символи й абзаци.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} починає нову сторінку. Значно охайніше, ніж тиснути Enter, доки вона не з’явиться.
+	{key} finds and replaces text, formatting and special characters.	{key} знаходить і замінює текст, форматування та спеціальні символи.
+	{key} turns the selected text into a link.	{key} перетворює виділений текст на посилання.
+	{key} counts your words, characters and paragraphs.	{key} рахує слова, символи й абзаци.
 	Current Position	Поточне положення
 	Current record	Поточний запис
 	Current style: {style}	Поточний стиль: {style}
@@ -665,8 +665,8 @@
 	Exported {path}	Експортовано {path}
 	Extend Selection	Розширити виділення
 	Extend Selection by Units	Розширити виділення за одиницями
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 повторює останню дію. Відформатувати десять заголовків — раптом один клік і дев’ять натискань.
-	F7 checks the spelling and grammar of the whole document.	F7 перевіряє правопис і граматику в усьому документі.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} повторює останню дію. Відформатувати десять заголовків — раптом один клік і дев’ять натискань.
+	{key} checks the spelling and grammar of the whole document.	{key} перевіряє правопис і граматику в усьому документі.
 	Faster: {command} is {key} on the keyboard.	Швидше: {command} — це {key} на клавіатурі.
 	Field code:	Код поля:
 	Field Codes	Коди полів
@@ -1668,7 +1668,7 @@
 	Shape Format	Формат фігури
 	Shape Outline	Контур фігури
 	Shape Styles	Стилі фігур
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter починає новий рядок, не починаючи новий абзац.
+	{key} starts a new line without starting a new paragraph.	{key} починає новий рядок, не починаючи новий абзац.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Етикетки для відправлень
 	Shortcut key:	Сполучення клавіш:
@@ -1713,7 +1713,7 @@
 	Show the Start screen when WordCraft starts	Показувати початковий екран під час запуску WordCraft
 	Show the tips you asked not to see again.	Знову показує поради, які ви приховали.
 	Show/Hide ¶	Показати/приховати ¶
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	Показати/приховати ¶ (Ctrl+Shift+8) показує пробіли, табуляції та розриви, що ховаються у вашому тексті.
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Показати/приховати ¶ ({key}) показує пробіли, табуляції та розриви, що ховаються у вашому тексті.
 	Show\nComments	Показати\nкоментарі
 	Showing the first {count} items.	Показано лише перші елементи: {count}.
 	Shows a tree: each item below the item it belongs to.	Показує дерево: кожен елемент під елементом, до якого він належить.

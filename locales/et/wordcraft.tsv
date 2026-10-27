@@ -245,7 +245,7 @@
 	By author	Autori järgi
 	Calendar	Kalender
 	Can't be deleted	Ei saa kustutada
-	Can't find a command? Press Alt+Q and type what you want to do.	Ei leia käsku? Vajuta Alt+Q ja kirjuta, mida soovid teha.
+	Can't find a command? Press {key} and type what you want to do.	Ei leia käsku? Vajuta {key} ja kirjuta, mida soovid teha.
 	can't split at the first row	tabelit ei saa esimese rea kohalt tükeldada
 	Canvas Member	Lõuendi element
 	Capitalize Each Word	Iga sõna suure algustähega
@@ -415,10 +415,10 @@
 	Croatian	Horvaadi
 	Cross-reference	Ristviide
 	Cross-reference:	Ristviide:
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter alustab uut lehekülge. Palju korralikum kui Enterit vajutada, kuni see juhtub.
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H otsib ja asendab teksti, vormingut ja erimärke.
-	Ctrl+K turns the selected text into a link.	Ctrl+K muudab valitud teksti lingiks.
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G loendab sinu sõnad, märgid ja lõigud.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} alustab uut lehekülge. Palju korralikum kui Enterit vajutada, kuni see juhtub.
+	{key} finds and replaces text, formatting and special characters.	{key} otsib ja asendab teksti, vormingut ja erimärke.
+	{key} turns the selected text into a link.	{key} muudab valitud teksti lingiks.
+	{key} counts your words, characters and paragraphs.	{key} loendab sinu sõnad, märgid ja lõigud.
 	Current Position	Praegune asukoht
 	Current record	Praegune kirje
 	Current style: {style}	Praegune stiil: {style}
@@ -637,8 +637,8 @@
 	Export Page as PNG	Ekspordi leht PNG-na
 	Extend Selection	Laienda valikut
 	Extend Selection by Units	Laienda valikut ühikute kaupa
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 kordab viimast toimingut. Kümne pealkirja vormindamine on äkki üks klõps ja üheksa toksu.
-	F7 checks the spelling and grammar of the whole document.	F7 kontrollib kogu dokumendi õigekirja ja grammatikat.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} kordab viimast toimingut. Kümne pealkirja vormindamine on äkki üks klõps ja üheksa toksu.
+	{key} checks the spelling and grammar of the whole document.	{key} kontrollib kogu dokumendi õigekirja ja grammatikat.
 	Faster: {command} is {key} on the keyboard.	Kiiremini: {command} on klaviatuuril {key}.
 	Field code:	Väljakood:
 	Field Codes	Väljakoodid
@@ -1599,7 +1599,7 @@
 	Shape Format	Kujundi vorming
 	Shape Outline	Kujundi kontuur
 	Shape Styles	Kujundistiilid
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter alustab uut rida ilma uut lõiku alustamata.
+	{key} starts a new line without starting a new paragraph.	{key} alustab uut rida ilma uut lõiku alustamata.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Saatmissildid
 	Shortcut key:	Kiirklahv:
@@ -1643,7 +1643,7 @@
 	Show the Start screen when WordCraft starts	Näita WordCrafti käivitamisel avakuva
 	Show the tips you asked not to see again.	Näitab uuesti nõuandeid, mille peitsid.
 	Show/Hide ¶	Kuva/peida ¶
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	Kuva/peida ¶ (Ctrl+Shift+8) näitab sinu tekstis peituvaid tühikuid, tabulaatoreid ja katkestusi.
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Kuva/peida ¶ ({key}) näitab sinu tekstis peituvaid tühikuid, tabulaatoreid ja katkestusi.
 	Show\nComments	Kuva\nkommentaarid
 	Showing the first {count} items.	Kuvatud on ainult esimesed kirjed: {count}.
 	Shows a tree: each item below the item it belongs to.	Näitab puud: iga üksus on selle üksuse all, kuhu see kuulub.

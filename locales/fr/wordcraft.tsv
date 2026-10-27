@@ -302,7 +302,7 @@
 	By author	Par auteur
 	Calendar	Calendrier
 	Can't be deleted	Suppression impossible
-	Can't find a command? Press Alt+Q and type what you want to do.	Vous ne trouvez pas une commande ? Appuyez sur Alt+Q et tapez ce que vous voulez faire.
+	Can't find a command? Press {key} and type what you want to do.	Vous ne trouvez pas une commande ? Appuyez sur {key} et tapez ce que vous voulez faire.
 	can't split at the first row	impossible de fractionner le tableau à la première ligne
 	Canvas Member	Élément de la zone de dessin
 	Capitalize Each Word	Première lettre des mots en majuscule
@@ -524,10 +524,10 @@
 	Crop	Rogner
 	Cross-reference	Renvoi
 	Cross-reference:	Référence croisée :
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter commence une nouvelle page. Bien plus propre que d’appuyer sur Entrée jusqu’à ce que ça arrive.
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H recherche et remplace du texte, des mises en forme et des caractères spéciaux.
-	Ctrl+K turns the selected text into a link.	Ctrl+K transforme le texte sélectionné en lien.
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G compte vos mots, caractères et paragraphes.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} commence une nouvelle page. Bien plus propre que d’appuyer sur Entrée jusqu’à ce que ça arrive.
+	{key} finds and replaces text, formatting and special characters.	{key} recherche et remplace du texte, des mises en forme et des caractères spéciaux.
+	{key} turns the selected text into a link.	{key} transforme le texte sélectionné en lien.
+	{key} counts your words, characters and paragraphs.	{key} compte vos mots, caractères et paragraphes.
 	Cube Root	Racine cubique
 	Current	Actuelle
 	Current - Linear	Sélection - Linéaire
@@ -795,8 +795,8 @@
 	Extend Selection	Étendre la sélection
 	Extend Selection by Units	Étendre la sélection par unités
 	Extra space	Espace en trop
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 répète votre dernière action. Mettre en forme dix titres ? Soudain, c’est un clic et neuf touches.
-	F7 checks the spelling and grammar of the whole document.	F7 vérifie l’orthographe et la grammaire de tout le document.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} répète votre dernière action. Mettre en forme dix titres ? Soudain, c’est un clic et neuf touches.
+	{key} checks the spelling and grammar of the whole document.	{key} vérifie l’orthographe et la grammaire de tout le document.
 	Faster: {command} is {key} on the keyboard.	Plus rapide : {command}, c’est {key} au clavier.
 	Field code:	Code de champ :
 	Field Codes	Codes de champ
@@ -1923,7 +1923,7 @@ template	Letter	Lettre
 	Shape Format	Format de la forme
 	Shape Outline	Contour de forme
 	Shape Styles	Styles de formes
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter commence une nouvelle ligne sans commencer de nouveau paragraphe.
+	{key} starts a new line without starting a new paragraph.	{key} commence une nouvelle ligne sans commencer de nouveau paragraphe.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Étiquettes d’expédition
 	Shortcut key:	Touche de raccourci :
@@ -1969,7 +1969,7 @@ template	Letter	Lettre
 	Show the Start screen when WordCraft starts	Afficher l'écran d'accueil au démarrage de WordCraft
 	Show the tips you asked not to see again.	Affiche de nouveau les conseils que vous avez masqués.
 	Show/Hide ¶	Afficher/Masquer ¶
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	Afficher/Masquer ¶ (Ctrl+Shift+8) révèle les espaces, tabulations et sauts cachés dans votre texte.
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Afficher/Masquer ¶ ({key}) révèle les espaces, tabulations et sauts cachés dans votre texte.
 	Show\nComments	Afficher\nles commentaires
 	Showing the first {count} items.	Affichage des {count} premiers éléments.
 	Shows a tree: each item below the item it belongs to.	Affiche une arborescence : chaque élément sous celui auquel il appartient.

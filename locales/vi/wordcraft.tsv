@@ -302,7 +302,7 @@
 	By author	Theo tác giả
 	Calendar	Lịch
 	Can't be deleted	Không xóa được
-	Can't find a command? Press Alt+Q and type what you want to do.	Không tìm thấy lệnh? Nhấn Alt+Q rồi gõ điều bạn muốn làm.
+	Can't find a command? Press {key} and type what you want to do.	Không tìm thấy lệnh? Nhấn {key} rồi gõ điều bạn muốn làm.
 	can't split at the first row	không thể tách ở hàng đầu tiên
 	Canvas Member	Thành phần khung vẽ
 	Capitalize Each Word	Chữ hoa đầu mỗi từ
@@ -527,10 +527,10 @@
 	Croatian	Tiếng Croatia
 	Cross-reference	Tham chiếu chéo
 	Cross-reference:	Tham chiếu chéo:
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter bắt đầu một trang mới. Gọn gàng hơn nhiều so với nhấn Enter mãi cho đến khi sang trang.
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H tìm và thay thế văn bản, định dạng và ký tự đặc biệt.
-	Ctrl+K turns the selected text into a link.	Ctrl+K biến văn bản đã chọn thành liên kết.
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G đếm số từ, ký tự và đoạn của bạn.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} bắt đầu một trang mới. Gọn gàng hơn nhiều so với nhấn Enter mãi cho đến khi sang trang.
+	{key} finds and replaces text, formatting and special characters.	{key} tìm và thay thế văn bản, định dạng và ký tự đặc biệt.
+	{key} turns the selected text into a link.	{key} biến văn bản đã chọn thành liên kết.
+	{key} counts your words, characters and paragraphs.	{key} đếm số từ, ký tự và đoạn của bạn.
 	Cube Root	Căn bậc ba
 	Current - Linear	Hiện tại - Dạng tuyến tính
 	Current - Professional	Hiện tại - Dạng trình bày
@@ -799,8 +799,8 @@
 	Extend Selection	Mở rộng vùng chọn
 	Extend Selection by Units	Mở rộng vùng chọn theo đơn vị
 	Extra space	Thừa khoảng trắng
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 lặp lại thao tác cuối cùng. Định dạng mười tiêu đề bỗng chỉ còn một cú nhấp và chín lần gõ phím.
-	F7 checks the spelling and grammar of the whole document.	F7 kiểm tra chính tả và ngữ pháp của toàn bộ tài liệu.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} lặp lại thao tác cuối cùng. Định dạng mười tiêu đề bỗng chỉ còn một cú nhấp và chín lần gõ phím.
+	{key} checks the spelling and grammar of the whole document.	{key} kiểm tra chính tả và ngữ pháp của toàn bộ tài liệu.
 	Faster: {command} is {key} on the keyboard.	Nhanh hơn: {command} là {key} trên bàn phím.
 	Field code:	Mã trường:
 	Field Codes	Mã trường
@@ -1955,7 +1955,7 @@ template	Letter	Thư
 	Shape Outline	Viền hình
 	Shape Styles	Kiểu hình
 	Shapes	Các hình
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter bắt đầu một dòng mới mà không bắt đầu đoạn mới.
+	{key} starts a new line without starting a new paragraph.	{key} bắt đầu một dòng mới mà không bắt đầu đoạn mới.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Nhãn vận chuyển
 	Shortcut key:	Phím tắt:
@@ -2001,7 +2001,7 @@ template	Letter	Thư
 	Show the Start screen when WordCraft starts	Hiện màn hình Bắt đầu khi khởi chạy WordCraft
 	Show the tips you asked not to see again.	Hiện lại các mẹo bạn đã yêu cầu ẩn.
 	Show/Hide ¶	Hiện/Ẩn ¶
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	Hiện/Ẩn ¶ (Ctrl+Shift+8) hiển thị các dấu cách, tab và dấu ngắt đang ẩn trong văn bản của bạn.
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Hiện/Ẩn ¶ ({key}) hiển thị các dấu cách, tab và dấu ngắt đang ẩn trong văn bản của bạn.
 	Show\nComments	Hiện\nnhận xét
 	Showing the first {count} items.	Đang hiển thị {count} mục đầu tiên.
 	Shows a tree: each item below the item it belongs to.	Hiển thị dạng cây: mỗi mục nằm dưới mục mà nó thuộc về.
