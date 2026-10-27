@@ -1331,6 +1331,7 @@ template	Letter	Brev
 	Negated Relations	Negerade relationer
 	New Comment	Ny kommentar
 	New comments and tracked changes are recorded under this name and these initials.	Nya kommentarer och spårade ändringar sparas med det här namnet och de här initialerna.
+	New Documents Based on This Template	Nya dokument som baseras på den här mallen
 	New documents based on this template	Nya dokument som baseras på den här mallen
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Nya dokument använder WordCrafts inbyggda formatering. Dina sparade standardinställningar går inte att hämta tillbaka. Vill du återställa?
 	New Drawing Canvas	Ny rityta
@@ -1868,6 +1869,9 @@ template	Letter	Brev
 	Series name	Serienamn
 	Series {n}	Serie {n}
 	Set As Default	Ange som standard
+	Set As Default (Font)	Ange som standard (Typsnitt)
+	Set As Default (Page Setup)	Ange som standard (Sidinställningar)
+	Set As Default (Paragraph)	Ange som standard (Stycke)
 	Set Caret	Placera markören
 	Set Character Formatting	Ange teckenformatering
 	Set Date	Ange datum
@@ -2188,6 +2192,8 @@ template	Letter	Brev
 	This password type isn't supported.	Den här typen av lösenord stöds inte.
 	This point forward	Härifrån och framåt
 	This section	Det här avsnittet
+	this session has no Normal template (headless or without preferences)	den här sessionen har ingen Normal-mall (utan gränssnitt eller utan inställningar)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	den här sessionen har ingen Normal-mall (utan gränssnitt eller utan inställningar): använd "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	denna SmartArt skapades i ett annat program: WordCraft visar den men kan inte redigera den
 	this text box is already linked: break the link first	denna textruta är redan länkad: bryt länken först
 	Three	Tre

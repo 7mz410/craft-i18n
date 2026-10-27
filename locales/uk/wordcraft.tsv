@@ -1147,6 +1147,7 @@
 	New	Новий
 	New Comment	Новий коментар
 	New comments and tracked changes are recorded under this name and these initials.	Нові коментарі та відстежувані зміни записуються під цим іменем і цими ініціалами.
+	New Documents Based on This Template	У нових документах на основі цього шаблону
 	New documents based on this template	У нових документах на основі цього шаблону
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Нові документи використовуватимуть вбудоване форматування WordCraft. Збережені типові параметри не можна буде відновити. Скинути?
 	New Drawing Canvas	Нове полотно малювання
@@ -1660,6 +1661,9 @@
 	Series {n}	Ряд {n}
 	Set As Default	Зробити типовою
 	Set as Default	Установити як типове
+	Set As Default (Font)	Зробити типовою (Шрифт)
+	Set As Default (Page Setup)	Зробити типовою (Параметри сторінки)
+	Set As Default (Paragraph)	Зробити типовою (Абзац)
 	Set Caret	Установити каретку
 	Set Character Formatting	Установити форматування символів
 	Set Date	Задати дату
@@ -1933,6 +1937,8 @@
 	This password type isn't supported.	Цей тип пароля не підтримується.
 	This point forward	Від цього місця
 	This section	Цей розділ
+	this session has no Normal template (headless or without preferences)	у цьому сеансі немає шаблону «Звичайний» (без інтерфейсу або без налаштувань)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	у цьому сеансі немає шаблону «Звичайний» (без інтерфейсу або без налаштувань): використайте "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	цей SmartArt створено в іншій програмі: WordCraft показує його, але не може редагувати
 	this text box is already linked: break the link first	це текстове поле вже зв’язане: спочатку розірвіть зв’язок
 	Three	Три

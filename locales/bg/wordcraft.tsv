@@ -1336,6 +1336,7 @@
 	Negated Relations	Отрицания на релации
 	New Comment	Нов коментар
 	New comments and tracked changes are recorded under this name and these initials.	Новите коментари и проследени промени се записват с това име и тези инициали.
+	New Documents Based on This Template	Нови документи, базирани на този шаблон
 	New documents based on this template	Нови документи, базирани на този шаблон
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Новите документи ще използват вграденото форматиране на WordCraft. Запазените ви настройки по подразбиране не могат да бъдат възстановени. Нулиране?
 	New Drawing Canvas	Ново платно за рисуване
@@ -1888,6 +1889,9 @@
 	Series name	Име на серията
 	Series {n}	Серия {n}
 	Set As Default	Задаване по подразбиране
+	Set As Default (Font)	Задаване по подразбиране (Шрифт)
+	Set As Default (Page Setup)	Задаване по подразбиране (Настройка на страницата)
+	Set As Default (Paragraph)	Задаване по подразбиране (Абзац)
 	Set Caret	Поставяне на курсора
 	Set Character Formatting	Задаване на форматиране на знаците
 	Set Date	Задаване на дата
@@ -2207,6 +2211,8 @@
 	This password type isn't supported.	Този тип парола не се поддържа.
 	This point forward	От тази точка нататък
 	This section	Този раздел
+	this session has no Normal template (headless or without preferences)	тази сесия няма шаблон „Нормален“ (без интерфейс или без предпочитания)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	тази сесия няма шаблон „Нормален“ (без интерфейс или без предпочитания): използвайте "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	този SmartArt е създаден в друга програма: WordCraft го показва, но не може да го редактира
 	this text box is already linked: break the link first	това текстово поле вече е свързано: първо прекъснете връзката
 	Three	Три

@@ -1157,6 +1157,7 @@
 	New comments and tracked changes are recorded under this name and these initials.	新しいコメントと変更履歴は、この名前とイニシャルで記録されます。
 	New Document	新規文書
 	New document	新規文書
+	New Documents Based on This Template	このテンプレートを基にした新しい文書
 	New documents based on this template	このテンプレートを基にした新しい文書
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	新しい文書では WordCraft の組み込みの書式が使われます。保存した既定の設定は元に戻せません。リセットしますか?
 	New Drawing Canvas	新しい描画キャンバス
@@ -1679,6 +1680,9 @@
 	Series {n}	系列 {n}
 	Set As Default	既定に設定
 	Set as Default	既定に設定
+	Set As Default (Font)	既定に設定 (フォント)
+	Set As Default (Page Setup)	既定に設定 (ページ設定)
+	Set As Default (Paragraph)	既定に設定 (段落)
 	Set Caret	カーソル位置の設定
 	Set Character Formatting	文字書式の設定
 	Set Date	日付を設定
@@ -1958,6 +1962,8 @@
 	This password type isn't supported.	この種類のパスワードはサポートされていません。
 	This point forward	これ以降
 	This section	このセクション
+	this session has no Normal template (headless or without preferences)	このセッションには通常テンプレートがありません (ヘッドレスまたは設定なし)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	このセッションには通常テンプレートがありません (ヘッドレスまたは設定なし): 次を使用してください "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	この SmartArt は別のプログラムで作成されました: WordCraft で表示できますが編集はできません
 	this text box is already linked: break the link first	このテキスト ボックスは既にリンクされています: 先にリンクを解除してください
 	Three	3 段

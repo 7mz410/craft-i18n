@@ -1342,6 +1342,7 @@
 	New comments and tracked changes are recorded under this name and these initials.	Nye kommentarer og sporede ændringer registreres under dette navn og disse initialer.
 	New Document	Nyt dokument
 	New document	Nyt dokument
+	New Documents Based on This Template	Nye dokumenter baseret på denne skabelon
 	New documents based on this template	Nye dokumenter baseret på denne skabelon
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Nye dokumenter bruger WordCrafts indbyggede formatering. Dine gemte standarder kan ikke gendannes. Vil du nulstille?
 	New Drawing Canvas	Nyt lærred
@@ -1894,6 +1895,9 @@
 	Series {n}	Serie {n}
 	Set	Angiv
 	Set As Default	Angiv som standard
+	Set As Default (Font)	Angiv som standard (Skrifttype)
+	Set As Default (Page Setup)	Angiv som standard (Sideopsætning)
+	Set As Default (Paragraph)	Angiv som standard (Afsnit)
 	Set Caret	Sæt indsættelsespunkt
 	Set Character Formatting	Angiv tegnformatering
 	Set Date	Angiv dato
@@ -2222,6 +2226,8 @@
 	This password type isn't supported.	Denne type adgangskode understøttes ikke.
 	This point forward	Fra dette punkt
 	This section	Denne sektion
+	this session has no Normal template (headless or without preferences)	denne session har ingen Normal-skabelon (uden brugerflade eller uden indstillinger)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	denne session har ingen Normal-skabelon (uden brugerflade eller uden indstillinger): brug "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	denne SmartArt er lavet i et andet program: WordCraft viser den, men kan ikke redigere den
 	this text box is already linked: break the link first	dette tekstfelt er allerede sammenkædet: fjern først sammenkædningen
 	Three	Tre

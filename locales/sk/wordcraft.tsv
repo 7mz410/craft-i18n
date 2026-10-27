@@ -1581,6 +1581,7 @@ template	Letter	List
 	New comments and tracked changes are recorded under this name and these initials.	Nové komentáre a sledované zmeny sa budú zaznamenávať pod týmto menom a týmito iniciálami.
 	New Document	Nový dokument
 	New document	Nový dokument
+	New Documents Based on This Template	Nové dokumenty založené na tejto šablóne
 	New documents based on this template	Nové dokumenty založené na tejto šablóne
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Nové dokumenty budú používať vstavané formátovanie WordCraftu. Uložené predvolené nastavenia sa už nebudú dať vrátiť. Obnoviť?
 	New Drawing Canvas	Nové kresliace plátno
@@ -2232,6 +2233,9 @@ template	Letter	List
 	Set	Nastaviť
 	Set As Default	Nastaviť ako predvolené
 	Set as Default	Nastaviť ako predvolené
+	Set As Default (Font)	Nastaviť ako predvolené (Písmo)
+	Set As Default (Page Setup)	Nastaviť ako predvolené (Nastavenie strany)
+	Set As Default (Paragraph)	Nastaviť ako predvolené (Odsek)
 	Set Caret	Nastaviť kurzor
 	Set Character Formatting	Nastaviť formátovanie znakov
 	Set Date	Nastaviť dátum
@@ -2604,6 +2608,8 @@ numerals	System	Podľa systému
 	This password type isn't supported.	Tento typ hesla nie je podporovaný.
 	This point forward	Od tohto miesta ďalej
 	This section	Tento oddiel
+	this session has no Normal template (headless or without preferences)	táto relácia nemá šablónu Normálne (bez rozhrania alebo bez predvolieb)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	táto relácia nemá šablónu Normálne (bez rozhrania alebo bez predvolieb): použite "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	tento objekt SmartArt bol vytvorený v inom programe: WordCraft ho zobrazí, ale nemôže ho upraviť
 	this text box is already linked: break the link first	toto textové pole je už prepojené: najprv zrušte prepojenie
 	Three	Tri

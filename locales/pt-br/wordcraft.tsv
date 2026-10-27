@@ -1113,6 +1113,7 @@
 	Navigation Pane	Painel de navegação
 	New Comment	Novo comentário
 	New comments and tracked changes are recorded under this name and these initials.	Novos comentários e alterações controladas são registrados com este nome e estas iniciais.
+	New Documents Based on This Template	Novos documentos baseados neste modelo
 	New documents based on this template	Novos documentos baseados neste modelo
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Os novos documentos usarão a formatação integrada do WordCraft. Seus padrões salvos não poderão ser recuperados. Redefinir?
 	New Drawing Canvas	Nova tela de desenho
@@ -1619,6 +1620,9 @@
 	Series {n}	Série {n}
 	Set As Default	Definir como padrão
 	Set as Default	Definir como padrão
+	Set As Default (Font)	Definir como padrão (Fonte)
+	Set As Default (Page Setup)	Definir como padrão (Configuração da página)
+	Set As Default (Paragraph)	Definir como padrão (Parágrafo)
 	Set Caret	Definir ponto de inserção
 	Set Character Formatting	Definir formatação de caracteres
 	Set Date	Definir data
@@ -1889,6 +1893,8 @@
 	This password type isn't supported.	Este tipo de senha não é compatível.
 	This point forward	Deste ponto em diante
 	This section	Esta seção
+	this session has no Normal template (headless or without preferences)	esta sessão não tem modelo Normal (sem interface ou sem preferências)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	esta sessão não tem modelo Normal (sem interface ou sem preferências): use "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	este SmartArt foi criado em outro programa: o WordCraft o exibe, mas não pode editá-lo
 	this text box is already linked: break the link first	esta caixa de texto já está vinculada: desfaça o vínculo primeiro
 	Three	Três

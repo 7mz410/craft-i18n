@@ -1315,6 +1315,7 @@
 	Negated Relations	Olumsuzlanmış Bağıntılar
 	New Comment	Yeni Yorum
 	New comments and tracked changes are recorded under this name and these initials.	Yeni açıklamalar ve izlenen değişiklikler bu ad ve baş harflerle kaydedilir.
+	New Documents Based on This Template	Bu şablonu temel alan yeni belgeler
 	New documents based on this template	Bu şablonu temel alan yeni belgeler
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Yeni belgeler WordCraft'ın yerleşik biçimlendirmesini kullanacak. Kaydedilmiş varsayılanlarınız kurtarılamaz. Sıfırlansın mı?
 	New Drawing Canvas	Yeni Çizim Tuvali
@@ -1863,6 +1864,9 @@
 	Series name	Seri adı
 	Series {n}	Seri {n}
 	Set As Default	Varsayılan Olarak Ayarla
+	Set As Default (Font)	Varsayılan Olarak Ayarla (Yazı Tipi)
+	Set As Default (Page Setup)	Varsayılan Olarak Ayarla (Sayfa Ayarları)
+	Set As Default (Paragraph)	Varsayılan Olarak Ayarla (Paragraf)
 	Set Caret	İmleci Konumlandır
 	Set Character Formatting	Karakter Biçimlendirmesini Ayarla
 	Set Date	Tarihi Ayarla
@@ -2180,6 +2184,8 @@
 	This password type isn't supported.	Bu parola türü desteklenmiyor.
 	This point forward	Bu noktadan itibaren
 	This section	Bu bölüm
+	this session has no Normal template (headless or without preferences)	bu oturumda Normal şablonu yok (arayüzsüz veya tercihsiz)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	bu oturumda Normal şablonu yok (arayüzsüz veya tercihsiz): şunu kullanın "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	bu SmartArt başka bir programda oluşturuldu: WordCraft onu gösterir ancak düzenleyemez
 	this text box is already linked: break the link first	bu metin kutusu zaten bağlı: önce bağlantıyı kesin
 	Three	Üç

@@ -1325,6 +1325,7 @@
 	Negated Relations	Отрицания отношений
 	New Comment	Новый комментарий
 	New comments and tracked changes are recorded under this name and these initials.	Новые примечания и исправления записываются под этим именем и инициалами.
+	New Documents Based on This Template	В новых документах на основе этого шаблона
 	New documents based on this template	В новых документах на основе этого шаблона
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Новые документы будут использовать встроенное форматирование WordCraft. Сохранённые параметры по умолчанию нельзя будет восстановить. Сбросить?
 	New Drawing Canvas	Новое полотно для рисования
@@ -1871,6 +1872,9 @@
 	Series {n}	Ряд {n}
 	Set As Default	Использовать по умолчанию
 	Set as Default	Использовать по умолчанию
+	Set As Default (Font)	Использовать по умолчанию (Шрифт)
+	Set As Default (Page Setup)	Использовать по умолчанию (Параметры страницы)
+	Set As Default (Paragraph)	Использовать по умолчанию (Абзац)
 	Set Caret	Установить курсор
 	Set Character Formatting	Задать формат знаков
 	Set Date	Задать дату
@@ -2194,6 +2198,8 @@
 	This password type isn't supported.	Этот тип пароля не поддерживается.
 	This point forward	До конца документа
 	This section	К этому разделу
+	this session has no Normal template (headless or without preferences)	в этом сеансе нет шаблона «Обычный» (без интерфейса или без настроек)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	в этом сеансе нет шаблона «Обычный» (без интерфейса или без настроек): используйте "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	этот SmartArt создан в другой программе: WordCraft показывает его, но не может изменить
 	this text box is already linked: break the link first	это текстовое поле уже связано: сначала разорвите связь
 	Three	Три

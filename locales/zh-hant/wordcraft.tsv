@@ -1129,6 +1129,7 @@
 	New Comment	新增註解
 	New comments and tracked changes are recorded under this name and these initials.	新的註解和追蹤修訂會以此名稱和縮寫記錄。
 	New Document	新文件
+	New Documents Based on This Template	以此範本為基礎的新文件
 	New documents based on this template	以此範本為基礎的新文件
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	新文件將使用 WordCraft 的內建格式設定。已儲存的預設值將無法復原。要重設嗎？
 	New Drawing Canvas	新增繪圖畫布
@@ -1644,6 +1645,9 @@
 	Series {n}	數列 {n}
 	Set As Default	設為預設值
 	Set as Default	設定為預設值
+	Set As Default (Font)	設為預設值（字型）
+	Set As Default (Page Setup)	設為預設值（版面設定）
+	Set As Default (Paragraph)	設為預設值（段落）
 	Set Caret	設定游標
 	Set Character Formatting	設定字元格式
 	Set Date	設定日期
@@ -1919,6 +1923,8 @@
 	This password type isn't supported.	不支援此密碼類型。
 	This point forward	從這裡開始
 	This section	本節
+	this session has no Normal template (headless or without preferences)	此工作階段沒有「正常」範本（無介面或無喜好設定）
+	this session has no Normal template (headless or without preferences): use "scope": "document"	此工作階段沒有「正常」範本（無介面或無喜好設定）：請使用 "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	此 SmartArt 由其他程式建立: WordCraft 可以顯示但無法編輯
 	this text box is already linked: break the link first	此文字方塊已連結: 請先中斷連結
 	Three	三欄

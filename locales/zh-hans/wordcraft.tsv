@@ -1133,6 +1133,7 @@
 	Navigation Pane	导航窗格
 	New Comment	新建批注
 	New comments and tracked changes are recorded under this name and these initials.	新批注和修订将以此名称和缩写记录。
+	New Documents Based on This Template	基于此模板的新文档
 	New documents based on this template	基于此模板的新文档
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	新文档将使用 WordCraft 的内置格式。已保存的默认设置无法恢复。是否重置？
 	New Drawing Canvas	新建绘图画布
@@ -1647,6 +1648,9 @@
 	Series {n}	系列 {n}
 	Set As Default	设为默认值
 	Set as Default	设为默认值
+	Set As Default (Font)	设为默认值（字体）
+	Set As Default (Page Setup)	设为默认值（页面设置）
+	Set As Default (Paragraph)	设为默认值（段落）
 	Set Caret	设置光标
 	Set Character Formatting	设置字符格式
 	Set Date	设置日期
@@ -1922,6 +1926,8 @@
 	This password type isn't supported.	不支持此密码类型。
 	This point forward	插入点之后
 	This section	本节
+	this session has no Normal template (headless or without preferences)	此会话没有“正常”模板（无界面或无首选项）
+	this session has no Normal template (headless or without preferences): use "scope": "document"	此会话没有“正常”模板（无界面或无首选项）：请使用 "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	此 SmartArt 由其他程序创建: WordCraft 可以显示但无法编辑
 	this text box is already linked: break the link first	此文本框已链接: 请先断开链接
 	Three	三栏

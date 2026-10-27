@@ -1550,6 +1550,7 @@ template	Letter	Scrisoare
 	New comments and tracked changes are recorded under this name and these initials.	Comentariile noi și modificările urmărite sunt înregistrate sub acest nume și aceste inițiale.
 	New Document	Document nou
 	New document	Document nou
+	New Documents Based on This Template	Documente noi bazate pe acest șablon
 	New documents based on this template	Documente noi bazate pe acest șablon
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Documentele noi vor folosi formatarea încorporată a WordCraft. Setările implicite salvate nu vor mai putea fi recuperate. Resetați?
 	New Drawing Canvas	Canvas de desen nou
@@ -2184,6 +2185,9 @@ template	Letter	Scrisoare
 	Set	Setare
 	Set As Default	Setare ca implicit
 	Set as Default	Setare ca implicit
+	Set As Default (Font)	Setare ca implicit (Font)
+	Set As Default (Page Setup)	Setare ca implicit (Configurare pagină)
+	Set As Default (Paragraph)	Setare ca implicit (Paragraf)
 	Set Caret	Setare cursor
 	Set Character Formatting	Setare formatare caractere
 	Set Date	Setare dată
@@ -2547,6 +2551,8 @@ template	Letter	Scrisoare
 	This password type isn't supported.	Acest tip de parolă nu este acceptat.
 	This point forward	De aici înainte
 	This section	Această secțiune
+	this session has no Normal template (headless or without preferences)	această sesiune nu are șablonul „Normală” (fără interfață sau fără preferințe)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	această sesiune nu are șablonul „Normală” (fără interfață sau fără preferințe): folosiți "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	acest SmartArt a fost creat în alt program: WordCraft îl afișează, dar nu îl poate edita
 	this text box is already linked: break the link first	această casetă de text este deja legată: întrerupeți mai întâi legătura
 	Three	Trei

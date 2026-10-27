@@ -1297,6 +1297,7 @@
 	Negated Relations	부정 관계
 	New Comment	새 댓글
 	New comments and tracked changes are recorded under this name and these initials.	새 댓글과 변경 내용 추적은 이 이름과 이니셜로 기록됩니다.
+	New Documents Based on This Template	이 서식 파일을 기반으로 하는 새 문서
 	New documents based on this template	이 서식 파일을 기반으로 하는 새 문서
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	새 문서에는 WordCraft의 기본 제공 서식이 사용됩니다. 저장한 기본값은 복구할 수 없습니다. 재설정하시겠습니까?
 	New Drawing Canvas	새 그리기 캔버스
@@ -1827,6 +1828,9 @@
 	Series name	계열 이름
 	Series {n}	계열 {n}
 	Set As Default	기본값으로 설정
+	Set As Default (Font)	기본값으로 설정 (글꼴)
+	Set As Default (Page Setup)	기본값으로 설정 (페이지 설정)
+	Set As Default (Paragraph)	기본값으로 설정 (단락)
 	Set Caret	커서 설정
 	Set Character Formatting	문자 서식 설정
 	Set Date	날짜 설정
@@ -2129,6 +2133,8 @@
 	This password type isn't supported.	이 암호 유형은 지원되지 않습니다.
 	This point forward	현재 위치부터
 	This section	이 구역
+	this session has no Normal template (headless or without preferences)	이 세션에는 기본 서식 파일이 없습니다(헤드리스 또는 기본 설정 없음)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	이 세션에는 기본 서식 파일이 없습니다(헤드리스 또는 기본 설정 없음): 다음을 사용하세요 "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	이 SmartArt는 다른 프로그램에서 만들어졌습니다: WordCraft에서 표시할 수는 있지만 편집할 수는 없습니다
 	this text box is already linked: break the link first	이 텍스트 상자는 이미 연결되어 있습니다: 먼저 연결을 끊으세요
 	Three	세 개

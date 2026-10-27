@@ -1388,6 +1388,7 @@ template	Letter	Thư
 	New Comment	Nhận xét mới
 	New comments and tracked changes are recorded under this name and these initials.	Nhận xét mới và các thay đổi được theo dõi được ghi dưới tên và chữ viết tắt này.
 	New Document	Tạo tài liệu mới
+	New Documents Based on This Template	Tài liệu mới dựa trên mẫu này
 	New documents based on this template	Tài liệu mới dựa trên mẫu này
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Tài liệu mới sẽ dùng định dạng tích hợp sẵn của WordCraft. Không thể khôi phục các mặc định bạn đã lưu. Đặt lại?
 	New Drawing Canvas	Khung vẽ mới
@@ -1945,6 +1946,9 @@ template	Letter	Thư
 	Series name	Tên chuỗi
 	Series {n}	Chuỗi {n}
 	Set As Default	Đặt làm mặc định
+	Set As Default (Font)	Đặt làm mặc định (Phông chữ)
+	Set As Default (Page Setup)	Đặt làm mặc định (Thiết lập trang)
+	Set As Default (Paragraph)	Đặt làm mặc định (Đoạn)
 	Set Caret	Đặt con trỏ
 	Set Character Formatting	Đặt định dạng ký tự
 	Set Date	Đặt ngày
@@ -2277,6 +2281,8 @@ template	Letter	Thư
 	This password type isn't supported.	Loại mật khẩu này không được hỗ trợ.
 	This point forward	Từ đây trở đi
 	This section	Phần này
+	this session has no Normal template (headless or without preferences)	phiên này không có mẫu Thường (không giao diện hoặc không có tùy chọn)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	phiên này không có mẫu Thường (không giao diện hoặc không có tùy chọn): hãy dùng "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	SmartArt này được tạo trong chương trình khác: WordCraft hiển thị được nhưng không sửa được
 	this text box is already linked: break the link first	hộp văn bản này đã được liên kết: hãy ngắt liên kết trước
 	Three	Ba

@@ -1452,6 +1452,7 @@
 	New comments and tracked changes are recorded under this name and these initials.	Novi komentarji in sledene spremembe se beležijo pod tem imenom in temi začetnicami.
 	New Document	Nov dokument
 	New document	Nov dokument
+	New Documents Based on This Template	Novi dokumenti, ki temeljijo na tej predlogi
 	New documents based on this template	Novi dokumenti, ki temeljijo na tej predlogi
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Novi dokumenti bodo uporabljali vgrajeno oblikovanje programa WordCraft. Shranjenih privzetih nastavitev ne bo mogoče obnoviti. Želite ponastaviti?
 	New Drawing Canvas	Novo risalno platno
@@ -2048,6 +2049,9 @@
 	Set	Nastavi
 	Set As Default	Nastavi kot privzeto
 	Set as Default	Nastavi kot privzeto
+	Set As Default (Font)	Nastavi kot privzeto (Pisava)
+	Set As Default (Page Setup)	Nastavi kot privzeto (Nastavitev strani)
+	Set As Default (Paragraph)	Nastavi kot privzeto (Odstavek)
 	Set Caret	Nastavi kazalec
 	Set Character Formatting	Nastavi oblikovanje znakov
 	Set Date	Nastavi datum
@@ -2395,6 +2399,8 @@
 	This password type isn't supported.	Ta vrsta gesla ni podprta.
 	This point forward	Od tu naprej
 	This section	Ta odsek
+	this session has no Normal template (headless or without preferences)	ta seja nima predloge Navadno (brez vmesnika ali brez nastavitev)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	ta seja nima predloge Navadno (brez vmesnika ali brez nastavitev): uporabite "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	ta SmartArt je bil ustvarjen v drugem programu: WordCraft ga prikaže, vendar ga ne more urejati
 	this text box is already linked: break the link first	to besedilno polje je že povezano: najprej prekinite povezavo
 	Three	Tri

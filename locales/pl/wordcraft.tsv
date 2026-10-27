@@ -1354,6 +1354,7 @@
 	Negated Relations	Relacje zanegowane
 	New Comment	Nowy komentarz
 	New comments and tracked changes are recorded under this name and these initials.	Nowe komentarze i śledzone zmiany są zapisywane pod tą nazwą i tymi inicjałami.
+	New Documents Based on This Template	Nowe dokumenty oparte na tym szablonie
 	New documents based on this template	Nowe dokumenty oparte na tym szablonie
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Nowe dokumenty będą używać wbudowanego formatowania WordCraft. Zapisanych ustawień domyślnych nie da się odzyskać. Zresetować?
 	New Drawing Canvas	Nowa kanwa rysunku
@@ -1903,6 +1904,9 @@
 	Series name	Nazwa serii
 	Series {n}	Seria {n}
 	Set As Default	Ustaw jako domyślny
+	Set As Default (Font)	Ustaw jako domyślny (Czcionka)
+	Set As Default (Page Setup)	Ustaw jako domyślny (Ustawienia strony)
+	Set As Default (Paragraph)	Ustaw jako domyślny (Akapit)
 	Set Caret	Ustaw kursor
 	Set Character Formatting	Ustaw formatowanie znaków
 	Set Date	Ustaw datę
@@ -2225,6 +2229,8 @@
 	This password type isn't supported.	Ten typ hasła nie jest obsługiwany.
 	This point forward	Od tego miejsca
 	This section	Ta sekcja
+	this session has no Normal template (headless or without preferences)	ta sesja nie ma szablonu Normalny (bez interfejsu lub bez preferencji)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	ta sesja nie ma szablonu Normalny (bez interfejsu lub bez preferencji): użyj "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	ta grafika SmartArt została utworzona w innym programie: WordCraft ją wyświetla, ale nie może jej edytować
 	this text box is already linked: break the link first	to pole tekstowe jest już połączone: najpierw przerwij połączenie
 	Three	Trzy

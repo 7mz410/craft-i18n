@@ -1326,6 +1326,7 @@
 	Negated Relations	Negované relace
 	New Comment	Nový komentář
 	New comments and tracked changes are recorded under this name and these initials.	Nové komentáře a sledované změny se zaznamenávají pod tímto jménem a iniciálami.
+	New Documents Based on This Template	Nové dokumenty založené na této šabloně
 	New documents based on this template	Nové dokumenty založené na této šabloně
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Nové dokumenty budou používat vestavěné formátování WordCraftu. Uložená výchozí nastavení už nepůjde vrátit zpět. Obnovit?
 	New Drawing Canvas	Nové kreslicí plátno
@@ -1872,6 +1873,9 @@
 	Series name	Název řady
 	Series {n}	Řada {n}
 	Set As Default	Nastavit jako výchozí
+	Set As Default (Font)	Nastavit jako výchozí (Písmo)
+	Set As Default (Page Setup)	Nastavit jako výchozí (Vzhled stránky)
+	Set As Default (Paragraph)	Nastavit jako výchozí (Odstavec)
 	Set Caret	Umístit kurzor
 	Set Character Formatting	Nastavit formátování znaků
 	Set Date	Nastavit datum
@@ -2192,6 +2196,8 @@
 	This password type isn't supported.	Tento typ hesla není podporován.
 	This point forward	Od tohoto místa dále
 	This section	Tento oddíl
+	this session has no Normal template (headless or without preferences)	tato relace nemá šablonu Normální (bez rozhraní nebo bez předvoleb)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	tato relace nemá šablonu Normální (bez rozhraní nebo bez předvoleb): použijte "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	tento SmartArt byl vytvořen v jiném programu: WordCraft ho zobrazí, ale nemůže ho upravit
 	this text box is already linked: break the link first	toto textové pole už je propojené: nejprve zrušte propojení
 	Three	Tři

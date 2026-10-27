@@ -1084,6 +1084,7 @@
 	Navigation Pane	Окно за навигацију
 	New Comment	Нови коментар
 	New comments and tracked changes are recorded under this name and these initials.	Нови коментари и праћене измене бележе се под овим именом и иницијалима.
+	New Documents Based on This Template	Нови документи засновани на овом шаблону
 	New documents based on this template	Нови документи засновани на овом шаблону
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Нови документи ће користити уграђено обликовање програма WordCraft. Сачувана подразумевана подешавања не могу да се поврате. Вратити?
 	New Drawing Canvas	Ново платно за цртање
@@ -1579,6 +1580,9 @@
 	Series name	Назив серије
 	Series {n}	Серија {n}
 	Set As Default	Постави као подразумевано
+	Set As Default (Font)	Постави као подразумевано (Фонт)
+	Set As Default (Page Setup)	Постави као подразумевано (Подешавање стране)
+	Set As Default (Paragraph)	Постави као подразумевано (Пасус)
 	Set Caret	Постави курсор
 	Set Character Formatting	Постави форматирање знакова
 	Set Date	Постави датум
@@ -1845,6 +1849,8 @@
 	This password type isn't supported.	Ова врста лозинке није подржана.
 	This point forward	Од овог места надаље
 	This section	Овај одељак
+	this session has no Normal template (headless or without preferences)	ова сесија нема шаблон „Нормално“ (без интерфејса или без подешавања)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	ова сесија нема шаблон „Нормално“ (без интерфејса или без подешавања): користите "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	овај SmartArt је направљен у другом програму: WordCraft га приказује, али не може да га уређује
 	this text box is already linked: break the link first	овај оквир за текст је већ повезан: прво прекините везу
 	Three	Три

@@ -1363,6 +1363,7 @@ template	Letter	Lettre
 	Negated Relations	Relations niées
 	New Comment	Nouveau commentaire
 	New comments and tracked changes are recorded under this name and these initials.	Les nouveaux commentaires et les modifications suivies sont enregistrés sous ce nom et ces initiales.
+	New Documents Based on This Template	Nouveaux documents basés sur ce modèle
 	New documents based on this template	Nouveaux documents basés sur ce modèle
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Les nouveaux documents utiliseront la mise en forme intégrée de WordCraft. Vos paramètres par défaut enregistrés ne pourront pas être récupérés. Réinitialiser ?
 	New Drawing Canvas	Nouvelle zone de dessin
@@ -1915,6 +1916,9 @@ template	Letter	Lettre
 	Series name	Nom de la série
 	Series {n}	Série {n}
 	Set As Default	Définir par défaut
+	Set As Default (Font)	Définir par défaut (Police)
+	Set As Default (Page Setup)	Définir par défaut (Mise en page)
+	Set As Default (Paragraph)	Définir par défaut (Paragraphe)
 	Set Caret	Placer le point d’insertion
 	Set Character Formatting	Définir la mise en forme des caractères
 	Set Date	Définir la date
@@ -2240,6 +2244,8 @@ template	Letter	Lettre
 	This password type isn't supported.	Ce type de mot de passe n’est pas pris en charge.
 	This point forward	À partir de ce point
 	This section	Cette section
+	this session has no Normal template (headless or without preferences)	cette session n’a pas de modèle Normal (sans interface ou sans préférences)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	cette session n’a pas de modèle Normal (sans interface ou sans préférences) : utilisez "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	ce SmartArt a été créé dans un autre programme : WordCraft l’affiche mais ne peut pas le modifier
 	this text box is already linked: break the link first	cette zone de texte est déjà liée : rompez d’abord le lien
 	Three	Trois

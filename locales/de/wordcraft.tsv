@@ -1126,6 +1126,7 @@
 	Navigation Pane	Navigationsbereich
 	New Comment	Neuer Kommentar
 	New comments and tracked changes are recorded under this name and these initials.	Neue Kommentare und nachverfolgte Änderungen werden unter diesem Namen und diesen Initialen erfasst.
+	New Documents Based on This Template	Neue Dokumente, die auf dieser Vorlage basieren
 	New documents based on this template	Neue Dokumente, die auf dieser Vorlage basieren
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Neue Dokumente verwenden die integrierte Formatierung von WordCraft. Ihre gespeicherten Standardeinstellungen lassen sich nicht wiederherstellen. Zurücksetzen?
 	New Drawing Canvas	Neue Zeichenfläche
@@ -1636,6 +1637,9 @@
 	Series name	Name der Datenreihe
 	Series {n}	Datenreihe {n}
 	Set As Default	Als Standard festlegen
+	Set As Default (Font)	Als Standard festlegen (Schriftart)
+	Set As Default (Page Setup)	Als Standard festlegen (Seite einrichten)
+	Set As Default (Paragraph)	Als Standard festlegen (Absatz)
 	Set Caret	Einfügemarke setzen
 	Set Character Formatting	Zeichenformatierung festlegen
 	Set Date	Datum festlegen
@@ -1913,6 +1917,8 @@
 	This password type isn't supported.	Dieser Kennworttyp wird nicht unterstützt.
 	This point forward	Ab dieser Stelle
 	This section	Dieser Abschnitt
+	this session has no Normal template (headless or without preferences)	diese Sitzung hat keine Vorlage „Normal“ (ohne Oberfläche oder ohne Einstellungen)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	diese Sitzung hat keine Vorlage „Normal“ (ohne Oberfläche oder ohne Einstellungen): verwenden Sie "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	diese SmartArt-Grafik wurde in einem anderen Programm erstellt: WordCraft zeigt sie an, kann sie aber nicht bearbeiten
 	this text box is already linked: break the link first	dieses Textfeld ist bereits verknüpft: heben Sie zuerst die Verknüpfung auf
 	Three	Drei
